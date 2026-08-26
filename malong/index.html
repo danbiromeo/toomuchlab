@@ -237,6 +237,12 @@ h3{font-size:15px;margin-bottom:4px}
 .regbar button.on{background:var(--ink);color:#fff;border-color:var(--ink);
   box-shadow:0 2px 8px rgba(20,22,28,.18)}
 .regbar button.on em{opacity:.75}.regbar button.on i{border-left-color:#fff;opacity:.6}
+.rkmore{display:contents}
+/* ★ display:contents 가 브라우저 기본 [hidden]{display:none} 을 덮어써서 접기가 안 먹었다 */
+.rkmore[hidden]{display:none}
+.rkfold{width:100%;margin-top:8px;font:inherit;font-size:12px;font-weight:600;color:var(--mut);
+ background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:8px;cursor:pointer}
+.rkfold:hover{border-color:var(--ink);color:var(--ink)}
 .rkr{font-size:11px;color:var(--mut);text-align:right;font-variant-numeric:tabular-nums;align-self:center}
 .rk.me .rkr{color:var(--ink);font-weight:700}
 .rkhead{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;padding:0 6px 5px;
@@ -580,32 +586,33 @@ a.noti{color:var(--ink3)}
 
   <section class="card sec" id="s-malong-2">
     <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 — 경쟁사와 견주면</h2>
-      <p>26개 업체를 같은 자로 재서 견줬습니다. 업체 이름을 누르면 그 업체가 어느 글에서 인용되는지 열립니다.</p></header>
+      <p>26개 업체를 같은 자로 재서 견줬습니다. 업체 이름을 누르면 그 업체가 어느 글에서 인용되는지 열립니다.</p>
+      </header>
     <div class="card-b mid">
       <div class="figs">
-        <div class="fig main"><span class="lab">답변 추천율 <i>RECOMMENDED</i></span>
-          <span class="v">54.2<em>%</em></span>
-          <span class="rt">26개 업체 중 <b>1위</b></span>
+        <div class="fig main" data-fig="a"><span class="lab">답변 추천율 <i>RECOMMENDED</i></span>
+          <span class="v" data-v>54.2<em>%</em></span>
+          <span class="rt">26개 업체 중 <b data-rank>1위</b></span>
           <p class="say">AI 답변에 우리 이름이 나온 회차 비율입니다. <b>손님에게 실제로 보이는 것</b>이 이겁니다.<br>
             <b>열 번 물으면 5.4번</b> 답변에 나옵니다.</p></div>
-        <div class="fig"><span class="lab">인용률 <i>CITED</i></span>
-          <span class="v">48.9<em>%</em></span>
-          <span class="rt">26개 업체 중 <b>1위</b></span>
+        <div class="fig" data-fig="c"><span class="lab">인용률 <i>CITED</i></span>
+          <span class="v" data-v>48.9<em>%</em></span>
+          <span class="rt">26개 업체 중 <b data-rank>1위</b></span>
           <p class="say">AI가 근거로 쓴 글 안에 <b>우리를 다룬 글</b>이 있었던 비율입니다.
             추천의 근거가 우리 쪽에 있었는지를 말해줍니다.</p></div>
-        <div class="fig"><span class="lab">노출률 <i>RETRIEVED</i></span>
-          <span class="v">53.4<em>%</em></span>
-          <span class="rt">26개 업체 중 <b>1위</b></span>
+        <div class="fig" data-fig="e"><span class="lab">노출률 <i>RETRIEVED</i></span>
+          <span class="v" data-v>53.4<em>%</em></span>
+          <span class="rt">26개 업체 중 <b data-rank>1위</b></span>
           <p class="say">AI가 검색해서 훑어본 결과 안에 우리를 다룬 글이 있었던 회차 비율입니다.
             여기 들어가야 인용될 기회가 생깁니다.</p></div>
-        <div class="fig conv"><span class="lab">추천 전환율 <i>RECOMMENDED ÷ RETRIEVED</i></span>
-          <span class="v">91<em>%</em></span>
+        <div class="fig conv" data-fig="v"><span class="lab">추천 전환율 <i>RECOMMENDED ÷ RETRIEVED</i></span>
+          <span class="v" data-v>91<em>%</em></span>
           <p class="say">우리를 다룬 글이 <b>검색결과에 뜬 회차</b>만 놓고 봤을 때,
             그중 <b>답변에 우리가 나온</b> 비율입니다. 안 뜬 회차는 빼고 셉니다.</p>
           <table class="cmp"><tbody>
-            <tr class="me"><td>우리</td><td>91%</td></tr>
-            <tr><td>아이메탈아트 <span>(추천 2위)</span></td><td>79%</td></tr>
-            <tr><td>이 판 26개 업체 평균</td><td>48%</td></tr>
+            <tr class="me"><td>우리</td><td data-cmp="me">91%</td></tr>
+            <tr><td data-cmp-top>아이메탈아트 <span>(추천 2위)</span></td><td data-cmp="top">79%</td></tr>
+            <tr><td>이 판 26개 업체 평균</td><td data-cmp="avg">48%</td></tr>
           </tbody></table></div>
       </div>
       <aside class="rks"><h3>브랜드 랭킹</h3>
@@ -618,12 +625,11 @@ a.noti{color:var(--ink3)}
           <button class="on" data-sort="a" type="button">추천</button>
           <button data-sort="c" type="button">인용</button>
           <button data-sort="e" type="button">노출</button></div>
-        
         <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">노출</span><span></span></div>
         <div class="rkl"><button class="rk me" type="button"
             data-brand="마롱컴퍼니"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 309, &quot;c&quot;: 283, &quot;a&quot;: 314, &quot;n&quot;: 579}}"
-            data-a="54.2" data-c="48.9" data-e="53.4">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 309, &quot;c&quot;: 283, &quot;a&quot;: 314, &quot;n&quot;: 579, &quot;as&quot;: 281}}"
+            data-a="54.2" data-c="48.9" data-e="53.4" data-va="91">
           <span class="rkr">1</span>
           <span class="rkn">마롱컴퍼니</span>
           <span class="rkv v-a">54<em>%</em><i style="width:100%"></i></span>
@@ -631,8 +637,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">53<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="아이메탈아트"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 81, &quot;c&quot;: 62, &quot;a&quot;: 95, &quot;n&quot;: 579}}"
-            data-a="16.4" data-c="10.7" data-e="14.0">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 81, &quot;c&quot;: 62, &quot;a&quot;: 95, &quot;n&quot;: 579, &quot;as&quot;: 64}}"
+            data-a="16.4" data-c="10.7" data-e="14.0" data-va="79">
           <span class="rkr">2</span>
           <span class="rkn">아이메탈아트</span>
           <span class="rkv v-a">16<em>%</em><i style="width:31%"></i></span>
@@ -640,8 +646,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">14<em>%</em><i style="width:27%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="헤파이스토스"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 126, &quot;c&quot;: 84, &quot;a&quot;: 89, &quot;n&quot;: 579}}"
-            data-a="15.4" data-c="14.5" data-e="21.8">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 126, &quot;c&quot;: 84, &quot;a&quot;: 89, &quot;n&quot;: 579, &quot;as&quot;: 84}}"
+            data-a="15.4" data-c="14.5" data-e="21.8" data-va="67">
           <span class="rkr">3</span>
           <span class="rkn">헤파이스토스</span>
           <span class="rkv v-a">15<em>%</em><i style="width:29%"></i></span>
@@ -649,8 +655,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">22<em>%</em><i style="width:41%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="해눈"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 25, &quot;c&quot;: 22, &quot;a&quot;: 35, &quot;n&quot;: 579}}"
-            data-a="6.0" data-c="3.8" data-e="4.3">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 25, &quot;c&quot;: 22, &quot;a&quot;: 35, &quot;n&quot;: 579, &quot;as&quot;: 21}}"
+            data-a="6.0" data-c="3.8" data-e="4.3" data-va="84">
           <span class="rkr">4</span>
           <span class="rkn">해눈</span>
           <span class="rkv v-a">6<em>%</em><i style="width:11%"></i></span>
@@ -659,7 +665,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="모형제작 피규어제작 조형물제작 라이프캐스팅"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 34, &quot;n&quot;: 579}}"
-            data-a="5.9" data-c="0.0" data-e="0.0">
+            data-a="5.9" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">5</span>
           <span class="rkn">모형제작 피규어제작 조형물제작 라이프캐스팅</span>
           <span class="rkv v-a">6<em>%</em><i style="width:11%"></i></span>
@@ -667,8 +673,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울상사"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 35, &quot;c&quot;: 29, &quot;a&quot;: 33, &quot;n&quot;: 579}}"
-            data-a="5.7" data-c="5.0" data-e="6.0">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 35, &quot;c&quot;: 29, &quot;a&quot;: 33, &quot;n&quot;: 579, &quot;as&quot;: 29}}"
+            data-a="5.7" data-c="5.0" data-e="6.0" data-va="83">
           <span class="rkr">6</span>
           <span class="rkn">서울상사</span>
           <span class="rkv v-a">6<em>%</em><i style="width:11%"></i></span>
@@ -676,8 +682,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">6<em>%</em><i style="width:11%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서진FRP"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 55, &quot;c&quot;: 31, &quot;a&quot;: 33, &quot;n&quot;: 579}}"
-            data-a="5.7" data-c="5.4" data-e="9.5">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 55, &quot;c&quot;: 31, &quot;a&quot;: 33, &quot;n&quot;: 579, &quot;as&quot;: 33}}"
+            data-a="5.7" data-c="5.4" data-e="9.5" data-va="60">
           <span class="rkr">7</span>
           <span class="rkn">서진FRP</span>
           <span class="rkv v-a">6<em>%</em><i style="width:11%"></i></span>
@@ -685,8 +691,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">9<em>%</em><i style="width:18%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="다만드러"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 29, &quot;c&quot;: 20, &quot;a&quot;: 25, &quot;n&quot;: 579}}"
-            data-a="4.3" data-c="3.5" data-e="5.0">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 29, &quot;c&quot;: 20, &quot;a&quot;: 25, &quot;n&quot;: 579, &quot;as&quot;: 20}}"
+            data-a="4.3" data-c="3.5" data-e="5.0" data-va="69">
           <span class="rkr">8</span>
           <span class="rkn">다만드러</span>
           <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
@@ -694,8 +700,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">5<em>%</em><i style="width:10%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="솜씨잔넬스카시"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 11, &quot;c&quot;: 6, &quot;a&quot;: 24, &quot;n&quot;: 579}}"
-            data-a="4.1" data-c="1.0" data-e="1.9">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 11, &quot;c&quot;: 6, &quot;a&quot;: 24, &quot;n&quot;: 579, &quot;as&quot;: 9}}"
+            data-a="4.1" data-c="1.0" data-e="1.9" data-va="82">
           <span class="rkr">9</span>
           <span class="rkn">솜씨잔넬스카시</span>
           <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
@@ -703,17 +709,17 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">2<em>%</em><i style="width:4%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="숨고"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 83, &quot;c&quot;: 33, &quot;a&quot;: 24, &quot;n&quot;: 579}}"
-            data-a="4.1" data-c="5.7" data-e="14.3">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 83, &quot;c&quot;: 33, &quot;a&quot;: 24, &quot;n&quot;: 579, &quot;as&quot;: 24}}"
+            data-a="4.1" data-c="5.7" data-e="14.3" data-va="29">
           <span class="rkr">10</span>
           <span class="rkn">숨고</span>
           <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
           <span class="rkv v-c">6<em>%</em><i style="width:11%"></i></span>
           <span class="rkv v-e">14<em>%</em><i style="width:27%"></i></span>
-          <span class="rkgo">›</span></button><button class="rk" type="button"
+          <span class="rkgo">›</span></button><div class="rkmore" data-rkmore hidden><button class="rk" type="button"
             data-brand="크몽"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 83, &quot;c&quot;: 38, &quot;a&quot;: 23, &quot;n&quot;: 579}}"
-            data-a="4.0" data-c="6.6" data-e="14.3">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 83, &quot;c&quot;: 38, &quot;a&quot;: 23, &quot;n&quot;: 579, &quot;as&quot;: 23}}"
+            data-a="4.0" data-c="6.6" data-e="14.3" data-va="28">
           <span class="rkr">11</span>
           <span class="rkn">크몽</span>
           <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
@@ -721,8 +727,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">14<em>%</em><i style="width:27%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="미술과조형"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 1, &quot;a&quot;: 19, &quot;n&quot;: 579}}"
-            data-a="3.3" data-c="0.2" data-e="0.2">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 1, &quot;a&quot;: 19, &quot;n&quot;: 579, &quot;as&quot;: 1}}"
+            data-a="3.3" data-c="0.2" data-e="0.2" data-va="100">
           <span class="rkr">12</span>
           <span class="rkn">미술과조형</span>
           <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
@@ -730,8 +736,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="더핸드"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 41, &quot;c&quot;: 19, &quot;a&quot;: 19, &quot;n&quot;: 579}}"
-            data-a="3.3" data-c="3.3" data-e="7.1">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 41, &quot;c&quot;: 19, &quot;a&quot;: 19, &quot;n&quot;: 579, &quot;as&quot;: 19}}"
+            data-a="3.3" data-c="3.3" data-e="7.1" data-va="46">
           <span class="rkr">13</span>
           <span class="rkn">더핸드</span>
           <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
@@ -740,7 +746,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="순간조형물제작"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 18, &quot;n&quot;: 579}}"
-            data-a="3.1" data-c="0.0" data-e="0.0">
+            data-a="3.1" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">14</span>
           <span class="rkn">순간조형물제작</span>
           <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
@@ -748,8 +754,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="가이아스튜디오"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 20, &quot;c&quot;: 17, &quot;a&quot;: 17, &quot;n&quot;: 579}}"
-            data-a="2.9" data-c="2.9" data-e="3.5">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 20, &quot;c&quot;: 17, &quot;a&quot;: 17, &quot;n&quot;: 579, &quot;as&quot;: 17}}"
+            data-a="2.9" data-c="2.9" data-e="3.5" data-va="85">
           <span class="rkr">15</span>
           <span class="rkn">가이아스튜디오</span>
           <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
@@ -758,7 +764,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="예본조형"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 16, &quot;n&quot;: 579}}"
-            data-a="2.8" data-c="0.0" data-e="0.0">
+            data-a="2.8" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">16</span>
           <span class="rkn">예본조형</span>
           <span class="rkv v-a">3<em>%</em><i style="width:5%"></i></span>
@@ -766,8 +772,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="애드넷"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 4, &quot;c&quot;: 4, &quot;a&quot;: 15, &quot;n&quot;: 579}}"
-            data-a="2.6" data-c="0.7" data-e="0.7">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 4, &quot;c&quot;: 4, &quot;a&quot;: 15, &quot;n&quot;: 579, &quot;as&quot;: 4}}"
+            data-a="2.6" data-c="0.7" data-e="0.7" data-va="100">
           <span class="rkr">17</span>
           <span class="rkn">애드넷</span>
           <span class="rkv v-a">3<em>%</em><i style="width:5%"></i></span>
@@ -776,7 +782,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="대명기획"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 13, &quot;n&quot;: 579}}"
-            data-a="2.2" data-c="0.0" data-e="0.0">
+            data-a="2.2" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">18</span>
           <span class="rkn">대명기획</span>
           <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
@@ -785,7 +791,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="만물제작소"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 13, &quot;n&quot;: 579}}"
-            data-a="2.2" data-c="0.0" data-e="0.0">
+            data-a="2.2" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">19</span>
           <span class="rkn">만물제작소</span>
           <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
@@ -794,7 +800,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="에어자이언트"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 13, &quot;n&quot;: 579}}"
-            data-a="2.2" data-c="0.0" data-e="0.0">
+            data-a="2.2" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">20</span>
           <span class="rkn">에어자이언트</span>
           <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
@@ -802,8 +808,8 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="한국건축모형"
-            data-by="{&quot;&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 579}}"
-            data-a="1.9" data-c="0.0" data-e="0.2">
+            data-by="{&quot;&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 579, &quot;as&quot;: 1}}"
+            data-a="1.9" data-c="0.0" data-e="0.2" data-va="100">
           <span class="rkr">21</span>
           <span class="rkn">한국건축모형</span>
           <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
@@ -812,7 +818,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="제이에이치조형"
             data-by="{&quot;&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 579}}"
-            data-a="1.9" data-c="0.0" data-e="0.0">
+            data-a="1.9" data-c="0.0" data-e="0.0" data-va="0">
           <span class="rkr">22</span>
           <span class="rkn">제이에이치조형</span>
           <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
@@ -821,7 +827,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="하오즈"
             data-by="{&quot;&quot;: {&quot;s&quot;: 94, &quot;c&quot;: 86, &quot;a&quot;: 0, &quot;n&quot;: 579}}"
-            data-a="0.0" data-c="14.9" data-e="16.2">
+            data-a="0.0" data-c="14.9" data-e="16.2" data-va="0">
           <span class="rkr">23</span>
           <span class="rkn">하오즈</span>
           <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
@@ -830,7 +836,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="레이어드3D"
             data-by="{&quot;&quot;: {&quot;s&quot;: 69, &quot;c&quot;: 59, &quot;a&quot;: 0, &quot;n&quot;: 579}}"
-            data-a="0.0" data-c="10.2" data-e="11.9">
+            data-a="0.0" data-c="10.2" data-e="11.9" data-va="0">
           <span class="rkr">24</span>
           <span class="rkn">레이어드3D</span>
           <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
@@ -839,7 +845,7 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="스티로닷"
             data-by="{&quot;&quot;: {&quot;s&quot;: 32, &quot;c&quot;: 27, &quot;a&quot;: 0, &quot;n&quot;: 579}}"
-            data-a="0.0" data-c="4.7" data-e="5.5">
+            data-a="0.0" data-c="4.7" data-e="5.5" data-va="0">
           <span class="rkr">25</span>
           <span class="rkn">스티로닷</span>
           <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
@@ -848,13 +854,13 @@ a.noti{color:var(--ink3)}
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울메이커스페이스"
             data-by="{&quot;&quot;: {&quot;s&quot;: 88, &quot;c&quot;: 49, &quot;a&quot;: 0, &quot;n&quot;: 579}}"
-            data-a="0.0" data-c="8.5" data-e="15.2">
+            data-a="0.0" data-c="8.5" data-e="15.2" data-va="0">
           <span class="rkr">26</span>
           <span class="rkn">서울메이커스페이스</span>
           <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkv v-c">8<em>%</em><i style="width:16%"></i></span>
           <span class="rkv v-e">15<em>%</em><i style="width:29%"></i></span>
-          <span class="rkgo">›</span></button></div>
+          <span class="rkgo">›</span></button></div><button class="rkfold" data-rkfold type="button">▾ 나머지 16곳 펴기</button></div>
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
       <div class="sw"><h3>노출에서 인용으로 <em class="swrg">전체</em></h3>
         <div class="swbox" data-slope><svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,30 C171.0,30 171.0,30 200,30" class="sl me"/><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,60 200,60" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><text x="96" y="34" class="slb se me">마롱컴퍼니</text><text x="130" y="34" class="sln se me">53%</text><text x="96" y="64" class="slb se">하오즈</text><text x="130" y="64" class="sln se">16%</text><text x="96" y="94" class="slb se">아이메탈아트</text><text x="130" y="94" class="sln se">14%</text><text x="96" y="124" class="slb se">서진FRP</text><text x="130" y="124" class="sln se">9%</text><text x="96" y="154" class="slb se">서울상사</text><text x="130" y="154" class="sln se">6%</text><text x="96" y="184" class="slb se">해눈</text><text x="130" y="184" class="sln se">4%</text><text x="96" y="214" class="slb se">솜씨잔넬스카시</text><text x="130" y="214" class="sln se">2%</text><text x="96" y="244" class="slb se">미술과조형</text><text x="130" y="244" class="sln se">0%</text><text x="212" y="34" class="sln me">49%</text><text x="248" y="34" class="slb me">마롱컴퍼니</text><text x="212" y="64" class="sln">15%</text><text x="248" y="64" class="slb">하오즈</text><text x="212" y="94" class="sln">11%</text><text x="248" y="94" class="slb">아이메탈아트</text><text x="212" y="124" class="sln">5%</text><text x="248" y="124" class="slb">서진FRP</text><text x="212" y="154" class="sln">5%</text><text x="248" y="154" class="slb">서울상사</text><text x="212" y="184" class="sln">4%</text><text x="248" y="184" class="slb">해눈</text><text x="212" y="214" class="sln">1%</text><text x="248" y="214" class="slb">솜씨잔넬스카시</text><text x="212" y="244" class="sln">0%</text><text x="248" y="244" class="slb">미술과조형</text></svg></div>
@@ -1359,6 +1365,11 @@ function setPanel(k){CUR=k;
  $$('[data-panel]').forEach(p=>p.classList.toggle('on',p.id==='p-'+k));
  $$('.jump a:not(.out)').forEach((a,i)=>a.href='#s-'+k+'-'+(i+1));close();if(window.dock)dock();}
 
+// ★ 랭킹 접기/펴기 — 10위까지만 보인다
+$$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
+  const box=btn.previousElementSibling, open=box.hidden;
+  box.hidden=!open;
+  btn.textContent=open ? '▴ 접기' : `▾ 나머지 ${box.children.length}곳 펴기`;});
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
  box.querySelectorAll('.sortbar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -1381,6 +1392,33 @@ document.addEventListener('click',e=>{const w=e.target.closest('[data-wmore]');
   if(w){w.textContent=w.dataset.all;w.classList.remove('wmore');w.removeAttribute('data-wmore');}});
 // ★ 「노출에서 인용으로」 를 지역별로 다시 그린다 (2026-08-26 지시).
 //    자료는 랭킹 행(.rk)의 data-by 를 그대로 쓴다 — 같은 숫자를 두 군데 두면 언젠가 어긋난다
+// ★ 왼쪽 수치 넷(추천·인용·노출·전환)과 전환율 비교표를 고른 지역으로 갈아끼운다
+function updFigs(panel, rows, rg, tot){
+ const val=r=>{const by=JSON.parse(r.dataset.by||'{}'), g=by[rg]||{s:0,c:0,a:0,as:0};
+   return rg==='all'
+     ? {a:+r.dataset.a, c:+r.dataset.c, e:+r.dataset.e,
+        v:(+r.dataset.e)? Math.round((+r.dataset.va||0)) : 0, s:0, as:0}
+     : {a:tot?g.a/tot*100:0, c:tot?g.c/tot*100:0, e:tot?g.s/tot*100:0,
+        v:g.s?Math.round((g.as||0)/g.s*100):0, s:g.s, as:g.as||0};};
+ const all=rows.map(r=>({me:r.classList.contains('me'), name:r.dataset.brand, ...val(r)}));
+ const me=all.find(x=>x.me); if(!me) return;
+ const rank=(k)=>all.filter(x=>x[k]>0).sort((p,q)=>q[k]-p[k]).findIndex(x=>x.me)+1;
+ const fig=(k,v,rk)=>{const el=panel.querySelector(`[data-fig="${k}"]`); if(!el)return;
+   const vv=el.querySelector('[data-v]'); if(vv) vv.innerHTML=`${v}<em>%</em>`;
+   const rr=el.querySelector('[data-rank]'); if(rr) rr.textContent = rk? rk+'위' : '—';};
+ fig('a', me.a.toFixed(1), rank('a')); fig('c', me.c.toFixed(1), rank('c'));
+ fig('e', me.e.toFixed(1), rank('e')); fig('v', me.v, 0);
+ // 전환율 비교표 — 1위는 「그 지역에서 추천 1위인 남」 으로 다시 뽑는다
+ const others=all.filter(x=>!x.me && x.a>0).sort((p,q)=>q.a-p.a);
+ const top=others[0];
+ const pool=all.filter(x=>x.e>0);
+ const avg=pool.length?Math.round(pool.reduce((s,x)=>s+x.v,0)/pool.length):0;
+ const set=(sel,txt)=>{const el=panel.querySelector(sel); if(el) el.textContent=txt;};
+ set('[data-cmp="me"]', me.v+'%');
+ set('[data-cmp="top"]', top? top.v+'%' : '—');
+ set('[data-cmp-top]', top? top.name : '—');
+ set('[data-cmp="avg"]', avg+'%');
+}
 function drawSlope(panel, rg, tot){
  const box=panel.querySelector('[data-slope]'); if(!box) return;
  const rows=[...panel.querySelectorAll('.rk')].map(r=>{
@@ -1434,10 +1472,12 @@ document.querySelectorAll('.regbar').forEach(bar=>{
     const vis=rows.filter(r=>!r.hidden).sort((x,y)=>(+y.dataset.sa)-(+x.dataset.sa));
     vis.forEach((r,i)=>{r.querySelector('.rkr').textContent=i+1;list.appendChild(r)});
     rows.filter(r=>r.hidden).forEach(r=>list.appendChild(r));
-    // ★ 같은 지역으로 기울기 그림도 다시 그린다
+    // ★ 지역은 BRAND COMPARISON 칸 전체에 걸린다 — 수치·랭킹·기울기가 같이 움직여야 한다
+    //    (2026-08-26 지적. 그 전엔 랭킹과 그림만 바뀌고 왼쪽 수치는 전체값이라 서로 안 맞았다)
     const panel=bar.closest('[data-panel]');
     drawSlope(panel, rg, tot);
     const lb=panel.querySelector('.swrg'); if(lb) lb.textContent = rg==='all' ? '전체' : rg;
+    updFigs(panel, rows, rg, tot);
   });
 });
 $('.scrim').onclick=close;$('.drw-x').onclick=close;
