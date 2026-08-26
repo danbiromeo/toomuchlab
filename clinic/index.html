@@ -294,6 +294,19 @@ h3{font-size:15px;margin-bottom:4px}
 .spread{margin:12px 0 0;font-size:12.5px;color:var(--mut);background:var(--surf2);
  border-radius:10px;padding:10px 13px;line-height:1.65}
 .spread b{color:var(--ink)}
+/* ★ 2026-08-27 — 누를 수 있는 매체 칸들. 「눌린다」 가 눈에 보여야 아무도 안 누르지 않는다 */
+button.mbar{border:0;padding:0;width:100%;cursor:pointer;display:block}
+button.mbar:hover i{background:var(--ink)}
+.mrow .mcell.ml{text-align:left;font-weight:600;color:var(--ink)}
+.mtab.crowd td .mcell b{font-size:13px}
+.mtab.crowd td .mcell span{font-size:10.5px;color:var(--mut)}
+.mtab.crowd td.hot .mcell b{color:var(--f)}
+.chip.busy{background:#FDF3DC;color:#96690A}
+/* 판정 카드는 바탕이 어둡다 — 밑줄로 「눌린다」 를 알리고, 눌릴 때만 반전시킨다 */
+.mverdict .mcell{color:inherit;text-decoration:underline;text-decoration-style:dotted;
+ text-decoration-color:rgba(255,255,255,.45);text-underline-offset:3px}
+.mverdict .mcell:hover{background:#fff;color:var(--ink);text-decoration:none}
+.mv3 .mcell b{font-size:inherit}   /* 판정 카드 줄에선 숫자를 키우지 않는다 — 줄이 무너진다 */
 .mcell{font:inherit;background:none;border:0;padding:2px 4px;margin:-2px -4px;border-radius:7px;
  cursor:pointer;color:inherit;text-align:right;width:100%}
 .mcell:hover{background:var(--ink);color:#fff}
@@ -379,6 +392,8 @@ h3{font-size:15px;margin-bottom:4px}
 .rk:focus-visible{outline:2px solid var(--pri);outline-offset:-2px}
 .rkn{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}
 .rkv{position:relative;text-align:right;font-size:12px;font-weight:700}
+.rkv u{display:block;font-size:9px;font-weight:400;color:var(--ink3);text-decoration:none;line-height:1.1}
+.rkhead .dn{text-align:left;font-weight:400;color:var(--ink3);font-size:10px}
 .rkv i{position:absolute;left:0;right:0;bottom:-7px;height:3px;border-radius:99px;display:block;
  margin-left:auto;background:var(--outline,#E6E8EF)}
 .rkv.v-a i{background:var(--ink)}.rkv.v-c i{background:var(--pri)}.rkv.v-e i{background:var(--seen)}
@@ -649,10 +664,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-0817">← 목록</a>
+    <a class="back" href="../?v=20260827-0821">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-0817">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-0817">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-0817">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-0821">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-0821">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-0821">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -663,7 +678,7 @@ a.noti{color:var(--ink3)}
     <span>질문 242</span><span>회차 470 (웹앱 383 · API 87)</span>
     <span>질문당 2회 (1~3)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0817</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0821</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-clinic-1">
@@ -781,7 +796,8 @@ a.noti{color:var(--ink3)}
           <button class="on" data-sort="a" type="button">추천 <i>RECOMMENDED</i></button>
           <button data-sort="c" type="button">인용 <i>CITED</i></button>
           <button data-sort="e" type="button">소스 <i>RETRIEVED</i></button></div>
-        <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">소스</span><span></span></div>
+        <div class="rkhead"><span></span><span class="dn">%·회차 / 전체 470회차</span>
+          <span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">소스</span><span></span></div>
         <div class="rkl"><button class="rk" type="button"
             data-brand="성모탑정형외과"
             data-by="{&quot;기타&quot;: {&quot;a&quot;: 2, &quot;as&quot;: 2, &quot;c&quot;: 2, &quot;n&quot;: 4, &quot;s&quot;: 2}, &quot;남성&quot;: {&quot;a&quot;: 107, &quot;as&quot;: 55, &quot;c&quot;: 49, &quot;n&quot;: 131, &quot;s&quot;: 55}, &quot;동작&quot;: {&quot;a&quot;: 2, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 2, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 82, &quot;as&quot;: 46, &quot;c&quot;: 42, &quot;n&quot;: 140, &quot;s&quot;: 61}, &quot;이수&quot;: {&quot;a&quot;: 38, &quot;as&quot;: 19, &quot;c&quot;: 16, &quot;n&quot;: 118, &quot;s&quot;: 26}}"
@@ -790,9 +806,9 @@ a.noti{color:var(--ink3)}
             data-asn="123" data-tn="470">
           <span class="rkr">1</span>
           <span class="rkn">성모탑정형외과</span>
-          <span class="rkv v-a">49<em>%</em><i style="width:93%"></i></span>
-          <span class="rkv v-c">23<em>%</em><i style="width:44%"></i></span>
-          <span class="rkv v-e">31<em>%</em><i style="width:59%"></i></span>
+          <span class="rkv v-a">49<em>%</em><u>231</u><i style="width:93%"></i></span>
+          <span class="rkv v-c">23<em>%</em><u>110</u><i style="width:44%"></i></span>
+          <span class="rkv v-e">31<em>%</em><u>145</u><i style="width:59%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="사당정형외과"
             data-by="{&quot;기타&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 2, &quot;n&quot;: 4, &quot;s&quot;: 2}, &quot;남성&quot;: {&quot;a&quot;: 66, &quot;as&quot;: 16, &quot;c&quot;: 26, &quot;n&quot;: 131, &quot;s&quot;: 34}, &quot;내방&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}, &quot;동작&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 2, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 123, &quot;as&quot;: 111, &quot;c&quot;: 107, &quot;n&quot;: 140, &quot;s&quot;: 114}, &quot;이수&quot;: {&quot;a&quot;: 8, &quot;as&quot;: 3, &quot;c&quot;: 13, &quot;n&quot;: 118, &quot;s&quot;: 14}}"
@@ -801,9 +817,9 @@ a.noti{color:var(--ink3)}
             data-asn="130" data-tn="470">
           <span class="rkr">2</span>
           <span class="rkn">사당정형외과</span>
-          <span class="rkv v-a">42<em>%</em><i style="width:80%"></i></span>
-          <span class="rkv v-c">31<em>%</em><i style="width:60%"></i></span>
-          <span class="rkv v-e">35<em>%</em><i style="width:67%"></i></span>
+          <span class="rkv v-a">42<em>%</em><u>198</u><i style="width:80%"></i></span>
+          <span class="rkv v-c">31<em>%</em><u>148</u><i style="width:60%"></i></span>
+          <span class="rkv v-e">35<em>%</em><u>165</u><i style="width:67%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="사당똑바른정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 7, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;내방&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 92, &quot;as&quot;: 48, &quot;c&quot;: 32, &quot;n&quot;: 140, &quot;s&quot;: 56}, &quot;이수&quot;: {&quot;a&quot;: 1, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 118, &quot;s&quot;: 1}}"
@@ -812,9 +828,9 @@ a.noti{color:var(--ink3)}
             data-asn="49" data-tn="470">
           <span class="rkr">3</span>
           <span class="rkn">사당똑바른정형외과</span>
-          <span class="rkv v-a">21<em>%</em><i style="width:40%"></i></span>
-          <span class="rkv v-c">7<em>%</em><i style="width:13%"></i></span>
-          <span class="rkv v-e">12<em>%</em><i style="width:23%"></i></span>
+          <span class="rkv v-a">21<em>%</em><u>100</u><i style="width:40%"></i></span>
+          <span class="rkv v-c">7<em>%</em><u>33</u><i style="width:13%"></i></span>
+          <span class="rkv v-e">12<em>%</em><u>58</u><i style="width:23%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="연세바른병원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 41, &quot;as&quot;: 9, &quot;c&quot;: 2, &quot;n&quot;: 131, &quot;s&quot;: 17}, &quot;내방&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 32, &quot;as&quot;: 5, &quot;c&quot;: 5, &quot;n&quot;: 140, &quot;s&quot;: 5}, &quot;이수&quot;: {&quot;a&quot;: 24, &quot;as&quot;: 17, &quot;c&quot;: 16, &quot;n&quot;: 118, &quot;s&quot;: 21}}"
@@ -823,9 +839,9 @@ a.noti{color:var(--ink3)}
             data-asn="31" data-tn="470">
           <span class="rkr">4</span>
           <span class="rkn">연세바른병원</span>
-          <span class="rkv v-a">21<em>%</em><i style="width:40%"></i></span>
-          <span class="rkv v-c">5<em>%</em><i style="width:9%"></i></span>
-          <span class="rkv v-e">9<em>%</em><i style="width:17%"></i></span>
+          <span class="rkv v-a">21<em>%</em><u>98</u><i style="width:40%"></i></span>
+          <span class="rkv v-c">5<em>%</em><u>23</u><i style="width:9%"></i></span>
+          <span class="rkv v-e">9<em>%</em><u>43</u><i style="width:17%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="이수고려더튼튼의원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 2, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;내방&quot;: {&quot;a&quot;: 38, &quot;as&quot;: 16, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 19}, &quot;사당&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 47, &quot;as&quot;: 21, &quot;c&quot;: 17, &quot;n&quot;: 118, &quot;s&quot;: 25}}"
@@ -834,9 +850,9 @@ a.noti{color:var(--ink3)}
             data-asn="38" data-tn="470">
           <span class="rkr">5</span>
           <span class="rkn">이수고려더튼튼의원</span>
-          <span class="rkv v-a">19<em>%</em><i style="width:36%"></i></span>
-          <span class="rkv v-c">4<em>%</em><i style="width:7%"></i></span>
-          <span class="rkv v-e">10<em>%</em><i style="width:18%"></i></span>
+          <span class="rkv v-a">19<em>%</em><u>89</u><i style="width:36%"></i></span>
+          <span class="rkv v-c">4<em>%</em><u>18</u><i style="width:7%"></i></span>
+          <span class="rkv v-e">10<em>%</em><u>45</u><i style="width:18%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서초방배마디튼튼의원"
             data-by="{&quot;내방&quot;: {&quot;a&quot;: 57, &quot;as&quot;: 2, &quot;c&quot;: 1, &quot;n&quot;: 75, &quot;s&quot;: 2}, &quot;이수&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 0}}"
@@ -845,9 +861,9 @@ a.noti{color:var(--ink3)}
             data-asn="2" data-tn="470">
           <span class="rkr">6</span>
           <span class="rkn">서초방배마디튼튼의원</span>
-          <span class="rkv v-a">13<em>%</em><i style="width:24%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:1%"></i></span>
+          <span class="rkv v-a">13<em>%</em><u>59</u><i style="width:24%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>1</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>2</u><i style="width:1%"></i></span>
           <span class="rkgo">›</span></button><button class="rk me" type="button"
             data-brand="이수탑정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;내방&quot;: {&quot;a&quot;: 4, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 51, &quot;as&quot;: 36, &quot;c&quot;: 36, &quot;n&quot;: 118, &quot;s&quot;: 44}}"
@@ -856,9 +872,9 @@ a.noti{color:var(--ink3)}
             data-asn="36" data-tn="470">
           <span class="rkr">7</span>
           <span class="rkn">이수탑정형외과</span>
-          <span class="rkv v-a">12<em>%</em><i style="width:23%"></i></span>
-          <span class="rkv v-c">8<em>%</em><i style="width:15%"></i></span>
-          <span class="rkv v-e">10<em>%</em><i style="width:18%"></i></span>
+          <span class="rkv v-a">12<em>%</em><u>58</u><i style="width:23%"></i></span>
+          <span class="rkv v-c">8<em>%</em><u>36</u><i style="width:15%"></i></span>
+          <span class="rkv v-e">10<em>%</em><u>45</u><i style="width:18%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="화인마취통증의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;내방&quot;: {&quot;a&quot;: 4, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 1}, &quot;이수&quot;: {&quot;a&quot;: 54, &quot;as&quot;: 51, &quot;c&quot;: 51, &quot;n&quot;: 118, &quot;s&quot;: 65}}"
@@ -867,9 +883,9 @@ a.noti{color:var(--ink3)}
             data-asn="51" data-tn="470">
           <span class="rkr">8</span>
           <span class="rkn">화인마취통증의학과</span>
-          <span class="rkv v-a">12<em>%</em><i style="width:23%"></i></span>
-          <span class="rkv v-c">11<em>%</em><i style="width:21%"></i></span>
-          <span class="rkv v-e">14<em>%</em><i style="width:27%"></i></span>
+          <span class="rkv v-a">12<em>%</em><u>58</u><i style="width:23%"></i></span>
+          <span class="rkv v-c">11<em>%</em><u>51</u><i style="width:21%"></i></span>
+          <span class="rkv v-e">14<em>%</em><u>68</u><i style="width:27%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="고석주정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 36, &quot;as&quot;: 4, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 8}, &quot;사당&quot;: {&quot;a&quot;: 7, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 1}, &quot;이수&quot;: {&quot;a&quot;: 4, &quot;as&quot;: 2, &quot;c&quot;: 1, &quot;n&quot;: 118, &quot;s&quot;: 5}}"
@@ -878,9 +894,9 @@ a.noti{color:var(--ink3)}
             data-asn="6" data-tn="470">
           <span class="rkr">9</span>
           <span class="rkn">고석주정형외과</span>
-          <span class="rkv v-a">10<em>%</em><i style="width:19%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">3<em>%</em><i style="width:6%"></i></span>
+          <span class="rkv v-a">10<em>%</em><u>47</u><i style="width:19%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>1</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">3<em>%</em><u>14</u><i style="width:6%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서초리더스정형외과재활의학과"
             data-by="{&quot;내방&quot;: {&quot;a&quot;: 44, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 0}}"
@@ -889,9 +905,9 @@ a.noti{color:var(--ink3)}
             data-asn="0" data-tn="470">
           <span class="rkr">10</span>
           <span class="rkn">서초리더스정형외과재활의학과</span>
-          <span class="rkv v-a">10<em>%</em><i style="width:18%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
+          <span class="rkv v-a">10<em>%</em><u>45</u><i style="width:18%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>0</u><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><div class="rkmore" data-rkmore hidden><button class="rk" type="button"
             data-brand="성모튼튼정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 3, &quot;as&quot;: 3, &quot;c&quot;: 3, &quot;n&quot;: 131, &quot;s&quot;: 11}, &quot;사당&quot;: {&quot;a&quot;: 38, &quot;as&quot;: 18, &quot;c&quot;: 3, &quot;n&quot;: 140, &quot;s&quot;: 45}, &quot;이수&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 1}}"
@@ -900,9 +916,9 @@ a.noti{color:var(--ink3)}
             data-asn="21" data-tn="470">
           <span class="rkr">11</span>
           <span class="rkn">성모튼튼정형외과</span>
-          <span class="rkv v-a">9<em>%</em><i style="width:17%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-e">12<em>%</em><i style="width:23%"></i></span>
+          <span class="rkv v-a">9<em>%</em><u>41</u><i style="width:17%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>6</u><i style="width:2%"></i></span>
+          <span class="rkv v-e">12<em>%</em><u>57</u><i style="width:23%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서리풀성모정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;내방&quot;: {&quot;a&quot;: 9, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}, &quot;이수&quot;: {&quot;a&quot;: 29, &quot;as&quot;: 19, &quot;c&quot;: 17, &quot;n&quot;: 118, &quot;s&quot;: 24}}"
@@ -911,9 +927,9 @@ a.noti{color:var(--ink3)}
             data-asn="19" data-tn="470">
           <span class="rkr">12</span>
           <span class="rkn">서리풀성모정형외과</span>
-          <span class="rkv v-a">8<em>%</em><i style="width:15%"></i></span>
-          <span class="rkv v-c">4<em>%</em><i style="width:7%"></i></span>
-          <span class="rkv v-e">6<em>%</em><i style="width:11%"></i></span>
+          <span class="rkv v-a">8<em>%</em><u>38</u><i style="width:15%"></i></span>
+          <span class="rkv v-c">4<em>%</em><u>17</u><i style="width:7%"></i></span>
+          <span class="rkv v-e">6<em>%</em><u>26</u><i style="width:11%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울성모정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 34, &quot;as&quot;: 26, &quot;c&quot;: 20, &quot;n&quot;: 131, &quot;s&quot;: 55}, &quot;사당&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 4}, &quot;이수&quot;: {&quot;a&quot;: 3, &quot;as&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 2}}"
@@ -922,9 +938,9 @@ a.noti{color:var(--ink3)}
             data-asn="27" data-tn="470">
           <span class="rkr">13</span>
           <span class="rkn">서울성모정형외과</span>
-          <span class="rkv v-a">8<em>%</em><i style="width:15%"></i></span>
-          <span class="rkv v-c">4<em>%</em><i style="width:8%"></i></span>
-          <span class="rkv v-e">13<em>%</em><i style="width:25%"></i></span>
+          <span class="rkv v-a">8<em>%</em><u>38</u><i style="width:15%"></i></span>
+          <span class="rkv v-c">4<em>%</em><u>20</u><i style="width:8%"></i></span>
+          <span class="rkv v-e">13<em>%</em><u>61</u><i style="width:25%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="고려더튼튼정형외과재활의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 1, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;내방&quot;: {&quot;a&quot;: 12, &quot;as&quot;: 6, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 19}, &quot;이수&quot;: {&quot;a&quot;: 23, &quot;as&quot;: 16, &quot;c&quot;: 17, &quot;n&quot;: 118, &quot;s&quot;: 25}}"
@@ -933,9 +949,9 @@ a.noti{color:var(--ink3)}
             data-asn="23" data-tn="470">
           <span class="rkr">14</span>
           <span class="rkn">고려더튼튼정형외과재활의학과</span>
-          <span class="rkv v-a">8<em>%</em><i style="width:15%"></i></span>
-          <span class="rkv v-c">4<em>%</em><i style="width:7%"></i></span>
-          <span class="rkv v-e">10<em>%</em><i style="width:18%"></i></span>
+          <span class="rkv v-a">8<em>%</em><u>36</u><i style="width:15%"></i></span>
+          <span class="rkv v-c">4<em>%</em><u>18</u><i style="width:7%"></i></span>
+          <span class="rkv v-e">10<em>%</em><u>45</u><i style="width:18%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="다시세움재활의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 11, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 9, &quot;as&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 3}, &quot;이수&quot;: {&quot;a&quot;: 8, &quot;as&quot;: 5, &quot;c&quot;: 5, &quot;n&quot;: 118, &quot;s&quot;: 7}}"
@@ -944,9 +960,9 @@ a.noti{color:var(--ink3)}
             data-asn="7" data-tn="470">
           <span class="rkr">15</span>
           <span class="rkn">다시세움재활의학과</span>
-          <span class="rkv v-a">6<em>%</em><i style="width:11%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-e">2<em>%</em><i style="width:4%"></i></span>
+          <span class="rkv v-a">6<em>%</em><u>28</u><i style="width:11%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>6</u><i style="width:2%"></i></span>
+          <span class="rkv v-e">2<em>%</em><u>11</u><i style="width:4%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="이수제일정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 6, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;동작&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 2, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 16, &quot;as&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 4}}"
@@ -955,9 +971,9 @@ a.noti{color:var(--ink3)}
             data-asn="2" data-tn="470">
           <span class="rkr">16</span>
           <span class="rkn">이수제일정형외과</span>
-          <span class="rkv v-a">5<em>%</em><i style="width:9%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">1<em>%</em><i style="width:2%"></i></span>
+          <span class="rkv v-a">5<em>%</em><u>23</u><i style="width:9%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">1<em>%</em><u>4</u><i style="width:2%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="밀려오네서울재활의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 8, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 12, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 0}}"
@@ -966,9 +982,9 @@ a.noti{color:var(--ink3)}
             data-asn="0" data-tn="470">
           <span class="rkr">17</span>
           <span class="rkn">밀려오네서울재활의학과</span>
-          <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
+          <span class="rkv v-a">4<em>%</em><u>21</u><i style="width:8%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>0</u><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울베스트마취통증의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 10, &quot;as&quot;: 2, &quot;c&quot;: 1, &quot;n&quot;: 131, &quot;s&quot;: 8}, &quot;사당&quot;: {&quot;a&quot;: 4, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 1}, &quot;이수&quot;: {&quot;a&quot;: 7, &quot;as&quot;: 2, &quot;c&quot;: 2, &quot;n&quot;: 118, &quot;s&quot;: 13}}"
@@ -977,9 +993,9 @@ a.noti{color:var(--ink3)}
             data-asn="4" data-tn="470">
           <span class="rkr">18</span>
           <span class="rkn">서울베스트마취통증의학과</span>
-          <span class="rkv v-a">4<em>%</em><i style="width:8%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-e">5<em>%</em><i style="width:9%"></i></span>
+          <span class="rkv v-a">4<em>%</em><u>21</u><i style="width:8%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>3</u><i style="width:1%"></i></span>
+          <span class="rkv v-e">5<em>%</em><u>22</u><i style="width:9%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="사당신경외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 16, &quot;as&quot;: 2, &quot;c&quot;: 2, &quot;n&quot;: 140, &quot;s&quot;: 20}}"
@@ -988,9 +1004,9 @@ a.noti{color:var(--ink3)}
             data-asn="2" data-tn="470">
           <span class="rkr">19</span>
           <span class="rkn">사당신경외과</span>
-          <span class="rkv v-a">4<em>%</em><i style="width:7%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-e">4<em>%</em><i style="width:8%"></i></span>
+          <span class="rkv v-a">4<em>%</em><u>18</u><i style="width:7%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>2</u><i style="width:1%"></i></span>
+          <span class="rkv v-e">4<em>%</em><u>20</u><i style="width:8%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="연세사랑병원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 2}, &quot;내방&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 4}, &quot;사당&quot;: {&quot;a&quot;: 10, &quot;as&quot;: 7, &quot;c&quot;: 7, &quot;n&quot;: 140, &quot;s&quot;: 7}, &quot;이수&quot;: {&quot;a&quot;: 3, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 118, &quot;s&quot;: 1}}"
@@ -999,9 +1015,9 @@ a.noti{color:var(--ink3)}
             data-asn="8" data-tn="470">
           <span class="rkr">20</span>
           <span class="rkn">연세사랑병원</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
-          <span class="rkv v-c">2<em>%</em><i style="width:3%"></i></span>
-          <span class="rkv v-e">3<em>%</em><i style="width:6%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>15</u><i style="width:6%"></i></span>
+          <span class="rkv v-c">2<em>%</em><u>8</u><i style="width:3%"></i></span>
+          <span class="rkv v-e">3<em>%</em><u>14</u><i style="width:6%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="함춘마취통증의학과"
             data-by="{&quot;사당&quot;: {&quot;a&quot;: 5, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 10, &quot;as&quot;: 3, &quot;c&quot;: 1, &quot;n&quot;: 118, &quot;s&quot;: 14}}"
@@ -1010,9 +1026,9 @@ a.noti{color:var(--ink3)}
             data-asn="3" data-tn="470">
           <span class="rkr">21</span>
           <span class="rkn">함춘마취통증의학과</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">3<em>%</em><i style="width:6%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>15</u><i style="width:6%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>1</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">3<em>%</em><u>14</u><i style="width:6%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 14, &quot;as&quot;: 6, &quot;c&quot;: 5, &quot;n&quot;: 131, &quot;s&quot;: 22}, &quot;내방&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 2}, &quot;사당&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 10}, &quot;이수&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 2}}"
@@ -1021,9 +1037,9 @@ a.noti{color:var(--ink3)}
             data-asn="6" data-tn="470">
           <span class="rkr">22</span>
           <span class="rkn">서울정형외과</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:6%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-e">8<em>%</em><i style="width:15%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>14</u><i style="width:6%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>5</u><i style="width:2%"></i></span>
+          <span class="rkv v-e">8<em>%</em><u>36</u><i style="width:15%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서초바로본365의원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;내방&quot;: {&quot;a&quot;: 8, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 3, &quot;as&quot;: 3, &quot;c&quot;: 3, &quot;n&quot;: 118, &quot;s&quot;: 3}}"
@@ -1032,9 +1048,9 @@ a.noti{color:var(--ink3)}
             data-asn="3" data-tn="470">
           <span class="rkr">23</span>
           <span class="rkn">서초바로본365의원</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:5%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-e">1<em>%</em><i style="width:1%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>13</u><i style="width:5%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>3</u><i style="width:1%"></i></span>
+          <span class="rkv v-e">1<em>%</em><u>3</u><i style="width:1%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="연세베스트정형외과재활의학과"
             data-by="{&quot;내방&quot;: {&quot;a&quot;: 12, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}}"
@@ -1043,9 +1059,9 @@ a.noti{color:var(--ink3)}
             data-asn="0" data-tn="470">
           <span class="rkr">24</span>
           <span class="rkn">연세베스트정형외과재활의학과</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:5%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>12</u><i style="width:5%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>1</u><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="더본병원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 20}, &quot;사당&quot;: {&quot;a&quot;: 4, &quot;as&quot;: 2, &quot;c&quot;: 2, &quot;n&quot;: 140, &quot;s&quot;: 3}, &quot;이수&quot;: {&quot;a&quot;: 7, &quot;as&quot;: 2, &quot;c&quot;: 2, &quot;n&quot;: 118, &quot;s&quot;: 5}}"
@@ -1054,9 +1070,9 @@ a.noti{color:var(--ink3)}
             data-asn="4" data-tn="470">
           <span class="rkr">25</span>
           <span class="rkn">더본병원</span>
-          <span class="rkv v-a">3<em>%</em><i style="width:5%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-e">6<em>%</em><i style="width:11%"></i></span>
+          <span class="rkv v-a">3<em>%</em><u>12</u><i style="width:5%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>4</u><i style="width:2%"></i></span>
+          <span class="rkv v-e">6<em>%</em><u>28</u><i style="width:11%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="방배성모정형외과"
             data-by="{&quot;내방&quot;: {&quot;a&quot;: 11, &quot;as&quot;: 3, &quot;c&quot;: 3, &quot;n&quot;: 75, &quot;s&quot;: 10}}"
@@ -1065,9 +1081,9 @@ a.noti{color:var(--ink3)}
             data-asn="3" data-tn="470">
           <span class="rkr">26</span>
           <span class="rkn">방배성모정형외과</span>
-          <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-e">2<em>%</em><i style="width:4%"></i></span>
+          <span class="rkv v-a">2<em>%</em><u>11</u><i style="width:4%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>3</u><i style="width:1%"></i></span>
+          <span class="rkv v-e">2<em>%</em><u>10</u><i style="width:4%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="사계절신경외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 9, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;사당&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 1}}"
@@ -1076,9 +1092,9 @@ a.noti{color:var(--ink3)}
             data-asn="0" data-tn="470">
           <span class="rkr">27</span>
           <span class="rkn">사계절신경외과</span>
-          <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
+          <span class="rkv v-a">2<em>%</em><u>11</u><i style="width:4%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>1</u><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="동작에스엔재활의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 8, &quot;as&quot;: 1, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 1}, &quot;이수&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 118, &quot;s&quot;: 0}}"
@@ -1087,9 +1103,9 @@ a.noti{color:var(--ink3)}
             data-asn="1" data-tn="470">
           <span class="rkr">28</span>
           <span class="rkn">동작에스엔재활의학과</span>
-          <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:1%"></i></span>
+          <span class="rkv v-a">2<em>%</em><u>10</u><i style="width:4%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>0</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>2</u><i style="width:1%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="한마음마취통증의학과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 10, &quot;as&quot;: 5, &quot;c&quot;: 3, &quot;n&quot;: 131, &quot;s&quot;: 13}}"
@@ -1098,9 +1114,9 @@ a.noti{color:var(--ink3)}
             data-asn="5" data-tn="470">
           <span class="rkr">29</span>
           <span class="rkn">한마음마취통증의학과</span>
-          <span class="rkv v-a">2<em>%</em><i style="width:4%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-e">3<em>%</em><i style="width:5%"></i></span>
+          <span class="rkv v-a">2<em>%</em><u>10</u><i style="width:4%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>3</u><i style="width:1%"></i></span>
+          <span class="rkv v-e">3<em>%</em><u>13</u><i style="width:5%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="한빛정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 2, &quot;c&quot;: 0, &quot;n&quot;: 131, &quot;s&quot;: 0}, &quot;이수&quot;: {&quot;a&quot;: 4, &quot;as&quot;: 1, &quot;c&quot;: 1, &quot;n&quot;: 118, &quot;s&quot;: 1}}"
@@ -1109,9 +1125,9 @@ a.noti{color:var(--ink3)}
             data-asn="1" data-tn="470">
           <span class="rkr">30</span>
           <span class="rkn">한빛정형외과</span>
-          <span class="rkv v-a">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-c">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
+          <span class="rkv v-a">1<em>%</em><u>6</u><i style="width:2%"></i></span>
+          <span class="rkv v-c">0<em>%</em><u>1</u><i style="width:0%"></i></span>
+          <span class="rkv v-e">0<em>%</em><u>1</u><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="나스정형외과"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 2, &quot;n&quot;: 131, &quot;s&quot;: 36}, &quot;내방&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 75, &quot;s&quot;: 1}, &quot;동작&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 2, &quot;s&quot;: 1}, &quot;사당&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 0, &quot;n&quot;: 140, &quot;s&quot;: 4}, &quot;이수&quot;: {&quot;a&quot;: 2, &quot;as&quot;: 2, &quot;c&quot;: 4, &quot;n&quot;: 118, &quot;s&quot;: 10}}"
@@ -1120,9 +1136,9 @@ a.noti{color:var(--ink3)}
             data-asn="2" data-tn="470">
           <span class="rkr">31</span>
           <span class="rkn">나스정형외과</span>
-          <span class="rkv v-a">0<em>%</em><i style="width:1%"></i></span>
-          <span class="rkv v-c">1<em>%</em><i style="width:2%"></i></span>
-          <span class="rkv v-e">11<em>%</em><i style="width:21%"></i></span>
+          <span class="rkv v-a">0<em>%</em><u>2</u><i style="width:1%"></i></span>
+          <span class="rkv v-c">1<em>%</em><u>6</u><i style="width:2%"></i></span>
+          <span class="rkv v-e">11<em>%</em><u>52</u><i style="width:21%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="서울아산병원"
             data-by="{&quot;남성&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 2, &quot;n&quot;: 131, &quot;s&quot;: 3}, &quot;내방&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 3, &quot;n&quot;: 75, &quot;s&quot;: 6}, &quot;사당&quot;: {&quot;a&quot;: 0, &quot;c&quot;: 2, &quot;n&quot;: 140, &quot;s&quot;: 3}, &quot;이수&quot;: {&quot;a&quot;: 1, &quot;as&quot;: 1, &quot;c&quot;: 4, &quot;n&quot;: 118, &quot;s&quot;: 6}}"
@@ -1131,9 +1147,9 @@ a.noti{color:var(--ink3)}
             data-asn="1" data-tn="470">
           <span class="rkr">32</span>
           <span class="rkn">서울아산병원</span>
-          <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
-          <span class="rkv v-c">2<em>%</em><i style="width:4%"></i></span>
-          <span class="rkv v-e">4<em>%</em><i style="width:7%"></i></span>
+          <span class="rkv v-a">0<em>%</em><u>1</u><i style="width:0%"></i></span>
+          <span class="rkv v-c">2<em>%</em><u>11</u><i style="width:4%"></i></span>
+          <span class="rkv v-e">4<em>%</em><u>18</u><i style="width:7%"></i></span>
           <span class="rkgo">›</span></button></div><button class="rkfold" data-rkfold type="button">▶ 나머지 22곳 펴기</button></div>
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
       <div class="sw"><h3>소스에서 인용으로 <em class="swrg">전체</em></h3>
@@ -1486,29 +1502,25 @@ a.noti{color:var(--ink3)}
       <p class="mv1">실린 뒤 답변에 불릴 확률이 가장 높은 매체는 <b>자사</b>(98%)입니다.</p>
       <p class="mv2">우리는 자사에 <b>1편</b>, 성모탑정형외과는 <b>14편</b>입니다. 방향은 맞고 <b>양이 부족합니다.</b> 자기 채널에 <b>물량을 쌓는 것</b>를 늘리십시오.</p>
       <p class="mvw">⚠️ 플랫폼은 <b>이름만 올리면 소용없습니다.</b> 1~2곳만 실린 글에선 64%인데, 3곳 이상 붐비는 목록글에선 <b>38%</b>로 떨어집니다. 등재 자체가 목적이 되면 헛일입니다.</p><p class="mvw">◆ 우리 추천 58회 중 <b>22회(38%)</b>는 인용된 글 어디에도 이름이 없는데 불린 것입니다. 그중 <b>17회</b>는 지도에 우리가 실제로 올라 있었고, 나머지 <b>5회</b>는 <b>지도에도 없습니다.</b><br>저장한 본문을 넓은 표기로 다시 뒤져도 이름이 안 나옵니다(0%). 남는 설명은 <b>AI 자체 지식</b>이거나 <b>AI가 봤지만 인용으로 알려주지 않은 소스</b>인데, <b>지금 데이터로는 둘을 가릴 수 없습니다.</b> 글로도 지도로도 못 건드리는 몫입니다.</p>
-      <p class="mv3">매체별 전환 — 자사 <b>98%</b> <i>(175쌍)</i> · 사이트 <b>70%</b> <i>(460쌍)</i> · 블로그 <b>49%</b> <i>(43쌍)</i></p></div>
+      <p class="mv3">매체별 전환 — <button class="mcell mkb" type="button" data-mk="자사|conv">자사 <b>98%</b> <i>(175쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="사이트|conv">사이트 <b>70%</b> <i>(460쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="블로그|conv">블로그 <b>49%</b> <i>(43쌍)</i></button></p></div>
       <h3 class="mh">① 크기 — 어떤 매체가 인용되나</h3>
-      <p class="msay">한 회차가 여러 매체를 동시에 쓰므로 합이 100%를 넘습니다.</p>
-      <div class="msize"><div class="mrow"><span class="ml">사이트</span>
-        <span class="mbar"><i style="width:100%"></i></span>
-        <span class="mv">274회차 <em>58%</em></span></div><div class="mrow"><span class="ml">플랫폼</span>
-        <span class="mbar"><i style="width:96%"></i></span>
-        <span class="mv">263회차 <em>55%</em></span></div><div class="mrow"><span class="ml">자사</span>
-        <span class="mbar"><i style="width:51%"></i></span>
-        <span class="mv">139회차 <em>29%</em></span></div><div class="mrow"><span class="ml">언론</span>
-        <span class="mbar"><i style="width:5%"></i></span>
-        <span class="mv">13회차 <em>3%</em></span></div><div class="mrow"><span class="ml">블로그</span>
-        <span class="mbar"><i style="width:5%"></i></span>
-        <span class="mv">13회차 <em>3%</em></span></div></div>
+      <p class="msay">한 회차가 여러 매체를 동시에 쓰므로 합이 100%를 넘습니다.
+      <b>막대를 누르면</b> 그 매체가 인용된 회차와 글이 열립니다.<br>
+      ※ 여기서 <b>자사</b>는 「우리 것」이 아니라 <b>이 표에 실린 업체 누군가의 자기 채널</b>이라는 뜻입니다.</p>
+      <div class="msize" data-msize><p class="msay">계산 중…</p></div>
 
       <h3 class="mh">③ 혼잡 — 글 한 장에 업체가 몇 곳 실리나</h3>
       <p class="msay">이걸 통제하지 않으면 아래 ②가 거짓말을 합니다.
-      <b>100곳 중 하나면 안 불리는 게 당연</b>하기 때문입니다.</p>
-      <table class="mtab"><tr><th>매체</th><th>인용된 글</th><th>평균 업체 수</th><th>3곳 이상 붐비는 글</th></tr><tr><td>사이트</td><td>223종</td><td>0.7곳</td><td class="">6%</td></tr><tr><td>플랫폼</td><td>106종</td><td>2.7곳</td><td class="hot">35%</td></tr><tr><td>자사</td><td>40종</td><td>1.4곳</td><td class="">2%</td></tr></table>
+      <b>100곳 중 하나면 안 불리는 게 당연</b>하기 때문입니다.<br>
+      <b>매체 이름을 누르면</b> 그 매체의 글이, <b>맨 오른쪽 %를 누르면</b>
+      업체가 3곳 이상 실린 <b>목록글(「○○ BEST 10」 같은 것)</b>만 열립니다 —
+      우리 처방이 갈리는 자리라 눈으로 봐야 합니다.</p>
+      <div data-mcrowd><p class="msay">계산 중…</p></div>
 
       <h3 class="mh">② 전환 — 실린 뒤 실제로 답변에 불리나 <em>핵심</em></h3>
-      <p class="msay">그 매체 글에 이름이 실린 <b>(회차 × 업체)</b> 쌍 중 답변에 불린 비율입니다.</p>
-      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><b>자사</b><span class="hint">그 업체가 소유한 채널 (자기 홈페이지·자기 티스토리)</span></td><td class="good"><b>98%</b><span>171/175</span></td><td class="good"><b>98%</b><span>169/173</span></td><td class="na">표본 부족</td></tr><tr><td><b>블로그</b><span class="hint">URL 로 퍼블리싱 플랫폼이 확정되는 곳 (네이버블로그·티스토리·브런치 등)</span></td><td class=""><b>49%</b><span>21/43</span></td><td class="na">표본 부족</td><td class=""><b>49%</b><span>21/43</span></td></tr><tr><td><b>사이트</b><span class="hint">자기 도메인을 쓰는 곳. 개인 블로그도 여기 들어온다</span></td><td class="good"><b>70%</b><span>320/460</span></td><td class="good"><b>78%</b><span>239/306</span></td><td class="good"><b>53%</b><span>81/154</span></td></tr><tr><td><b>플랫폼</b><span class="hint">등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)</span></td><td class=""><b>45%</b><span>561/1236</span></td><td class="good"><b>64%</b><span>221/345</span></td><td class=""><b>38%</b><span>340/891</span></td></tr></table>
+      <p class="msay">그 매체 글에 이름이 실린 <b>(회차 × 업체)</b> 쌍 중 답변에 불린 비율입니다.
+      <b>칸을 누르면</b> 그 매체의 회차와 글이 열립니다.</p>
+      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사|conv"><b>자사</b></button><span class="hint">그 업체가 소유한 채널 (자기 홈페이지·자기 티스토리)</span></td><td class="good"><button class="mcell" type="button" data-mk="자사|conv"><b>98%</b><span>171/175</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사|thin"><b>98%</b><span>169/173</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL 로 퍼블리싱 플랫폼이 확정되는 곳 (네이버블로그·티스토리·브런치 등)</span></td><td class=""><button class="mcell" type="button" data-mk="블로그|conv"><b>49%</b><span>21/43</span></button></td><td class="na">표본 부족</td><td class=""><button class="mcell" type="button" data-mk="블로그|busy"><b>49%</b><span>21/43</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="사이트|conv"><b>사이트</b></button><span class="hint">자기 도메인을 쓰는 곳. 개인 블로그도 여기 들어온다</span></td><td class="good"><button class="mcell" type="button" data-mk="사이트|conv"><b>70%</b><span>320/460</span></button></td><td class="good"><button class="mcell" type="button" data-mk="사이트|thin"><b>78%</b><span>239/306</span></button></td><td class="good"><button class="mcell" type="button" data-mk="사이트|busy"><b>53%</b><span>81/154</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="플랫폼|conv"><b>플랫폼</b></button><span class="hint">등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)</span></td><td class=""><button class="mcell" type="button" data-mk="플랫폼|conv"><b>45%</b><span>561/1236</span></button></td><td class="good"><button class="mcell" type="button" data-mk="플랫폼|thin"><b>64%</b><span>221/345</span></button></td><td class=""><button class="mcell" type="button" data-mk="플랫폼|busy"><b>38%</b><span>340/891</span></button></td></tr></table>
 
       
       <h3 class="mh">⑤ 자사 사이트 — 우리 도메인은 얼마나 일하나</h3>
@@ -1522,7 +1534,10 @@ a.noti{color:var(--ink3)}
       ★ <b>「소스 없음」</b> = 인용된 글을 다 읽었는데 그 안에 이름이 없었는데도 답변에 불린 회차입니다 —
       작은 글씨의 <b>지도</b>는 그 회차 지도에 <u>실제로 우리가 올라 있던</u> 것,
       <b>불명</b>은 지도에도 없는데 불린 것입니다 — 원인을 아직 못 가렸습니다.
-      <b>한 회차가 여러 매체를 동시에 쓰므로 가로 합이 추천 수를 넘을 수 있습니다.</b> 「소스 없음」만 겹치지 않습니다.</p>
+      <b>한 회차가 여러 매체를 동시에 쓰므로 가로 합이 추천 수를 넘을 수 있습니다.</b> 「소스 없음」만 겹치지 않습니다.<br>
+      ★ <b>분모가 칸마다 다릅니다.</b> 「추천」은 <b>전체 회차</b>가 분모이고,
+      「인용 합계」와 「지도에」의 %는 <b>그 업체가 추천된 회차</b>가 분모입니다 —
+      그래서 칸마다 <b>/분모</b>를 같이 적었습니다. <b>퍼센트끼리 견주지 마십시오.</b></p>
       <div class="mwrap" data-medbiz><p class="msay">계산 중…</p></div>
       <p class="mfoot">⚠️ 전부 <b>상관</b>입니다. 「거기 실리면 오른다」가 아니라 「지금 이기는 업체가 그렇게 되어 있다」까지가 사실입니다.
       혼잡은 <b>우리가 아는 업체 32곳만</b> 세므로 실제 목록글은 더 붐빕니다 —
@@ -1642,12 +1657,25 @@ function kindFor(dom,bi,bd){
  return '사이트';
 }
 const isSkip = d => MR.SKIP.some(x=>(d||'').toLowerCase().includes(x));
+// ★ 글 한 장 자체의 칸 — 「누구 기준」 이 아니라 「이 글이 어디 실렸나」. ①크기·③혼잡이 쓴다.
+//   kindFor 와 **같은 순서**여야 한다. 다르면 같은 글이 화면 자리마다 다른 칸에 떨어진다
+//   (2026-08-27 — 여기가 「홈페이지」 라는 딴 이름을 쓰고 있었다)
+function kindPage(dom,bd){
+ const d=(dom||'').toLowerCase();
+ if(ownerOf(d,bd)>=0) return '자사';
+ if(MR.PLATFORM.some(x=>d.includes(x))) return '플랫폼';
+ if(MR.PRESS.some(x=>d.includes(x)))    return '언론';
+ if(MR.BLOG.some(x=>d.includes(x)))     return '블로그';
+ return '사이트';
+}
 let MED=null;
 function mediaCalc(){
  if(MED && MED.k===CUR) return MED;
  const D0=D[CUR], bn=D0.bn, bd=D0.bd;
  // cell[bi][kind] = {runs:Set, pages:Map(url→{t,d,st})}
  const cell=bn.map(()=>({})), nosrc=bn.map(()=>({run:[],unread:[],inmap:[]})), ansN=bn.map(()=>0);
+ // ★ 페이지 단위 — ①크기·③혼잡·목록글이 쓴다. PG: url → {t,d,k,who:Set(업체번호),runs:Set(회차)}
+ const PG=new Map(), sizeRun={};
  // 전환 표본: pair[kind] = [{hit, crowd}]
  const conv={};
  const runs=[];
@@ -1660,11 +1688,18 @@ function mediaCalc(){
   (r.src||[]).forEach(s=>{
    if(!+s.c) return;                       // 인용된 글만 본다
    if(isSkip(s.d)) return;                 // 업체 목록글이 될 수 없는 곳은 아예 안 센다
+   // ★ 글 한 장을 매체 칸에 담는다 — 업체와 상관없이. ①크기·③혼잡이 여기서 나온다
+   const pk=(s.st!=='ok') ? '미분류' : kindPage(s.d,bd);
+   (sizeRun[pk]||(sizeRun[pk]=new Set())).add(ri);
+   let PGe=PG.get(s.u);
+   if(!PGe){PGe={u:s.u,t:s.t,d:s.d,k:pk,who:new Set(),runs:new Set()};PG.set(s.u,PGe);}
+   PGe.runs.add(ri);
    if(s.st!=='ok'){                        // ★ 본문을 못 읽었다 = 판정 불가 = 미분류
      unread=true; unreadSrc.push(s); return; }
    const who=[]; (s.w||[]).forEach(w=>{const i=bn.indexOf(w); if(i>=0) who.push(i);});
    if(+s.m){const i=bn.indexOf(D0.me); if(i>=0&&!who.includes(i)) who.push(i);}
    who.forEach(i=>{
+    PGe.who.add(i);
     const k=kindFor(s.d,i,bd,bn);
     const c=cell[i][k]||(cell[i][k]={runs:new Set(),all:new Set(),pages:new Map()});
     // ★ 「추천이 어디서 왔나」 표이므로 runs 는 **추천된 회차만** 센다.
@@ -1689,7 +1724,7 @@ function mediaCalc(){
  // ★ 지도는 인용과 겹친다(마롱 118건이 둘 다). 분포에 넣지 않고 따로 센다
  const inmap=bn.map(()=>new Set());
  runs.forEach(({r},ri)=>{ if(!r.mm) return; (r.rb||[]).forEach(i=>inmap[i].add(ri)); });
- MED={k:CUR,bn,cell,nosrc,ansN,conv,runs,inmap,N:runs.length};
+ MED={k:CUR,bn,cell,nosrc,ansN,conv,runs,inmap,PG,sizeRun,N:runs.length};
  return MED;
 }
 function drawSlope(panel, rg, tot){
@@ -1741,8 +1776,13 @@ document.querySelectorAll('.regbar').forEach(bar=>{
       r.dataset.sa=a; r.dataset.sc=c; r.dataset.se=e2;
       r.hidden = (a+c+e2)===0;
       const v=r.querySelectorAll('.rkv');
-      [[v[0],a],[v[1],c],[v[2],e2]].forEach(([el,n])=>{
+      // ★ 갯수도 같이 갈아끼운다 — 퍼센트만 바뀌고 숫자가 그대로면 더 나쁘다
+      const raw = rg==='all'
+        ? [+r.dataset.an, +r.dataset.cn, +r.dataset.en]
+        : [(by[rg]||{}).a|0, (by[rg]||{}).c|0, (by[rg]||{}).s|0];
+      [[v[0],a,raw[0]],[v[1],c,raw[1]],[v[2],e2,raw[2]]].forEach(([el,n,k])=>{
         el.childNodes[0].nodeValue=Math.round(n);
+        const u=el.querySelector('u'); if(u) u.textContent=k;
         el.querySelector('i').style.width=Math.min(n*1.9,100)+'%';});
     });
     // 순위 숫자를 다시 매긴다 — 안 그러면 「1위」 가 숨겨진 채 남는다
@@ -1879,13 +1919,9 @@ function openB(name){
  const b=D[CUR].b[name];if(!b)return;
  $('.drw-h h3').textContent=name+(b.me?' — 우리':'');
  $('.drw-meta').innerHTML='';
- const arts=b.arts.length?`<div class="bcard"><ul class="sl-list">${b.arts.map(a=>`<li>
-   <span class="rk-n">${a.seen}<em>회</em></span>
-   <span><a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t)||'(제목 없음)'}</a>
-   <span class="meta">${a.cit?`<span class="chip cited" title="답변 근거로 쓰임">인용 ${a.cit}회</span>`
-                             :'<span class="chip seenonly" title="검색에는 떴지만 근거로는 안 쓰임">소스만</span>'}
-   <span class="dm">${esc(a.d)}${a.media?' · '+esc(a.media):''}${a.avg!=null?' · 평균순위 '+a.avg:''}</span>
-   ${a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}</span></span></li>`).join('')}</ul>
+ // ★ 글 줄은 artRow 하나만 쓴다 (2026-08-27) — 같은 글인데 서랍마다 다르게 보이면 안 된다
+ const _M=mediaCalc();
+ const arts=b.arts.length?`<div class="bcard"><ul class="sl-list">${b.arts.map(a=>artRow(Object.assign({},a,{crowd:pgCrowd(_M,a.u)}))).join('')}</ul>
    <p class="say">왼쪽 숫자는 그 글이 <b>소스 목록에 든 회차 수</b>입니다.
    ${b.narts>b.arts.length?`전체 ${b.narts}개 중 많이 뜬 ${b.arts.length}개만 보입니다.`:''}</p></div>`
   :'<div class="bcard"><p class="say">이 업체를 다룬 글을 찾지 못했습니다.</p></div>';
@@ -1908,11 +1944,11 @@ function renderMedia(){
  let h='<table class="mtab biz"><tr>'
    +'<th rowspan="2">업체</th>'
    +'<th rowspan="2">추천<span>업체 추천수 / 전체 회차</span></th>'
-   +'<th rowspan="2" class="grpL">인용<span>합계 · 회차</span></th>'
+   +'<th rowspan="2" class="grpL">인용<span>합계 · 추천 회차 중</span></th>'
    +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나
        <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 여섯 칸은 겹칩니다 — 더하지 마시고 왼쪽 「인용 합계」(합집합)를 보십시오.</b></th>`
    +'<th rowspan="2" class="grp2">인용 없이<br><span>왔다 · 회차</span></th>'
-   +'<th rowspan="2" class="mapcol">지도에<br><span>올라 있었다</span></th></tr><tr>'
+   +'<th rowspan="2" class="mapcol">지도에<br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
    +MEDORDER.map(k=>`<th class="sub" title="${esc(MR.HELP[k]||'')}">${esc(k)}<span>회차</span></th>`).join('')+'</tr>';
  rows.forEach(x=>{
   const me=x.n===D0.me?' me':'';
@@ -1923,7 +1959,7 @@ function renderMedia(){
     +(()=>{  // ★ 인용 합계 — 아래 여섯 칸은 겹칠 수 있으므로 회차를 합집합으로 센다
        const u=new Set();
        MEDORDER.forEach(k=>{const c=M.cell[x.i][k]; if(c) c.runs.forEach(r=>u.add(r));});
-       return u.size ? `<td class="cite grpL"><button class="mcell" data-mc="${x.i}|cite"><b>${u.size}</b><span>${Math.round(u.size/x.ans*100)}%</span></button></td>`
+       return u.size ? `<td class="cite grpL"><button class="mcell" data-mc="${x.i}|cite"><b>${u.size}</b><span>/${x.ans} · ${Math.round(u.size/x.ans*100)}%</span></button></td>`
                      : '<td class="cite grpL"><i>—</i></td>';
      })();
   MEDORDER.forEach((k,ki)=>{
@@ -1937,7 +1973,7 @@ function renderMedia(){
   h+= ns.run.length ? `<td class="nosrc"><button class="mcell" data-mc="${x.i}|nosrc"><b>${ns.run.length}</b></button></td>`
       : '<td class="nosrc"><i>—</i></td>';
   const mp=M.inmap[x.i];
-  h+= mp&&mp.size ? `<td class="mapcol"><button class="mcell" data-mc="${x.i}|map"><b>${mp.size}</b><span>${Math.round(mp.size/x.ans*100)}%</span></button></td>`
+  h+= mp&&mp.size ? `<td class="mapcol"><button class="mcell" data-mc="${x.i}|map"><b>${mp.size}</b><span>/${x.ans} · ${Math.round(mp.size/x.ans*100)}%</span></button></td>`
       : '<td class="mapcol"><i>—</i></td>';
   h+='</tr>';
  });
@@ -2002,16 +2038,50 @@ function openCell(key){
    '이 매체의 <b>인용된 글</b> 본문에 이 업체 이름이 있던 회차입니다.'];
  const S=cellSet(M,i,k), ns=(k==='nosrc')?M.nosrc[i]:null;
  const b=D[CUR].b[nm];
- $('.drw-h h3').textContent=`${nm} — ${label}`;
- // ★ 머리는 어느 칸이든 똑같다: 회차 · 글 · 도메인
- $('.drw-meta').innerHTML=`<span>회차 <b>${S.runs.length}</b></span>`
-  +`<span>글 <b>${S.pages.length}</b>편</span>`
-  +`<span>도메인 <b>${new Set(S.pages.map(([,p])=>p.d)).size}</b>곳</span>`
-  +`<span>전체 회차 <b>${M.N}</b></span>`;
  // ★ 업체 통계는 행마다 고정이라 어느 칸을 눌러도 같이 보인다 — 맥락이 끊기지 않게
- const stat = bstat(b);
+ const stat = b ? `<div class="bstat">
+   <div><span>답변 추천 RECOMMENDED</span><b>${b.ans}%</b><span>${b.nb}개 중 ${b.ra}위</span></div>
+   <div><span>소스 SOURCES</span><b>${b.seen}%</b><span>${b.nb}개 중 ${b.rs}위</span></div>
+   <div><span>인용 CITED</span><b>${b.cit}%</b><span>${b.nb}개 중 ${b.rc}위</span></div>
+   <div><span>추천 전환율</span><b>${b.conv}%</b><span>뜬 것 중 답변에 난 비율</span></div></div>` : '';
+ // ★ 글 목록은 업체 서랍과 **똑같은 모양**으로 그린다 (2026-08-27 지시).
+ //   같은 글인데 어디서 보느냐에 따라 보이는 정보가 달라지면 안 된다.
+ //   풍부한 기록(b.arts)에서 찾아 쓰고, 없으면 있는 것만 쓴다
+ const AX=new Map((b&&b.arts?b.arts:[]).map(a=>[a.u,a]));
+ let thin=0;
+ const pages=S.pages.map(([u,pg])=>{
+   const a=AX.get(u);
+   if(a) return Object.assign({},a,{crowd:pgCrowd(M,u)});
+   thin++;                       // arts 는 상위 40개까지만 담긴다 — 그 밖의 글
+   return {u,t:pg.t,d:pg.d,seen:'·',cit:pg.hit?1:0,avg:null,media:'',who:[],crowd:pgCrowd(M,u)};
+ });
+ drawDrawer({title:`${nm} — ${label}`, help, runs:S.runs, pages, stat, tags:ns, thin,
+   empty:(k==='nosrc'||k==='map')
+     ? '이 칸은 <b>인용된 글이 없다는 뜻</b>이라 글 목록이 비어 있는 게 맞습니다.'
+     : '해당하는 글이 없습니다.'});
+}
+// 그 글 한 장에 우리가 아는 업체가 몇 곳 실렸나 (목록글인지 가르는 값)
+function pgCrowd(M,u){const p=M.PG.get(u); return p?p.who.size:0;}
+// ★ 글 한 줄 — 매체표 서랍·업체 서랍·매체 서랍이 **다 이 함수 하나**를 쓴다
+function artRow(a){return `<li>
+   <span class="rk-n">${a.seen}<em>회</em></span>
+   <span><a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t)||'(제목 없음)'}</a>
+   <span class="meta">${a.cit?`<span class="chip cited" title="답변 근거로 쓰임">인용 ${a.cit}회</span>`
+                             :'<span class="chip seenonly" title="검색에는 떴지만 근거로는 안 쓰임">소스만</span>'}
+   ${a.crowd>=3?`<span class="chip busy" title="한 글에 여러 업체가 함께 실려 있다 — 「○○ BEST 10」 같은 목록글">업체 ${a.crowd}곳이 실린 목록글</span>`:''}
+   <span class="dm">${esc(a.d)}${a.media?' · '+esc(a.media):''}${a.avg!=null?' · 평균순위 '+a.avg:''}</span>
+   ${a.who&&a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}</span></span></li>`;}
+// ★★ 서랍은 **하나**다. 어느 칸을 눌러도 같은 자리에 같은 모양이 나온다 (2026-08-27 지시).
+//    다른 건 「무엇으로 걸렀나」 뿐이다. 칸마다 화면을 새로 만들면 보는 사람이 매번 다시 배운다
+function drawDrawer(o){
+ const M=MED||mediaCalc(), ns=o.tags;
+ $('.drw-h h3').textContent=o.title;
+ $('.drw-meta').innerHTML=`<span>회차 <b>${o.runs.length}</b></span>`
+  +`<span>글 <b>${o.pages.length}</b>편</span>`
+  +`<span>도메인 <b>${new Set(o.pages.map(a=>a.d)).size}</b>곳</span>`
+  +`<span>전체 회차 <b>${M.N}</b></span>`;
  // ① 회차 목록 — 언제나 같은 자리
- const runLis = S.runs.map(ri=>{
+ const runLis=o.runs.map(ri=>{
    const R=M.runs[ri]; if(!R) return '';
    let tag='';
    if(ns){ tag = ns.inmap.includes(ri) ? '<span class="chip cited">지도에 있음</span>'
@@ -2021,40 +2091,103 @@ function openCell(key){
    return `<li><button type="button" data-goq="${esc(R.q)}"><span>${esc(R.q)}</span>`
      +`<span class="sc">${tag}${tag?' · ':''}인용 ${nc}곳<i class="goq">질문으로 →</i></span></button></li>`;
  }).join('');
- const runBox = S.runs.length
+ const runBox=o.runs.length
    ? `<div class="bcard"><ul class="beat">${runLis}</ul></div>`
    : '<div class="bcard"><p class="say">해당하는 회차가 없습니다.</p></div>';
- // ② 글 목록 — 언제나 같은 자리. ★ 업체 서랍과 **똑같은 모양**으로 그린다 (2026-08-27 지시)
- //    전에는 여기만 제목·도메인만 있는 초라한 줄이었다. 같은 글인데 어디서 보느냐에 따라
- //    보이는 정보가 달라지면 안 된다. 풍부한 기록(b.arts)에서 찾아 쓰고, 없으면 있는 것만 쓴다.
- const AX = new Map((b&&b.arts?b.arts:[]).map(a=>[a.u,a]));
- const artRow = (a)=>`<li>
-   <span class="rk-n">${a.seen}<em>회</em></span>
-   <span><a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t)||'(제목 없음)'}</a>
-   <span class="meta">${a.cit?`<span class="chip cited" title="답변 근거로 쓰임">인용 ${a.cit}회</span>`
-                             :'<span class="chip seenonly" title="검색에는 떴지만 근거로는 안 쓰임">소스만</span>'}
-   <span class="dm">${esc(a.d)}${a.media?' · '+esc(a.media):''}${a.avg!=null?' · 평균순위 '+a.avg:''}</span>
-   ${a.who&&a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}</span></span></li>`;
- let thin=0;
- const pageLis = S.pages.map(([u,pg])=>{
-   const a=AX.get(u);
-   if(a) return artRow(a);
-   thin++;                       // arts 는 상위 40개까지만 담긴다 — 그 밖의 글
-   return artRow({u, t:pg.t, d:pg.d, seen:'·', cit:pg.hit?1:0, avg:null, media:'', who:[]});
- }).join('');
- const pageBox = S.pages.length
-   ? `<div class="bcard"><ul class="sl-list">${pageLis}</ul>`
-     +(thin?`<p class="say">그중 <b>${thin}편</b>은 이 업체의 상위 40개 글 밖이라
+ // ② 글 목록 — 언제나 같은 자리
+ const pageBox=o.pages.length
+   ? `<div class="bcard"><ul class="sl-list">${o.pages.map(artRow).join('')}</ul>`
+     +(o.thin?`<p class="say">그중 <b>${o.thin}편</b>은 이 업체의 상위 40개 글 밖이라
         인용 횟수·평균순위를 함께 못 보여드립니다.</p>`:'')
      +`</div>`
-   : `<div class="bcard"><p class="say">${k==='nosrc'||k==='map'
-        ? '이 칸은 <b>인용된 글이 없다는 뜻</b>이라 글 목록이 비어 있는 게 맞습니다.'
-        : '해당하는 글이 없습니다.'}</p></div>`;
- $('.drw-b').innerHTML = stat
-   + `<p class="say">${help}</p>`
-   + `<h4 class="bh">그 회차 <i>${S.runs.length}개</i></h4>${runBox}`
-   + `<h4 class="bh">그 글 <i>${S.pages.length}편</i></h4>${pageBox}`;
+   : `<div class="bcard"><p class="say">${o.empty||'해당하는 글이 없습니다.'}</p></div>`;
+ $('.drw-b').innerHTML=(o.stat||'')
+   + `<p class="say">${o.help}</p>`
+   + `<h4 class="bh">그 회차 <i>${o.runs.length}개</i></h4>${runBox}`
+   + `<h4 class="bh">그 글 <i>${o.pages.length}편</i></h4>${pageBox}`;
  wire(); openDrw();
+}
+// ★ 매체 하나를 통째로 여는 서랍 — ①크기 막대 · ③혼잡 줄 · ②전환 칸 · 판정 카드가 전부 여기로 온다
+const MKDESC={
+ size: k=>[`${k} — 인용된 회차`,
+   `<b>${esc(k)}</b> 글이 답변의 근거로 쓰인 회차입니다. ${esc(MR.HELP[k]||'')}<br>
+    한 회차가 여러 매체를 동시에 쓰므로 매체별 회차를 더하면 전체보다 커집니다.`],
+ crowd: k=>[`${k} — 인용된 글`,
+   `<b>${esc(k)}</b>로 분류된 글입니다. ${esc(MR.HELP[k]||'')}<br>
+    「같이 나온 곳」이 그 글에 함께 실린 업체입니다 — 많을수록 <b>목록글(리스티클)</b>입니다.`],
+ busy: k=>[`${k} — 업체 3곳 이상이 실린 목록글`,
+   `한 글에 우리가 아는 업체가 <b>3곳 이상</b> 실린 글입니다. 「○○ BEST 10」 같은 목록글이 여기 모입니다.<br>
+    이런 글에 <b>이름만 올리면 전환이 떨어집니다</b> — 등재 자체가 목적이 되면 헛일인 이유입니다.`],
+ thin: k=>[`${k} — 1~2곳만 실린 글`,
+   `한 글에 우리가 아는 업체가 <b>1~2곳</b>만 실린 글입니다. 목록글이 아니라 그 업체를 다룬 글에 가깝습니다.`],
+ conv: k=>[`${k} — 실린 뒤 답변에 불렸나`,
+   `<b>${esc(k)}</b> 글에 업체 이름이 실린 회차와 글입니다.<br>
+    ⚠️ 위에 적힌 %는 <b>(회차 × 업체) 쌍</b>으로 센 것이라 아래 회차 수·글 수와 <b>단위가 다릅니다.</b>
+    같은 회차에 두 업체가 실리면 쌍은 둘, 회차는 하나입니다.`],
+};
+function openMedia(kind,mode){
+ const M=mediaCalc();
+ let pages=[...M.PG.values()].filter(p=>p.k===kind);
+ if(mode==='busy') pages=pages.filter(p=>p.who.size>=3);
+ if(mode==='thin') pages=pages.filter(p=>p.who.size>=1&&p.who.size<=2);
+ if(mode==='conv') pages=pages.filter(p=>p.who.size>=1);
+ pages.sort((a,b)=>(b.who.size-a.who.size)||(b.runs.size-a.runs.size));
+ let runs;
+ if(mode==='size') runs=[...(M.sizeRun[kind]||[])];
+ else {const u=new Set(); pages.forEach(p=>p.runs.forEach(r=>u.add(r))); runs=[...u];}
+ const [title,help]=(MKDESC[mode]||MKDESC.crowd)(kind);
+ drawDrawer({title,help,runs,
+   pages:pages.map(p=>({u:p.u,t:p.t,d:p.d,seen:p.runs.size,cit:p.runs.size,avg:null,media:'',
+                        who:[...p.who].map(i=>M.bn[i]),crowd:p.who.size})),
+   empty:kind==='미분류'
+     ? '본문을 못 읽은 글이라 <b>누가 실렸는지 셀 수 없습니다.</b> 크롤로 줄여야 하는 몫입니다.'
+     : '해당하는 글이 없습니다.'});
+}
+function wireMK(){$$('[data-mk]').forEach(b=>{if(b.dataset.mkw)return; b.dataset.mkw='1';
+  b.onclick=()=>{const v=b.dataset.mk.split('|'); openMedia(v[0],v[1]);};});}
+// ★ ① 크기 — 파이썬이 아니라 화면이 그린다. 그래야 매체표와 같은 계산이고, 누를 수 있다
+function renderSize(){
+ const box=$('[data-msize]'); if(!box) return;
+ const M=mediaCalc();
+ const rows=MEDORDER.map(k=>[k,(M.sizeRun[k]||new Set()).size]).filter(x=>x[1]>0)
+   .sort((a,b)=>b[1]-a[1]);
+ if(!rows.length){box.innerHTML='<p class="msay">인용된 글이 하나도 없어 크기를 잴 수 없습니다.</p>';return;}
+ const mx=rows[0][1];
+ box.innerHTML=rows.map(([k,n])=>`<div class="mrow">
+   <button class="mcell ml" type="button" data-mk="${esc(k)}|size" title="${esc(MR.HELP[k]||'')}">${esc(k)}</button>
+   <button class="mbar" type="button" data-mk="${esc(k)}|size" aria-label="${esc(k)} ${n}회차 자세히"><i style="width:${Math.round(n/mx*100)}%"></i></button>
+   <span class="mv">${n}회차 <em>${Math.round(n/M.N*100)}%</em></span></div>`).join('');
+ wireMK();
+}
+// ★ ③ 혼잡 — 「붐비는 글」 이 실제로 뭔지 눌러서 본다.
+//   「○○ 정형외과 BEST 10」 같은 목록글이냐 아니냐가 처방을 가른다 (2026-08-27 지시)
+function renderCrowd(){
+ const box=$('[data-mcrowd]'); if(!box) return;
+ const M=mediaCalc(), by={};
+ M.PG.forEach(p=>{(by[p.k]||(by[p.k]=[])).push(p);});
+ const ks=MEDORDER.filter(k=>k!=='미분류'&&by[k]&&by[k].length>=10)
+   .sort((a,b)=>by[b].length-by[a].length);
+ const un=(by['미분류']||[]).length;
+ if(!ks.length){box.innerHTML='<p class="msay">글이 10종을 넘는 매체가 없어 혼잡을 재지 않았습니다.</p>';return;}
+ let h='<table class="mtab crowd"><tr><th>매체</th><th>인용된 글</th><th>평균 업체 수</th>'
+      +'<th>3곳 이상 붐비는 목록글</th></tr>';
+ ks.forEach(k=>{
+  const v=by[k], busy=v.filter(p=>p.who.size>=3);
+  const avg=v.reduce((s,p)=>s+p.who.size,0)/v.length, r=busy.length/v.length*100;
+  h+=`<tr><td><button class="mcell" type="button" data-mk="${esc(k)}|crowd" title="${esc(MR.HELP[k]||'')}">${esc(k)}</button></td>`
+    +`<td><button class="mcell" type="button" data-mk="${esc(k)}|crowd">${v.length}종</button></td>`
+    +`<td>${avg.toFixed(1)}곳</td>`
+    +`<td class="${r>=20?'hot':''}">`+(busy.length
+        ? `<button class="mcell" type="button" data-mk="${esc(k)}|busy"><b>${Math.round(r)}%</b><span>${busy.length}편 보기</span></button>`
+        : '<i>0%</i>')+'</td></tr>';
+ });
+ // ★ 못 세는 것을 조용히 빼지 않는다. 왜 빠졌는지 말하고, 그것도 눌러서 볼 수 있게 한다
+ box.innerHTML=h+'</table>'+(un
+   ? `<p class="msay">※ 본문을 못 읽은 <b>미분류 ${un}편</b>은 이 표에서 뺐습니다 —
+      몇 곳이 실렸는지 셀 수가 없기 때문입니다.
+      <button class="mcell" type="button" data-mk="미분류|crowd">그 ${un}편 보기 ›</button></p>`
+   : '');
+ wireMK();
 }
 function wire(){
  $$('[data-goq]').forEach(btn=>btn.onclick=()=>openQ(btn.dataset.goq));
@@ -2081,7 +2214,8 @@ function dock(){
  $('.dock').classList.toggle('on', r.bottom<70);}
 addEventListener('scroll',dock,{passive:true});
 $('[data-dk-go]').onclick=()=>document.getElementById('s-'+CUR+'-3').scrollIntoView({behavior:'smooth'});
-setPanel(Object.keys(D)[0]); renderMedia(); dock();   // ★ 한 페이지 = 한 업체다
+setPanel(Object.keys(D)[0]); renderMedia(); renderSize(); renderCrowd(); wireMK(); dock();
+// ↑ ★ 한 페이지 = 한 업체다. wireMK 는 서버가 찍어둔 칸(②전환 표·판정 카드)도 이어준다
 
 // ★ 강제 새로고침 — 주소에 새 도장을 달아 다시 부른다.
 //   location.reload() 는 캐시를 그대로 쓸 수 있어 안 쓴다
