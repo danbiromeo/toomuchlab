@@ -213,13 +213,15 @@ h3{font-size:15px;margin-bottom:4px}
 .mtab.conv td.na{color:#B6BAC6;font-size:11px}
 .mtab.biz td span{font-size:11px;color:var(--mut)}
 .mtab.biz th.grp{text-align:center;background:var(--surf2);border-bottom:1px solid var(--line)}
+/* ★ 세로선이 없어 어느 묶음인지 안 보였다 (2026-08-27 지적)
+   인용 묶음 = 양쪽 실선 · 지도 = 굵은 선. 눈으로 세 덩어리가 갈려야 한다 */
+.mtab.biz th.grpL,.mtab.biz td.grpL{border-left:2px solid var(--line)}
+.mtab.biz th.grp2,.mtab.biz td.nosrc{border-left:2px solid var(--line);background:var(--surf2)}
 .mtab.biz th.sub{font-size:10px;font-weight:600}
-.mtab.biz th.grp2{border-left:1px solid var(--line)}
 .mtab.biz th span{display:block;font-weight:400;opacity:.7}
-.mtab.biz th.mapcol,.mtab.biz td.mapcol{border-left:3px solid var(--ink);background:#F4FBE9}
+.mtab.biz th.mapcol,.mtab.biz td.mapcol{border-left:4px solid var(--ink);background:#F4FBE9}
 .mtab.biz td.mapcol b{font-size:14px}
 .mtab.biz td.mapcol span{display:block;font-size:10.5px;color:var(--mut)}
-.mtab.biz td.nosrc{border-left:1px solid var(--line)}
 .spread{margin:12px 0 0;font-size:12.5px;color:var(--mut);background:var(--surf2);
  border-radius:10px;padding:10px 13px;line-height:1.65}
 .spread b{color:var(--ink)}
@@ -244,9 +246,14 @@ h3{font-size:15px;margin-bottom:4px}
 .xgo b{display:block;font-size:14px;color:#C6F24E;margin-bottom:3px}
 .xgo span{display:block;font-size:12px;opacity:.82;line-height:1.6}
 .bstamp{color:var(--ink3)}
-.hardref{font:inherit;font-size:11px;font-weight:600;color:var(--mut);cursor:pointer;
- background:#fff;border:1px solid var(--line);border-radius:99px;padding:2px 10px}
-.hardref:hover{background:var(--ink);color:#fff;border-color:var(--ink)}
+.hardref{position:fixed;top:12px;right:14px;z-index:60;
+ font:inherit;font-size:12px;font-weight:700;color:#fff;cursor:pointer;
+ background:var(--ink);border:0;border-radius:99px;padding:8px 15px;
+ box-shadow:0 3px 12px rgba(20,22,28,.28)}
+.hardref:hover{background:var(--pri)}
+.freshbar{position:fixed;top:0;left:0;right:0;z-index:70;background:#C6F24E;color:#14161C;
+ font-size:12.5px;font-weight:700;text-align:center;padding:8px}
+@media (max-width:640px){.hardref{top:auto;bottom:64px;right:12px;font-size:11.5px;padding:7px 13px}}
 .back{font-size:11.5px;font-weight:600;color:var(--mut);text-decoration:none;
  border:1px solid var(--line);background:#fff;border-radius:99px;padding:3px 11px;
  margin-left:2px;white-space:nowrap}
@@ -556,20 +563,21 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-0416">← 목록</a>
+    <a class="back" href="../?v=20260827-0418">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-0416">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0416">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-0416">로젠이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-0418">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0418">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-0418">로젠이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
+<button class="hardref" type="button" data-hardref
+  title="브라우저 캐시를 건너뛰고 최신을 다시 받습니다">↻ 최신으로</button>
+<div class="freshbar" data-fresh hidden>새 화면이 나왔습니다 — 불러오는 중…</div>
 <main><section class="brand" id="p-malong" data-panel>
   <div class="strip"><span><b>마롱컴퍼니</b> 조형물 제작 · B2B</span>
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0416</span>
-    <button class="hardref" type="button" data-hardref
-      title="브라우저 캐시를 건너뛰고 최신을 다시 받습니다">↻ 최신으로</button>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0418</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -1758,19 +1766,20 @@ function renderMedia(){
  // ★ 두 층 + 굵은 선. 지도는 오른쪽 별도 칸 — 인용과 겹치므로 분포에 못 넣는다
  let h='<table class="mtab biz"><tr>'
    +'<th rowspan="2">업체</th><th rowspan="2">추천</th>'
-   +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나</th>`
+   +`<th colspan="${MEDORDER.length}" class="grp grpL">인용을 거쳐 왔다 — 어느 매체였나</th>`
    +'<th rowspan="2" class="grp2">인용 없이<br><span>왔다</span></th>'
    +'<th rowspan="2" class="mapcol">지도에<br><span>올라 있었다</span></th></tr><tr>'
-   +MEDORDER.map(k=>`<th class="sub" title="${esc(MR.HELP[k]||'')}">${esc(k)}</th>`).join('')+'</tr>';
+   +MEDORDER.map((k,ki)=>`<th class="sub${ki===0?' grpL':''}" title="${esc(MR.HELP[k]||'')}">${esc(k)}</th>`).join('')+'</tr>';
  rows.forEach(x=>{
   const me=x.n===D0.me?' me':'';
   h+=`<tr class="${me}"><td class="nm">${esc(x.n)}</td>`
     +`<td class="an"><b>${x.ans}</b><span>/${M.N}</span></td>`;
-  MEDORDER.forEach(k=>{
+  MEDORDER.forEach((k,ki)=>{
    const c=M.cell[x.i][k];
-   h+= c&&c.runs.size ? `<td><button class="mcell" data-mc="${x.i}|${esc(k)}"><b>${c.runs.size}</b>`
+   const cls = ki===0 ? ' class="grpL"' : '';
+   h+= c&&c.runs.size ? `<td${cls}><button class="mcell" data-mc="${x.i}|${esc(k)}"><b>${c.runs.size}</b>`
            +`<span>${c.pages.size}편/${new Set([...c.pages.values()].map(p=>p.d)).size}곳</span></button></td>`
-         : '<td><i>—</i></td>';
+         : `<td${cls}><i>—</i></td>`;
   });
   const ns=M.nosrc[x.i];
   h+= ns.run.length ? `<td class="nosrc"><button class="mcell" data-mc="${x.i}|nosrc"><b>${ns.run.length}</b></button></td>`
@@ -1853,4 +1862,33 @@ function dock(){
 addEventListener('scroll',dock,{passive:true});
 $('[data-dk-go]').onclick=()=>document.getElementById('s-'+CUR+'-3').scrollIntoView({behavior:'smooth'});
 setPanel(Object.keys(D)[0]); renderMedia(); dock();   // ★ 한 페이지 = 한 업체다
+
+// ★ 강제 새로고침 — 주소에 새 도장을 달아 다시 부른다.
+//   location.reload() 는 캐시를 그대로 쓸 수 있어 안 쓴다
+$$('[data-hardref]').forEach(b=>b.onclick=()=>{
+  const u=new URL(location.href); u.searchParams.set('v', Date.now());
+  location.replace(u.toString());
+});
+
+// ★★ 스스로 최신인지 확인한다 (2026-08-27).
+//   GitHub Pages 가 HTML 에 max-age=600 을 주므로 올려도 10분간 옛 판이 보인다.
+//   사람이 「새로고침이 안 된다」 고 느끼는 게 이것이다 → 화면이 알아서 갈아치운다.
+//   ⚠️ 되풀이 방지 — 같은 도장으로는 한 번만 갈아친다(sessionStorage)
+(async function checkFresh(){
+  const mine=(document.body.innerText.match(/화면 (\d{8}-\d{4})/)||[])[1];
+  if(!mine) return;
+  try{
+    const u=new URL(location.pathname, location.origin);
+    u.searchParams.set('__fresh', Date.now());
+    const t=await (await fetch(u,{cache:'no-store'})).text();
+    const now=(t.match(/화면 (\d{8}-\d{4})/)||[])[1];
+    if(!now || now===mine) return;
+    if(sessionStorage.getItem('aeo-fresh')===now) return;
+    sessionStorage.setItem('aeo-fresh', now);
+    const bar=document.querySelector('[data-fresh]');
+    if(bar){ bar.hidden=false; bar.textContent='새 화면이 나왔습니다 ('+now+') — 불러오는 중…'; }
+    setTimeout(function(){ const v=new URL(location.href); v.searchParams.set('v', now);
+      location.replace(v.toString()); }, 700);
+  }catch(e){ /* 못 물어봐도 화면은 그대로 쓴다 */ }
+})();
 </script></body></html>
