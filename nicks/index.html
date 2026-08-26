@@ -120,7 +120,9 @@ h3{font-size:15px;margin-bottom:4px}
 .wleg b{margin-left:auto;font-weight:700}
 .wleg em{width:36px;text-align:right}
 /* 지표 */
-.mid{display:grid;grid-template-columns:minmax(240px,1fr) minmax(310px,1.1fr) minmax(280px,1fr);
+/* ★ 순서 — 수치 → 브랜드 랭킹(지역 버튼이 여기 있다) → 노출에서 인용으로.
+   지역 버튼이 기울기 그림을 바꾸므로 조작하는 칸이 앞에 와야 한다 (2026-08-26 지적) */
+.mid{display:grid;grid-template-columns:minmax(240px,1fr) minmax(280px,1fr) minmax(310px,1.1fr);
  gap:14px;align-items:stretch}
 .mid > *{background:var(--surf2);border-radius:var(--r2);padding:18px 20px}
 .mid > .figs{background:none;padding:0}
@@ -606,14 +608,6 @@ a.noti{color:var(--ink3)}
             <tr><td>이 판 22개 업체 평균</td><td>37%</td></tr>
           </tbody></table></div>
       </div>
-      <div class="sw"><h3>노출에서 인용으로 <em class="swrg">전체</em></h3>
-        <div class="swbox" data-slope><svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl me"/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,30 200,30" class="sl up"/><path d="M142,30 C171.0,30 171.0,60 200,60" class="sl down"/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><text x="96" y="34" class="slb se">썸띵어바웃커피</text><text x="130" y="34" class="sln se">61%</text><text x="96" y="64" class="slb se">어퍼앤언더</text><text x="130" y="64" class="sln se">58%</text><text x="96" y="94" class="slb se me">셀렉티드 닉스</text><text x="130" y="94" class="sln se me">54%</text><text x="96" y="124" class="slb se">알베르</text><text x="130" y="124" class="sln se">48%</text><text x="96" y="154" class="slb se">퍼스트커피랩</text><text x="130" y="154" class="sln se">43%</text><text x="96" y="184" class="slb se">트리오드</text><text x="130" y="184" class="sln se">31%</text><text x="96" y="214" class="slb se">카페 정월</text><text x="130" y="214" class="sln se">15%</text><text x="96" y="244" class="slb se">AB 카페</text><text x="130" y="244" class="sln se">13%</text><text x="212" y="34" class="sln">38%</text><text x="248" y="34" class="slb">어퍼앤언더</text><text x="212" y="64" class="sln">34%</text><text x="248" y="64" class="slb">썸띵어바웃커피</text><text x="212" y="94" class="sln me">33%</text><text x="248" y="94" class="slb me">셀렉티드 닉스</text><text x="212" y="124" class="sln">26%</text><text x="248" y="124" class="slb">알베르</text><text x="212" y="154" class="sln">25%</text><text x="248" y="154" class="slb">퍼스트커피랩</text><text x="212" y="184" class="sln">12%</text><text x="248" y="184" class="slb">트리오드</text><text x="212" y="214" class="sln">7%</text><text x="248" y="214" class="slb">카페 정월</text><text x="212" y="244" class="sln">3%</text><text x="248" y="244" class="slb">AB 카페</text></svg></div>
-        <dl class="lg">
-          <dt class="lg-e">노출</dt><dd>검색결과에 뜬 순위</dd>
-          <dt class="lg-c">인용</dt><dd>답변 근거로 쓰인 순위</dd>
-          <dt class="lg-d"><i class="ln down"></i></dt><dd>선이 내려감 — 많이 떴는데 덜 쓰임</dd>
-          <dt class="lg-u"><i class="ln up"></i></dt><dd>선이 올라감 — 적게 떴는데 잘 쓰임</dd>
-        </dl></div>
       <aside class="rks"><h3>브랜드 랭킹</h3>
         <dl class="defs">
           <dt class="d-a">추천</dt><dd>답변 문장에 이름이 났다</dd>
@@ -628,7 +622,7 @@ a.noti{color:var(--ink3)}
         <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">노출</span><span></span></div>
         <div class="rkl"><button class="rk" type="button"
             data-brand="알베르"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
             data-a="52.3" data-c="26.3" data-e="47.9">
           <span class="rkr">1</span>
           <span class="rkn">알베르</span>
@@ -637,7 +631,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">48<em>%</em><i style="width:91%"></i></span>
           <span class="rkgo">›</span></button><button class="rk me" type="button"
             data-brand="셀렉티드 닉스"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="42.2" data-c="33.0" data-e="54.0">
           <span class="rkr">2</span>
           <span class="rkn">셀렉티드 닉스</span>
@@ -646,7 +640,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">54<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="어퍼앤언더"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
             data-a="41.1" data-c="38.3" data-e="58.2">
           <span class="rkr">3</span>
           <span class="rkn">어퍼앤언더</span>
@@ -655,7 +649,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">58<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="썸띵어바웃커피"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
             data-a="36.9" data-c="34.0" data-e="60.7">
           <span class="rkr">4</span>
           <span class="rkn">썸띵어바웃커피</span>
@@ -664,7 +658,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">61<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="AB 카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}}"
             data-a="21.6" data-c="3.5" data-e="12.8">
           <span class="rkr">5</span>
           <span class="rkn">AB 카페</span>
@@ -700,7 +694,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">2<em>%</em><i style="width:4%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="할리스"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 135, &quot;c&quot;: 37, &quot;a&quot;: 52, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 5, &quot;a&quot;: 7, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 5, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 135, &quot;c&quot;: 37, &quot;a&quot;: 52, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 5, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 5, &quot;a&quot;: 7, &quot;n&quot;: 65}}"
             data-a="12.8" data-c="9.6" data-e="31.6">
           <span class="rkr">9</span>
           <span class="rkn">할리스</span>
@@ -718,7 +712,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">31<em>%</em><i style="width:59%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="인포메이션카페"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}}"
             data-a="7.9" data-c="7.3" data-e="19.8">
           <span class="rkr">11</span>
           <span class="rkn">인포메이션카페</span>
@@ -745,7 +739,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">24<em>%</em><i style="width:45%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="수수커피"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
             data-a="5.9" data-c="8.6" data-e="25.5">
           <span class="rkr">14</span>
           <span class="rkn">수수커피</span>
@@ -754,7 +748,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">25<em>%</em><i style="width:48%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="크라프트카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 120, &quot;c&quot;: 43, &quot;a&quot;: 28, &quot;n&quot;: 391}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남대로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 120, &quot;c&quot;: 43, &quot;a&quot;: 28, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="5.7" data-c="8.8" data-e="25.3">
           <span class="rkr">15</span>
           <span class="rkn">크라프트카페</span>
@@ -790,7 +784,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">8<em>%</em><i style="width:15%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="베이커스트 브라운"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="4.9" data-c="17.1" data-e="38.9">
           <span class="rkr">19</span>
           <span class="rkn">베이커스트 브라운</span>
@@ -808,7 +802,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="리퍼크 reperk"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}, &quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}}"
             data-a="3.9" data-c="0.2" data-e="1.2">
           <span class="rkr">21</span>
           <span class="rkn">리퍼크 reperk</span>
@@ -817,6 +811,15 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">1<em>%</em><i style="width:2%"></i></span>
           <span class="rkgo">›</span></button></div>
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
+      <div class="sw"><h3>노출에서 인용으로 <em class="swrg">전체</em></h3>
+        <div class="swbox" data-slope><svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl me"/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,30 200,30" class="sl up"/><path d="M142,30 C171.0,30 171.0,60 200,60" class="sl down"/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><text x="96" y="34" class="slb se">썸띵어바웃커피</text><text x="130" y="34" class="sln se">61%</text><text x="96" y="64" class="slb se">어퍼앤언더</text><text x="130" y="64" class="sln se">58%</text><text x="96" y="94" class="slb se me">셀렉티드 닉스</text><text x="130" y="94" class="sln se me">54%</text><text x="96" y="124" class="slb se">알베르</text><text x="130" y="124" class="sln se">48%</text><text x="96" y="154" class="slb se">퍼스트커피랩</text><text x="130" y="154" class="sln se">43%</text><text x="96" y="184" class="slb se">트리오드</text><text x="130" y="184" class="sln se">31%</text><text x="96" y="214" class="slb se">카페 정월</text><text x="130" y="214" class="sln se">15%</text><text x="96" y="244" class="slb se">AB 카페</text><text x="130" y="244" class="sln se">13%</text><text x="212" y="34" class="sln">38%</text><text x="248" y="34" class="slb">어퍼앤언더</text><text x="212" y="64" class="sln">34%</text><text x="248" y="64" class="slb">썸띵어바웃커피</text><text x="212" y="94" class="sln me">33%</text><text x="248" y="94" class="slb me">셀렉티드 닉스</text><text x="212" y="124" class="sln">26%</text><text x="248" y="124" class="slb">알베르</text><text x="212" y="154" class="sln">25%</text><text x="248" y="154" class="slb">퍼스트커피랩</text><text x="212" y="184" class="sln">12%</text><text x="248" y="184" class="slb">트리오드</text><text x="212" y="214" class="sln">7%</text><text x="248" y="214" class="slb">카페 정월</text><text x="212" y="244" class="sln">3%</text><text x="248" y="244" class="slb">AB 카페</text></svg></div>
+        <dl class="lg">
+          <dt class="lg-e">노출</dt><dd>검색결과에 뜬 순위</dd>
+          <dt class="lg-c">인용</dt><dd>답변 근거로 쓰인 순위</dd>
+          <dt class="lg-d"><i class="ln down"></i></dt><dd>선이 내려감 — 많이 떴는데 덜 쓰임</dd>
+          <dt class="lg-u"><i class="ln up"></i></dt><dd>선이 올라감 — 적게 떴는데 잘 쓰임</dd>
+        </dl></div>
+
     </div></section>
 
   <div class="warnbox"><b>⚠️ 서로 다른 두 곳에서 쟀습니다 — 웹앱 452회 · API 39회.</b>
