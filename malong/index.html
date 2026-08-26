@@ -607,11 +607,14 @@ a.noti{color:var(--ink3)}
   <section class="card sec" id="s-malong-2">
     <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 — 경쟁사와 견주면</h2>
       <div class="terms"><b>세 칸이 무슨 뜻인가</b>
-        <span><i>소스</i>AI 가 답을 만들며 훑어본 <b>소스 목록</b>에 그 업체를 다룬 글이 있었다</span>
+        <span><i>소스</i>AI 가 답을 만들며 훑어본 <b>소스 목록</b>에 그 업체를 다룬 글이 있었다.
+          ChatGPT 화면의 「소스 · 13」 이 그것이다 (기술 용어로는 retrieval)</span>
         <span><i>인용</i>그 소스 <b>가운데 실제로 근거로 쓰인</b> 것</span>
         <span><i>추천</i>소스·인용과 <b>상관없이</b> 답변 본문에서 그 업체를 추천했다</span>
         <em>인용은 언제나 소스 안에 있다(3판 모두 예외 0건). 그러나 <b>추천은 별개다</b> —
-        소스에도 인용에도 없이 추천되는 일이 자주 있다(지도·AI 가 이미 아는 것).</em></div>
+        소스에도 인용에도 없이 추천되는 일이 자주 있다(지도·AI 가 이미 아는 것).<br>
+        ⚠️ 「추천」 은 <b>답변에 이름이 난 것</b>을 센다. 질문이 「○○ 추천해줘」 형이라 지금은 둘이 같지만,
+        「○○ 어때?」 같은 질문을 늘리면 이름이 나도 추천이 아닐 수 있다.</em></div>
       <p>26개 업체를 같은 자로 재서 견줬습니다. 업체 이름을 누르면 그 업체가 어느 글에서 인용되는지 열립니다.</p>
       </header>
     <div class="card-b mid">
@@ -626,12 +629,12 @@ a.noti{color:var(--ink3)}
           <span class="rt">26개 업체 중 <b data-rank>1위</b></span>
           <p class="say">AI가 근거로 쓴 글 안에 <b>우리를 다룬 글</b>이 있었던 비율입니다.
             추천의 근거가 우리 쪽에 있었는지를 말해줍니다.</p></div>
-        <div class="fig" data-fig="e"><span class="lab">소스에 듦 <i>IN SOURCES</i></span>
+        <div class="fig" data-fig="e"><span class="lab">소스 <i>SOURCES</i></span>
           <span class="v" data-v>53.4<em>%</em></span>
           <span class="rt">26개 업체 중 <b data-rank>1위</b></span>
           <p class="say">AI가 검색해서 훑어본 결과 안에 우리를 다룬 글이 있었던 회차 비율입니다.
             여기 들어가야 인용될 기회가 생깁니다.</p></div>
-        <div class="fig conv" data-fig="v"><span class="lab">소스→추천 전환율 <i>RECOMMENDED ÷ IN SOURCES</i></span>
+        <div class="fig conv" data-fig="v"><span class="lab">소스→추천 전환율 <i>RECOMMENDED ÷ SOURCES</i></span>
           <span class="v" data-v>91<em>%</em></span>
           <p class="say">우리를 다룬 글이 <b>소스 목록에 든 회차</b>만 놓고 봤을 때,
             그중 <b>답변에 우리가 나온</b> 비율입니다. 안 뜬 회차는 빼고 셉니다.</p>
@@ -1703,7 +1706,7 @@ function openB(name){
   :'<div class="bcard"><p class="say">우리보다 앞선 질문이 없습니다.</p></div>';
  $('.drw-b').innerHTML=`<div class="bstat">
    <div><span>답변 추천 RECOMMENDED</span><b>${b.ans}%</b><span>${b.nb}개 중 ${b.ra}위</span></div>
-   <div><span>소스에 듦 IN SOURCES</span><b>${b.seen}%</b><span>${b.nb}개 중 ${b.rs}위</span></div>
+   <div><span>소스 SOURCES</span><b>${b.seen}%</b><span>${b.nb}개 중 ${b.rs}위</span></div>
    <div><span>인용 CITED</span><b>${b.cit}%</b><span>${b.nb}개 중 ${b.rc}위</span></div>
    <div><span>추천 전환율</span><b>${b.conv}%</b><span>뜬 것 중 답변에 난 비율</span></div></div>
    <h4 class="bh">${esc(name)}를 다룬 글 <i>${b.narts}개 · 그중 인용된 것 ${b.ncit}개</i></h4>${arts}
