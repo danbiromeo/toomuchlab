@@ -241,6 +241,17 @@ h3{font-size:15px;margin-bottom:4px}
  padding:15px 18px;margin:0 0 16px;font-size:13px}
 .warnbox b{display:block;margin-bottom:5px}
 .warnbox p{margin:0;color:#7A6534;line-height:1.65}
+/* ★ 세 낱말 설명 — 박스 안에 가두고 작은 글씨로. 읽는 흐름을 막지 않고 곁에 두는 칸이다 */
+.callout{margin:12px 0 0;background:var(--surf2);border:1px solid var(--line);border-radius:12px;
+ padding:12px 15px;max-width:640px}
+.cterm{border-collapse:collapse;font-size:12px;line-height:1.6}
+.cterm th{text-align:left;font-weight:700;color:var(--ink);white-space:nowrap;
+ padding:2px 14px 2px 0;vertical-align:baseline}
+.cterm th em{font-style:normal;font-weight:600;font-size:9px;letter-spacing:.07em;
+ color:var(--pri);margin-left:5px;vertical-align:1px}
+.cterm td{color:var(--mut);padding:2px 0;vertical-align:baseline}
+.callout>p{margin:9px 0 0;padding-top:8px;border-top:1px solid var(--line);
+ font-size:11.5px;line-height:1.7;color:var(--mut)}
 .regbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 12px;
   padding-top:11px;border-top:1px solid var(--line)}
 .regbar .rgl{font-size:10.5px;font-weight:700;letter-spacing:.08em;color:var(--mut);
@@ -606,17 +617,15 @@ a.noti{color:var(--ink3)}
 
   <section class="card sec" id="s-malong-2">
     <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 (경쟁사 비교)</h2>
-      <p>26개 업체를 같은 자로 재서 견줬습니다. 업체 이름을 누르면 그 업체가 어느 글에서 인용되는지 열립니다.</p>
-      <div class="callout">
-        <dl class="cterm">
-          <dt><b>소스</b><i>RETRIEVED</i></dt><dd>AI가 검색·탐색 과정에서 찾아본 출처</dd>
-          <dt><b>인용</b><i>CITED</i></dt><dd>탐색한 출처 중 실제 답변의 근거로 채택된 것</dd>
-          <dt><b>추천</b><i>RECOMMENDED</i></dt><dd>최종 답변에서 해당 업체명이 직접 언급된 것</dd>
-        </dl>
-        <p class="csum">소스는 AI의 탐색 후보에 들어온 것, 인용은 그중 실제 답변의 근거로 채택된 것,
+      <aside class="callout">
+        <table class="cterm">
+          <tr><th>소스<em>RETRIEVED</em></th><td>AI가 검색·탐색 과정에서 찾아본 출처</td></tr>
+          <tr><th>인용<em>CITED</em></th><td>탐색한 출처 중 실제 답변의 근거로 채택된 것</td></tr>
+          <tr><th>추천<em>RECOMMENDED</em></th><td>최종 답변에서 해당 업체명이 직접 언급된 것</td></tr>
+        </table>
+        <p>소스는 AI의 탐색 후보에 들어온 것, 인용은 그중 실제 답변의 근거로 채택된 것,
           추천은 최종 답변에서 업체 이름까지 불린 것입니다.</p>
-        <p class="cflow"><b>소스 → 인용 → 추천</b> <span>=</span> 찾힘 → 근거가 됨 → 이름이 불림</p>
-      </div>
+      </aside>
       </header>
     <div class="card-b mid">
       <div class="figs">
