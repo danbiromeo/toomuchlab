@@ -605,17 +605,18 @@ a.noti{color:var(--ink3)}
     </div></section>
 
   <section class="card sec" id="s-moving-2">
-    <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 — 경쟁사와 견주면</h2>
-      <div class="terms"><b>세 칸이 무슨 뜻인가</b>
-        <span><i>소스</i>AI 가 답을 만들며 훑어본 <b>소스 목록</b>에 그 업체를 다룬 글이 있었다.
-          ChatGPT 화면의 「소스 · 13」 이 그것이다 (기술 용어로는 retrieval)</span>
-        <span><i>인용</i>그 소스 <b>가운데 실제로 근거로 쓰인</b> 것</span>
-        <span><i>추천</i>소스·인용과 <b>상관없이</b> 답변 본문에서 그 업체를 추천했다</span>
-        <em>인용은 언제나 소스 안에 있다(3판 모두 예외 0건). 그러나 <b>추천은 별개다</b> —
-        소스에도 인용에도 없이 추천되는 일이 자주 있다(지도·AI 가 이미 아는 것).<br>
-        ⚠️ 「추천」 은 <b>답변에 이름이 난 것</b>을 센다. 질문이 「○○ 추천해줘」 형이라 지금은 둘이 같지만,
-        「○○ 어때?」 같은 질문을 늘리면 이름이 나도 추천이 아닐 수 있다.</em></div>
+    <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 (경쟁사 비교)</h2>
       <p>16개 업체를 같은 자로 재서 견줬습니다. 업체 이름을 누르면 그 업체가 어느 글에서 인용되는지 열립니다.</p>
+      <div class="callout">
+        <dl class="cterm">
+          <dt><b>소스</b><i>RETRIEVED</i></dt><dd>AI가 검색·탐색 과정에서 찾아본 출처</dd>
+          <dt><b>인용</b><i>CITED</i></dt><dd>탐색한 출처 중 실제 답변의 근거로 채택된 것</dd>
+          <dt><b>추천</b><i>RECOMMENDED</i></dt><dd>최종 답변에서 해당 업체명이 직접 언급된 것</dd>
+        </dl>
+        <p class="csum">소스는 AI의 탐색 후보에 들어온 것, 인용은 그중 실제 답변의 근거로 채택된 것,
+          추천은 최종 답변에서 업체 이름까지 불린 것입니다.</p>
+        <p class="cflow"><b>소스 → 인용 → 추천</b> <span>=</span> 찾힘 → 근거가 됨 → 이름이 불림</p>
+      </div>
       </header>
     <div class="card-b mid">
       <div class="figs">
@@ -645,15 +646,10 @@ a.noti{color:var(--ink3)}
           </tbody></table></div>
       </div>
       <aside class="rks"><h3>브랜드 랭킹</h3>
-        <dl class="defs">
-          <dt class="d-a">추천</dt><dd>답변 문장에 이름이 났다</dd>
-          <dt class="d-c">인용</dt><dd>근거로 쓴 글에 그 업체가 있었다</dd>
-          <dt class="d-e">소스</dt><dd>AI 가 본 소스 목록에 그 업체를 다룬 글이 있었다</dd>
-        </dl>
         <div class="sortbar">정렬
-          <button class="on" data-sort="a" type="button">추천</button>
-          <button data-sort="c" type="button">인용</button>
-          <button data-sort="e" type="button">소스</button></div>
+          <button class="on" data-sort="a" type="button">추천 <i>RECOMMENDED</i></button>
+          <button data-sort="c" type="button">인용 <i>CITED</i></button>
+          <button data-sort="e" type="button">소스 <i>RETRIEVED</i></button></div>
         <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">소스</span><span></span></div>
         <div class="rkl"><button class="rk" type="button"
             data-brand="통인익스프레스"
