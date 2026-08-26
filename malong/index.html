@@ -860,7 +860,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-a">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkv v-c">8<em>%</em><i style="width:16%"></i></span>
           <span class="rkv v-e">15<em>%</em><i style="width:29%"></i></span>
-          <span class="rkgo">›</span></button></div><button class="rkfold" data-rkfold type="button">▾ 나머지 16곳 펴기</button></div>
+          <span class="rkgo">›</span></button></div><button class="rkfold" data-rkfold type="button">▶ 나머지 16곳 펴기</button></div>
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
       <div class="sw"><h3>노출에서 인용으로 <em class="swrg">전체</em></h3>
         <div class="swbox" data-slope><svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,30 C171.0,30 171.0,30 200,30" class="sl me"/><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,60 200,60" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><text x="96" y="34" class="slb se me">마롱컴퍼니</text><text x="130" y="34" class="sln se me">53%</text><text x="96" y="64" class="slb se">하오즈</text><text x="130" y="64" class="sln se">16%</text><text x="96" y="94" class="slb se">아이메탈아트</text><text x="130" y="94" class="sln se">14%</text><text x="96" y="124" class="slb se">서진FRP</text><text x="130" y="124" class="sln se">9%</text><text x="96" y="154" class="slb se">서울상사</text><text x="130" y="154" class="sln se">6%</text><text x="96" y="184" class="slb se">해눈</text><text x="130" y="184" class="sln se">4%</text><text x="96" y="214" class="slb se">솜씨잔넬스카시</text><text x="130" y="214" class="sln se">2%</text><text x="96" y="244" class="slb se">미술과조형</text><text x="130" y="244" class="sln se">0%</text><text x="212" y="34" class="sln me">49%</text><text x="248" y="34" class="slb me">마롱컴퍼니</text><text x="212" y="64" class="sln">15%</text><text x="248" y="64" class="slb">하오즈</text><text x="212" y="94" class="sln">11%</text><text x="248" y="94" class="slb">아이메탈아트</text><text x="212" y="124" class="sln">5%</text><text x="248" y="124" class="slb">서진FRP</text><text x="212" y="154" class="sln">5%</text><text x="248" y="154" class="slb">서울상사</text><text x="212" y="184" class="sln">4%</text><text x="248" y="184" class="slb">해눈</text><text x="212" y="214" class="sln">1%</text><text x="248" y="214" class="slb">솜씨잔넬스카시</text><text x="212" y="244" class="sln">0%</text><text x="248" y="244" class="slb">미술과조형</text></svg></div>
@@ -1369,7 +1369,7 @@ function setPanel(k){CUR=k;
 $$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
   const box=btn.previousElementSibling, open=box.hidden;
   box.hidden=!open;
-  btn.textContent=open ? '▴ 접기' : `▾ 나머지 ${box.children.length}곳 펴기`;});
+  btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${box.children.length}곳 펴기`;});
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
  box.querySelectorAll('.sortbar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -1493,7 +1493,7 @@ function whoTag(s){
    // ★ 「외 5」 가 글자일 뿐이라 안 눌렸다 (2026-08-25 지적). 누르면 나머지를 펼친다
    if(s.w.length>2){
      out.push(`<span class="who wmore" role="button" tabindex="0" data-wmore`
-       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${head} 외 ${s.w.length-2} ▸</span>`);
+       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${head} 외 ${s.w.length-2} ▶</span>`);
    } else out.push(`<span class="who">${head}</span>`);}
  if(out.length) return out.join('');
  if(s.st==='none')   return `<span class="who none">${esc(me)} 없음</span>`;
@@ -1534,7 +1534,7 @@ function openQ(q){
           ? `AI가 어느 검색에서 찾았는지 안 알려준 ${g.items.length}곳`
           : `웹앱은 검색어를 안 알려줍니다 · 출처 ${g.items.length}곳`}</span></div>`;
     return cap+`<ul class="sl-list">${head.map(srcRow).join('')}</ul>`
-      +(tail.length?`<button class="more" data-more type="button">▸ 나머지 ${tail.length}곳</button>
+      +(tail.length?`<button class="more" data-more type="button">▶ 나머지 ${tail.length}곳</button>
          <ul class="sl-list" hidden>${tail.map(srcRow).join('')}</ul>`:'');}).join('');
   return `<div class="turn">
    <div class="turn-h">
@@ -1570,7 +1570,7 @@ function openQ(q){
      ${blocks}
    </div>
    ${r.a?`<div class="anshead">AI 답변</div><div class="ans">${r.a}</div>
-     <button class="ansbtn" data-ans type="button">▾ 전체 보기</button>`:''}
+     <button class="ansbtn" data-ans type="button">▶ 전체 보기</button>`:''}
   </div>`}).join('');
  wire();openDrw();}
 function openB(name){
@@ -1604,10 +1604,10 @@ function openB(name){
 function wire(){
  $$('[data-goq]').forEach(btn=>btn.onclick=()=>openQ(btn.dataset.goq));
  $$('[data-more]').forEach(btn=>btn.onclick=()=>{const ul=btn.nextElementSibling;const open=ul.hidden;
-   ul.hidden=!open;btn.textContent=(open?'▾ 접기':'▸ 나머지 출처 '+ul.children.length+'곳');});
+   ul.hidden=!open;btn.textContent=(open?'▼ 접기':'▶ 나머지 출처 '+ul.children.length+'곳');});
  $$('[data-ans]').forEach(btn=>{const dv=btn.previousElementSibling;
    if(dv.scrollHeight<=dv.clientHeight+4){btn.remove();return;}
-   btn.onclick=()=>{const open=dv.classList.toggle('full');btn.textContent=open?'▴ 접기':'▾ 전체 보기';};});}
+   btn.onclick=()=>{const open=dv.classList.toggle('full');btn.textContent=open?'▼ 접기':'▶ 전체 보기';};});}
 $$('.qr').forEach(b=>b.onclick=()=>openQ(b.dataset.q));
 $$('.rk').forEach(b=>b.onclick=()=>openB(b.dataset.brand));
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;
