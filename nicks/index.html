@@ -158,7 +158,7 @@ h3{font-size:15px;margin-bottom:4px}
 .defs dt{font-weight:700;font-size:11px;padding:2px 0;border-radius:5px;text-align:center;color:#fff}
 .defs dt.d-a{background:var(--ink)}.defs dt.d-c{background:var(--pri)}.defs dt.d-e{background:var(--seen)}
 .defs dd{margin:0;color:var(--ink2);padding:2px 0}
-.sortbar{display:flex;align-items:center;gap:5px;font-size:11.5px;color:var(--ink3);margin-bottom:8px;font-weight:600}
+.sortbar{padding-bottom:11px;display:flex;align-items:center;gap:5px;font-size:11.5px;color:var(--ink3);margin-bottom:8px;font-weight:600}
 .sortbar button{font:inherit;font-size:11.5px;font-weight:600;padding:3px 10px;border-radius:99px;
  border:1px solid var(--outline);background:var(--surf);color:var(--ink3);cursor:pointer}
 .sortbar button.on{background:var(--ink);border-color:var(--ink);color:#fff}
@@ -167,6 +167,10 @@ h3{font-size:15px;margin-bottom:4px}
 .jsep{width:1px;height:13px;background:var(--line);margin:0 4px;align-self:center}
 .warnbox+.warnbox{margin-top:-8px}
 /* ── 매체 섹션 ── */
+.swnone{margin:22px 0;font-size:12.5px;color:var(--mut);text-align:center}
+.swbox{min-height:60px}
+.sw h3 .swrg{font-style:normal;font-size:11px;font-weight:600;color:#fff;background:var(--pri);
+ padding:2px 9px;border-radius:99px;margin-left:7px;vertical-align:2px}
 .mh{font-size:15.5px;margin:26px 0 3px;letter-spacing:-.01em}
 .mh:first-of-type{margin-top:0}
 .mh em{font-style:normal;font-size:10.5px;font-weight:800;letter-spacing:.06em;color:#fff;
@@ -216,15 +220,21 @@ h3{font-size:15px;margin-bottom:4px}
  padding:15px 18px;margin:0 0 16px;font-size:13px}
 .warnbox b{display:block;margin-bottom:5px}
 .warnbox p{margin:0;color:#7A6534;line-height:1.65}
-.regbar{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin:0 0 10px}
-.regbar .rgl{font-size:11px;color:var(--mut);letter-spacing:.06em;margin-right:2px}
-.regbar button{font:inherit;font-size:12px;padding:4px 9px;border-radius:999px;cursor:pointer;
-  border:1px solid var(--line);background:var(--bg);color:var(--mut)}
+.regbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 12px;
+  padding-top:11px;border-top:1px solid var(--line)}
+.regbar .rgl{font-size:10.5px;font-weight:700;letter-spacing:.08em;color:var(--mut);
+  margin-right:4px;flex-shrink:0}
+.regbar button{font:inherit;font-size:12px;font-weight:500;padding:6px 12px;border-radius:9px;
+  cursor:pointer;border:1px solid var(--line);background:#fff;color:var(--ink);
+  box-shadow:0 1px 1px rgba(20,22,28,.04);transition:.12s}
+.regbar button:hover{border-color:var(--ink);transform:translateY(-1px)}
 .regbar button em{font-style:normal;opacity:.6;margin-left:3px}
 .regbar button i{font-style:normal;font-size:10.5px;opacity:.55;margin-left:5px;
   padding-left:5px;border-left:1px solid currentColor}
 .regbar .rgn{flex-basis:100%;font-size:11px;color:var(--mut);margin-top:2px}
-.regbar button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.regbar button.on{background:var(--ink);color:#fff;border-color:var(--ink);
+  box-shadow:0 2px 8px rgba(20,22,28,.18)}
+.regbar button.on em{opacity:.75}.regbar button.on i{border-left-color:#fff;opacity:.6}
 .rkr{font-size:11px;color:var(--mut);text-align:right;font-variant-numeric:tabular-nums;align-self:center}
 .rk.me .rkr{color:var(--ink);font-weight:700}
 .rkhead{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;padding:0 6px 5px;
@@ -596,8 +606,8 @@ a.noti{color:var(--ink3)}
             <tr><td>이 판 22개 업체 평균</td><td>37%</td></tr>
           </tbody></table></div>
       </div>
-      <div class="sw"><h3>노출에서 인용으로</h3>
-        <svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl me"/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,30 200,30" class="sl up"/><path d="M142,30 C171.0,30 171.0,60 200,60" class="sl down"/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><text x="96" y="34" class="slb se">썸띵어바웃커피</text><text x="130" y="34" class="sln se">61%</text><text x="96" y="64" class="slb se">어퍼앤언더</text><text x="130" y="64" class="sln se">58%</text><text x="96" y="94" class="slb se me">셀렉티드 닉스</text><text x="130" y="94" class="sln se me">54%</text><text x="96" y="124" class="slb se">알베르</text><text x="130" y="124" class="sln se">48%</text><text x="96" y="154" class="slb se">퍼스트커피랩</text><text x="130" y="154" class="sln se">43%</text><text x="96" y="184" class="slb se">트리오드</text><text x="130" y="184" class="sln se">31%</text><text x="96" y="214" class="slb se">카페 정월</text><text x="130" y="214" class="sln se">15%</text><text x="96" y="244" class="slb se">AB 카페</text><text x="130" y="244" class="sln se">13%</text><text x="212" y="34" class="sln">38%</text><text x="248" y="34" class="slb">어퍼앤언더</text><text x="212" y="64" class="sln">34%</text><text x="248" y="64" class="slb">썸띵어바웃커피</text><text x="212" y="94" class="sln me">33%</text><text x="248" y="94" class="slb me">셀렉티드 닉스</text><text x="212" y="124" class="sln">26%</text><text x="248" y="124" class="slb">알베르</text><text x="212" y="154" class="sln">25%</text><text x="248" y="154" class="slb">퍼스트커피랩</text><text x="212" y="184" class="sln">12%</text><text x="248" y="184" class="slb">트리오드</text><text x="212" y="214" class="sln">7%</text><text x="248" y="214" class="slb">카페 정월</text><text x="212" y="244" class="sln">3%</text><text x="248" y="244" class="slb">AB 카페</text></svg>
+      <div class="sw"><h3>노출에서 인용으로 <em class="swrg">전체</em></h3>
+        <div class="swbox" data-slope><svg viewBox="0 0 352 256" class="slope"><text x="136" y="12" class="sh se">노출</text><text x="206" y="12" class="sh">인용</text><path d="M142,90 C171.0,90 171.0,90 200,90" class="sl me"/><path d="M142,120 C171.0,120 171.0,120 200,120" class="sl "/><path d="M142,60 C171.0,60 171.0,30 200,30" class="sl up"/><path d="M142,30 C171.0,30 171.0,60 200,60" class="sl down"/><path d="M142,240 C171.0,240 171.0,240 200,240" class="sl "/><path d="M142,150 C171.0,150 171.0,150 200,150" class="sl "/><path d="M142,210 C171.0,210 171.0,210 200,210" class="sl "/><path d="M142,180 C171.0,180 171.0,180 200,180" class="sl "/><text x="96" y="34" class="slb se">썸띵어바웃커피</text><text x="130" y="34" class="sln se">61%</text><text x="96" y="64" class="slb se">어퍼앤언더</text><text x="130" y="64" class="sln se">58%</text><text x="96" y="94" class="slb se me">셀렉티드 닉스</text><text x="130" y="94" class="sln se me">54%</text><text x="96" y="124" class="slb se">알베르</text><text x="130" y="124" class="sln se">48%</text><text x="96" y="154" class="slb se">퍼스트커피랩</text><text x="130" y="154" class="sln se">43%</text><text x="96" y="184" class="slb se">트리오드</text><text x="130" y="184" class="sln se">31%</text><text x="96" y="214" class="slb se">카페 정월</text><text x="130" y="214" class="sln se">15%</text><text x="96" y="244" class="slb se">AB 카페</text><text x="130" y="244" class="sln se">13%</text><text x="212" y="34" class="sln">38%</text><text x="248" y="34" class="slb">어퍼앤언더</text><text x="212" y="64" class="sln">34%</text><text x="248" y="64" class="slb">썸띵어바웃커피</text><text x="212" y="94" class="sln me">33%</text><text x="248" y="94" class="slb me">셀렉티드 닉스</text><text x="212" y="124" class="sln">26%</text><text x="248" y="124" class="slb">알베르</text><text x="212" y="154" class="sln">25%</text><text x="248" y="154" class="slb">퍼스트커피랩</text><text x="212" y="184" class="sln">12%</text><text x="248" y="184" class="slb">트리오드</text><text x="212" y="214" class="sln">7%</text><text x="248" y="214" class="slb">카페 정월</text><text x="212" y="244" class="sln">3%</text><text x="248" y="244" class="slb">AB 카페</text></svg></div>
         <dl class="lg">
           <dt class="lg-e">노출</dt><dd>검색결과에 뜬 순위</dd>
           <dt class="lg-c">인용</dt><dd>답변 근거로 쓰인 순위</dd>
@@ -618,7 +628,7 @@ a.noti{color:var(--ink3)}
         <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">노출</span><span></span></div>
         <div class="rkl"><button class="rk" type="button"
             data-brand="알베르"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}}"
             data-a="52.3" data-c="26.3" data-e="47.9">
           <span class="rkr">1</span>
           <span class="rkn">알베르</span>
@@ -627,7 +637,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">48<em>%</em><i style="width:91%"></i></span>
           <span class="rkgo">›</span></button><button class="rk me" type="button"
             data-brand="셀렉티드 닉스"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="42.2" data-c="33.0" data-e="54.0">
           <span class="rkr">2</span>
           <span class="rkn">셀렉티드 닉스</span>
@@ -636,7 +646,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">54<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="어퍼앤언더"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="41.1" data-c="38.3" data-e="58.2">
           <span class="rkr">3</span>
           <span class="rkn">어퍼앤언더</span>
@@ -645,7 +655,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">58<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="썸띵어바웃커피"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}}"
             data-a="36.9" data-c="34.0" data-e="60.7">
           <span class="rkr">4</span>
           <span class="rkn">썸띵어바웃커피</span>
@@ -654,7 +664,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">61<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="AB 카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
             data-a="21.6" data-c="3.5" data-e="12.8">
           <span class="rkr">5</span>
           <span class="rkn">AB 카페</span>
@@ -672,7 +682,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">15<em>%</em><i style="width:29%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="퍼스트커피랩"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 188, &quot;c&quot;: 115, &quot;a&quot;: 69, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 6, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 188, &quot;c&quot;: 115, &quot;a&quot;: 69, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 6, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="16.5" data-c="25.5" data-e="42.8">
           <span class="rkr">7</span>
           <span class="rkn">퍼스트커피랩</span>
@@ -690,7 +700,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">2<em>%</em><i style="width:4%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="할리스"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 135, &quot;c&quot;: 37, &quot;a&quot;: 52, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 5, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 5, &quot;a&quot;: 7, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 135, &quot;c&quot;: 37, &quot;a&quot;: 52, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 5, &quot;a&quot;: 7, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 5, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
             data-a="12.8" data-c="9.6" data-e="31.6">
           <span class="rkr">9</span>
           <span class="rkn">할리스</span>
@@ -699,7 +709,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">32<em>%</em><i style="width:60%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="트리오드"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 136, &quot;c&quot;: 51, &quot;a&quot;: 55, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 2, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 136, &quot;c&quot;: 51, &quot;a&quot;: 55, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 2, &quot;a&quot;: 4, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="12.0" data-c="11.6" data-e="31.2">
           <span class="rkr">10</span>
           <span class="rkn">트리오드</span>
@@ -708,7 +718,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">31<em>%</em><i style="width:59%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="인포메이션카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}}"
+            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}}"
             data-a="7.9" data-c="7.3" data-e="19.8">
           <span class="rkr">11</span>
           <span class="rkn">인포메이션카페</span>
@@ -726,7 +736,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">1<em>%</em><i style="width:2%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="가배도"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 102, &quot;c&quot;: 17, &quot;a&quot;: 29, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 3, &quot;a&quot;: 3, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 3, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 102, &quot;c&quot;: 17, &quot;a&quot;: 29, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 3, &quot;a&quot;: 3, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 3, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
             data-a="6.5" data-c="4.1" data-e="23.8">
           <span class="rkr">13</span>
           <span class="rkn">가배도</span>
@@ -735,7 +745,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">24<em>%</em><i style="width:45%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="수수커피"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}}"
+            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
             data-a="5.9" data-c="8.6" data-e="25.5">
           <span class="rkr">14</span>
           <span class="rkn">수수커피</span>
@@ -744,7 +754,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">25<em>%</em><i style="width:48%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="크라프트카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 120, &quot;c&quot;: 43, &quot;a&quot;: 28, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 120, &quot;c&quot;: 43, &quot;a&quot;: 28, &quot;n&quot;: 391}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남대로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
             data-a="5.7" data-c="8.8" data-e="25.3">
           <span class="rkr">15</span>
           <span class="rkn">크라프트카페</span>
@@ -780,7 +790,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">8<em>%</em><i style="width:15%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="베이커스트 브라운"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="4.9" data-c="17.1" data-e="38.9">
           <span class="rkr">19</span>
           <span class="rkn">베이커스트 브라운</span>
@@ -798,7 +808,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="리퍼크 reperk"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}}"
             data-a="3.9" data-c="0.2" data-e="1.2">
           <span class="rkr">21</span>
           <span class="rkn">리퍼크 reperk</span>
@@ -1418,6 +1428,36 @@ $$('.vcard').forEach(b=>b.onclick=()=>{const p=b.closest('[data-panel]');
 function close(){$('.drw').classList.remove('on');$('.scrim').classList.remove('on');}
 document.addEventListener('click',e=>{const w=e.target.closest('[data-wmore]');
   if(w){w.textContent=w.dataset.all;w.classList.remove('wmore');w.removeAttribute('data-wmore');}});
+// ★ 「노출에서 인용으로」 를 지역별로 다시 그린다 (2026-08-26 지시).
+//    자료는 랭킹 행(.rk)의 data-by 를 그대로 쓴다 — 같은 숫자를 두 군데 두면 언젠가 어긋난다
+function drawSlope(panel, rg, tot){
+ const box=panel.querySelector('[data-slope]'); if(!box) return;
+ const rows=[...panel.querySelectorAll('.rk')].map(r=>{
+   const by=JSON.parse(r.dataset.by||'{}'), g=by[rg]||{s:0,c:0,a:0};
+   const e = rg==='all' ? +r.dataset.e : (tot? g.s/tot*100:0);
+   const c = rg==='all' ? +r.dataset.c : (tot? g.c/tot*100:0);
+   return {n:r.dataset.brand, me:r.classList.contains('me'), e, c};
+ }).filter(x=>x.e>0||x.c>0);
+ if(!rows.length){box.innerHTML='<p class="swnone">이 지역에선 아무도 검색결과에 뜨지 않았습니다.</p>';return;}
+ const B=rows.slice(0,8);
+ const ex=[...B].sort((a,b)=>b.e-a.e), ci=[...B].sort((a,b)=>b.c-a.c);
+ const top=30,gap=30,W=352,x1=136,x2=206,h=top+gap*(B.length-1)+16;
+ const cut=n=>n.length<=8?n:n.slice(0,8)+'…';
+ const pe={},pc={};
+ ex.forEach((b,i)=>pe[b.n]=top+gap*i); ci.forEach((b,i)=>pc[b.n]=top+gap*i);
+ let p=`<svg viewBox="0 0 ${W} ${h}" class="slope">`
+  +`<text x="${x1}" y="12" class="sh se">노출</text><text x="${x2}" y="12" class="sh">인용</text>`;
+ B.forEach(b=>{const y1=pe[b.n],y2=pc[b.n],mx=(x1+x2)/2;
+   const cls=b.me?'me':(y2<y1?'up':(y2>y1?'down':''));
+   p+=`<path d="M${x1+6},${y1} C${mx},${y1} ${mx},${y2} ${x2-6},${y2}" class="sl ${cls}"/>`;});
+ ex.forEach(b=>{const y=pe[b.n],c=b.me?' me':'';
+   p+=`<text x="${x1-40}" y="${y+4}" class="slb se${c}">${esc(cut(b.n))}</text>`
+     +`<text x="${x1-6}" y="${y+4}" class="sln se${c}">${Math.round(b.e)}%</text>`;});
+ ci.forEach(b=>{const y=pc[b.n],c=b.me?' me':'';
+   p+=`<text x="${x2+6}" y="${y+4}" class="sln${c}">${Math.round(b.c)}%</text>`
+     +`<text x="${x2+42}" y="${y+4}" class="slb${c}">${esc(cut(b.n))}</text>`;});
+ box.innerHTML=p+'</svg>';
+}
 // ★ 지역 버튼 — 매장 있는 동네만 골라 순위를 다시 낸다 (2026-08-25 지시)
 document.querySelectorAll('.regbar').forEach(bar=>{
   const list=bar.parentElement.querySelector('.rkl');
@@ -1443,6 +1483,10 @@ document.querySelectorAll('.regbar').forEach(bar=>{
     const vis=rows.filter(r=>!r.hidden).sort((x,y)=>(+y.dataset.sa)-(+x.dataset.sa));
     vis.forEach((r,i)=>{r.querySelector('.rkr').textContent=i+1;list.appendChild(r)});
     rows.filter(r=>r.hidden).forEach(r=>list.appendChild(r));
+    // ★ 같은 지역으로 기울기 그림도 다시 그린다
+    const panel=bar.closest('[data-panel]');
+    drawSlope(panel, rg, tot);
+    const lb=panel.querySelector('.swrg'); if(lb) lb.textContent = rg==='all' ? '전체' : rg;
   });
 });
 $('.scrim').onclick=close;$('.drw-x').onclick=close;
