@@ -201,6 +201,15 @@ h3{font-size:15px;margin-bottom:4px}
 .mtab.biz tr.me{background:#F4FBE9}
 .mtab.biz tr.me td.nm::after{content:" ← 우리";color:var(--pri);font-size:11px;font-weight:600}
 .mtab.biz tr.zero td.nm::after{content:" · 글 0편(지도로만)";color:var(--w,#B7791F);font-size:11px;font-weight:500}
+.xgo{display:block;margin:12px 0 0;padding:15px 18px;border-radius:14px;text-decoration:none;
+ background:var(--ink);color:#fff;transition:.15s}
+.xgo:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(20,22,28,.16)}
+.xgo b{display:block;font-size:14px;color:#C6F24E;margin-bottom:3px}
+.xgo span{display:block;font-size:12px;opacity:.82;line-height:1.6}
+.jump a.out{background:var(--ink);color:#fff;border-radius:99px;padding:4px 12px;
+ font-size:11.5px;font-weight:600;letter-spacing:0;text-decoration:none;margin-right:4px;
+ border-bottom:0}
+.jump a.out:hover{background:var(--pri);color:#fff}
 .mfoot{margin:14px 0 0;font-size:11.5px;color:var(--mut);line-height:1.7;
  background:var(--surf2);border-radius:10px;padding:11px 14px}
 .warnbox{background:#FDF3E3;border:1px solid #E8C88A;border-radius:14px;
@@ -485,8 +494,8 @@ a.noti{color:var(--ink3)}
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
   <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/">셀렉티드 닉스</a><a class="sw-a" href="../clinic/">이수탑정형외과</a><button disabled type="button">온누리아이코리아 (측정중)</button></div>
-  <nav class="jump">
-    <span class="jsep"></span><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a></nav>
+  <nav class="jump"><a class="out" href="../compare/">판 비교 — 업종마다 처방이 정반대다</a>
+    <span class="jsep"></span><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <main><section class="brand" id="p-malong" data-panel>
   <div class="strip"><span><b>마롱컴퍼니</b> 조형물 제작 · B2B</span>
@@ -1314,6 +1323,8 @@ a.noti{color:var(--ink3)}
       <p class="mfoot">⚠️ 전부 <b>상관</b>입니다. 「거기 실리면 오른다」가 아니라 「지금 이기는 업체가 그렇게 되어 있다」까지가 사실입니다.
       혼잡은 <b>우리가 아는 업체 26곳만</b> 세므로 실제 목록글은 더 붐빕니다 —
       플랫폼 전환은 더 나쁠 수 있지 낫지는 않습니다.</p>
+      <a class="xgo" href="../compare/"><b>다른 판은 어떤가 — 판 비교로 →</b>
+        <span>같은 자로 잰 다른 업종과 견주면 「이 처방이 이 판에만 맞는 것」 이 보입니다.</span></a>
     </div></section>
   <details class="sqlbox"><summary>이 화면의 숫자를 만든 질의</summary><pre>SELECT DISTINCT r.run_key FROM runs r JOIN srcs s ON s.run_key=r.run_key
  WHERE r.project=? AND r.ok=1 AND s.is_cited=1 AND ((s.domain LIKE ? OR s.domain LIKE ?) OR (s.title LIKE ? OR s.title LIKE ? OR s.title LIKE ? OR s.title LIKE ? OR s.snippet LIKE ? OR s.snippet LIKE ? OR s.snippet LIKE ? OR s.snippet LIKE ?))</pre></details>
@@ -1333,7 +1344,7 @@ const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function setPanel(k){CUR=k;
  $$('[data-panel]').forEach(p=>p.classList.toggle('on',p.id==='p-'+k));
- $$('.jump a').forEach((a,i)=>a.href='#s-'+k+'-'+(i+1));close();if(window.dock)dock();}
+ $$('.jump a:not(.out)').forEach((a,i)=>a.href='#s-'+k+'-'+(i+1));close();if(window.dock)dock();}
 
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
@@ -1514,7 +1525,7 @@ $$('.qr').forEach(b=>b.onclick=()=>openQ(b.dataset.q));
 $$('.rk').forEach(b=>b.onclick=()=>openB(b.dataset.brand));
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;
  const n=e.target.id.split('-').pop();
- $$('.jump a').forEach((a,i)=>a.classList.toggle('on',String(i+1)===n));}),{rootMargin:'-10px 0px -75% 0px'});
+ $$('.jump a:not(.out)').forEach((a,i)=>a.classList.toggle('on',String(i+1)===n));}),{rootMargin:'-10px 0px -75% 0px'});
 $$('.card.sec').forEach(s=>io.observe(s));
 // ⑤ 하단 고정 바 — 스크롤로 큰 숫자가 화면 밖에 나가면 뜬다
 function dock(){
