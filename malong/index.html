@@ -224,6 +224,8 @@ h3{font-size:15px;margin-bottom:4px}
 /* ★ 묶음 안쪽에도 옅은 선. 여섯 칸이 붙어 있어 어느 숫자가 어느 매체인지 헷갈렸다 (2026-08-27) */
 .mtab.biz th.sub+th.sub,.mtab.biz td.inner{border-left:1px solid var(--outline2,#EFF0F5)}
 .mtab.biz td.cite{background:var(--surf2)}
+.mtab.biz .nmb{text-align:left;font-weight:600}
+.mtab.biz td.an .mcell b{font-size:15px}
 .mtab.biz td.cite b{font-size:14px}
 .mtab.biz td.cite span,.mtab.biz td.an span{display:block;font-size:10.5px;color:var(--mut)}
 .mtab.biz th span{display:block;font-weight:400;font-size:9.5px;opacity:.75;margin-top:2px}
@@ -574,10 +576,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-0508">← 목록</a>
+    <a class="back" href="../?v=20260827-0509">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-0508">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0508">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-0508">로젠이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-0509">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0509">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-0509">로젠이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -588,7 +590,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0508</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0509</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -1785,8 +1787,10 @@ function renderMedia(){
    +MEDORDER.map(k=>`<th class="sub" title="${esc(MR.HELP[k]||'')}">${esc(k)}</th>`).join('')+'</tr>';
  rows.forEach(x=>{
   const me=x.n===D0.me?' me':'';
-  h+=`<tr class="${me}"><td class="nm">${esc(x.n)}</td>`
-    +`<td class="an"><b>${x.ans}</b><span>/${M.N}</span></td>`
+  h+=`<tr class="${me}"><td class="nm"><button class="mcell nmb" data-mb="${esc(x.n)}"
+        title="이 업체를 다룬 글과 우리가 지는 질문을 봅니다">${esc(x.n)}</button></td>`
+    +`<td class="an"><button class="mcell" data-mb="${esc(x.n)}"
+        title="이 업체를 다룬 글과 우리가 지는 질문을 봅니다"><b>${x.ans}</b><span>/${M.N}</span></button></td>`
     +(()=>{  // ★ 인용 합계 — 아래 여섯 칸은 겹칠 수 있으므로 회차를 합집합으로 센다
        const u=new Set();
        MEDORDER.forEach(k=>{const c=M.cell[x.i][k]; if(c) c.runs.forEach(r=>u.add(r));});
@@ -1810,6 +1814,8 @@ function renderMedia(){
  });
  box.innerHTML=h+'</table>'+spreadLine(M,D0);
  $$('[data-mc]').forEach(b=>b.onclick=()=>openMed(b.dataset.mc));
+ // ★ 추천 칸 → 브랜드 랭킹에서 업체 이름을 누른 것과 같은 창 (2026-08-27 지시)
+ $$('[data-mb]').forEach(b=>b.onclick=()=>openB(b.dataset.mb));
 }
 // ★ 분산도 — 「남이 써준 것」 은 블로그+사이트를 합쳐 본다.
 //   자기 도메인을 쓰는 개인 블로그(moonnrich.com 등)가 사이트 칸에 떨어지기 때문이다
