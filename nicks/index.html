@@ -31,8 +31,11 @@ em{font-style:normal;color:var(--ink3);font-size:.68em;font-weight:500}
 .mast h1{font-size:18px}
 .mast .sub{font-size:12px;color:var(--ink3);margin-left:-6px}
 .mast .tag{margin-left:auto;font-size:12.5px;color:var(--ink2)}
-.switch{display:flex;gap:7px;margin:13px 0 0}
+.switch{display:flex;gap:7px;margin:13px 0 0;overflow-x:auto;scrollbar-width:none;
+ -webkit-overflow-scrolling:touch}
+.switch::-webkit-scrollbar{display:none}
 .switch button,.switch .sw-a{font:inherit;font-size:13.5px;font-weight:600;padding:8px 17px;border-radius:99px;
+ white-space:nowrap;flex:0 0 auto;
  border:1px solid var(--outline);background:var(--surf);color:var(--ink2);cursor:pointer;transition:all .14s}
 .switch .sw-a:hover{background:var(--surf3);color:var(--ink)}
 .switch button:hover{background:var(--surf3);color:var(--ink)}
@@ -162,6 +165,7 @@ h3{font-size:15px;margin-bottom:4px}
 .switch .sw-a.alt{color:var(--mut);border-style:dashed}
 .switch .sw-a{display:inline-flex;align-items:center;text-decoration:none}
 .jsep{width:1px;height:13px;background:var(--line);margin:0 4px;align-self:center}
+.warnbox+.warnbox{margin-top:-8px}
 .warnbox{background:#FDF3E3;border:1px solid #E8C88A;border-radius:14px;
  padding:15px 18px;margin:0 0 16px;font-size:13px}
 .warnbox b{display:block;margin-bottom:5px}
@@ -428,6 +432,15 @@ a.noti{color:var(--ink3)}
  .eq{grid-template-columns:1fr;gap:8px}.eq-op{height:22px}
  .fstep{grid-template-columns:112px 1fr 54px}.fdrop{padding-left:126px}
  .kwgrid{grid-template-columns:1fr}}
+/* ★ 모바일 — 캡슐이 「마 롱 컴 퍼 니」 처럼 글자마다 줄바꿈됐다 (2026-08-26 지적).
+   줄바꿈을 막고(nowrap) 접히는 대신 옆으로 굴린다. 글자·여백도 줄인다 */
+@media (max-width:640px){
+ .switch{gap:5px;margin-top:10px}
+ .switch button,.switch .sw-a{font-size:12px;padding:6px 12px}
+ .mast h1{font-size:17px}.mast .tag{display:none}
+ .strip{font-size:11px;gap:5px 10px}
+ .jump a{font-size:11px}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style></head><body>
 <div class="top"><div class="top-in">
@@ -441,6 +454,7 @@ a.noti{color:var(--ink3)}
 <main><section class="brand" id="p-nicks" data-panel>
   <div class="strip"><span><b>셀렉티드 닉스</b> 강남역 카페 · 로컬</span>
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
+    <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-08-26</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
@@ -558,7 +572,7 @@ a.noti{color:var(--ink3)}
         <div class="rkhead"><span></span><span></span><span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">노출</span><span></span></div>
         <div class="rkl"><button class="rk" type="button"
             data-brand="알베르"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 215, &quot;c&quot;: 119, &quot;a&quot;: 226, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 13, &quot;c&quot;: 6, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 12, &quot;n&quot;: 65}}"
             data-a="52.3" data-c="26.3" data-e="47.9">
           <span class="rkr">1</span>
           <span class="rkn">알베르</span>
@@ -567,7 +581,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">48<em>%</em><i style="width:91%"></i></span>
           <span class="rkgo">›</span></button><button class="rk me" type="button"
             data-brand="셀렉티드 닉스"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 240, &quot;c&quot;: 145, &quot;a&quot;: 193, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 17, &quot;c&quot;: 13, &quot;a&quot;: 13, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="42.2" data-c="33.0" data-e="54.0">
           <span class="rkr">2</span>
           <span class="rkn">셀렉티드 닉스</span>
@@ -576,7 +590,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">54<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="어퍼앤언더"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 241, &quot;c&quot;: 162, &quot;a&quot;: 180, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 15, &quot;c&quot;: 14, &quot;a&quot;: 15, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="41.1" data-c="38.3" data-e="58.2">
           <span class="rkr">3</span>
           <span class="rkn">어퍼앤언더</span>
@@ -585,7 +599,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">58<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="썸띵어바웃커피"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 255, &quot;c&quot;: 146, &quot;a&quot;: 161, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 23, &quot;c&quot;: 8, &quot;a&quot;: 5, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 14, &quot;c&quot;: 9, &quot;a&quot;: 9, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 6, &quot;n&quot;: 6}}"
             data-a="36.9" data-c="34.0" data-e="60.7">
           <span class="rkr">4</span>
           <span class="rkn">썸띵어바웃커피</span>
@@ -594,7 +608,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">61<em>%</em><i style="width:100%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="AB 카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 61, &quot;c&quot;: 17, &quot;a&quot;: 94, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 6, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 4, &quot;n&quot;: 23}}"
             data-a="21.6" data-c="3.5" data-e="12.8">
           <span class="rkr">5</span>
           <span class="rkn">AB 카페</span>
@@ -648,7 +662,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">31<em>%</em><i style="width:59%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="인포메이션카페"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 92, &quot;c&quot;: 35, &quot;a&quot;: 25, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 11, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 1, &quot;a&quot;: 3, &quot;n&quot;: 23}}"
             data-a="7.9" data-c="7.3" data-e="19.8">
           <span class="rkr">11</span>
           <span class="rkn">인포메이션카페</span>
@@ -666,7 +680,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">1<em>%</em><i style="width:2%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="가배도"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 102, &quot;c&quot;: 17, &quot;a&quot;: 29, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 3, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 3, &quot;a&quot;: 3, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 102, &quot;c&quot;: 17, &quot;a&quot;: 29, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 5, &quot;c&quot;: 3, &quot;a&quot;: 3, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 3, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
             data-a="6.5" data-c="4.1" data-e="23.8">
           <span class="rkr">13</span>
           <span class="rkn">가배도</span>
@@ -675,7 +689,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">24<em>%</em><i style="width:45%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="수수커피"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}}"
+            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 24, &quot;c&quot;: 9, &quot;a&quot;: 14, &quot;n&quot;: 65}, &quot;강남역&quot;: {&quot;s&quot;: 100, &quot;c&quot;: 33, &quot;a&quot;: 14, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 23}, &quot;테헤란로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}}"
             data-a="5.9" data-c="8.6" data-e="25.5">
           <span class="rkr">14</span>
           <span class="rkn">수수커피</span>
@@ -711,7 +725,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="르와조"
-            data-by="{&quot;역삼&quot;: {&quot;s&quot;: 37, &quot;c&quot;: 31, &quot;a&quot;: 25, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;테헤란로&quot;: {&quot;s&quot;: 1, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 37, &quot;c&quot;: 31, &quot;a&quot;: 25, &quot;n&quot;: 65}}"
             data-a="5.1" data-c="6.3" data-e="7.7">
           <span class="rkr">18</span>
           <span class="rkn">르와조</span>
@@ -720,7 +734,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">8<em>%</em><i style="width:15%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="베이커스트 브라운"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 166, &quot;c&quot;: 74, &quot;a&quot;: 16, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 10, &quot;c&quot;: 4, &quot;a&quot;: 7, &quot;n&quot;: 23}, &quot;강남대로&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 4, &quot;a&quot;: 0, &quot;n&quot;: 6}, &quot;역삼&quot;: {&quot;s&quot;: 7, &quot;c&quot;: 2, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;테헤란로&quot;: {&quot;s&quot;: 2, &quot;c&quot;: 0, &quot;a&quot;: 0, &quot;n&quot;: 6}}"
             data-a="4.9" data-c="17.1" data-e="38.9">
           <span class="rkr">19</span>
           <span class="rkn">베이커스트 브라운</span>
@@ -738,7 +752,7 @@ a.noti{color:var(--ink3)}
           <span class="rkv v-e">0<em>%</em><i style="width:0%"></i></span>
           <span class="rkgo">›</span></button><button class="rk" type="button"
             data-brand="리퍼크 reperk"
-            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}, &quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}}"
+            data-by="{&quot;강남역&quot;: {&quot;s&quot;: 6, &quot;c&quot;: 1, &quot;a&quot;: 15, &quot;n&quot;: 391}, &quot;강남&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 2, &quot;n&quot;: 23}, &quot;역삼&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 65}, &quot;강남대로&quot;: {&quot;s&quot;: 0, &quot;c&quot;: 0, &quot;a&quot;: 1, &quot;n&quot;: 6}}"
             data-a="3.9" data-c="0.2" data-e="1.2">
           <span class="rkr">21</span>
           <span class="rkn">리퍼크 reperk</span>
@@ -749,7 +763,11 @@ a.noti{color:var(--ink3)}
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
     </div></section>
 
-  
+  <div class="warnbox"><b>⚠️ 서로 다른 두 곳에서 쟀습니다 — 웹앱 452회 · API 39회.</b>
+        <p>같은 질문이라도 <b>어디서 재느냐로 답이 크게 달라집니다.</b> 같은 이수역 질문 51개를 두 곳에서 재봤더니
+        인용률이 <b>웹앱 4% · API 22%</b> 로 5배 벌어졌습니다. API 는 회차당 출처를 50개 주고 웹앱은 9개를 줍니다 —
+        분모가 다릅니다. 아래 숫자는 <b>둘을 섞은 평균</b>이라 어느 쪽도 아닙니다.
+        브랜드끼리 견주는 데는 쓸 수 있지만, <b>인용률의 절대값을 다른 판과 비교하지 마십시오.</b></p></div>
   <section class="card sec" id="s-nicks-3">
     <header class="card-h"><span class="sec-i">KEYWORD MAP</span><h2>타깃 키워드 — 어느 말에서 이기고 지나</h2>
       <p>질문을 누르면 그때 무슨 일이 있었는지 오른쪽에 열립니다.</p></header>

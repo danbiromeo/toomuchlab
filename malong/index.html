@@ -31,8 +31,11 @@ em{font-style:normal;color:var(--ink3);font-size:.68em;font-weight:500}
 .mast h1{font-size:18px}
 .mast .sub{font-size:12px;color:var(--ink3);margin-left:-6px}
 .mast .tag{margin-left:auto;font-size:12.5px;color:var(--ink2)}
-.switch{display:flex;gap:7px;margin:13px 0 0}
+.switch{display:flex;gap:7px;margin:13px 0 0;overflow-x:auto;scrollbar-width:none;
+ -webkit-overflow-scrolling:touch}
+.switch::-webkit-scrollbar{display:none}
 .switch button,.switch .sw-a{font:inherit;font-size:13.5px;font-weight:600;padding:8px 17px;border-radius:99px;
+ white-space:nowrap;flex:0 0 auto;
  border:1px solid var(--outline);background:var(--surf);color:var(--ink2);cursor:pointer;transition:all .14s}
 .switch .sw-a:hover{background:var(--surf3);color:var(--ink)}
 .switch button:hover{background:var(--surf3);color:var(--ink)}
@@ -162,6 +165,7 @@ h3{font-size:15px;margin-bottom:4px}
 .switch .sw-a.alt{color:var(--mut);border-style:dashed}
 .switch .sw-a{display:inline-flex;align-items:center;text-decoration:none}
 .jsep{width:1px;height:13px;background:var(--line);margin:0 4px;align-self:center}
+.warnbox+.warnbox{margin-top:-8px}
 .warnbox{background:#FDF3E3;border:1px solid #E8C88A;border-radius:14px;
  padding:15px 18px;margin:0 0 16px;font-size:13px}
 .warnbox b{display:block;margin-bottom:5px}
@@ -428,6 +432,15 @@ a.noti{color:var(--ink3)}
  .eq{grid-template-columns:1fr;gap:8px}.eq-op{height:22px}
  .fstep{grid-template-columns:112px 1fr 54px}.fdrop{padding-left:126px}
  .kwgrid{grid-template-columns:1fr}}
+/* ★ 모바일 — 캡슐이 「마 롱 컴 퍼 니」 처럼 글자마다 줄바꿈됐다 (2026-08-26 지적).
+   줄바꿈을 막고(nowrap) 접히는 대신 옆으로 굴린다. 글자·여백도 줄인다 */
+@media (max-width:640px){
+ .switch{gap:5px;margin-top:10px}
+ .switch button,.switch .sw-a{font-size:12px;padding:6px 12px}
+ .mast h1{font-size:17px}.mast .tag{display:none}
+ .strip{font-size:11px;gap:5px 10px}
+ .jump a{font-size:11px}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style></head><body>
 <div class="top"><div class="top-in">
@@ -441,6 +454,7 @@ a.noti{color:var(--ink3)}
 <main><section class="brand" id="p-malong" data-panel>
   <div class="strip"><span><b>마롱컴퍼니</b> 조형물 제작 · B2B</span>
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
+    <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-26</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
@@ -794,7 +808,11 @@ a.noti{color:var(--ink3)}
         <p class="foot">한 답변에 여러 곳이 나오므로 합은 100을 넘습니다.</p></aside>
     </div></section>
 
-  
+  <div class="warnbox"><b>⚠️ 서로 다른 두 곳에서 쟀습니다 — 웹앱 397회 · API 182회.</b>
+        <p>같은 질문이라도 <b>어디서 재느냐로 답이 크게 달라집니다.</b> 같은 이수역 질문 51개를 두 곳에서 재봤더니
+        인용률이 <b>웹앱 4% · API 22%</b> 로 5배 벌어졌습니다. API 는 회차당 출처를 50개 주고 웹앱은 9개를 줍니다 —
+        분모가 다릅니다. 아래 숫자는 <b>둘을 섞은 평균</b>이라 어느 쪽도 아닙니다.
+        브랜드끼리 견주는 데는 쓸 수 있지만, <b>인용률의 절대값을 다른 판과 비교하지 마십시오.</b></p></div>
   <section class="card sec" id="s-malong-3">
     <header class="card-h"><span class="sec-i">KEYWORD MAP</span><h2>타깃 키워드 — 어느 말에서 이기고 지나</h2>
       <p>질문을 누르면 그때 무슨 일이 있었는지 오른쪽에 열립니다.</p></header>
