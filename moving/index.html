@@ -664,10 +664,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-0821">← 목록</a>
+    <a class="back" href="../?v=20260827-0825">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-0821">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-0821">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0821">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-0825">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-0825">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-0825">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -678,7 +678,7 @@ a.noti{color:var(--ink3)}
     <span>질문 27</span><span>회차 159 (웹앱 159 · API 0)</span>
     <span>질문당 6회 (5~6)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0821</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-0825</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-moving-1">
@@ -2013,7 +2013,10 @@ function openMedia(kind,mode){
  let runs;
  if(mode==='size') runs=[...(M.sizeRun[kind]||[])];
  else {const u=new Set(); pages.forEach(p=>p.runs.forEach(r=>u.add(r))); runs=[...u];}
- const [title,help]=(MKDESC[mode]||MKDESC.crowd)(kind);
+ let [title,help]=(MKDESC[mode]||MKDESC.crowd)(kind);
+ if(kind==='미분류') help=`인용은 됐는데 <b>본문을 못 읽어</b> 어느 업체가 실렸는지 판정할 수 없는 글입니다.
+   그래서 「같이 나온 곳」도 「목록글인가」도 비어 있습니다 — <b>모르는 것이지 없는 것이 아닙니다.</b>
+   크롤로 줄여야 하는 우리 숙제입니다.`;
  drawDrawer({title,help,runs,
    pages:pages.map(p=>({u:p.u,t:p.t,d:p.d,seen:p.runs.size,cit:p.runs.size,avg:null,media:'',
                         who:[...p.who].map(i=>M.bn[i]),crowd:p.who.size})),
@@ -2060,11 +2063,14 @@ function renderCrowd(){
         : '<i>0%</i>')+'</td></tr>';
  });
  // ★ 못 세는 것을 조용히 빼지 않는다. 왜 빠졌는지 말하고, 그것도 눌러서 볼 수 있게 한다
- box.innerHTML=h+'</table>'+(un
-   ? `<p class="msay">※ 본문을 못 읽은 <b>미분류 ${un}편</b>은 이 표에서 뺐습니다 —
+ const few=MEDORDER.filter(k=>k!=='미분류'&&by[k]&&by[k].length<10);
+ box.innerHTML=h+'</table>'
+  +(few.length?`<p class="msay">※ 인용된 글이 <b>10종이 안 되는</b> 매체는 뺐습니다 —
+      평균이 글 한두 편에 휘둘려 못 믿기 때문입니다:
+      ${few.map(k=>`<button class="mcell" type="button" data-mk="${esc(k)}|crowd">${esc(k)} ${by[k].length}종 ›</button>`).join(' · ')}</p>`:'')
+  +(un?`<p class="msay">※ 본문을 못 읽은 <b>미분류 ${un}편</b>도 뺐습니다 —
       몇 곳이 실렸는지 셀 수가 없기 때문입니다.
-      <button class="mcell" type="button" data-mk="미분류|crowd">그 ${un}편 보기 ›</button></p>`
-   : '');
+      <button class="mcell" type="button" data-mk="미분류|crowd">그 ${un}편 보기 ›</button></p>`:'');
  wireMK();
 }
 function wire(){
