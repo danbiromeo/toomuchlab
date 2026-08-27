@@ -261,6 +261,15 @@ h3{font-size:15px;margin-bottom:4px}
 .qbar .bn em{font-style:normal;font-weight:400;color:var(--ink3);font-size:10px;margin-left:1px}
 .callout .cnote{font-size:11px;color:var(--ink3);margin-top:5px}
 @media(max-width:720px){.qg2{grid-template-columns:1fr}.qbar{grid-template-columns:96px 1fr 46px}}
+.mh i{display:inline-flex;align-items:center;justify-content:center;width:19px;height:19px;
+  border-radius:50%;background:var(--ink);color:#fff;font-style:normal;font-size:11px;
+  font-weight:800;margin-right:7px;vertical-align:2px}
+.mroad{margin:10px 0 0;padding-left:0;list-style:none;counter-reset:mr}
+.mroad li{counter-increment:mr;position:relative;padding-left:26px;margin:5px 0;
+  font-size:12.5px;line-height:1.65;color:var(--ink2)}
+.mroad li::before{content:counter(mr);position:absolute;left:0;top:1px;width:18px;height:18px;
+  border-radius:50%;background:var(--surf3);color:var(--ink2);font-size:10.5px;font-weight:800;
+  display:flex;align-items:center;justify-content:center}
 .mtab.own{width:100%;border-collapse:collapse;margin:8px 0 4px;font-size:12.5px}
 .mtab.own th{text-align:center;font-size:11px;font-weight:600;color:var(--ink3);
   padding:7px 8px;border-bottom:1px solid var(--outline,#E6E8EF);white-space:nowrap}
@@ -285,6 +294,13 @@ h3{font-size:15px;margin-bottom:4px}
 .hdb.on{color:var(--pri);border-bottom:2px solid var(--pri)}
 .hdb::after{content:'?';font-size:8.5px;vertical-align:6px;margin-left:2px;color:var(--ink3);font-weight:700}
 .hdb.on::after{color:var(--pri)}
+.aq{display:block;margin-top:5px;font-size:11.5px;line-height:1.9}
+.aq em{font-style:normal;color:var(--ink3);margin-right:5px;font-size:10.5px}
+.qgo2{font:inherit;font-size:11.5px;background:var(--surf3);border:1px solid var(--outline,#E6E8EF);
+  color:var(--ink2);border-radius:99px;padding:2px 9px;margin:0 4px 3px 0;cursor:pointer;max-width:100%;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:middle}
+.qgo2:hover{background:var(--ink);border-color:var(--ink);color:#fff}
+.aq i{font-style:normal;color:var(--ink3);font-size:10.5px}
 .colnote{margin:9px 0 2px;padding:11px 14px;background:var(--surf2);border:1px solid var(--outline,#E6E8EF);
   border-left:3px solid var(--pri);border-radius:9px;font-size:12.5px;line-height:1.7;color:var(--ink2)}
 .colnote b{display:block;color:var(--ink);font-size:13px;margin-bottom:3px}
@@ -679,10 +695,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1014">← 목록</a>
+    <a class="back" href="../?v=20260827-1017">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1014">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1014">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1014">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1017">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1017">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1017">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -693,7 +709,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1014</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1017</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -2627,8 +2643,14 @@ a.noti{color:var(--ink3)}
 
   <section class="card sec" id="s-malong-4">
     <header class="card-h"><span class="sec-i">MEDIA</span><h2>매체 — 어디에 실려야 나오나</h2>
-      <p>점유율만 보면 처방이 안 나옵니다. <b>크기·전환·혼잡·다양성</b> 넷을 같이 봐야
-      「등재하라 / 체험단을 써라 / 직접 써라」가 갈립니다.</p></header>
+      <p>점유율만 보면 처방이 안 나옵니다. 아래 <b>네 물음</b>을 순서대로 보면
+      「등재하라 / 체험단을 써라 / 직접 써라」가 갈립니다.</p>
+      <ol class="mroad">
+        <li><b>어느 매체가 인용되나</b> — 판에서 어느 매체가 근거로 쓰이는가</li>
+        <li><b>글 한 장에 업체가 몇 곳 실리나</b> — 붐비면 실려도 내 차례가 안 온다</li>
+        <li><b>실리면 실제로 답변에 불리나</b> — 여기가 처방을 가른다</li>
+        <li><b>우리 사이트는 얼마나 일하나 · 추천이 어디서 왔나</b> — 우리 자리</li>
+      </ol></header>
     <div class="card-b">
       <div class="mverdict">
       <span class="mvt">이 판의 판정</span>
@@ -2636,32 +2658,32 @@ a.noti{color:var(--ink3)}
       <p class="mv2">우리는 블로그에 <b>1편</b>으로 뒤지지 않습니다. 이 매체는 지키고, <b>안 쓴 주제를 채우는 쪽</b>이 남은 자리입니다.</p>
       <p class="mvw">⚠️ 블로그는 표본이 <b>36쌍</b>뿐입니다. 방향을 가리키는 신호이지 <b>결론이 아닙니다.</b> 실제로 넣어봐야 압니다.</p>
       <p class="mv3">매체별 전환 — <button class="mcell mkb" type="button" data-mk="블로그|conv">블로그 <b>92%</b> <i>(36쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="자사사이트|conv">자사사이트 <b>75%</b> <i>(621쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="사이트|conv">사이트 <b>46%</b> <i>(63쌍)</i></button></p></div>
-      <h3 class="mh">① 크기 — 어떤 매체가 인용되나</h3>
+      <h3 class="mh"><i>1</i> 어느 매체가 인용되나</h3>
       <p class="msay">한 회차가 여러 매체를 동시에 쓰므로 합이 100%를 넘습니다.
       <b>막대를 누르면</b> 그 매체가 인용된 회차와 글이 열립니다.<br>
       ※ 여기서 <b>자사사이트</b>는 「우리 것」이 아니라 <b>이 표에 실린 업체 누군가의 자기 사이트</b>라는 뜻입니다.</p>
       <div class="msize" data-msize><p class="msay">계산 중…</p></div>
 
-      <h3 class="mh">③ 혼잡 — 글 한 장에 업체가 몇 곳 실리나</h3>
-      <p class="msay">이걸 통제하지 않으면 아래 ②가 거짓말을 합니다.
+      <h3 class="mh"><i>2</i> 글 한 장에 업체가 몇 곳 실리나</h3>
+      <p class="msay">이걸 먼저 봐야 <b>다음 칸(실리면 불리나)</b>이 거짓말을 안 합니다.
       <b>100곳 중 하나면 안 불리는 게 당연</b>하기 때문입니다.<br>
       <b>매체 이름을 누르면</b> 그 매체의 글이, <b>맨 오른쪽 %를 누르면</b>
       업체가 3곳 이상 실린 <b>목록글(「○○ BEST 10」 같은 것)</b>만 열립니다 —
       우리 처방이 갈리는 자리라 눈으로 봐야 합니다.</p>
       <div data-mcrowd><p class="msay">계산 중…</p></div>
 
-      <h3 class="mh">② 전환 — 실린 뒤 실제로 답변에 불리나 <em>핵심</em></h3>
+      <h3 class="mh"><i>3</i> 실리면 실제로 답변에 불리나 <em>여기가 핵심</em></h3>
       <p class="msay">그 매체 글에 이름이 실린 <b>(회차 × 업체)</b> 쌍 중 답변에 불린 비율입니다.
       <b>칸을 누르면</b> 그 매체의 회차와 글이 열립니다.</p>
       <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사사이트|conv"><b>자사사이트</b></button><span class="hint">그 업체가 소유한 사이트 (자기 홈페이지·자기 티스토리)</span></td><td class="good"><button class="mcell" type="button" data-mk="자사사이트|conv"><b>75%</b><span>464/621</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사사이트|thin"><b>75%</b><span>464/621</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL 로 퍼블리싱 플랫폼이 확정되는 곳 (네이버블로그·티스토리·브런치 등)</span></td><td class="good"><button class="mcell" type="button" data-mk="블로그|conv"><b>92%</b><span>33/36</span></button></td><td class="good"><button class="mcell" type="button" data-mk="블로그|thin"><b>92%</b><span>33/36</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="사이트|conv"><b>사이트</b></button><span class="hint">자기 도메인을 쓰는 곳. 개인 블로그도 여기 들어온다</span></td><td class=""><button class="mcell" type="button" data-mk="사이트|conv"><b>46%</b><span>29/63</span></button></td><td class=""><button class="mcell" type="button" data-mk="사이트|thin"><b>46%</b><span>29/63</span></button></td><td class="na">표본 부족</td></tr></table>
 
       
-      <h3 class="mh">⑤ 자사 사이트 — 우리 도메인은 얼마나 일하나</h3>
+      <h3 class="mh"><i>4</i> 우리 사이트는 얼마나 일하나</h3>
       <p class="msay">우리 사이트는 AI 소스에 <b>1804회</b> 떴고 그중 <b>691회</b>가 근거로 채택됐습니다 (<b>38%</b>). 이 판의 소스 전체 평균은 34% 입니다 — <b>평균과 비슷합니다</b>.</p>
       <table class="mtab own"><tr><th>업체 · 도메인</th><th>소스로 떴다</th><th>근거로 쓰였다</th>
         <th>인용률</th><th>판 평균(34%) 대비</th></tr><tr class=" me"><td class="nm">마롱컴퍼니 <em>우리</em><span>malongcompany · malong.co.kr</span></td><td><b>1804</b><span>회</span></td><td><b>691</b><span>회</span></td><td class=""><b>38</b><span>%</span></td><td class="dlt ">+4<span>%p</span></td></tr><tr class=""><td class="nm">아이메탈아트<span>imetalart.co.kr</span></td><td><b>255</b><span>회</span></td><td><b>132</b><span>회</span></td><td class="good"><b>52</b><span>%</span></td><td class="dlt good">+18<span>%p</span></td></tr><tr class=""><td class="nm">하오즈<span>haoz.co.kr</span></td><td><b>246</b><span>회</span></td><td><b>185</b><span>회</span></td><td class="good"><b>75</b><span>%</span></td><td class="dlt good">+41<span>%p</span></td></tr><tr class=""><td class="nm">헤파이스토스<span>hephaestusworks.co.kr</span></td><td><b>208</b><span>회</span></td><td><b>114</b><span>회</span></td><td class="good"><b>55</b><span>%</span></td><td class="dlt good">+21<span>%p</span></td></tr><tr class=""><td class="nm">서울메이커스페이스<span>myfactory.seoul.go.kr</span></td><td><b>200</b><span>회</span></td><td><b>103</b><span>회</span></td><td class="good"><b>52</b><span>%</span></td><td class="dlt good">+18<span>%p</span></td></tr><tr class=""><td class="nm">숨고<span>soomgo.com</span></td><td><b>191</b><span>회</span></td><td><b>72</b><span>회</span></td><td class=""><b>38</b><span>%</span></td><td class="dlt ">+4<span>%p</span></td></tr><tr class=""><td class="nm">크몽<span>kmong.com</span></td><td><b>187</b><span>회</span></td><td><b>85</b><span>회</span></td><td class="good"><b>45</b><span>%</span></td><td class="dlt good">+11<span>%p</span></td></tr><tr class=""><td class="nm">레이어드3D<span>layerd3d.com</span></td><td><b>148</b><span>회</span></td><td><b>119</b><span>회</span></td><td class="good"><b>80</b><span>%</span></td><td class="dlt good">+46<span>%p</span></td></tr></table><p class="msay warn2">아래 112곳은 자사 도메인을 아직 못 찾았습니다 — <b>사이트가 없는 것</b>일 수도, <b>있는데 AI가 안 보는 것</b>일 수도 있어 여기선 뺐습니다: 메탈아트 · 턴키 스튜디오 · 해눈 · 서울상사 · 위브먼트 · 다만드러 · 솜씨잔넬스카시 · 아인종합기획 · 공공공간 · 미술과조형 · 페이스스토리 · 순간조형물제작</p>
 
-      <h3 class="mh">추천이 어디서 왔나 · ④ 다양성</h3>
+      <h3 class="mh"><i>5</i> 추천이 어디서 왔나</h3>
       <p class="msay">큰 숫자는 <b>회차</b>, 작은 글씨는 <b>글 수(편/도메인)</b>입니다.
       한 곳에 10편이면 <b>내가 왕창 쓰면 되는 판</b>, 열 곳에 1편씩이면 <b>남이 써줘야 하는 판</b>입니다.<br>
       ★ <b>「소스 없음」</b> = 인용된 글을 다 읽었는데 그 안에 이름이 없었는데도 답변에 불린 회차입니다 —
@@ -3239,15 +3261,32 @@ function openCell(key){
 }
 // 그 글 한 장에 우리가 아는 업체가 몇 곳 실렸나 (목록글인지 가르는 값)
 function pgCrowd(M,u){const p=M.PG.get(u); return p?p.who.size:0;}
+// ★ 이 글이 **어느 질문에서** 인용됐나 (2026-08-27 지시).
+//   글만 보여주면 「그래서 이게 어느 질문 때문이냐」 를 알 수 없다.
+//   PG(url→{runs:Set}) 와 M.runs[ri].q 로 되짚는다. 눌러서 그 질문으로 갈 수 있다.
+function pgQuestions(M,u){
+  const p=M.PG.get(u); if(!p) return [];
+  const seen=new Set(), out=[];
+  [...p.runs].forEach(ri=>{const R=M.runs[ri]; if(R&&!seen.has(R.q)){seen.add(R.q); out.push(R.q);}});
+  return out;
+}
+function qChips(M,u){
+  const qs=pgQuestions(M,u); if(!qs.length) return '';
+  const SHOW=3;
+  return `<span class="aq"><em>이 글이 인용된 질문</em>`
+   + qs.slice(0,SHOW).map(q=>`<button type="button" class="qgo2" data-goq="${esc(q)}">${esc(q)}</button>`).join('')
+   + (qs.length>SHOW?`<i>외 ${qs.length-SHOW}문</i>`:'') + `</span>`;
+}
 // ★ 글 한 줄 — 매체표 서랍·업체 서랍·매체 서랍이 **다 이 함수 하나**를 쓴다
-function artRow(a){return `<li>
+function artRow(a){const _M=MED||mediaCalc(); return `<li>
    <span class="rk-n">${a.seen}<em>회</em></span>
    <span><a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t)||'(제목 없음)'}</a>
    <span class="meta">${a.cit?`<span class="chip cited" title="답변 근거로 쓰임">인용 ${a.cit}회</span>`
                              :'<span class="chip seenonly" title="검색에는 떴지만 근거로는 안 쓰임">소스만</span>'}
    ${a.crowd>=3?`<span class="chip busy" title="한 글에 여러 업체가 함께 실려 있다 — 「○○ BEST 10」 같은 목록글">업체 ${a.crowd}곳이 실린 목록글</span>`:''}
    <span class="dm">${esc(a.d)}${a.media?' · '+esc(a.media):''}${a.avg!=null?' · 평균순위 '+a.avg:''}</span>
-   ${a.who&&a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}</span></span></li>`;}
+   ${a.who&&a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}
+   ${qChips(_M,a.u)}</span></span></li>`;}
 // ★★ 서랍은 **하나**다. 어느 칸을 눌러도 같은 자리에 같은 모양이 나온다 (2026-08-27 지시).
 //    다른 건 「무엇으로 걸렀나」 뿐이다. 칸마다 화면을 새로 만들면 보는 사람이 매번 다시 배운다
 function drawDrawer(o){
@@ -3280,8 +3319,10 @@ function drawDrawer(o){
    : `<div class="bcard"><p class="say">${o.empty||'해당하는 글이 없습니다.'}</p></div>`;
  $('.drw-b').innerHTML=(o.stat||'')
    + `<p class="say">${o.help}</p>`
-   + `<h4 class="bh">그 회차 <i>${o.runs.length}개</i></h4>${runBox}`
-   + `<h4 class="bh">그 글 <i>${o.pages.length}편</i></h4>${pageBox}`;
+   // ★ 글을 먼저 보인다 (2026-08-27 지시) — 「무엇이 인용됐나」 가 먼저고,
+   //   「그래서 어느 회차였나」 가 뒤다. 회차만 먼저 나오면 글을 찾으러 내려가야 한다
+   + `<h4 class="bh">그 글 <i>${o.pages.length}편</i></h4>${pageBox}`
+   + `<h4 class="bh">그 회차 <i>${o.runs.length}개</i></h4>${runBox}`;
  wire(); openDrw();
 }
 // ★ 매체 하나를 통째로 여는 서랍 — ①크기 막대 · ③혼잡 줄 · ②전환 칸 · 판정 카드가 전부 여기로 온다
