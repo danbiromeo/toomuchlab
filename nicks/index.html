@@ -708,10 +708,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1058">← 목록</a>
+    <a class="back" href="../?v=20260827-1100">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1058">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1058">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1058">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1100">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1100">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1100">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -722,7 +722,7 @@ a.noti{color:var(--ink3)}
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
     <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1058</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1100</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-nicks-1">
@@ -2684,8 +2684,6 @@ a.noti{color:var(--ink3)}
 <script>
 const D=window.__AEO__;let CUR=null;
 const MEDROW=10;   // 매체표에 펴 두는 줄 수
-// ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다
-const CONFIRMED = MEDORDER.filter(k=>k!=='미분류');
 // ★ 표 머리를 누르면 뜻이 나온다 (2026-08-27 지시 · 여러 번 요청됨).
 //   title= 툴팁만 있었는데 그건 마우스를 올려야 보이고 휴대폰에선 아예 안 보인다.
 //   매체 여섯 칸의 뜻은 정본(_boards/_media.py)에서 오고, 나머지 칸만 여기 적는다.
@@ -2778,6 +2776,11 @@ function updFigs(panel, rows, rg, tot){
 //    이제 둘 다 아래 한 함수에서 나온다 — 어긋나면 둘 다 어긋난다
 const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지,사이트", "블로그", "일반사이트", "플랫폼", "언론", "미분류"], "HELP": {"자사홈페이지,사이트": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "미분류": "인용됐는데 본문을 못 읽어 판정할 수 없는 것 — 크롤로 줄인다"}};
 const MEDORDER = MR.ORDER;
+// ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다.
+//   ⚠️ 반드시 MEDORDER **뒤에** 둔다. 앞에 뒀다가 「Cannot access 'MEDORDER' before
+//      initialization」 으로 매체표가 통째로 죽어 「계산 중…」 에서 멈췄다 (2026-08-27).
+//      node --check 는 문법만 본다 — 이런 건 **브라우저 콘솔을 봐야** 잡힌다.
+const CONFIRMED = MEDORDER.filter(k=>k!=='미분류');
 function ownerOf(dom,bd){
  const d=(dom||'').toLowerCase();
  for(let i=0;i<bd.length;i++) for(const x of bd[i]) if(x && d.includes(x.toLowerCase())) return i;
