@@ -312,7 +312,8 @@ h3{font-size:15px;margin-bottom:4px}
 .qgo2:hover{background:var(--ink);border-color:var(--ink);color:#fff}
 .aq i{font-style:normal;color:var(--ink3);font-size:10.5px}
 .drw-meta .mq b{color:var(--ink)}
-.who .wl{font-style:normal;font-size:9.5px;font-weight:500;opacity:.6;margin-right:5px;letter-spacing:0}
+.wl{font-style:normal;font-size:11px;font-weight:500;color:var(--ink3);margin-right:6px;
+  letter-spacing:0;white-space:nowrap}
 .colnote{margin:9px 0 2px;padding:11px 14px;background:var(--surf2);border:1px solid var(--outline,#E6E8EF);
   border-left:3px solid var(--pri);border-radius:9px;font-size:12.5px;line-height:1.7;color:var(--ink2)}
 .colnote b{display:block;color:var(--ink);font-size:13px;margin-bottom:3px}
@@ -707,10 +708,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1049">← 목록</a>
+    <a class="back" href="../?v=20260827-1051">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1049">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1049">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1049">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1051">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1051">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1051">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -721,7 +722,7 @@ a.noti{color:var(--ink3)}
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
     <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1049</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1051</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-nicks-1">
@@ -2959,9 +2960,9 @@ function whoTag(s){
    const head=s.w.slice(0,2).map(esc).join(' · ');
    const L='<em class="wl">이 글에 실린 곳</em>';
    if(s.w.length>2){
-     out.push(`<span class="who wmore" role="button" tabindex="0" data-wmore`
-       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${L}${head} 외 ${s.w.length-2} ▶</span>`);
-   } else out.push(`<span class="who">${L}${head}</span>`);}
+     out.push(L+`<span class="who wmore" role="button" tabindex="0" data-wmore`
+       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${head} 외 ${s.w.length-2} ▶</span>`);
+   } else out.push(L+`<span class="who">${head}</span>`);}
  if(out.length) return out.join('');
  if(s.st==='none')   return `<span class="who none">${esc(me)} 없음</span>`;
  if(s.st==='thin')   return `<span class="who unk" title="목록을 자바스크립트로 그려서 본문을 못 읽었습니다">본문 못 읽음</span>`;
@@ -3267,9 +3268,9 @@ function artRow(a){const _M=MED||mediaCalc(); return `<li>
       if(!all.length) return '';
       const L='<em class="wl">이 글에 실린 곳</em>';
       return all.length>3
-        ? `<span class="who wmore" role="button" tabindex="0" data-wmore data-all="${esc(all.join(' · '))}"
-             title="눌러서 나머지 보기">${L}${all.slice(0,3).map(esc).join(' · ')} 외 ${all.length-3} ▶</span>`
-        : `<span class="who">${L}${all.map(esc).join(' · ')}</span>`;
+        ? L+`<span class="who wmore" role="button" tabindex="0" data-wmore data-all="${esc(all.join(' · '))}"
+             title="눌러서 나머지 보기">${all.slice(0,3).map(esc).join(' · ')} 외 ${all.length-3} ▶</span>`
+        : L+`<span class="who">${all.map(esc).join(' · ')}</span>`;
     })()}
    ${qChips(_M,a.u)}</span></span></li>`;}
 // ★★ 서랍은 **하나**다. 어느 칸을 눌러도 같은 자리에 같은 모양이 나온다 (2026-08-27 지시).
