@@ -708,10 +708,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1108">← 목록</a>
+    <a class="back" href="../?v=20260827-1112">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1108">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1108">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1108">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1112">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1112">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1112">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -722,7 +722,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1108</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1112</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -2703,6 +2703,7 @@ a.noti{color:var(--ink3)}
       작은 글씨의 <b>지도</b>는 그 회차 지도에 <u>실제로 우리가 올라 있던</u> 것,
       <b>불명</b>은 지도에도 없는데 불린 것입니다 — 원인을 아직 못 가렸습니다.
       <b>한 회차가 여러 매체를 동시에 쓰므로 가로 합이 추천 수를 넘을 수 있습니다.</b> 「소스 없음」만 겹치지 않습니다.<br>
+      ★ <b>추천 = 인용 + 인용 없이 + 모름</b> 입니다. 셋이 겹치지 않고 딱 나뉩니다.<br>
       ★ <b>분모가 칸마다 다릅니다.</b> 「추천」은 <b>전체 회차</b>가 분모이고,
       「인용 합계」와 「지도에」의 %는 <b>그 업체가 추천된 회차</b>가 분모입니다 —
       그래서 칸마다 <b>/분모</b>를 같이 적었습니다. <b>퍼센트끼리 견주지 마십시오.</b></p>
@@ -2734,8 +2735,9 @@ const MEDROW=10;   // 매체표에 펴 두는 줄 수
 const COLHELP = {
  '업체':      '이 판에서 답변에 이름이 불린 적이 있는 업체입니다. 추천이 많은 순서로 놓았습니다.',
  '추천':      'AI 답변 <b>본문</b>에 이 업체 이름이 나온 회차입니다. 해석이 들어가지 않습니다 — 글자를 그대로 셉니다. 분모는 <b>전체 회차</b>입니다.',
- '인용':      '추천된 회차 중 <b>이 업체를 다룬 글이 근거로 채택된 것을 확인한</b> 회차입니다. 오른쪽 다섯 칸(자사홈페이지·블로그·일반사이트·플랫폼·언론)의 <b>합집합</b>입니다.<br>★ <b>「미분류」는 뺐습니다</b> — 인용은 됐지만 본문을 못 읽어 그 글에 이 업체가 있는지 모르는 회차라, 합계에 넣으면 모름이 「거쳐 왔다」가 됩니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
- '인용 없이': '추천은 됐는데 <b>인용된 글 어디에도 이 업체 이름이 없던</b> 회차입니다. AI가 이미 알고 있거나 지도를 보고 부른 것입니다 — <b>글로는 못 건드리는 몫</b>입니다.',
+ '인용':      '추천된 회차 중 <b>이 업체를 다룬 글이 근거로 채택된 것을 확인한</b> 회차입니다. 오른쪽 다섯 칸의 <b>합집합</b>입니다.<br>★ <b>추천 = 인용 + 인용 없이 + 모름</b> 으로 딱 나뉩니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
+ '인용 없이': '추천은 됐는데 <b>인용된 글을 다 읽었고 그 안에 이 업체 이름이 없던</b> 회차입니다. AI가 이미 알고 있거나 지도를 보고 부른 것입니다 — <b>글로는 못 건드리는 몫</b>입니다.',
+ '모름':      '인용된 글 중 <b>본문을 못 읽은 것</b>이 있어 판정을 못 한 회차입니다. 매체를 모르는 게 아니라 <b>실렸는지를 모르는</b> 것입니다. 크롤로 읽어내면 「인용」이나 「인용 없이」로 갑니다.',
  '지도에':    '그 회차의 지도 카드에 이 업체가 실제로 올라 있던 횟수입니다. 인용과 겹치므로 매체 분포에 넣지 않고 따로 셉니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
 };
 // ★ 받침을 보고 조사를 고른다. 이름을 문장에 끼워 넣는 자리가 여럿이라 한 군데 둔다
@@ -2818,13 +2820,13 @@ function updFigs(panel, rows, rg, tot){
 // ══ 매체 계산 — ★ 표와 드릴다운을 같은 자료에서 만든다 (2026-08-26 지시)
 //    그 전엔 표는 aeomedia.py(파이썬)가, 내역은 화면 자료가 만들어 어긋날 수 있었다.
 //    이제 둘 다 아래 한 함수에서 나온다 — 어긋나면 둘 다 어긋난다
-const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지,사이트", "블로그", "일반사이트", "플랫폼", "언론", "미분류"], "HELP": {"자사홈페이지,사이트": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "미분류": "인용됐는데 본문을 못 읽어 판정할 수 없는 것 — 크롤로 줄인다"}};
+const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지,사이트", "블로그", "일반사이트", "플랫폼", "언론"], "HELP": {"자사홈페이지,사이트": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "모름": "그 회차에 인용된 글 중 **본문을 못 읽은 것**이 있어 「이 업체가 실렸나」를 판정 못 한 회차입니다. 매체를 모르는 게 아니라 **실렸는지를 모르는** 것입니다 — 크롤로 줄입니다"}};
 const MEDORDER = MR.ORDER;
 // ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다.
 //   ⚠️ 반드시 MEDORDER **뒤에** 둔다. 앞에 뒀다가 「Cannot access 'MEDORDER' before
 //      initialization」 으로 매체표가 통째로 죽어 「계산 중…」 에서 멈췄다 (2026-08-27).
 //      node --check 는 문법만 본다 — 이런 건 **브라우저 콘솔을 봐야** 잡힌다.
-const CONFIRMED = MEDORDER.filter(k=>k!=='미분류');
+const CONFIRMED = MEDORDER;   // 미분류를 ORDER 에서 뺐으므로 다섯 칸이 곧 확인된 매체다
 function ownerOf(dom,bd){
  const d=(dom||'').toLowerCase();
  for(let i=0;i<bd.length;i++) for(const x of bd[i]) if(x && d.includes(x.toLowerCase())) return i;
@@ -2867,6 +2869,8 @@ function mediaCalc(){
  const D0=D[CUR], bn=D0.bn, bd=D0.bd;
  // cell[bi][kind] = {runs:Set, pages:Map(url→{t,d,st})}
  const cell=bn.map(()=>({})), nosrc=bn.map(()=>({run:[],unread:[],inmap:[]})), ansN=bn.map(()=>0);
+ // ★ 「모름」 — 매체 칸이 아니다. 인용된 글 중 못 읽은 게 있어 판정을 못 한 회차 (2026-08-27)
+ const unkn=bn.map(()=>({runs:new Set(),pages:new Map()}));
  // ★ 페이지 단위 — ①크기·③혼잡·목록글이 쓴다. PG: url → {t,d,k,who:Set(업체번호),runs:Set(회차)}
  const PG=new Map(), sizeRun={};
  // 전환 표본: pair[kind] = [{hit, crowd}]
@@ -2915,13 +2919,15 @@ function mediaCalc(){
     (conv[k]||(conv[k]=[])).push({hit:rec.has(i),crowd:who.length});
    });
   });
-  // ★ 미분류 — 인용은 됐는데 본문을 못 읽어 「그 업체가 실렸나」 를 모르는 회차
+  // ★ 「모름」 — 인용된 글 중 못 읽은 게 있어 「이 업체가 실렸나」 를 판정 못 한 회차.
+  //   ⚠️ **매체 칸이 아니다.** 그 글들의 매체(도메인)는 알고 있다. 모르는 건 실렸나 하나다.
+  //   전에는 매체 여섯 번째 칸에 넣어서, 마롱의 「미분류」에 seoulst.co.kr 처럼
+  //   마롱과 무관한 글이 달렸고 추천 = 인용 + 인용없이 가 안 맞았다(315 vs 287).
   if(unread) rec.forEach(i=>{ if(!seen[i]){
-    const c=cell[i]['미분류']||(cell[i]['미분류']={runs:new Set(),all:new Set(),pages:new Map()});
-    c.runs.add(ri); c.all.add(ri);
-    unreadSrc.forEach(s=>c.pages.set(s.u,{t:s.t,d:s.d,q,ri,hit:true}));
+    unkn[i].runs.add(ri);
+    unreadSrc.forEach(s=>unkn[i].pages.set(s.u,{t:s.t,d:s.d,q,ri,hit:false}));
   }});
-  rec.forEach(i=>{ if(!seen[i] && !(cell[i]['미분류']&&cell[i]['미분류'].runs.has(ri))){
+  rec.forEach(i=>{ if(!seen[i] && !unkn[i].runs.has(ri)){
     const inmap=(r.places||[]).some(p=>(p.n||p.name||p||'').includes(bn[i].slice(0,4)));
     nosrc[i].run.push(ri); if(unread) nosrc[i].unread.push(ri); if(inmap) nosrc[i].inmap.push(ri);
   }});
@@ -2929,7 +2935,7 @@ function mediaCalc(){
  // ★ 지도는 인용과 겹친다(마롱 118건이 둘 다). 분포에 넣지 않고 따로 센다
  const inmap=bn.map(()=>new Set());
  runs.forEach(({r},ri)=>{ if(!r.mm) return; (r.rb||[]).forEach(i=>inmap[i].add(ri)); });
- MED={k:CUR,bn,cell,nosrc,ansN,conv,runs,inmap,PG,sizeRun,N:runs.length};
+ MED={k:CUR,bn,cell,nosrc,unkn,ansN,conv,runs,inmap,PG,sizeRun,N:runs.length};
  return MED;
 }
 function drawSlope(panel, rg, tot){
@@ -3159,7 +3165,7 @@ function renderMedia(){
    +'<th rowspan="2" class="grpL"><button class="hdb" data-help="인용">인용</button><span>합계 · 추천 회차 중</span></th>'
    +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나
        <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 칸끼리 겹칩니다 — 더하지 마십시오.
-       왼쪽 「인용 합계」는 <u>미분류를 뺀</u> 다섯 칸의 합집합입니다. 미분류는 「모름」이라 합계에 넣지 않습니다.</b></th>`
+       왼쪽 「인용 합계」는 이 다섯 칸의 합집합입니다. 「모름」은 매체가 아니라 판정 상태라 오른쪽에 따로 뒀습니다.</b></th>`
    +'<th rowspan="2" class="grp2"><button class="hdb" data-help="인용 없이">인용 없이</button><br><span>왔다 · 회차</span></th>'
    +'<th rowspan="2" class="mapcol"><button class="hdb" data-help="지도에">지도에</button><br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
    +MEDORDER.map(k=>`<th class="sub"><button class="hdb" data-help="${esc(k)}">${esc(k)}</button><span>회차</span></th>`).join('')+'</tr>';
@@ -3189,6 +3195,9 @@ function renderMedia(){
   const ns=M.nosrc[x.i];
   h+= ns.run.length ? `<td class="nosrc"><button class="mcell" data-mc="${x.i}|nosrc"><b>${ns.run.length}</b></button></td>`
       : '<td class="nosrc"><i>—</i></td>';
+  const uk=M.unkn[x.i];
+  h+= uk&&uk.runs.size ? `<td class="nosrc unk"><button class="mcell" data-mc="${x.i}|unkn"><b>${uk.runs.size}</b></button></td>`
+      : '<td class="nosrc unk"><i>—</i></td>';
   const mp=M.inmap[x.i];
   h+= mp&&mp.size ? `<td class="mapcol"><button class="mcell" data-mc="${x.i}|map"><b>${mp.size}</b><span>/${x.ans} · ${Math.round(mp.size/x.ans*100)}%</span></button></td>`
       : '<td class="mapcol"><i>—</i></td>';
@@ -3252,6 +3261,7 @@ function spreadLine(M,D0){
 //    그래서 하나로 합쳤다. 어느 칸이든 「회차 목록」 과 「글 목록」 이 같은 자리에 나온다.
 const CELLDESC = {
  ans:  ['추천된 회차',        '답변에 이 업체 이름이 난 회차입니다.'],
+ unkn: ['모름 — 판정 못 한 회차', '이 업체가 추천된 회차 가운데, <b>인용된 글 중 본문을 못 읽은 것이 있어</b> 「이 업체가 그 글에 실렸나」를 판정하지 못한 회차입니다.<br>★ 아래 글들은 <b>이 업체를 다룬 글이 아닙니다</b> — 그 회차에서 <b>못 읽은 글</b>일 뿐입니다. 크롤로 읽어내면 「인용」이나 「인용 없이」 어느 한쪽으로 갑니다.'],
  cite: ['인용을 거쳐 온 회차 (확인된 것만)', '추천된 회차 가운데, <b>인용된 글 본문에 이 업체 이름이 있는 것을 눈으로 확인한</b> 회차입니다. 다섯 매체(자사홈페이지·블로그·일반사이트·플랫폼·언론)의 <b>합집합</b>이라 매체별 숫자를 더한 것과 다릅니다.<br>★ <b>「미분류」는 뺐습니다</b> — 본문을 못 읽어 그 글에 이 업체가 있는지 <b>모르는</b> 회차입니다. 모름을 「거쳐 왔다」로 셀 수 없습니다.'],
  nosrc:['인용 없이 온 회차',   '답변엔 이름이 났는데 <b>인용된 글 어디에도 이름이 없던</b> 회차입니다. 지도나 AI 가 원래 알던 지식으로 왔다는 뜻입니다.'],
  map:  ['지도에 올라 있던 회차','답변 위 지도 카드에 이 업체가 있던 회차입니다.']
@@ -3270,6 +3280,7 @@ function cellSet(M,i,k){
   return {runs:[...u], pages:[...pg.entries()]};
  }
  if(k==='nosrc') return {runs:M.nosrc[i].run.slice(), pages:[]};
+ if(k==='unkn')  {const u=M.unkn[i]; return {runs:[...u.runs], pages:[...u.pages.entries()]};}
  if(k==='map')   return {runs:[...(M.inmap[i]||[])], pages:[]};
  const c=M.cell[i][k];
  return c ? {runs:[...c.runs], pages:[...c.pages.entries()]} : {runs:[], pages:[]};
