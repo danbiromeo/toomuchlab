@@ -291,6 +291,10 @@ h3{font-size:15px;margin-bottom:4px}
 .mroad li::before{content:counter(mr);position:absolute;left:0;top:1px;width:18px;height:18px;
   border-radius:50%;background:var(--surf3);color:var(--ink2);font-size:10.5px;font-weight:800;
   display:flex;align-items:center;justify-content:center}
+.mtab.conv td:first-child{max-width:300px;white-space:normal}
+.mtab.conv td:first-child .mcell{display:inline-block;width:auto}   /* ★ 알약이 칸을 꽉 채우던 것 */
+.mtab.conv .hint{display:block;font-size:11px;line-height:1.6;color:var(--ink3);margin-top:3px;white-space:normal}
+.mtab.conv th:first-child{width:42%}
 .mtab.own{width:100%;border-collapse:collapse;margin:8px 0 4px;font-size:12.5px}
 .mtab.own th{text-align:center;font-size:11px;font-weight:600;color:var(--ink3);
   padding:7px 8px;border-bottom:1px solid var(--outline,#E6E8EF);white-space:nowrap}
@@ -719,10 +723,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1247">← 목록</a>
+    <a class="back" href="../?v=20260827-1259">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1247">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1247">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-1247">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1259">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1259">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-1259">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -733,7 +737,7 @@ a.noti{color:var(--ink3)}
     <span>질문 242</span><span>회차 470 (웹앱 383 · API 87)</span>
     <span>질문당 2회 (1~3)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1247</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1259</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-clinic-1">
@@ -2553,7 +2557,7 @@ a.noti{color:var(--ink3)}
       <h3 class="mh"><i>3</i> 실리면 실제로 답변에 불리나 <em>여기가 핵심</em></h3>
       <p class="msay">그 매체 글에 이름이 실린 <b>(회차 × 업체)</b> 쌍 중 답변에 불린 비율입니다.
       <b>칸을 누르면</b> 그 매체의 회차와 글이 열립니다.</p>
-      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>자사홈페이지</b></button><span class="hint">그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문</span></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>98%</b><span>171/175</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|thin"><b>98%</b><span>171/175</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**</span></td><td class="bad"><button class="mcell" type="button" data-mk="블로그|conv"><b>34%</b><span>16/47</span></button></td><td class="na">표본 부족</td><td class="bad"><button class="mcell" type="button" data-mk="블로그|busy"><b>31%</b><span>14/45</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="일반사이트|conv"><b>일반사이트</b></button><span class="hint">그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)</span></td><td class="good"><button class="mcell" type="button" data-mk="일반사이트|conv"><b>61%</b><span>304/501</span></button></td><td class="good"><button class="mcell" type="button" data-mk="일반사이트|thin"><b>85%</b><span>204/240</span></button></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|busy"><b>38%</b><span>100/261</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="플랫폼|conv"><b>플랫폼</b></button><span class="hint">등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)</span></td><td class="bad"><button class="mcell" type="button" data-mk="플랫폼|conv"><b>30%</b><span>613/2012</span></button></td><td class="good"><button class="mcell" type="button" data-mk="플랫폼|thin"><b>60%</b><span>166/276</span></button></td><td class="bad"><button class="mcell" type="button" data-mk="플랫폼|busy"><b>26%</b><span>447/1736</span></button></td></tr></table>
+      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>자사홈페이지</b></button><span class="hint">그 업체가 소유한 자기 도메인 사이트. 자기 티스토리는 「블로그」로 간다</span></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>98%</b><span>171/175</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|thin"><b>98%</b><span>171/175</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). 자사든 남이든 여기다</span></td><td class="bad"><button class="mcell" type="button" data-mk="블로그|conv"><b>34%</b><span>16/47</span></button></td><td class="na">표본 부족</td><td class="bad"><button class="mcell" type="button" data-mk="블로그|busy"><b>31%</b><span>14/45</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="일반사이트|conv"><b>일반사이트</b></button><span class="hint">그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)</span></td><td class="good"><button class="mcell" type="button" data-mk="일반사이트|conv"><b>61%</b><span>304/501</span></button></td><td class="good"><button class="mcell" type="button" data-mk="일반사이트|thin"><b>85%</b><span>204/240</span></button></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|busy"><b>38%</b><span>100/261</span></button></td></tr><tr><td><button class="mcell" type="button" data-mk="플랫폼|conv"><b>플랫폼</b></button><span class="hint">등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)</span></td><td class="bad"><button class="mcell" type="button" data-mk="플랫폼|conv"><b>30%</b><span>613/2012</span></button></td><td class="good"><button class="mcell" type="button" data-mk="플랫폼|thin"><b>60%</b><span>166/276</span></button></td><td class="bad"><button class="mcell" type="button" data-mk="플랫폼|busy"><b>26%</b><span>447/1736</span></button></td></tr></table>
 
       
       <h3 class="mh"><i>4</i> 우리 사이트는 얼마나 일하나</h3>
@@ -2685,7 +2689,7 @@ function updFigs(panel, rows, rg, tot){
 // ══ 매체 계산 — ★ 표와 드릴다운을 같은 자료에서 만든다 (2026-08-26 지시)
 //    그 전엔 표는 aeomedia.py(파이썬)가, 내역은 화면 자료가 만들어 어긋날 수 있었다.
 //    이제 둘 다 아래 한 함수에서 나온다 — 어긋나면 둘 다 어긋난다
-const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지", "블로그", "일반사이트", "플랫폼", "언론"], "HELP": {"자사홈페이지": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "모름": "그 회차에 인용된 글 중 **본문을 못 읽은 것**이 있어 「이 업체가 실렸나」를 판정 못 한 회차입니다. 매체를 모르는 게 아니라 **실렸는지를 모르는** 것입니다 — 크롤로 줄입니다"}};
+const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지", "블로그", "일반사이트", "플랫폼", "언론"], "HELP": {"자사홈페이지": "그 업체가 소유한 자기 도메인 사이트. 자기 티스토리는 「블로그」로 간다", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). 자사든 남이든 여기다", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "모름": "인용된 글 중 본문을 못 읽은 것이 있어 「이 업체가 실렸나」를 판정 못 한 회차. 매체를 모르는 게 아니라 실렸는지를 모르는 것 — 크롤로 줄인다"}};
 const MEDORDER = MR.ORDER;
 // ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다.
 //   ⚠️ 반드시 MEDORDER **뒤에** 둔다. 앞에 뒀다가 「Cannot access 'MEDORDER' before
