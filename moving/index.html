@@ -46,6 +46,17 @@ em{font-style:normal;color:var(--ink3);font-size:.68em;font-weight:500}
 .jump a{font-size:11px;font-weight:700;letter-spacing:.1em;color:var(--ink3);text-decoration:none;
  padding:11px 15px;border-bottom:2px solid transparent;white-space:nowrap}
 .jump a.on{color:var(--ink);border-bottom-color:var(--lime)}
+.jump a.out{color:var(--pri)}
+.jump a.out em{font-style:normal;font-size:9px;vertical-align:1px}
+.jump a.out.on{color:var(--pri);border-bottom-color:var(--pri)}
+.docsbar{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:9px;
+  padding:12px 0 14px;border-top:1px solid var(--outline,#E6E8EF)}
+.docsbar a{display:block;background:var(--surf2);border:1px solid var(--outline,#E6E8EF);
+  border-radius:11px;padding:12px 14px;text-decoration:none}
+.docsbar a:hover{background:#fff;border-color:var(--pri)}
+.docsbar b{display:block;font-size:13.5px;color:var(--ink)}
+.docsbar span{display:block;font-size:11.5px;color:var(--ink3);line-height:1.6;margin-top:3px}
+.docsbar i{display:block;font-style:normal;font-size:10.5px;color:var(--pri);margin-top:5px}
 .jump a:hover{color:var(--ink)}
 main{max-width:1360px;margin:0 auto;padding:0 clamp(14px,3vw,32px) 110px}
 [data-panel]{display:none}[data-panel].on{display:block}
@@ -723,12 +734,19 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1359">← 목록</a>
+    <a class="back" href="../?v=20260827-1416">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1359">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1359">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1359">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
-  <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
-</div></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1416">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1416">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1416">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a>
+    <a href="#" class="out" data-docs>문서 <em>▾</em></a></nav>
+</div>
+  <div class="docsbar" data-docsbar hidden>
+    <a href="https://danbiromeo.github.io/toomuchlab/" target="_blank" rel="noopener">
+       <b>투머치랩 계기판</b><span>판을 골라 들어가는 첫 화면 — 마롱·닉스·이수탑정형외과·KGB이사·커머스</span><i>바깥에서 열림 →</i></a><a href="https://md-live-viewer.danbiromeo.workers.dev/commerce#76-robotstxt-%EB%A5%BC-%ED%86%B5%EC%A7%B8%EB%A1%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8B%A4-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EB%91%98%EC%9D%B4%EB%8B%A4" target="_blank" rel="noopener">
+       <b>커머스 AEO 분석</b><span>온누리아이코리아 판. §7.6 「robots.txt 를 통째로 열어봤다 — 문제가 둘이다」</span><i>바깥에서 열림 →</i></a>
+  </div>
+</div>
 <button class="hardref" type="button" data-hardref
   title="브라우저 캐시를 건너뛰고 최신을 다시 받습니다">↻ 최신으로</button>
 <div class="freshbar" data-fresh hidden>새 화면이 나왔습니다 — 불러오는 중…</div>
@@ -737,7 +755,7 @@ a.noti{color:var(--ink3)}
     <span>질문 27</span><span>회차 159 (웹앱 159 · API 0)</span>
     <span>질문당 6회 (5~6)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1359</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1416</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-moving-1">
@@ -1821,7 +1839,9 @@ const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function setPanel(k){CUR=k;
  $$('[data-panel]').forEach(p=>p.classList.toggle('on',p.id==='p-'+k));
- $$('.jump a:not(.out)').forEach((a,i)=>a.href='#s-'+k+'-'+(i+1));close();if(window.dock)dock();}
+ $$('[data-docs]').forEach(b=>b.onclick=e=>{e.preventDefault();
+  const bar=$('[data-docsbar]'); bar.hidden=!bar.hidden; b.classList.toggle('on',!bar.hidden);});
+$$('.jump a:not(.out)').forEach((a,i)=>a.href='#s-'+k+'-'+(i+1));close();if(window.dock)dock();}
 
 // ★ 랭킹 접기/펴기 — 10위까지만 보인다
 $$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
