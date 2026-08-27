@@ -438,6 +438,7 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
 .rkmore{display:contents}
 /* ★ display:contents 가 브라우저 기본 [hidden]{display:none} 을 덮어써서 접기가 안 먹었다 */
 .rkmore[hidden]{display:none}
+.kwmore[hidden]{display:none}
 .rkfold{width:100%;margin-top:8px;font:inherit;font-size:12px;font-weight:600;color:var(--mut);
  background:var(--bg);border:1px solid var(--outline,#E6E8EF);border-radius:10px;padding:8px;cursor:pointer}
 .rkfold:hover{border-color:var(--ink);color:var(--ink)}
@@ -750,10 +751,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1518">← 목록</a>
+    <a class="back" href="../?v=20260827-1523">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1518">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1518">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1518">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1523">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1523">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1523">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -764,7 +765,7 @@ a.noti{color:var(--ink3)}
     <span>질문 27</span><span>회차 159 (웹앱 159 · API 0)</span>
     <span>질문당 6회 (5~6)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1518</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1523</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-moving-1">
@@ -1856,6 +1857,12 @@ $$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
   const box=btn.previousElementSibling, open=box.hidden;
   box.hidden=!open;
   btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${box.children.length}곳 펴기`;});
+// ★ 키워드 카드 접기 (2026-08-27 지시) — 「나머지 N곳」이 아니라 「N개 키워드」로 센다
+$$('[data-kwfold]').forEach(btn=>btn.onclick=()=>{
+  const box=btn.previousElementSibling, open=box.hidden;
+  box.hidden=!open;
+  const n=box.querySelectorAll('.kwcard').length;
+  btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${n}개 키워드 펴기`;});
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
  box.querySelectorAll('.sortbar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -1866,6 +1873,13 @@ function applyFilter(p,f){
  p.querySelectorAll('.qr').forEach(b=>{const v=b.dataset.v;const li=b.parentElement;
    li.hidden=!(f==='all'||v===f);});
  p.querySelectorAll('.kwcard').forEach(k=>k.hidden=![...k.querySelectorAll('.qlist>li')].some(t=>!t.hidden));
+ // ★ 거르기를 걸면 접어둔 카드도 봐야 한다 — 안 그러면 「없다」로 보인다 (2026-08-27)
+ p.querySelectorAll('[data-kwmore]').forEach(m=>{
+   const btn=m.nextElementSibling;
+   if(f!=='all'){ m.hidden=false; if(btn) btn.hidden=true; }
+   else { m.hidden=true; if(btn){ btn.hidden=false;
+     btn.textContent=`▶ 나머지 ${m.querySelectorAll('.kwcard').length}개 키워드 펴기`; } }
+ });
  p.querySelectorAll('.reg').forEach(r=>r.hidden=![...r.querySelectorAll('.kwcard')].some(k=>!k.hidden));
  p.querySelectorAll('.filt button').forEach(x=>x.classList.toggle('on',x.dataset.f===f));
  p.querySelectorAll('.vcard').forEach(x=>x.classList.toggle('on',x.dataset.f===f));}
