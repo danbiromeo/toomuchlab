@@ -311,6 +311,18 @@ h3{font-size:15px;margin-bottom:4px}
  .mtab.conv td:not(.kn) .mcell{display:flex;align-items:baseline;gap:7px;width:auto;text-align:left}
  .mtab.conv td.na{color:var(--ink3);font-size:12px}
  .mtab.conv .hint{margin-top:0}
+ .mtab.crowd,.mtab.crowd tbody,.mtab.crowd tr,.mtab.crowd td{display:block;width:auto}
+ .mtab.crowd tr:first-child{display:none}
+ .mtab.crowd tr{background:var(--surf);border:1px solid var(--outline,#E6E8EF);
+   border-radius:12px;padding:13px 15px;margin-bottom:9px}
+ .mtab.crowd td{border:0;padding:0;text-align:left;white-space:normal}
+ .mtab.crowd td.kn{margin-bottom:8px}
+ .mtab.crowd td.kn .mcell{font-size:15px;font-weight:700;display:inline-block;width:auto}
+ .mtab.crowd td:not(.kn){display:flex;align-items:baseline;gap:8px;
+   padding:6px 0;border-top:1px solid var(--outline2,#EFF0F5)}
+ .mtab.crowd td:not(.kn)::before{content:attr(data-l);font-size:11.5px;color:var(--ink3);
+   flex:0 0 auto;min-width:132px}
+ .mtab.crowd td:not(.kn) .mcell{display:flex;align-items:baseline;gap:7px;width:auto;text-align:left}
  .mtab.own,.mtab.own tbody,.mtab.own tr,.mtab.own td{display:block;width:auto}
  .mtab.own tr:first-child{display:none}
  .mtab.own tr{background:var(--surf);border:1px solid var(--outline,#E6E8EF);
@@ -777,10 +789,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1525">← 목록</a>
+    <a class="back" href="../?v=20260827-1528">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1525">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1525">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1525">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1528">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1528">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1528">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -791,7 +803,7 @@ a.noti{color:var(--ink3)}
     <span>질문 27</span><span>회차 159 (웹앱 159 · API 0)</span>
     <span>질문당 6회 (5~6)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1525</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1528</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-moving-1">
@@ -2640,10 +2652,10 @@ function renderCrowd(){
  ks.forEach(k=>{
   const v=by[k], busy=v.filter(p=>p.who.size>=3);
   const avg=v.reduce((s,p)=>s+p.who.size,0)/v.length, r=busy.length/v.length*100;
-  h+=`<tr><td><button class="mcell" type="button" data-mk="${esc(k)}|crowd" title="${esc(MR.HELP[k]||'')}">${esc(k)}</button></td>`
-    +`<td><button class="mcell" type="button" data-mk="${esc(k)}|crowd">${v.length}종</button></td>`
-    +`<td>${avg.toFixed(1)}곳</td>`
-    +`<td class="${r>=20?'hot':''}">`+(busy.length
+  h+=`<tr><td class="kn" data-l="매체"><button class="mcell" type="button" data-mk="${esc(k)}|crowd" title="${esc(MR.HELP[k]||'')}">${esc(k)}</button></td>`
+    +`<td data-l="인용된 글"><button class="mcell" type="button" data-mk="${esc(k)}|crowd">${v.length}종</button></td>`
+    +`<td data-l="평균 업체 수">${avg.toFixed(1)}곳</td>`
+    +`<td data-l="3곳 이상 붐비는 목록글" class="${r>=20?'hot':''}">`+(busy.length
         ? `<button class="mcell" type="button" data-mk="${esc(k)}|busy"><b>${Math.round(r)}%</b><span>${busy.length}편 보기</span></button>`
         : '<i>0%</i>')+'</td></tr>';
  });
