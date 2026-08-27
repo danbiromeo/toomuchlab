@@ -234,6 +234,8 @@ h3{font-size:15px;margin-bottom:4px}
 /* ★ 묶음 안쪽에도 옅은 선. 여섯 칸이 붙어 있어 어느 숫자가 어느 매체인지 헷갈렸다 (2026-08-27) */
 .mtab.biz th.sub+th.sub,.mtab.biz td.inner{border-left:1px solid var(--outline2,#EFF0F5)}
 .mtab.biz td.cite{background:var(--surf2)}
+.mtab.biz .unkc{background:#F5F6F9}
+.mtab.biz td.unkc b{color:var(--ink3)}
 .qg2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:6px 0 18px}
 .qgc{border-radius:12px;padding:14px 16px;border:1px solid var(--outline,#E6E8EF)}
 .qgc.ok{background:#F2FAF5;border-color:#BFE3CC}
@@ -708,10 +710,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1112">← 목록</a>
+    <a class="back" href="../?v=20260827-1113">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1112">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1112">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1112">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1113">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1113">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1113">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -722,7 +724,7 @@ a.noti{color:var(--ink3)}
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
     <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1112</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1113</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-nicks-1">
@@ -3123,6 +3125,7 @@ function renderMedia(){
        <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 칸끼리 겹칩니다 — 더하지 마십시오.
        왼쪽 「인용 합계」는 이 다섯 칸의 합집합입니다. 「모름」은 매체가 아니라 판정 상태라 오른쪽에 따로 뒀습니다.</b></th>`
    +'<th rowspan="2" class="grp2"><button class="hdb" data-help="인용 없이">인용 없이</button><br><span>왔다 · 회차</span></th>'
+   +'<th rowspan="2" class="grp2 unkc"><button class="hdb" data-help="모름">모름</button><br><span>판정 못 함 · 회차</span></th>'
    +'<th rowspan="2" class="mapcol"><button class="hdb" data-help="지도에">지도에</button><br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
    +MEDORDER.map(k=>`<th class="sub"><button class="hdb" data-help="${esc(k)}">${esc(k)}</button><span>회차</span></th>`).join('')+'</tr>';
  rows.forEach(x=>{
@@ -3152,8 +3155,8 @@ function renderMedia(){
   h+= ns.run.length ? `<td class="nosrc"><button class="mcell" data-mc="${x.i}|nosrc"><b>${ns.run.length}</b></button></td>`
       : '<td class="nosrc"><i>—</i></td>';
   const uk=M.unkn[x.i];
-  h+= uk&&uk.runs.size ? `<td class="nosrc unk"><button class="mcell" data-mc="${x.i}|unkn"><b>${uk.runs.size}</b></button></td>`
-      : '<td class="nosrc unk"><i>—</i></td>';
+  h+= uk&&uk.runs.size ? `<td class="nosrc unkc"><button class="mcell" data-mc="${x.i}|unkn"><b>${uk.runs.size}</b></button></td>`
+      : '<td class="nosrc unkc"><i>—</i></td>';
   const mp=M.inmap[x.i];
   h+= mp&&mp.size ? `<td class="mapcol"><button class="mcell" data-mc="${x.i}|map"><b>${mp.size}</b><span>/${x.ans} · ${Math.round(mp.size/x.ans*100)}%</span></button></td>`
       : '<td class="mapcol"><i>—</i></td>';
