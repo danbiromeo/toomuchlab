@@ -225,6 +225,15 @@ h3{font-size:15px;margin-bottom:4px}
 /* ★ 숫자 칸은 가운데 맞춤. 오른쪽 맞춤이면 어느 열의 값인지 눈이 못 따라간다 (2026-08-27)
    업체 이름만 왼쪽에 둔다 — 그건 읽는 기준선이다 */
 .mtab.biz th,.mtab.biz td{text-align:center}
+/* ★ 칸을 좁힌다 — 오른쪽이 잘려 「인용 없이·모름·지도에」 가 안 보였다 (2026-08-27) */
+.mtab.biz{font-size:12px}
+.mtab.biz th,.mtab.biz td{padding:7px 5px}
+.mtab.biz td.nm{max-width:118px;overflow:hidden;text-overflow:ellipsis}
+.mtab.biz td b{font-size:14px}
+.mtab.biz td span{font-size:9.5px}
+.mnote{font-size:11.5px;line-height:1.7;color:var(--ink3);margin:0 0 8px}
+.mnote b{color:var(--ink2)}
+@media(max-width:1200px){.mtab.biz th,.mtab.biz td{padding:6px 3px}.mtab.biz{font-size:11.5px}}
 .mtab.biz th:first-child,.mtab.biz td.nm{text-align:left}
 .mtab.biz .mcell{text-align:center}
 .mtab.biz th.grp{text-align:center;background:var(--surf2);border-bottom:1px solid var(--outline,#E6E8EF)}
@@ -710,10 +719,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1152">← 목록</a>
+    <a class="back" href="../?v=20260827-1247">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1152">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1152">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1152">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1247">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1247">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1247">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -724,7 +733,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1152</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1247</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -2672,11 +2681,11 @@ a.noti{color:var(--ink3)}
       <p class="mv1">실린 뒤 답변에 불릴 확률이 가장 높은 매체는 <b>블로그</b>(98%)입니다.</p>
       <p class="mv2">우리는 블로그에 <b>61편</b>으로 뒤지지 않습니다. 이 매체는 지키고, <b>안 쓴 주제를 채우는 쪽</b>이 남은 자리입니다.</p>
       
-      <p class="mv3">매체별 전환 — <button class="mcell mkb" type="button" data-mk="블로그|conv">블로그 <b>98%</b> <i>(178쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="자사홈페이지,사이트|conv">자사홈페이지,사이트 <b>67%</b> <i>(479쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="일반사이트|conv">일반사이트 <b>49%</b> <i>(59쌍)</i></button></p></div>
+      <p class="mv3">매체별 전환 — <button class="mcell mkb" type="button" data-mk="블로그|conv">블로그 <b>98%</b> <i>(178쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="자사홈페이지|conv">자사홈페이지 <b>67%</b> <i>(479쌍)</i></button> · <button class="mcell mkb" type="button" data-mk="일반사이트|conv">일반사이트 <b>49%</b> <i>(59쌍)</i></button></p></div>
       <h3 class="mh"><i>1</i> 어느 매체가 인용되나</h3>
       <p class="msay">한 회차가 여러 매체를 동시에 쓰므로 합이 100%를 넘습니다.
       <b>막대를 누르면</b> 그 매체가 인용된 회차와 글이 열립니다.<br>
-      ※ 여기서 <b>자사홈페이지,사이트</b>는 「우리 것」이 아니라 <b>이 표에 실린 업체 누군가의 자기 사이트</b>라는 뜻입니다.</p>
+      ※ 여기서 <b>자사홈페이지</b>는 「우리 것」이 아니라 <b>이 표에 실린 업체 누군가의 자기 사이트</b>라는 뜻입니다.</p>
       <div class="msize" data-msize><p class="msay">계산 중…</p></div>
 
       <h3 class="mh"><i>2</i> 글 한 장에 업체가 몇 곳 실리나</h3>
@@ -2690,7 +2699,7 @@ a.noti{color:var(--ink3)}
       <h3 class="mh"><i>3</i> 실리면 실제로 답변에 불리나 <em>여기가 핵심</em></h3>
       <p class="msay">그 매체 글에 이름이 실린 <b>(회차 × 업체)</b> 쌍 중 답변에 불린 비율입니다.
       <b>칸을 누르면</b> 그 매체의 회차와 글이 열립니다.</p>
-      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사홈페이지,사이트|conv"><b>자사홈페이지,사이트</b></button><span class="hint">그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문</span></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지,사이트|conv"><b>67%</b><span>323/479</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지,사이트|thin"><b>67%</b><span>323/479</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**</span></td><td class="good"><button class="mcell" type="button" data-mk="블로그|conv"><b>98%</b><span>174/178</span></button></td><td class="good"><button class="mcell" type="button" data-mk="블로그|thin"><b>98%</b><span>174/178</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="일반사이트|conv"><b>일반사이트</b></button><span class="hint">그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)</span></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|conv"><b>49%</b><span>29/59</span></button></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|thin"><b>49%</b><span>29/59</span></button></td><td class="na">표본 부족</td></tr></table>
+      <table class="mtab conv"><tr><th>매체</th><th>전체</th><th>1~2곳만 실린 글</th><th>3곳 이상 붐비는 글</th></tr><tr><td><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>자사홈페이지</b></button><span class="hint">그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문</span></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|conv"><b>67%</b><span>323/479</span></button></td><td class="good"><button class="mcell" type="button" data-mk="자사홈페이지|thin"><b>67%</b><span>323/479</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="블로그|conv"><b>블로그</b></button><span class="hint">URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**</span></td><td class="good"><button class="mcell" type="button" data-mk="블로그|conv"><b>98%</b><span>174/178</span></button></td><td class="good"><button class="mcell" type="button" data-mk="블로그|thin"><b>98%</b><span>174/178</span></button></td><td class="na">표본 부족</td></tr><tr><td><button class="mcell" type="button" data-mk="일반사이트|conv"><b>일반사이트</b></button><span class="hint">그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)</span></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|conv"><b>49%</b><span>29/59</span></button></td><td class=""><button class="mcell" type="button" data-mk="일반사이트|thin"><b>49%</b><span>29/59</span></button></td><td class="na">표본 부족</td></tr></table>
 
       
       <h3 class="mh"><i>4</i> 우리 사이트는 얼마나 일하나</h3>
@@ -2822,7 +2831,7 @@ function updFigs(panel, rows, rg, tot){
 // ══ 매체 계산 — ★ 표와 드릴다운을 같은 자료에서 만든다 (2026-08-26 지시)
 //    그 전엔 표는 aeomedia.py(파이썬)가, 내역은 화면 자료가 만들어 어긋날 수 있었다.
 //    이제 둘 다 아래 한 함수에서 나온다 — 어긋나면 둘 다 어긋난다
-const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지,사이트", "블로그", "일반사이트", "플랫폼", "언론"], "HELP": {"자사홈페이지,사이트": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "모름": "그 회차에 인용된 글 중 **본문을 못 읽은 것**이 있어 「이 업체가 실렸나」를 판정 못 한 회차입니다. 매체를 모르는 게 아니라 **실렸는지를 모르는** 것입니다 — 크롤로 줄입니다"}};
+const MR = {"BLOG": ["blog.naver.com", "post.naver.com", "blog.me", ".tistory.com", "velog.io", "brunch.co.kr", "medium.com", "blogspot.", "egloos.com"], "PLATFORM": ["diningcode", "siksinhot", "mangoplate", "catchtable", "menupan", "tabling", "modoodoc", "my-doctor", "goodoc", "cashdoc", "ddocdoc", "hidoc", "soomgo", "kmong", "pandarank", "autoreserve", "place.naver", "map.naver", "map.kakao", "g2b.go.kr", "24mall", "yogiyo", "baemin"], "PRESS": ["news.", "n.news.", "v.daum.net", "ilbo", "mk.co.", "chosun", "joins.com", "hani.co.kr", "donga.com", "mt.co.kr", "edaily", "newsis", "yna.co.kr", "etnews", "sedaily", "fnnews", "zdnet"], "SKIP": ["ncbi.nlm.nih.gov", "nih.gov", "doi.org", "arxiv.org", "researchgate", "wikipedia.org", "reddit.com", "youtube.com"], "ORDER": ["자사홈페이지", "블로그", "일반사이트", "플랫폼", "언론"], "HELP": {"자사홈페이지": "그 업체가 소유한 **자기 도메인** 사이트. 자기 티스토리는 여기가 아니라 「블로그」다 — URL을 제 맘대로 못 정하는 곳이기 때문", "블로그": "URL을 제 맘대로 못 정하는 곳 (네이버블로그·티스토리·브런치 등). **자사든 남이든 여기다**", "일반사이트": "그 밖의 자기 도메인. 남이 쓴 글이다 (개인 블로그·소규모 매체 포함)", "플랫폼": "등재해야 들어가는 디렉터리 (다이닝코드·모두닥 등)", "언론": "뉴스", "모름": "그 회차에 인용된 글 중 **본문을 못 읽은 것**이 있어 「이 업체가 실렸나」를 판정 못 한 회차입니다. 매체를 모르는 게 아니라 **실렸는지를 모르는** 것입니다 — 크롤로 줄입니다"}};
 const MEDORDER = MR.ORDER;
 // ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다.
 //   ⚠️ 반드시 MEDORDER **뒤에** 둔다. 앞에 뒀다가 「Cannot access 'MEDORDER' before
@@ -2850,7 +2859,7 @@ function kindFor(dom,bi,bd){
  if(MR.PLATFORM.some(x=>d.includes(x))) return '플랫폼';
  if(MR.PRESS.some(x=>d.includes(x)))    return '언론';
  if(MR.BLOG.some(x=>d.includes(x)))     return '블로그';   // ★ 자사 티스토리도 여기다
- if(ownerOf(d,bd)===bi) return '자사홈페이지,사이트';
+ if(ownerOf(d,bd)===bi) return '자사홈페이지';
  return '일반사이트';
 }
 const isSkip = d => MR.SKIP.some(x=>(d||'').toLowerCase().includes(x));
@@ -2862,7 +2871,7 @@ function kindPage(dom,bd){   // kindFor 와 같은 순서여야 한다 (위 주�
  if(MR.PLATFORM.some(x=>d.includes(x))) return '플랫폼';
  if(MR.PRESS.some(x=>d.includes(x)))    return '언론';
  if(MR.BLOG.some(x=>d.includes(x)))     return '블로그';
- if(ownerOf(d,bd)>=0) return '자사홈페이지,사이트';
+ if(ownerOf(d,bd)>=0) return '자사홈페이지';
  return '일반사이트';
 }
 let MED=null;
@@ -3165,9 +3174,9 @@ function renderMedia(){
    +'<th rowspan="2"><button class="hdb" data-help="업체">업체</button></th>'
    +'<th rowspan="2"><button class="hdb" data-help="추천">추천</button><span>업체 추천수 / 전체 회차</span></th>'
    +'<th rowspan="2" class="grpL"><button class="hdb" data-help="인용">인용</button><span>합계 · 추천 회차 중</span></th>'
-   +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나
-       <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 칸끼리 겹칩니다 — 더하지 마십시오.
-       왼쪽 「인용 합계」는 이 다섯 칸의 합집합입니다. 「모름」은 매체가 아니라 판정 상태라 오른쪽에 따로 뒀습니다.</b></th>`
+   // ★ 긴 설명을 머리에서 뺐다 (2026-08-27 지적) — 머리 안에 두니 그 칸이 벌어져
+   //   오른쪽 「인용 없이·모름·지도에」 가 화면 밖으로 밀려났다. 설명은 표 위 한 줄로 옮긴다.
+   +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나</th>`
    +'<th rowspan="2" class="grp2"><button class="hdb" data-help="인용 없이">인용 없이</button><br><span>왔다 · 회차</span></th>'
    +'<th rowspan="2" class="grp2 unkc"><button class="hdb" data-help="모름">모름</button><br><span>판정 못 함 · 회차</span></th>'
    +'<th rowspan="2" class="mapcol"><button class="hdb" data-help="지도에">지도에</button><br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
