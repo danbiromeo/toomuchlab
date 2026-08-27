@@ -708,10 +708,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1051">← 목록</a>
+    <a class="back" href="../?v=20260827-1054">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1051">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1051">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1051">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1054">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1054">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1054">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -722,7 +722,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1051</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1054</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -2728,13 +2728,15 @@ a.noti{color:var(--ink3)}
 <script>
 const D=window.__AEO__;let CUR=null;
 const MEDROW=10;   // 매체표에 펴 두는 줄 수
+// ★ 「확인된 매체」 — 미분류를 뺀 것. 미분류는 「모름」이지 「거쳐 왔다」가 아니다
+const CONFIRMED = MEDORDER.filter(k=>k!=='미분류');
 // ★ 표 머리를 누르면 뜻이 나온다 (2026-08-27 지시 · 여러 번 요청됨).
 //   title= 툴팁만 있었는데 그건 마우스를 올려야 보이고 휴대폰에선 아예 안 보인다.
 //   매체 여섯 칸의 뜻은 정본(_boards/_media.py)에서 오고, 나머지 칸만 여기 적는다.
 const COLHELP = {
  '업체':      '이 판에서 답변에 이름이 불린 적이 있는 업체입니다. 추천이 많은 순서로 놓았습니다.',
  '추천':      'AI 답변 <b>본문</b>에 이 업체 이름이 나온 회차입니다. 해석이 들어가지 않습니다 — 글자를 그대로 셉니다. 분모는 <b>전체 회차</b>입니다.',
- '인용':      '추천된 회차 중 <b>이 업체를 다룬 글이 근거로 채택된</b> 회차입니다. 오른쪽 여섯 칸은 겹칠 수 있어 여기서는 <b>합집합</b>으로 셉니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
+ '인용':      '추천된 회차 중 <b>이 업체를 다룬 글이 근거로 채택된 것을 확인한</b> 회차입니다. 오른쪽 다섯 칸(자사홈페이지·블로그·일반사이트·플랫폼·언론)의 <b>합집합</b>입니다.<br>★ <b>「미분류」는 뺐습니다</b> — 인용은 됐지만 본문을 못 읽어 그 글에 이 업체가 있는지 모르는 회차라, 합계에 넣으면 모름이 「거쳐 왔다」가 됩니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
  '인용 없이': '추천은 됐는데 <b>인용된 글 어디에도 이 업체 이름이 없던</b> 회차입니다. AI가 이미 알고 있거나 지도를 보고 부른 것입니다 — <b>글로는 못 건드리는 몫</b>입니다.',
  '지도에':    '그 회차의 지도 카드에 이 업체가 실제로 올라 있던 횟수입니다. 인용과 겹치므로 매체 분포에 넣지 않고 따로 셉니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
 };
@@ -3137,7 +3139,8 @@ function renderMedia(){
    +'<th rowspan="2"><button class="hdb" data-help="추천">추천</button><span>업체 추천수 / 전체 회차</span></th>'
    +'<th rowspan="2" class="grpL"><button class="hdb" data-help="인용">인용</button><span>합계 · 추천 회차 중</span></th>'
    +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나
-       <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 여섯 칸은 겹칩니다 — 더하지 마시고 왼쪽 「인용 합계」(합집합)를 보십시오.</b></th>`
+       <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 칸끼리 겹칩니다 — 더하지 마십시오.
+       왼쪽 「인용 합계」는 <u>미분류를 뺀</u> 다섯 칸의 합집합입니다. 미분류는 「모름」이라 합계에 넣지 않습니다.</b></th>`
    +'<th rowspan="2" class="grp2"><button class="hdb" data-help="인용 없이">인용 없이</button><br><span>왔다 · 회차</span></th>'
    +'<th rowspan="2" class="mapcol"><button class="hdb" data-help="지도에">지도에</button><br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
    +MEDORDER.map(k=>`<th class="sub"><button class="hdb" data-help="${esc(k)}">${esc(k)}</button><span>회차</span></th>`).join('')+'</tr>';
@@ -3147,9 +3150,13 @@ function renderMedia(){
         title="이 업체를 다룬 글과 우리가 지는 질문을 봅니다">${esc(x.n)}</button></td>`
     +`<td class="an"><button class="mcell" data-mc="${x.i}|ans"
         title="이 업체가 추천된 회차를 봅니다"><b>${x.ans}</b><span>/${M.N}</span></button></td>`
-    +(()=>{  // ★ 인용 합계 — 아래 여섯 칸은 겹칠 수 있으므로 회차를 합집합으로 센다
+    +(()=>{  // ★ 인용 합계 — 겹칠 수 있으므로 회차를 합집합으로 센다.
+       //   ★★ **미분류는 뺀다** (2026-08-27 대표 지적). 미분류는 「인용은 됐는데 그 글에
+       //   이 업체가 있는지 **모르는**」 회차다. 그걸 합계에 넣으면 모름이 「거쳐 왔다」가 된다.
+       //   실제로 메탈아트가 「인용 82회(87%)」로 떴는데 82회 전부가 미분류였다 —
+       //   확인된 인용은 0이고, 서랍을 열면 한국교육방송공사·정부24 처럼 무관한 글만 나왔다.
        const u=new Set();
-       MEDORDER.forEach(k=>{const c=M.cell[x.i][k]; if(c) c.runs.forEach(r=>u.add(r));});
+       CONFIRMED.forEach(k=>{const c=M.cell[x.i][k]; if(c) c.runs.forEach(r=>u.add(r));});
        return u.size ? `<td class="cite grpL"><button class="mcell" data-mc="${x.i}|cite"><b>${u.size}</b><span>/${x.ans} · ${Math.round(u.size/x.ans*100)}%</span></button></td>`
                      : '<td class="cite grpL"><i>—</i></td>';
      })();
@@ -3226,7 +3233,7 @@ function spreadLine(M,D0){
 //    그래서 하나로 합쳤다. 어느 칸이든 「회차 목록」 과 「글 목록」 이 같은 자리에 나온다.
 const CELLDESC = {
  ans:  ['추천된 회차',        '답변에 이 업체 이름이 난 회차입니다.'],
- cite: ['인용을 거쳐 온 회차', '추천된 회차 가운데, <b>인용된 글</b> 본문에 이 업체 이름이 있던 회차입니다. 아래 여섯 매체의 <b>합집합</b>이라 매체별 숫자를 더한 것과 다릅니다.'],
+ cite: ['인용을 거쳐 온 회차 (확인된 것만)', '추천된 회차 가운데, <b>인용된 글 본문에 이 업체 이름이 있는 것을 눈으로 확인한</b> 회차입니다. 다섯 매체(자사홈페이지·블로그·일반사이트·플랫폼·언론)의 <b>합집합</b>이라 매체별 숫자를 더한 것과 다릅니다.<br>★ <b>「미분류」는 뺐습니다</b> — 본문을 못 읽어 그 글에 이 업체가 있는지 <b>모르는</b> 회차입니다. 모름을 「거쳐 왔다」로 셀 수 없습니다.'],
  nosrc:['인용 없이 온 회차',   '답변엔 이름이 났는데 <b>인용된 글 어디에도 이름이 없던</b> 회차입니다. 지도나 AI 가 원래 알던 지식으로 왔다는 뜻입니다.'],
  map:  ['지도에 올라 있던 회차','답변 위 지도 카드에 이 업체가 있던 회차입니다.']
 };
@@ -3239,7 +3246,7 @@ function cellSet(M,i,k){
  }
  if(k==='cite'){
   const u=new Set(), pg=new Map();
-  MEDORDER.forEach(kk=>{const c=M.cell[i][kk]; if(!c) return;
+  CONFIRMED.forEach(kk=>{const c=M.cell[i][kk]; if(!c) return;   // ★ 미분류는 뺀다
    c.runs.forEach(r=>u.add(r)); c.pages.forEach((v,key)=>pg.set(key,v));});
   return {runs:[...u], pages:[...pg.entries()]};
  }
