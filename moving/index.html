@@ -312,6 +312,7 @@ h3{font-size:15px;margin-bottom:4px}
 .qgo2:hover{background:var(--ink);border-color:var(--ink);color:#fff}
 .aq i{font-style:normal;color:var(--ink3);font-size:10.5px}
 .drw-meta .mq b{color:var(--ink)}
+.who .wl{font-style:normal;font-size:9.5px;font-weight:500;opacity:.6;margin-right:5px;letter-spacing:0}
 .colnote{margin:9px 0 2px;padding:11px 14px;background:var(--surf2);border:1px solid var(--outline,#E6E8EF);
   border-left:3px solid var(--pri);border-radius:9px;font-size:12.5px;line-height:1.7;color:var(--ink2)}
 .colnote b{display:block;color:var(--ink);font-size:13px;margin-bottom:3px}
@@ -706,10 +707,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1042">← 목록</a>
+    <a class="back" href="../?v=20260827-1045">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1042">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1042">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1042">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1045">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1045">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1045">이수탑정형외과</a><button class="on" type="button">KGB이사</button><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -720,7 +721,7 @@ a.noti{color:var(--ink3)}
     <span>질문 27</span><span>회차 159 (웹앱 159 · API 0)</span>
     <span>질문당 6회 (5~6)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1042</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1045</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-moving-1">
@@ -2047,12 +2048,14 @@ function whoTag(s){
  const me=D[CUR].me, out=[];
  if(s.m) out.push(`<span class="who us">${esc(me)}</span>`);
  if(s.w.length){
+   // ★ 라벨을 붙인다 (2026-08-27 지적). 같은 모양의 회색 알약이 두 화면에서
+   //   한쪽은 「이 글에 실린 곳」, 한쪽은 「같이 나온 곳」 이라 뜻이 달랐다. 하나로 맞춘다.
    const head=s.w.slice(0,2).map(esc).join(' · ');
-   // ★ 「외 5」 가 글자일 뿐이라 안 눌렸다 (2026-08-25 지적). 누르면 나머지를 펼친다
+   const L='<em class="wl">이 글에 실린 곳</em>';
    if(s.w.length>2){
      out.push(`<span class="who wmore" role="button" tabindex="0" data-wmore`
-       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${head} 외 ${s.w.length-2} ▶</span>`);
-   } else out.push(`<span class="who">${head}</span>`);}
+       +` data-all="${esc(s.w.join(' · '))}" title="눌러서 나머지 보기">${L}${head} 외 ${s.w.length-2} ▶</span>`);
+   } else out.push(`<span class="who">${L}${head}</span>`);}
  if(out.length) return out.join('');
  if(s.st==='none')   return `<span class="who none">${esc(me)} 없음</span>`;
  if(s.st==='thin')   return `<span class="who unk" title="목록을 자바스크립트로 그려서 본문을 못 읽었습니다">본문 못 읽음</span>`;
@@ -2351,7 +2354,17 @@ function artRow(a){const _M=MED||mediaCalc(); return `<li>
                              :'<span class="chip seenonly" title="검색에는 떴지만 근거로는 안 쓰임">소스만</span>'}
    ${a.crowd>=3?`<span class="chip busy" title="한 글에 여러 업체가 함께 실려 있다 — 「○○ BEST 10」 같은 목록글">업체 ${a.crowd}곳이 실린 목록글</span>`:''}
    <span class="dm">${esc(a.d)}${a.media?' · '+esc(a.media):''}${a.avg!=null?' · 평균순위 '+a.avg:''}</span>
-   ${a.who&&a.who.length?`<span class="who">같이 나온 곳 ${a.who.map(esc).join(' · ')}</span>`:''}
+   ${(()=>{ // ★ 그 글에 실린 곳 **전부**. 전에는 서랍 주인공을 뺀 「같이 나온 곳」 이라
+            //   한 곳뿐일 때 「같이 나온 곳 성모탑정형외과」 처럼 말이 안 됐다 (2026-08-27 지적)
+      const P=_M.PG.get(a.u);
+      const all = P ? [...P.who].map(i=>_M.bn[i]) : (a.who||[]);
+      if(!all.length) return '';
+      const L='<em class="wl">이 글에 실린 곳</em>';
+      return all.length>3
+        ? `<span class="who wmore" role="button" tabindex="0" data-wmore data-all="${esc(all.join(' · '))}"
+             title="눌러서 나머지 보기">${L}${all.slice(0,3).map(esc).join(' · ')} 외 ${all.length-3} ▶</span>`
+        : `<span class="who">${L}${all.map(esc).join(' · ')}</span>`;
+    })()}
    ${qChips(_M,a.u)}</span></span></li>`;}
 // ★★ 서랍은 **하나**다. 어느 칸을 눌러도 같은 자리에 같은 모양이 나온다 (2026-08-27 지시).
 //    다른 건 「무엇으로 걸렀나」 뿐이다. 칸마다 화면을 새로 만들면 보는 사람이 매번 다시 배운다
@@ -2398,7 +2411,7 @@ const MKDESC={
     한 회차가 여러 매체를 동시에 쓰므로 매체별 회차를 더하면 전체보다 커집니다.`],
  crowd: k=>[`${k} — 인용된 글`,
    `<b>${esc(k)}</b>로 분류된 글입니다. ${esc(MR.HELP[k]||'')}<br>
-    「같이 나온 곳」이 그 글에 함께 실린 업체입니다 — 많을수록 <b>목록글(리스티클)</b>입니다.`],
+    「이 글에 실린 곳」이 그 글 본문에 이름이 있던 업체입니다 — 많을수록 <b>목록글(리스티클)</b>입니다.`],
  busy: k=>[`${k} — 업체 3곳 이상이 실린 목록글`,
    `한 글에 우리가 아는 업체가 <b>3곳 이상</b> 실린 글입니다. 「○○ BEST 10」 같은 목록글이 여기 모입니다.<br>
     이런 글에 <b>이름만 올리면 전환이 떨어집니다</b> — 등재 자체가 목적이 되면 헛일인 이유입니다.`],
@@ -2429,7 +2442,7 @@ function openMedia(kind,mode){
   title=(kind==='*'?'':kind+' · ')+'본문을 아직 못 읽은 글';
   help=`인용은 됐는데 <b>본문을 못 읽어</b> 어느 업체가 실렸는지 판정할 수 없는 글입니다.
    어느 매체인지는 도메인으로 압니다 — 모르는 건 <b>「그 글에 누가 실렸나」</b> 하나입니다.
-   그래서 「같이 나온 곳」도 「목록글인가」도 비어 있습니다 —
+   그래서 「이 글에 실린 곳」도 「목록글인가」도 비어 있습니다 —
    <b>모르는 것이지 없는 것이 아닙니다.</b> 크롤로 줄여야 하는 우리 숙제입니다.`;
  }
  drawDrawer({title,help,runs,
