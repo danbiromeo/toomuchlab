@@ -279,6 +279,15 @@ h3{font-size:15px;margin-bottom:4px}
 .msay.warn2{font-size:11.5px;color:var(--ink3);margin-top:6px}
 .mtab.biz th.grp b{display:block;font-weight:500;font-size:10.5px;color:var(--ink3);margin-top:3px;letter-spacing:0}
 .mtab.biz th.sub span{display:block;font-weight:400;font-size:9.5px;color:var(--ink3);letter-spacing:0}
+.hdb{font:inherit;font-size:inherit;font-weight:inherit;color:inherit;background:none;border:0;
+  padding:0 0 1px;cursor:pointer;border-bottom:1px dashed var(--ink3);line-height:1.25}
+.hdb:hover{color:var(--pri);border-bottom-color:var(--pri)}
+.hdb.on{color:var(--pri);border-bottom:2px solid var(--pri)}
+.hdb::after{content:'?';font-size:8.5px;vertical-align:6px;margin-left:2px;color:var(--ink3);font-weight:700}
+.hdb.on::after{color:var(--pri)}
+.colnote{margin:9px 0 2px;padding:11px 14px;background:var(--surf2);border:1px solid var(--outline,#E6E8EF);
+  border-left:3px solid var(--pri);border-radius:9px;font-size:12.5px;line-height:1.7;color:var(--ink2)}
+.colnote b{display:block;color:var(--ink);font-size:13px;margin-bottom:3px}
 .qgr .gw{color:var(--ink2);max-width:340px;overflow:hidden;text-overflow:ellipsis;font-size:11.5px}
 .mtab.biz .nmb{text-align:left;font-weight:600}
 .mtab.biz td.an .mcell b{font-size:15px}
@@ -670,10 +679,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1013">← 목록</a>
+    <a class="back" href="../?v=20260827-1014">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1013">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1013">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1013">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../nicks/?v=20260827-1014">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260827-1014">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1014">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -684,7 +693,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1013</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1014</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -2684,6 +2693,16 @@ a.noti{color:var(--ink3)}
 <script>
 const D=window.__AEO__;let CUR=null;
 const MEDROW=10;   // 매체표에 펴 두는 줄 수
+// ★ 표 머리를 누르면 뜻이 나온다 (2026-08-27 지시 · 여러 번 요청됨).
+//   title= 툴팁만 있었는데 그건 마우스를 올려야 보이고 휴대폰에선 아예 안 보인다.
+//   매체 여섯 칸의 뜻은 정본(_boards/_media.py)에서 오고, 나머지 칸만 여기 적는다.
+const COLHELP = {
+ '업체':      '이 판에서 답변에 이름이 불린 적이 있는 업체입니다. 추천이 많은 순서로 놓았습니다.',
+ '추천':      'AI 답변 <b>본문</b>에 이 업체 이름이 나온 회차입니다. 해석이 들어가지 않습니다 — 글자를 그대로 셉니다. 분모는 <b>전체 회차</b>입니다.',
+ '인용':      '추천된 회차 중 <b>이 업체를 다룬 글이 근거로 채택된</b> 회차입니다. 오른쪽 여섯 칸은 겹칠 수 있어 여기서는 <b>합집합</b>으로 셉니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
+ '인용 없이': '추천은 됐는데 <b>인용된 글 어디에도 이 업체 이름이 없던</b> 회차입니다. AI가 이미 알고 있거나 지도를 보고 부른 것입니다 — <b>글로는 못 건드리는 몫</b>입니다.',
+ '지도에':    '그 회차의 지도 카드에 이 업체가 실제로 올라 있던 횟수입니다. 인용과 겹치므로 매체 분포에 넣지 않고 따로 셉니다. 분모는 <b>그 업체가 추천된 회차</b>입니다.',
+};
 // ★ 받침을 보고 조사를 고른다. 이름을 문장에 끼워 넣는 자리가 여럿이라 한 군데 둔다
 //   (2026-08-27 지적 — 「사이트 을 거쳐 온 회차」 가 화면에 나갔다)
 function josa(w,pair){pair=pair||'를을';w=(w||'').replace(/\s+$/,'');if(!w)return pair[0];
@@ -3072,14 +3091,14 @@ function renderMedia(){
    .sort((a,b)=>b.ans-a.ans);
  // ★ 두 층 + 굵은 선. 지도는 오른쪽 별도 칸 — 인용과 겹치므로 분포에 못 넣는다
  let h='<table class="mtab biz"><tr>'
-   +'<th rowspan="2">업체</th>'
-   +'<th rowspan="2">추천<span>업체 추천수 / 전체 회차</span></th>'
-   +'<th rowspan="2" class="grpL">인용<span>합계 · 추천 회차 중</span></th>'
+   +'<th rowspan="2"><button class="hdb" data-help="업체">업체</button></th>'
+   +'<th rowspan="2"><button class="hdb" data-help="추천">추천</button><span>업체 추천수 / 전체 회차</span></th>'
+   +'<th rowspan="2" class="grpL"><button class="hdb" data-help="인용">인용</button><span>합계 · 추천 회차 중</span></th>'
    +`<th colspan="${MEDORDER.length}" class="grp">인용을 거쳐 왔다 — 어느 매체였나
        <b>큰 숫자는 <u>회차</u>, 작은 글씨는 <u>편/곳</u> 입니다. 한 회차가 여러 글을 동시에 인용하므로 여섯 칸은 겹칩니다 — 더하지 마시고 왼쪽 「인용 합계」(합집합)를 보십시오.</b></th>`
-   +'<th rowspan="2" class="grp2">인용 없이<br><span>왔다 · 회차</span></th>'
-   +'<th rowspan="2" class="mapcol">지도에<br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
-   +MEDORDER.map(k=>`<th class="sub" title="${esc(MR.HELP[k]||'')}">${esc(k)}<span>회차</span></th>`).join('')+'</tr>';
+   +'<th rowspan="2" class="grp2"><button class="hdb" data-help="인용 없이">인용 없이</button><br><span>왔다 · 회차</span></th>'
+   +'<th rowspan="2" class="mapcol"><button class="hdb" data-help="지도에">지도에</button><br><span>올라 있었다 · 추천 회차 중</span></th></tr><tr>'
+   +MEDORDER.map(k=>`<th class="sub"><button class="hdb" data-help="${esc(k)}">${esc(k)}</button><span>회차</span></th>`).join('')+'</tr>';
  rows.forEach(x=>{
   const me=x.n===D0.me?' me':'';
   h+=`<tr class="${me}"><td class="nm"><button class="mcell nmb" data-mb="${esc(x.n)}"
@@ -3110,6 +3129,17 @@ function renderMedia(){
  // ★ 10위까지만 펴 둔다 (2026-08-27 지시). 명단이 120곳이라 다 펴면 표가 화면을 다 먹는다.
  //   우리 줄은 10위 밖이어도 반드시 보이게 한다.
  box.innerHTML=h+'</table>'+spreadLine(M,D0);
+ // ★ 머리를 누르면 뜻풀이가 표 밑에 펼쳐진다. 다시 누르면 접힌다
+ const note=document.createElement('div'); note.className='colnote'; note.hidden=true;
+ box.appendChild(note);
+ box.querySelectorAll('.hdb').forEach(b=>b.onclick=()=>{
+   const k=b.dataset.help;
+   if(note.dataset.on===k){ note.hidden=true; note.dataset.on=''; 
+     box.querySelectorAll('.hdb').forEach(x=>x.classList.remove('on')); return; }
+   note.innerHTML=`<b>${esc(k)}</b>${COLHELP[k]||esc(MR.HELP[k]||'설명이 아직 없습니다.')}`;
+   note.hidden=false; note.dataset.on=k;
+   box.querySelectorAll('.hdb').forEach(x=>x.classList.toggle('on',x===b));
+ });
  const tb=box.querySelector('.mtab.biz'), trs=[...tb.querySelectorAll('tr')].filter(r=>r.querySelector('td'));
  if(trs.length>MEDROW){
    const keep=new Set(trs.slice(0,MEDROW));
