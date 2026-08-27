@@ -476,7 +476,10 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
 .rkmore{display:contents}
 /* ★ display:contents 가 브라우저 기본 [hidden]{display:none} 을 덮어써서 접기가 안 먹었다 */
 .rkmore[hidden]{display:none}
-.kwmore[hidden]{display:none}
+.kwhide{display:none}
+.kwopen .kwhide{display:revert}
+.kwcut{font-size:11px;color:var(--ink3);margin:6px 0 0;padding-top:6px;border-top:1px dashed var(--outline,#E6E8EF)}
+.kwfold{margin-top:6px}
 .rkfold{width:100%;margin-top:8px;font:inherit;font-size:12px;font-weight:600;color:var(--mut);
  background:var(--bg);border:1px solid var(--outline,#E6E8EF);border-radius:10px;padding:8px;cursor:pointer}
 .rkfold:hover{border-color:var(--ink);color:var(--ink)}
@@ -789,10 +792,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1528">← 목록</a>
+    <a class="back" href="../?v=20260827-1537">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1528">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1528">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-1528">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1537">마롱컴퍼니</a><a class="sw-a" href="../nicks/?v=20260827-1537">셀렉티드 닉스</a><button class="on" type="button">이수탑정형외과</button><a class="sw-a" href="../moving/?v=20260827-1537">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -803,7 +806,7 @@ a.noti{color:var(--ink3)}
     <span>질문 242</span><span>회차 470 (웹앱 383 · API 87)</span>
     <span>질문당 2회 (1~3)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1528</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1537</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-clinic-1">
@@ -2379,23 +2382,23 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 정형외과 좀 찾아줘</span>
                 <span class="ask">2번 물어 <b>2번</b> 나옴</span>
                 <span class="chip stable">안정</span>
-                <span class="qgo">›</span></button></li><li><button class="qr" type="button" data-v="stable" data-q="이수역에 정형외과 어디 있어?">
+                <span class="qgo">›</span></button></li><li class="kwhide"><button class="qr" type="button" data-v="stable" data-q="이수역에 정형외과 어디 있어?">
                 <span class="q">이수역에 정형외과 어디 있어?</span>
                 <span class="ask">2번 물어 <b>2번</b> 나옴</span>
                 <span class="chip stable">안정</span>
-                <span class="qgo">›</span></button></li><li><button class="qr" type="button" data-v="shaky" data-q="이수역 정형외과 추천해줘">
+                <span class="qgo">›</span></button></li><li class="kwhide"><button class="qr" type="button" data-v="shaky" data-q="이수역 정형외과 추천해줘">
                 <span class="q">이수역 정형외과 추천해줘</span>
                 <span class="ask">2번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li><li><button class="qr" type="button" data-v="shaky" data-q="총신대입구역 정형외과 추천해줘">
+                <span class="qgo">›</span></button></li><li class="kwhide"><button class="qr" type="button" data-v="shaky" data-q="총신대입구역 정형외과 추천해줘">
                 <span class="q">총신대입구역 정형외과 추천해줘</span>
                 <span class="ask">2번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li><li><button class="qr" type="button" data-v="missing" data-q="이수 정형외과 추천해줘">
+                <span class="qgo">›</span></button></li><li class="kwhide"><button class="qr" type="button" data-v="missing" data-q="이수 정형외과 추천해줘">
                 <span class="q">이수 정형외과 추천해줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>주사치료</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 60%</b></span>
                 <span class="kw-s">소스 60%</span></div>
@@ -2407,7 +2410,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 신경주사 놔주는 병원 알려줘</span>
                 <span class="ask">3번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>체외충격파</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 50%</span></div>
@@ -2415,7 +2418,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 체외충격파 받을 수 있는 병원 알려줘</span>
                 <span class="ask">2번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>비용</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 25%</span></div>
@@ -2427,7 +2430,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 정형외과 진료비 비싼 편이야?</span>
                 <span class="ask">2번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 어깨</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 40%</b></span>
                 <span class="kw-s">소스 20%</span></div>
@@ -2439,7 +2442,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처에 어깨 아플 때 가는 병원 알려줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 발</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 40%</b></span>
                 <span class="kw-s">소스 40%</span></div>
@@ -2451,7 +2454,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 족저근막염 치료 잘하는 병원 추천해줘</span>
                 <span class="ask">3번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 허리</h5><span class="kw-q">3문</span>
                 <span class="kw-m"><b>추천 29%</b></span>
                 <span class="kw-s">소스 43%</span></div>
@@ -2467,7 +2470,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처에 허리 아플 때 가는 병원 추천해줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>영상검사</h5><span class="kw-q">5문</span>
                 <span class="kw-m"><b>추천 27%</b></span>
                 <span class="kw-s">소스 36%</span></div>
@@ -2491,7 +2494,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 골밀도 검사하는 병원 알려줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 목</h5><span class="kw-q">4문</span>
                 <span class="kw-m"><b>추천 20%</b></span>
                 <span class="kw-s">소스 10%</span></div>
@@ -2511,7 +2514,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처에 손목 아플 때 가는 병원 추천해줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 손</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 20%</b></span>
                 <span class="kw-s">소스 20%</span></div>
@@ -2523,7 +2526,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 손목터널증후군 보는 병원 알려줘</span>
                 <span class="ask">3번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>도수·물리치료</h5><span class="kw-q">3문</span>
                 <span class="kw-m"><b>추천 14%</b></span>
                 <span class="kw-s">소스 14%</span></div>
@@ -2539,7 +2542,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 도수치료 가격 얼마쯤 해?</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>수술</h5><span class="kw-q">4문</span>
                 <span class="kw-m"><b>추천 12%</b></span>
                 <span class="kw-s">소스 0%</span></div>
@@ -2559,7 +2562,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">사당역 근처 원데이수술 하는 정형외과 있어?</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>부위 — 고관절</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 0%</b></span>
                 <span class="kw-s">소스 100%</span></div>
@@ -2567,7 +2570,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">이수역 근처 고관절 아플 때 가는 병원 알려줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>남성</h4><span class="reg-q">61문 · 131회</span>
           <span class="reg-m">추천 0.8%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -2882,7 +2885,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">남성역 정형외과 진료비 비싼 편이야?</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>사당</h4><span class="reg-q">63문 · 140회</span>
           <span class="reg-m">추천 1.4%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -3205,7 +3208,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">사당역 정형외과 진료비 비싼 편이야?</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>내방</h4><span class="reg-q">60문 · 75회</span>
           <span class="reg-m">추천 5.3%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -3516,7 +3519,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">내방역 근처 체외충격파 받을 수 있는 병원 알려줘</span>
                 <span class="ask">1번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>동작</h4><span class="reg-q">1문 · 2회</span>
           <span class="reg-m">추천 0.0%</span>
           <span class="chip virgin">미개척</span></div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -3527,7 +3530,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">동작구 정형외과 추천해줘</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip virgin">미개척</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>기타</h4><span class="reg-q">2문 · 4회</span>
           <span class="reg-m">추천 0.0%</span>
           <span class="chip virgin">미개척</span></div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -3546,7 +3549,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">허리 아플 때 정형외과 가야 해 한의원 가야 해?</span>
                 <span class="ask">2번 물어 <b>0번</b> 나옴</span>
                 <span class="chip virgin">미개척</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section>
+                <span class="qgo">›</span></button></li></ul></div></div></section><button class="rkfold kwfold" data-kwfold type="button">▶ 나머지 222문 펴기 · 지역 5곳이 여기 있습니다</button>
     </div></section>
 
   <section class="card sec" id="s-clinic-4">
@@ -3659,12 +3662,15 @@ $$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
   const box=btn.previousElementSibling, open=box.hidden;
   box.hidden=!open;
   btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${box.children.length}곳 펴기`;});
-// ★ 키워드 카드 접기 (2026-08-27 지시) — 「나머지 N곳」이 아니라 「N개 키워드」로 센다
-$$('[data-kwfold]').forEach(btn=>btn.onclick=()=>{
-  const box=btn.previousElementSibling, open=box.hidden;
-  box.hidden=!open;
-  const n=box.querySelectorAll('.kwcard').length;
-  btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${n}개 키워드 펴기`;});
+// ★ 키워드맵 접기 (2026-08-27 지시) — **질문 20문**까지 펴 둔다. 카드 수가 아니다.
+//   접기는 class(.kwhide/.kwopen)로 한다 — 거르기(applyFilter)가 hidden 을 쓰므로 겹치면 안 된다
+$$('[data-kwfold]').forEach(btn=>{
+  const wrap=btn.closest('.card-b')||btn.parentElement;
+  const label=btn.textContent;
+  btn.onclick=()=>{
+    const open=wrap.classList.toggle('kwopen');
+    btn.textContent = open ? '▼ 접기' : label;
+  };});
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
  box.querySelectorAll('.sortbar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -3675,12 +3681,11 @@ function applyFilter(p,f){
  p.querySelectorAll('.qr').forEach(b=>{const v=b.dataset.v;const li=b.parentElement;
    li.hidden=!(f==='all'||v===f);});
  p.querySelectorAll('.kwcard').forEach(k=>k.hidden=![...k.querySelectorAll('.qlist>li')].some(t=>!t.hidden));
- // ★ 거르기를 걸면 접어둔 카드도 봐야 한다 — 안 그러면 「없다」로 보인다 (2026-08-27)
- p.querySelectorAll('[data-kwmore]').forEach(m=>{
-   const btn=m.nextElementSibling;
-   if(f!=='all'){ m.hidden=false; if(btn) btn.hidden=true; }
-   else { m.hidden=true; if(btn){ btn.hidden=false;
-     btn.textContent=`▶ 나머지 ${m.querySelectorAll('.kwcard').length}개 키워드 펴기`; } }
+ // ★ 거르기를 걸면 접어둔 것도 봐야 한다 — 안 그러면 「없다」로 보인다 (2026-08-27)
+ p.querySelectorAll('[data-kwfold]').forEach(btn=>{
+   const wrap=btn.closest('.card-b')||btn.parentElement;
+   if(f!=='all'){ wrap.classList.add('kwopen'); btn.hidden=true; }
+   else { wrap.classList.remove('kwopen'); btn.hidden=false; }
  });
  p.querySelectorAll('.reg').forEach(r=>r.hidden=![...r.querySelectorAll('.kwcard')].some(k=>!k.hidden));
  p.querySelectorAll('.filt button').forEach(x=>x.classList.toggle('on',x.dataset.f===f));

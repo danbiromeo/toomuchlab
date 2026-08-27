@@ -476,7 +476,10 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
 .rkmore{display:contents}
 /* ★ display:contents 가 브라우저 기본 [hidden]{display:none} 을 덮어써서 접기가 안 먹었다 */
 .rkmore[hidden]{display:none}
-.kwmore[hidden]{display:none}
+.kwhide{display:none}
+.kwopen .kwhide{display:revert}
+.kwcut{font-size:11px;color:var(--ink3);margin:6px 0 0;padding-top:6px;border-top:1px dashed var(--outline,#E6E8EF)}
+.kwfold{margin-top:6px}
 .rkfold{width:100%;margin-top:8px;font:inherit;font-size:12px;font-weight:600;color:var(--mut);
  background:var(--bg);border:1px solid var(--outline,#E6E8EF);border-radius:10px;padding:8px;cursor:pointer}
 .rkfold:hover{border-color:var(--ink);color:var(--ink)}
@@ -789,10 +792,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260827-1528">← 목록</a>
+    <a class="back" href="../?v=20260827-1537">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1528">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1528">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1528">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260827-1537">마롱컴퍼니</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260827-1537">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260827-1537">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -803,7 +806,7 @@ a.noti{color:var(--ink3)}
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
     <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-08-27</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1528</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260827-1537</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-nicks-1">
@@ -2284,7 +2287,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 대형 카페들 몇 시까지 해?</span>
                 <span class="ask">5번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>스터디카페</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 62%</b></span>
                 <span class="kw-s">소스 46%</span></div>
@@ -2296,7 +2299,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 공부하기 좋은 카페 어디야?</span>
                 <span class="ask">7번 물어 <b>2번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>단체석카페</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 62%</b></span>
                 <span class="kw-s">소스 85%</span></div>
@@ -2308,7 +2311,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역에서 여럿이 수다 떨기 좋은 카페 알려줘</span>
                 <span class="ask">7번 물어 <b>4번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>편한카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 60%</b></span>
                 <span class="kw-s">소스 100%</span></div>
@@ -2316,7 +2319,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역에서 한두 시간 시간 때우기 좋은 카페 추천해줘</span>
                 <span class="ask">5번 물어 <b>3번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>일반 카페</h5><span class="kw-q">5문</span>
                 <span class="kw-m"><b>추천 55%</b></span>
                 <span class="kw-s">소스 83%</span></div>
@@ -2340,7 +2343,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 카페 어디 갈까?</span>
                 <span class="ask">5번 물어 <b>3번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>조용한카페</h5><span class="kw-q">5문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 60%</span></div>
@@ -2364,7 +2367,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 조용히 얘기할 룸 있는 카페 있어?</span>
                 <span class="ask">5번 물어 <b>2번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>비오는날카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 100%</span></div>
@@ -2372,7 +2375,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 비 올 때 가기 좋은 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>3번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>일찍오픈카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 50%</span></div>
@@ -2380,7 +2383,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 아침 8시에 여는 카페 있어?</span>
                 <span class="ask">6번 물어 <b>3번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>아침일찍카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 50%</b></span>
                 <span class="kw-s">소스 50%</span></div>
@@ -2388,7 +2391,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 아침 일찍 여는 카페 어디야?</span>
                 <span class="ask">6번 물어 <b>3번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>콘센트·노트북카페</h5><span class="kw-q">3문</span>
                 <span class="kw-m"><b>추천 47%</b></span>
                 <span class="kw-s">소스 26%</span></div>
@@ -2404,7 +2407,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 와이파이 잘 되는 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>2번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>데이트카페</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 46%</b></span>
                 <span class="kw-s">소스 85%</span></div>
@@ -2416,7 +2419,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 소개팅하기 좋은 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>2번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>인스타·분위기카페</h5><span class="kw-q">4문</span>
                 <span class="kw-m"><b>추천 32%</b></span>
                 <span class="kw-s">소스 68%</span></div>
@@ -2436,7 +2439,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 인테리어 예쁜 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>디저트카페</h5><span class="kw-q">4문</span>
                 <span class="kw-m"><b>추천 32%</b></span>
                 <span class="kw-s">소스 36%</span></div>
@@ -2456,7 +2459,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 디저트 맛집 추천해줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div><div class="kwmore" data-kwmore hidden><div class="kwgrid"><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>심야카페</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 17%</b></span>
                 <span class="kw-s">소스 8%</span></div>
@@ -2468,7 +2471,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 새벽까지 하는 카페 있어?</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>음료맛있는카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 17%</b></span>
                 <span class="kw-s">소스 0%</span></div>
@@ -2476,7 +2479,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 커피 말고 음료 맛있는 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>테라스카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 17%</b></span>
                 <span class="kw-s">소스 67%</span></div>
@@ -2484,7 +2487,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 테라스 있는 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>늦게까지하는 카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 17%</b></span>
                 <span class="kw-s">소스 50%</span></div>
@@ -2492,7 +2495,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역에서 늦게까지 하는 카페 어디야?</span>
                 <span class="ask">6번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>미팅카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 12%</b></span>
                 <span class="kw-s">소스 25%</span></div>
@@ -2500,7 +2503,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역에서 미팅하기 좋은 카페 추천해줘</span>
                 <span class="ask">8번 물어 <b>1번</b> 나옴</span>
                 <span class="chip shaky">들쭉날쭉</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>베이커리카페</h5><span class="kw-q">3문</span>
                 <span class="kw-m"><b>추천 6%</b></span>
                 <span class="kw-s">소스 39%</span></div>
@@ -2516,7 +2519,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 크로플이나 스콘 맛있는 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>강아지카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 0%</b></span>
                 <span class="kw-s">소스 0%</span></div>
@@ -2524,7 +2527,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 강아지 데리고 갈 수 있는 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>브런치카페</h5><span class="kw-q">1문</span>
                 <span class="kw-m"><b>추천 0%</b></span>
                 <span class="kw-s">소스 43%</span></div>
@@ -2532,7 +2535,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 브런치 맛있는 카페 추천해줘</span>
                 <span class="ask">7번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div><div class="kwcard" data-kw>
+                <span class="qgo">›</span></button></li></ul></div><div class="kwcard kwhide" data-kw>
               <div class="kw-h"><h5>커피맛카페</h5><span class="kw-q">2문</span>
                 <span class="kw-m"><b>추천 0%</b></span>
                 <span class="kw-s">소스 17%</span></div>
@@ -2544,7 +2547,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남역 스페셜티 커피 하는 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div></div><button class="rkfold" data-kwfold type="button">▶ 나머지 9개 키워드 펴기</button></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>강남</h4><span class="reg-q">4문 · 23회</span>
           <span class="reg-m">추천 56.5%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -2579,7 +2582,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남 디저트 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>역삼</h4><span class="reg-q">12문 · 65회</span>
           <span class="reg-m">추천 1.5%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -2666,7 +2669,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">역삼역에서 미팅하기 좋은 카페 추천해줘</span>
                 <span class="ask">5번 물어 <b>0번</b> 나옴</span>
                 <span class="chip missing">못 나옴</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>테헤란로</h4><span class="reg-q">1문 · 6회</span>
           <span class="reg-m">추천 0.0%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -2677,7 +2680,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">테헤란로 카페 추천해줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg"><div class="reg-h">
+                <span class="qgo">›</span></button></li></ul></div></div></section><section class="reg kwhide"><div class="reg-h">
           <h4>강남대로</h4><span class="reg-q">1문 · 6회</span>
           <span class="reg-m">추천 0.0%</span>
           </div><div class="kwgrid"><div class="kwcard" data-kw>
@@ -2688,7 +2691,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남대로 근처 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section>
+                <span class="qgo">›</span></button></li></ul></div></div></section><button class="rkfold kwfold" data-kwfold type="button">▶ 나머지 62문 펴기 · 지역 4곳이 여기 있습니다</button>
     </div></section>
 
   <section class="card sec" id="s-nicks-4">
@@ -2801,12 +2804,15 @@ $$('[data-rkfold]').forEach(btn=>btn.onclick=()=>{
   const box=btn.previousElementSibling, open=box.hidden;
   box.hidden=!open;
   btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${box.children.length}곳 펴기`;});
-// ★ 키워드 카드 접기 (2026-08-27 지시) — 「나머지 N곳」이 아니라 「N개 키워드」로 센다
-$$('[data-kwfold]').forEach(btn=>btn.onclick=()=>{
-  const box=btn.previousElementSibling, open=box.hidden;
-  box.hidden=!open;
-  const n=box.querySelectorAll('.kwcard').length;
-  btn.textContent=open ? '▼ 접기' : `▶ 나머지 ${n}개 키워드 펴기`;});
+// ★ 키워드맵 접기 (2026-08-27 지시) — **질문 20문**까지 펴 둔다. 카드 수가 아니다.
+//   접기는 class(.kwhide/.kwopen)로 한다 — 거르기(applyFilter)가 hidden 을 쓰므로 겹치면 안 된다
+$$('[data-kwfold]').forEach(btn=>{
+  const wrap=btn.closest('.card-b')||btn.parentElement;
+  const label=btn.textContent;
+  btn.onclick=()=>{
+    const open=wrap.classList.toggle('kwopen');
+    btn.textContent = open ? '▼ 접기' : label;
+  };});
 $$('.sortbar button').forEach(b=>b.onclick=()=>{
  const box=b.closest('.rks'),k=b.dataset.sort;
  box.querySelectorAll('.sortbar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -2817,12 +2823,11 @@ function applyFilter(p,f){
  p.querySelectorAll('.qr').forEach(b=>{const v=b.dataset.v;const li=b.parentElement;
    li.hidden=!(f==='all'||v===f);});
  p.querySelectorAll('.kwcard').forEach(k=>k.hidden=![...k.querySelectorAll('.qlist>li')].some(t=>!t.hidden));
- // ★ 거르기를 걸면 접어둔 카드도 봐야 한다 — 안 그러면 「없다」로 보인다 (2026-08-27)
- p.querySelectorAll('[data-kwmore]').forEach(m=>{
-   const btn=m.nextElementSibling;
-   if(f!=='all'){ m.hidden=false; if(btn) btn.hidden=true; }
-   else { m.hidden=true; if(btn){ btn.hidden=false;
-     btn.textContent=`▶ 나머지 ${m.querySelectorAll('.kwcard').length}개 키워드 펴기`; } }
+ // ★ 거르기를 걸면 접어둔 것도 봐야 한다 — 안 그러면 「없다」로 보인다 (2026-08-27)
+ p.querySelectorAll('[data-kwfold]').forEach(btn=>{
+   const wrap=btn.closest('.card-b')||btn.parentElement;
+   if(f!=='all'){ wrap.classList.add('kwopen'); btn.hidden=true; }
+   else { wrap.classList.remove('kwopen'); btn.hidden=false; }
  });
  p.querySelectorAll('.reg').forEach(r=>r.hidden=![...r.querySelectorAll('.kwcard')].some(k=>!k.hidden));
  p.querySelectorAll('.filt button').forEach(x=>x.classList.toggle('on',x.dataset.f===f));
