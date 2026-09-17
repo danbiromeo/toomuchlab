@@ -493,6 +493,12 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
  font-size:10px;font-weight:700;text-align:right;border-bottom:1px solid var(--outline,#E6E8EF)}
 .rkhead .v-a{color:var(--ink)}.rkhead .v-c{color:var(--pri)}.rkhead .v-e{color:var(--seen)}
 .rkl{display:flex;flex-direction:column}
+.vsum{margin:10px 0 0;font-size:11.5px;color:var(--ink3);text-align:right}
+.vsum b{color:var(--ink2)}
+.vsum.vbad{color:#b42318;font-weight:600;text-align:left;background:#fef3f2;
+  border:1px solid #fda29b;border-radius:8px;padding:8px 10px}
+.vsum.vbad b{color:#b42318}
+.nosum{margin:8px 0 0;font-size:11px;color:var(--ink3);line-height:1.5}
 .rktot{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;align-items:center;
   width:100%;padding:7px 6px 8px;border-bottom:1px solid var(--ink3);margin-bottom:2px}
 .rktot .rkn{font-weight:700;font-size:11.5px;color:var(--ink3);letter-spacing:.02em}
@@ -801,10 +807,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260917-1243">← 목록</a>
+    <a class="back" href="../?v=20260917-1312">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260917-1243">마롱컴퍼니</a><a class="sw-a" href="../popup/?v=20260917-1243">팝업스토어</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260917-1243">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1243">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260917-1312">마롱컴퍼니</a><a class="sw-a" href="../popup/?v=20260917-1312">팝업스토어</a><button class="on" type="button">셀렉티드 닉스</button><a class="sw-a" href="../clinic/?v=20260917-1312">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1312">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -815,7 +821,7 @@ a.noti{color:var(--ink3)}
     <span>질문 82</span><span>회차 491 (웹앱 452 · API 39)</span>
     <span>질문당 6회 (3~8)</span>
     <span>ChatGPT</span><span>측정 2026-09-17</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1243</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1312</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-nicks-1">
@@ -855,7 +861,7 @@ a.noti{color:var(--ink3)}
           <span class="vc-n">15<em>문</em></span>
           <span class="vc-l">못 나옴</span>
           <span class="vc-d">검색결과에 우리를 다룬 글이 아예 없었다</span>
-          <span class="vc-go">이 질문만 보기 ›</span></button></div>
+          <span class="vc-go">이 질문만 보기 ›</span></button></div><p class="vsum">합계 <b>82문</b> · 100% — 질문 하나는 넷 중 한 칸에만 듭니다</p>
       <div class="fwrap"><h3>어디서 새고 있나</h3><div class="fnwrap"><div class="funnel"><div class="fstep s0"><span class="fl">물어본 질문</span>
           <span class="fb"><i style="width:100.0%"></i></span>
           <span class="fn">82<em>문</em></span></div><div class="fdrop d-missing"><span class="fa">└</span><b>15문</b> 한 번도 안 떴다</div><div class="fstep s1"><span class="fl">검색결과에 우리 글이 떴다</span>
@@ -925,7 +931,9 @@ a.noti{color:var(--ink3)}
             <tr class="me"><td>우리</td><td data-cmp="me">59%</td></tr>
             <tr><td data-cmp-top>알베르 <span>(추천 1위)</span></td><td data-cmp="top">58%</td></tr>
             <tr><td>이 판 114개 업체 평균</td><td data-cmp="avg">18%</td></tr>
-          </tbody></table></div>
+          </tbody></table>
+          <p class="nosum">이 표엔 합계가 없습니다 — <b>칸마다 분모가 다릅니다</b>(업체마다 소스에 든 회차가 다름).
+            분모가 다른 비율은 더하면 안 됩니다.</p></div>
       </div>
       <aside class="rks"><h3>브랜드 랭킹</h3>
         <div class="sortbar">정렬
@@ -2709,7 +2717,7 @@ a.noti{color:var(--ink3)}
                 <span class="q">강남대로 근처 카페 알려줘</span>
                 <span class="ask">6번 물어 <b>0번</b> 나옴</span>
                 <span class="chip pushed">밀림</span>
-                <span class="qgo">›</span></button></li></ul></div></div></section><button class="rkfold kwfold" data-kwfold type="button">▶ 나머지 62문 펴기 · 지역 4곳이 여기 있습니다</button>
+                <span class="qgo">›</span></button></li></ul></div></div></section><button class="rkfold kwfold" data-kwfold type="button">▶ 나머지 62문 펴기 · 지역 4곳이 여기 있습니다</button><p class="vsum">합계 <b>82문</b> — 이 판의 질문 82문이 하나도 안 빠졌습니다</p>
     </div></section>
 
   <section class="card sec" id="s-nicks-4">
