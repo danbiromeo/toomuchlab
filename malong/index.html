@@ -493,6 +493,12 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
  font-size:10px;font-weight:700;text-align:right;border-bottom:1px solid var(--outline,#E6E8EF)}
 .rkhead .v-a{color:var(--ink)}.rkhead .v-c{color:var(--pri)}.rkhead .v-e{color:var(--seen)}
 .rkl{display:flex;flex-direction:column}
+.rktot{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;align-items:center;
+  width:100%;padding:9px 6px;border-bottom:2px solid var(--ink3);background:var(--surf)}
+.rktot .rkn{font-weight:800}
+.rktot .rkn em{font-style:normal;font-weight:500;font-size:10.5px;color:var(--ink3);margin-left:5px}
+.rktot .rkr{color:var(--ink3)}
+.rktot .rkv i{background:var(--ink3)!important}
 .rk{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;align-items:center;width:100%;
  padding:9px 6px 13px;border:0;border-bottom:1px solid var(--outline2);background:none;font:inherit;
  text-align:left;cursor:pointer;transition:background .12s;border-radius:8px}
@@ -796,10 +802,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260917-1235">← 목록</a>
+    <a class="back" href="../?v=20260917-1239">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../popup/?v=20260917-1235">팝업스토어</a><a class="sw-a" href="../nicks/?v=20260917-1235">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1235">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1235">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../popup/?v=20260917-1239">팝업스토어</a><a class="sw-a" href="../nicks/?v=20260917-1239">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1239">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1239">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -810,7 +816,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-09-17</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1235</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1239</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -929,6 +935,15 @@ a.noti{color:var(--ink3)}
           <button data-sort="e" type="button">소스 <i>RETRIEVED</i></button></div>
         <div class="rkhead"><span></span><span class="dn">%·회차 / 전체 579회차</span>
           <span class="v-a">추천</span><span class="v-c">인용</span><span class="v-e">소스</span><span></span></div>
+        <div class="rktot" data-by="{&quot;&quot;: {&quot;a&quot;: 508, &quot;c&quot;: 441, &quot;n&quot;: 0, &quot;s&quot;: 494}}"
+        data-a="87.7" data-c="76.2" data-e="85.3"
+        data-an="508" data-cn="441" data-en="494">
+      <span class="rkr">–</span>
+      <span class="rkn">전체 <em>이 표의 124곳 중 하나라도</em></span>
+      <span class="rkv v-a">88<em>%</em><u>508</u><i style="width:100%"></i></span>
+      <span class="rkv v-c">76<em>%</em><u>441</u><i style="width:100%"></i></span>
+      <span class="rkv v-e">85<em>%</em><u>494</u><i style="width:100%"></i></span>
+      <span class="rkgo"></span></div>
         <div class="rkl"><button class="rk me" type="button"
             data-brand="마롱컴퍼니"
             data-by="{&quot;&quot;: {&quot;a&quot;: 315, &quot;as&quot;: 282, &quot;c&quot;: 284, &quot;n&quot;: 579, &quot;s&quot;: 314}}"
@@ -3114,6 +3129,20 @@ document.querySelectorAll('.regbar').forEach(bar=>{
         const u=el.querySelector('u'); if(u) u.textContent=k;
         el.querySelector('i').style.width=Math.min(n*1.9,100)+'%';});
     });
+    // ★ 전체 줄(.rktot)도 같이 갈아끼운다. 안 하면 지역을 바꿔도 천장만 전체값으로 남아 거짓말이 된다
+    const tot0=panel.querySelector('.rktot');
+    if(tot0){
+      const tb=JSON.parse(tot0.dataset.by||'{}');
+      const tg = rg==='all'
+        ? {a:+tot0.dataset.an, c:+tot0.dataset.cn, s:+tot0.dataset.en}
+        : (tb[rg]||{a:0,c:0,s:0});
+      const tv=tot0.querySelectorAll('.rkv');
+      [[tv[0],tg.a],[tv[1],tg.c],[tv[2],tg.s]].forEach(([el,k])=>{
+        const n=tot?k/tot*100:0;
+        el.childNodes[0].nodeValue=Math.round(n);
+        const u=el.querySelector('u'); if(u) u.textContent=k;
+        el.querySelector('i').style.width=Math.min(n*1.9,100)+'%';});
+    }
     // 순위 숫자를 다시 매긴다 — 안 그러면 「1위」 가 숨겨진 채 남는다
     const vis=rows.filter(r=>!r.hidden).sort((x,y)=>(+y.dataset.sa)-(+x.dataset.sa));
     // ★ 접기 상자(.rkmore)를 다시 채운다.
