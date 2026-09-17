@@ -499,6 +499,8 @@ button.mbar:hover i{filter:brightness(.82)}   /* 검정으로 뒤집지 않는�
   border:1px solid #fda29b;border-radius:8px;padding:8px 10px}
 .vsum.vbad b{color:#b42318}
 .nosum{margin:8px 0 0;font-size:11px;color:var(--ink3);line-height:1.5}
+.cterm .ch{font-size:10.5px;color:var(--ink3);font-weight:600;padding-bottom:2px}
+.cterm .cw{color:var(--ink2);font-weight:600;white-space:nowrap}
 .rktot{display:grid;grid-template-columns:20px 1fr 44px 44px 44px 12px;gap:6px;align-items:center;
   width:100%;padding:7px 6px 8px;border-bottom:1px solid var(--ink3);margin-bottom:2px}
 .rktot .rkn{font-weight:700;font-size:11.5px;color:var(--ink3);letter-spacing:.02em}
@@ -807,10 +809,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260917-1324">← 목록</a>
+    <a class="back" href="../?v=20260917-1330">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><a class="sw-a" href="../malong/?v=20260917-1324">마롱컴퍼니</a><button class="on" type="button">팝업스토어</button><a class="sw-a" href="../nicks/?v=20260917-1324">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1324">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1324">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><a class="sw-a" href="../malong/?v=20260917-1330">마롱컴퍼니</a><button class="on" type="button">팝업스토어</button><a class="sw-a" href="../nicks/?v=20260917-1330">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1330">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1330">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -821,7 +823,7 @@ a.noti{color:var(--ink3)}
     <span>질문 80</span><span>회차 283 (웹앱 283 · API 0)</span>
     <span>질문당 3회 (2~6)</span>
     <span>ChatGPT</span><span>측정 2026-09-17</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1324</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1330</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-popup-1">
@@ -890,12 +892,19 @@ a.noti{color:var(--ink3)}
     <header class="card-h"><span class="sec-i">BRAND COMPARISON</span><h2>지표 (경쟁사 비교)</h2>
       <aside class="callout">
         <table class="cterm">
-          <tr><th>소스<em>RETRIEVED</em></th><td>AI가 검색·탐색 과정에서 찾아본 소스</td></tr>
-          <tr><th>인용<em>CITED</em></th><td>탐색한 소스 중 실제 답변의 근거로 채택된 것</td></tr>
-          <tr><th>추천<em>RECOMMENDED</em></th><td>최종 답변에서 해당 업체명이 직접 언급된 것</td></tr>
+          <tr><th></th><td class="ch">무엇을 재나</td><td class="ch">누구 것인가</td></tr>
+          <tr><th>소스<em>RETRIEVED</em></th><td>AI가 훑어본 목록에 <b>우리를 다룬 글이 있었나</b></td><td class="cw">기회</td></tr>
+          <tr><th>인용<em>CITED</em></th><td>그 글이 <b>답의 근거로 채택됐나</b></td><td class="cw">우리 자산이 일했나</td></tr>
+          <tr><th>추천<em>RECOMMENDED</em></th><td>답변에 <b>우리 이름이 나왔나</b></td><td class="cw">손님이 실제로 본 것</td></tr>
         </table>
-        <p>소스는 AI의 탐색 후보에 들어온 것, 인용은 그중 실제 답변의 근거로 채택된 것,
-          추천은 최종 답변에서 업체 이름까지 불린 것입니다.</p>
+        <p>셋은 차례로 좁아집니다 — <b>훑어본 것 → 근거로 쓴 것 → 이름을 부른 것</b>.
+          손님에게 보이는 건 <b>추천 하나</b>고, 인용은 그 추천이 <b>무엇 덕분이었는지</b>를 말해줍니다.</p>
+        <p class="cnote">★ <b>추천은 인용 없이도 일어납니다.</b> 길이 셋입니다 —
+          ① 우리 글이 인용돼서 ② 글이 없어도 <b>지도 위젯</b>에 떠서
+          ③ <b>남의 목록글</b>(「○○ BEST 7」)에 이름이 있어서 AI가 거기서 뽑아와서.
+          ②③은 <b>인용이 0인데 추천은 됩니다.</b> 그래서 추천만 높고 인용이 낮으면
+          <b>우리 글이 아니라 남이 써준 덕</b>이라, 우리 글을 고쳐도 그 몫은 안 움직입니다.
+          아래 <b>「답변에 나온 N회는 무엇에 기댔나」</b>가 이 셋을 갈라 셉니다.</p>
         <p class="cnote">★ <b>「그 업체를 다룬 글」의 판정</b> — 제목이 아니라 <b>긁어온 본문</b>에 이름이 있으면 다룬 것으로 셉니다.
           「강남역 카페 추천 BEST 7」처럼 <b>제목엔 없고 본문에만 있는 목록글이 절반(52%)</b>이라 제목만 보면 그만큼을 통째로 놓칩니다.
           「근처 병원」 같은 <b>페이지 곁가지는 걸러내지만</b>(전체의 2.8%) 그 규칙은 URL 모양으로 짐작하는 것이라 완전하지 않습니다.
