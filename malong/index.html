@@ -114,7 +114,7 @@ h3{font-size:15px;margin-bottom:4px}
 .why{background:var(--surf2);border-radius:var(--r2);padding:18px 20px}
 .why h4{font-size:14px;margin-bottom:11px}
 .wbar{display:flex;height:20px;border-radius:6px;overflow:hidden;gap:2px;margin-bottom:11px}
-.w1{background:var(--pri)}.w2{background:var(--seen)}.w3{background:#C9CEDC}
+.w1{background:var(--pri)}.w1b{background:#7FB3D5}.w2{background:var(--seen)}.w3{background:#C9CEDC}
 .wleg{list-style:none;margin:0;padding:0;font-size:12.5px}
 .wleg li{display:flex;align-items:center;gap:8px;padding:3px 0}
 .wleg i{width:10px;height:10px;border-radius:3px;flex:0 0 auto}
@@ -820,10 +820,10 @@ a.noti{color:var(--ink3)}
 </style></head><body>
 <div class="top"><div class="top-in">
   <div class="mast"><span class="co">T</span><h1>AEO 계기판</h1>
-    <a class="back" href="../?v=20260917-1352">← 목록</a>
+    <a class="back" href="../?v=20260917-1407">← 목록</a>
     <span class="sub">투머치</span>
     <span class="tag">AI가 답할 때 우리를 추천하는가</span></div>
-  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../popup/?v=20260917-1352">팝업스토어</a><a class="sw-a" href="../nicks/?v=20260917-1352">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1352">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1352">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
+  <div class="switch"><button class="on" type="button">마롱컴퍼니</button><a class="sw-a" href="../popup/?v=20260917-1407">팝업스토어</a><a class="sw-a" href="../nicks/?v=20260917-1407">셀렉티드 닉스</a><a class="sw-a" href="../clinic/?v=20260917-1407">이수탑정형외과</a><a class="sw-a" href="../moving/?v=20260917-1407">KGB이사</a><a class="sw-a" href="https://md-live-viewer.danbiromeo.workers.dev/commerce">커머스 (측정중)</a></div>
   <nav class="jump"><a href="#" class="on">OVERVIEW</a><a href="#">BRAND COMPARISON</a><a href="#">KEYWORD MAP</a><a href="#">MEDIA</a></nav>
 </div></div>
 <button class="hardref" type="button" data-hardref
@@ -834,7 +834,7 @@ a.noti{color:var(--ink3)}
     <span>질문 92</span><span>회차 579 (웹앱 397 · API 182)</span>
     <span>질문당 6회 (2~11)</span>
     <span>ChatGPT</span><span>측정 2026-09-17</span>
-    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1352</span>
+    <span class="bstamp" title="이 화면을 만든 시각입니다">화면 20260917-1407</span>
     <span class="warn">변화량 없음 — 기준선</span></div>
 
   <section class="card sec" id="s-malong-1">
@@ -885,16 +885,22 @@ a.noti{color:var(--ink3)}
           <span class="fb"><i style="width:42.4%"></i></span>
           <span class="fn">39<em>문</em></span></div></div><div class="why"><h4>답변에 나온 315회는 무엇에 기댔나</h4>
       <div class="wbar">
-        <i class="w1" style="flex:279" title="우리 글이 근거"></i>
+        <i class="w1" style="flex:277" title="자사 홈페이지"></i>
+        <i class="w1b" style="flex:2" title="남의 글에 이름"></i>
         <i class="w2" style="flex:35" title="지도"></i>
-        <i class="w3" style="flex:1" title="남의 글에서"></i></div>
+        <i class="w3" style="flex:1" title="출처 없음"></i></div>
       <ul class="wleg">
-        <li><i class="w1"></i>우리를 다룬 글이 근거로 쓰임 <b>279회</b> <em>89%</em></li>
-        <li><i class="w2"></i>지도에만 떴다 <b>35회</b> <em>11%</em></li>
-        <li><i class="w3"></i>남의 목록글에서 이름만 뽑혔다 <b>1회</b> <em>0%</em></li>
+        <li><i class="w1"></i><b>자사 홈페이지</b>가 근거로 쓰임 <b>277회</b> <em>88%</em></li>
+        <li><i class="w1b"></i>남의 글에 우리 이름이 있어 거기서 뽑힘 <b>2회</b> <em>1%</em></li>
+        <li><i class="w2"></i>글은 없고 <b>지도</b>에만 떴다 <b>35회</b> <em>11%</em></li>
+        <li><i class="w3"></i><b>출처가 아예 없다</b> <b>1회</b> <em>0%</em></li>
       </ul>
-      <p class="say">맨 아래가 <b>우리 손이 안 닿는 경로</b>입니다. 다이닝코드 같은 목록글 안에
-        우리가 들어 있으면 AI가 거기서 이름을 뽑아옵니다.</p></div></div></div>
+      <p class="say"><b>위에서 아래로 갈수록 우리 손이 멀어집니다.</b>
+          ① <b>자사 홈페이지</b> — 우리가 고칠 수 있다. 가장 확실한 자리
+          ② <b>남의 글</b> — 모두닥 같은 목록글에 우리 이름이 적혀 있어 AI가 거기서 뽑아온다. <b>등재</b>로 늘린다
+          ③ <b>지도</b> — 홈페이지와 무관하다. 구글 비즈니스 프로필 쪽 일이다
+          ④ <b>출처 없음</b> — 인용도 지도도 없는데 이름이 나왔다. 학습 기억이거나,
+             남의 글 <b>본문</b>에 있는데 제목·요약에 안 걸린 것이다. <b>지금 데이터로는 못 가린다</b></p></div></div></div>
       <p class="note">고쳐야 할 자리 <b>31문</b> · 이미 되고 있는 자리 <b>61문</b>
         </p>
     </div></section>
