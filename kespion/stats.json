@@ -1,0 +1,2775 @@
+{
+ "key": "kespion",
+ "project": "케스피온",
+ "total": 9,
+ "questions": 3,
+ "지역회차": {},
+ "매체": {
+  "자사홈페이지": {
+   "건": 3,
+   "페이지": 3,
+   "도메인수": 2,
+   "소스건": 0,
+   "소스페이지": 0,
+   "열어봄건": 0,
+   "도메인": [
+    [
+     "nicomedical.com",
+     2,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     "tnl.co.kr",
+     1,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   "추천회차": 3
+  },
+  "블로그": {
+   "건": 2,
+   "페이지": 2,
+   "도메인수": 2,
+   "소스건": 1,
+   "소스페이지": 1,
+   "열어봄건": 0,
+   "도메인": [
+    [
+     "everbryan.tistory.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "blog.naver.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   "추천회차": 0
+  },
+  "일반사이트": {
+   "건": 78,
+   "페이지": 48,
+   "도메인수": 35,
+   "소스건": 52,
+   "소스페이지": 34,
+   "열어봄건": 0,
+   "도메인": [
+    [
+     "cosinkorea.com",
+     10,
+     1,
+     3,
+     1,
+     0
+    ],
+    [
+     "orangeboard.co.kr",
+     9,
+     2,
+     1,
+     1,
+     0
+    ],
+    [
+     "kr.made-in-china.com",
+     7,
+     4,
+     5,
+     3,
+     0
+    ],
+    [
+     "etoday.co.kr",
+     5,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "hankyung.com",
+     3,
+     1,
+     2,
+     1,
+     0
+    ],
+    [
+     "glowpick.com",
+     3,
+     3,
+     2,
+     2,
+     0
+    ],
+    [
+     "korean.alibaba.com",
+     3,
+     0,
+     3,
+     0,
+     0
+    ],
+    [
+     "selfcos.com",
+     3,
+     2,
+     1,
+     1,
+     0
+    ],
+    [
+     "ssl.pstatic.net",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "anytape.kr",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "dermaject.com",
+     2,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     "ko.senwellbio.com",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "ko.biyingcosmetics.com",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "web.blackbirdskincare.com",
+     2,
+     6,
+     2,
+     2,
+     0
+    ],
+    [
+     "ko.senwelloem.com",
+     2,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     "cellbiohumantech.co.kr",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "kr.tradekorea.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "m.shoppinghow.kakao.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "m.gsshop.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "ko.whhuaweimedical.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "jswldmed.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "hwahae.co.kr",
+     1,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "cupass.co.kr",
+     1,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "wiseguyreports.com",
+     1,
+     4,
+     1,
+     1,
+     0
+    ],
+    [
+     "mordorintelligence.kr",
+     1,
+     2,
+     1,
+     1,
+     0
+    ]
+   ],
+   "추천회차": 3
+  },
+  "언론": {
+   "건": 6,
+   "페이지": 5,
+   "도메인수": 3,
+   "소스건": 1,
+   "소스페이지": 1,
+   "열어봄건": 0,
+   "도메인": [
+    [
+     "pharm.edaily.co.kr",
+     3,
+     0,
+     3,
+     0,
+     0
+    ],
+    [
+     "news.mt.co.kr",
+     2,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "hitnews.co.kr",
+     1,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   "추천회차": 0
+  }
+ },
+ "brands": [
+  {
+   "name": "케스피온",
+   "me": true,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": {},
+   "문항별": [
+    {
+     "질문": "여드름 패치 납품용 제조사 추천해 줘.",
+     "회차": 3,
+     "소스": 0,
+     "인용": 0,
+     "열어봄": 0,
+     "추천": 0,
+     "지도": 0
+    },
+    {
+     "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+     "회차": 3,
+     "소스": 0,
+     "인용": 0,
+     "열어봄": 0,
+     "추천": 0,
+     "지도": 0
+    },
+    {
+     "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
+     "회차": 3,
+     "소스": 0,
+     "인용": 0,
+     "열어봄": 0,
+     "추천": 0,
+     "지도": 0
+    }
+   ],
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "티앤엘",
+   "me": false,
+   "추천": {
+    "질문": 3,
+    "회차": 6,
+    "건": 29
+   },
+   "소스": {
+    "질문": 3,
+    "회차": 3,
+    "건": 3,
+    "페이지": 2,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 3,
+    "회차": 3,
+    "건": 7,
+    "페이지": 3,
+    "자사회차": 1,
+    "자사페이지": 1
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 3,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 1
+    },
+    "일반사이트": {
+     "소스": 3,
+     "인용": 6
+    }
+   },
+   "추천페이지": 3,
+   "내페이지": null,
+   "문항별": [
+    {
+     "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+     "회차": 3,
+     "소스": 0,
+     "인용": 1,
+     "열어봄": 0,
+     "추천": 2,
+     "지도": 0
+    },
+    {
+     "질문": "여드름 패치 납품용 제조사 추천해 줘.",
+     "회차": 3,
+     "소스": 0,
+     "인용": 0,
+     "열어봄": 0,
+     "추천": 2,
+     "지도": 0
+    },
+    {
+     "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
+     "회차": 3,
+     "소스": 0,
+     "인용": 0,
+     "열어봄": 0,
+     "추천": 2,
+     "지도": 0
+    }
+   ],
+   "경로": {
+    "자사홈페이지": 1,
+    "플랫폼": 0,
+    "일반사이트": 2,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 3
+   },
+   "인용페이지목록": [
+    {
+     "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+     "인용회차": 2,
+     "일한회차": 2,
+     "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+     "도메인": "orangeboard.co.kr",
+     "매체": "일반사이트",
+     "일함": true
+    },
+    {
+     "url": "https://hankyung.com/article/202109160793i",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+     "도메인": "hankyung.com",
+     "매체": "일반사이트",
+     "일함": true
+    },
+    {
+     "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "티앤엘",
+     "도메인": "tnl.co.kr",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
+  },
+  {
+   "name": "니코메디칼",
+   "me": false,
+   "추천": {
+    "질문": 3,
+    "회차": 6,
+    "건": 20
+   },
+   "소스": {
+    "질문": 2,
+    "회차": 3,
+    "건": 1,
+    "페이지": 1,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 2,
+    "회차": 3,
+    "건": 6,
+    "페이지": 3,
+    "자사회차": 2,
+    "자사페이지": 2
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 3,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 2
+    },
+    "일반사이트": {
+     "소스": 1,
+     "인용": 4
+    }
+   },
+   "추천페이지": 3,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 2,
+    "플랫폼": 0,
+    "일반사이트": 1,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 3
+   },
+   "인용페이지목록": [
+    {
+     "url": "https://cosinkorea.com/news/article.html?no=56672",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+     "도메인": "cosinkorea.com",
+     "매체": "일반사이트",
+     "일함": true
+    },
+    {
+     "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_idx=13&com_board_id=1",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "니코메디칼",
+     "도메인": "nicomedical.com",
+     "매체": "자사홈페이지",
+     "일함": true
+    },
+    {
+     "url": "https://nicomedical.com/default/product/product1.php",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "NicoMedical",
+     "도메인": "nicomedical.com",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
+  },
+  {
+   "name": "YNK바이오코스",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "더마텍",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "누리메딕스",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "뉴와이메디칼",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "라파스",
+   "me": false,
+   "추천": {
+    "질문": 2,
+    "회차": 2,
+    "건": 5
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 2
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "메디칼리서치",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "대양메디",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "얀세코스",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  },
+  {
+   "name": "옥시젠",
+   "me": false,
+   "추천": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0
+   },
+   "소스": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "인용": {
+    "질문": 0,
+    "회차": 0,
+    "건": 0,
+    "페이지": 0,
+    "자사회차": 0,
+    "자사페이지": 0
+   },
+   "열어봄": {
+    "회차": 0,
+    "건": 0,
+    "페이지": 0
+   },
+   "지도": {
+    "질문": 0,
+    "회차": 0
+   },
+   "지역": {},
+   "글로": 0,
+   "매체": {},
+   "추천페이지": 0,
+   "내페이지": null,
+   "문항별": null,
+   "경로": {
+    "자사홈페이지": 0,
+    "플랫폼": 0,
+    "일반사이트": 0,
+    "언론": 0,
+    "블로그": 0,
+    "지도카드": 0,
+    "모름": 0
+   },
+   "인용페이지목록": []
+  }
+ ],
+ "추천_지도카드": 0,
+ "추천_모름": 8,
+ "총계": {
+  "retrieved": {
+   "건": 54,
+   "페이지": 36,
+   "도메인": 28,
+   "회차": 3
+  },
+  "cited": {
+   "건": 89,
+   "페이지": 58,
+   "도메인": 42,
+   "회차": 9
+  },
+  "opened": {
+   "건": 0,
+   "페이지": 0,
+   "도메인": 0,
+   "회차": 0
+  },
+  "recommended": {
+   "건": 54,
+   "회차": 7,
+   "페이지": null,
+   "도메인": null
+  }
+ },
+ "페이지": [
+  {
+   "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+   "정규url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+   "매체": "일반사이트",
+   "도메인": "orangeboard.co.kr",
+   "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+   "소스": 2,
+   "인용": 9,
+   "열어봄": 0,
+   "인용회차": 6,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 2340,
+   "본문해시": "790058aef6",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://www.cosinkorea.com/news/article.html?no=56672",
+   "정규url": "https://cosinkorea.com/news/article.html?no=56672",
+   "매체": "일반사이트",
+   "도메인": "cosinkorea.com",
+   "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+   "소스": 1,
+   "인용": 8,
+   "열어봄": 0,
+   "인용회차": 4,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3330,
+   "본문해시": "8b8dd98500",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2631544",
+   "정규url": "https://etoday.co.kr/news/view/2631544",
+   "매체": "일반사이트",
+   "도메인": "etoday.co.kr",
+   "제목": "셀바이오휴먼텍, 2공장 이달 준공…11월 시운전ㆍ여드름패치 캐파 2배 - 이투데이",
+   "소스": 1,
+   "인용": 5,
+   "열어봄": 0,
+   "인용회차": 3,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1786,
+   "본문해시": "068a729d3f",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://selfcos.com/index/company_view/2154",
+   "정규url": "https://selfcos.com/index/company_view/2154",
+   "매체": "일반사이트",
+   "도메인": "selfcos.com",
+   "제목": "셀프코스: 화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적",
+   "소스": 2,
+   "인용": 3,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://kr.made-in-china.com/factory/acne-patch.html",
+   "정규url": "https://kr.made-in-china.com/factory/acne-patch.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "여드름 패치 공장, 중국 여드름 패치 공장 목록 당신은에서 직접 구입할 수 있습니다.",
+   "소스": 0,
+   "인용": 3,
+   "열어봄": 0,
+   "인용회차": 3,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 19373,
+   "본문해시": "aec08ceaf3",
+   "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.glowpick.com/categories/39?ids=315",
+   "정규url": "https://glowpick.com/categories/39?ids=315",
+   "매체": "일반사이트",
+   "도메인": "glowpick.com",
+   "제목": "스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
+   "소스": 2,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 11547,
+   "본문해시": "612503a7ff",
+   "진료항목": 0,
+   "지역어": 1,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.hankyung.com/article/202109160793i",
+   "정규url": "https://hankyung.com/article/202109160793i",
+   "매체": "일반사이트",
+   "도메인": "hankyung.com",
+   "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+   "소스": 1,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://news.mt.co.kr/mtview.php?no=2023040613091067284",
+   "정규url": "https://news.mt.co.kr/mtview.php?no=2023040613091067284",
+   "매체": "언론",
+   "도메인": "news.mt.co.kr",
+   "제목": "더마젝, \"글로벌 마이크로니들 패치 ODM 시장 이끌 것\" - 머니투데이",
+   "소스": 1,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "http://www.anytape.kr/about/history.php",
+   "정규url": "https://anytape.kr/about/history.php",
+   "매체": "일반사이트",
+   "도메인": "anytape.kr",
+   "제목": "애니테이프 대표 홈페이지",
+   "소스": 0,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1092,
+   "본문해시": "67db0c8138",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://cellbiohumantech.co.kr/sub/manufact.php",
+   "정규url": "https://cellbiohumantech.co.kr/sub/manufact.php",
+   "매체": "일반사이트",
+   "도메인": "cellbiohumantech.co.kr",
+   "제목": "셀바이오휴먼텍",
+   "소스": 0,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 886,
+   "본문해시": "8eee1112ce",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.biyingcosmetics.com/facial-care-products/acne-patch/acne-removing-patch.html",
+   "정규url": "https://ko.biyingcosmetics.com/facial-care-products/acne-patch/acne-removing-patch.html",
+   "매체": "일반사이트",
+   "도메인": "ko.biyingcosmetics.com",
+   "제목": "중국 사용자 정의 여드름 제거 패치 공급 업체, 제조 업체 - 공장 직접 도매 - BIYING",
+   "소스": 0,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 2142,
+   "본문해시": "2ffa20ed8e",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.senwellbio.com/blog/top-10-cute-pimple-patch-manufacturers-in-the-world-2305426.html",
+   "정규url": "https://ko.senwellbio.com/blog/top-10-cute-pimple-patch-manufacturers-in-the-world-2305426.html",
+   "매체": "일반사이트",
+   "도메인": "ko.senwellbio.com",
+   "제목": "세계 10대 귀여운 여드름 패치 제조업체 - 블로그 - Senwell Biotech",
+   "소스": 0,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 5844,
+   "본문해시": "c026065cb6",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://ssl.pstatic.net/imgstock/upload/research/company/1640743116875.pdf",
+   "정규url": "https://ssl.pstatic.net/imgstock/upload/research/company/1640743116875.pdf",
+   "매체": "일반사이트",
+   "도메인": "ssl.pstatic.net",
+   "제목": "",
+   "소스": 0,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://web.blackbirdskincare.com/ko/products-acne-patch/",
+   "정규url": "https://web.blackbirdskincare.com/ko/products-acne-patch",
+   "매체": "일반사이트",
+   "도메인": "web.blackbirdskincare.com",
+   "제목": "Blackbird Skincare: 개인 상표 여드름 패치 제조업체 - 화장품 제조업체 - Blackbird Skincare",
+   "소스": 4,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.wiseguyreports.com/ko/reports/pimple-patches-market",
+   "정규url": "https://wiseguyreports.com/ko/reports/pimple-patches-market",
+   "매체": "일반사이트",
+   "도메인": "wiseguyreports.com",
+   "제목": "여드름 패치 시장 조사 보고서 2032 | WiseGuyReports",
+   "소스": 4,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 15777,
+   "본문해시": "1a1aff2402",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kr.made-in-china.com/co_hanguhealth/product_Acne-Spot-Treatment-Patch-for-24-Hour-Protection-and-Relief_yyhhghihrg.html",
+   "정규url": "https://kr.made-in-china.com/co_hanguhealth/product_Acne-Spot-Treatment-Patch-for-24-Hour-Protection-and-Relief_yyhhghihrg.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "여드름 점 치료 패치 24-Hour 보호 및 완화 - 2026 대상 여드름 패치, 24시간 보호 패치 price | Made-in-china.com",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4959,
+   "본문해시": "0d9624a451",
+   "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
+   "정규url": "https://mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
+   "매체": "일반사이트",
+   "도메인": "mordorintelligence.kr",
+   "제목": "여드름 치료제 시장 규모, 점유율, 2025-2030 전망",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 7607,
+   "본문해시": "a28caa6d8c",
+   "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://cupass.co.kr/%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-%EC%B6%94%EC%B2%9C-top-5-%EC%9D%B8%EA%B8%B0-%EC%A0%9C%ED%92%88-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A0%ED%83%9D-%EA%B5%AC%EB%A7%A4-%EA%B0%80%EC%9D%B4/",
+   "정규url": "https://cupass.co.kr/여드름-패치-추천-top-5-인기-제품-소개-및-선택-구매-가이",
+   "매체": "일반사이트",
+   "도메인": "cupass.co.kr",
+   "제목": "여드름 패치 추천 TOP 5, 인기 제품 소개 및 선택 구매 가이드",
+   "소스": 1,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 5241,
+   "본문해시": "e2dafbae49",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.hwahae.co.kr/rankings?english_name=category&theme_id=4262",
+   "정규url": "https://hwahae.co.kr/rankings?english_name=category&theme_id=4262",
+   "매체": "일반사이트",
+   "도메인": "hwahae.co.kr",
+   "제목": "패치 TOP 100 추천 | 1000만 화해 실사용자 103만 리뷰 기반",
+   "소스": 1,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 677,
+   "본문해시": "6fbfcbba32",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kr.made-in-china.com/factory/hydrophilic-wound-dressing.html",
+   "정규url": "https://kr.made-in-china.com/factory/hydrophilic-wound-dressing.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "수분 친화성 상처 드레싱 공장, 중국 수분 친화성 상처 드레싱 공장 목록 당신은에서 직접 구입할 수 있습니다.",
+   "소스": 1,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.accio.com/plp/ko/%EB%B3%84%EB%AA%A8%EC%96%91%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "정규url": "https://accio.com/plp/ko/별모양여드름패치",
+   "매체": "일반사이트",
+   "도메인": "accio.com",
+   "제목": "별모양 여드름패치: 효과적인 피부 관리",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
+   "정규url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
+   "매체": "블로그",
+   "도메인": "blog.naver.com",
+   "제목": "여드름 패치는 여기서 - 트러블패치 제조 '티앤엘'",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 11989,
+   "본문해시": "ba2da2c40e",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://www.cosinkorea.com/mobile/article.html?no=56672",
+   "정규url": "https://cosinkorea.com/mobile/article.html?no=56672",
+   "매체": "일반사이트",
+   "도메인": "cosinkorea.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.cosinkorea.com/news/article_print.html?no=51745",
+   "정규url": "https://cosinkorea.com/news/article_print.html?no=51745",
+   "매체": "일반사이트",
+   "도메인": "cosinkorea.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlOkST-60_d3EXvGkzhlR-gBhlRHbrbdVKqoil03ILnbVlvlHnCRiqAkR42aeuU-FZx-cIpKSqX3sh3hX8mtXHW8V_38x8tJlYCdCrf7SOSw==",
+   "정규url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlOkST-60_d3EXvGkzhlR-gBhlRHbrbdVKqoil03ILnbVlvlHnCRiqAkR42aeuU-FZx-cIpKSqX3sh3hX8mtXHW8V_38x8tJlYCdCrf7SOSw==",
+   "매체": "일반사이트",
+   "도메인": "dermaject.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHprCWVvPR_ZSP-1VrZjNEPm0Q-b-yY5E9YQ1bSON_3zxiO1nk0ldRhUC1WMk8QHzC2px8ALQ5k4cVwn5Z6mdVN-v2j_zZVMxrvpbSGB6ze",
+   "정규url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHprCWVvPR_ZSP-1VrZjNEPm0Q-b-yY5E9YQ1bSON_3zxiO1nk0ldRhUC1WMk8QHzC2px8ALQ5k4cVwn5Z6mdVN-v2j_zZVMxrvpbSGB6ze",
+   "매체": "일반사이트",
+   "도메인": "dermaject.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "http://endoderma.co.kr/business",
+   "정규url": "https://endoderma.co.kr/business",
+   "매체": "일반사이트",
+   "도메인": "endoderma.co.kr",
+   "제목": "엔도더마",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3820,
+   "본문해시": "e63870f226",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://everbryan.tistory.com/70",
+   "정규url": "https://everbryan.tistory.com/70",
+   "매체": "블로그",
+   "도메인": "everbryan.tistory.com",
+   "제목": "국내 하이드로콜로이드 패치 회사들 순위",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1979,
+   "본문해시": "de601e04ab",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://www.glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315",
+   "정규url": "https://glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315",
+   "매체": "일반사이트",
+   "도메인": "glowpick.com",
+   "제목": "올리브영 스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 8662,
+   "본문해시": "58f3d642f1",
+   "진료항목": 2,
+   "지역어": 1,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.hankyung.com/article/2021091615911",
+   "정규url": "https://hankyung.com/article/2021091615911",
+   "매체": "일반사이트",
+   "도메인": "hankyung.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=46993",
+   "정규url": "https://hitnews.co.kr/news/articleView.html?idxno=46993",
+   "매체": "언론",
+   "도메인": "hitnews.co.kr",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.jswldmed.com/ko/acne-plaster-product/",
+   "정규url": "https://jswldmed.com/ko/acne-plaster-product",
+   "매체": "일반사이트",
+   "도메인": "jswldmed.com",
+   "제목": "OEM OEM 여드름 치료 패치 하이드로콜로이드 여드름 패치 석고 여드름 패치 스팟 트리트먼트 공장 및 제조업체 | WLD Medical",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3088,
+   "본문해시": "cc9070daa9",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.accio.com/plp/acnepatch",
+   "정규url": "https://ko.accio.com/plp/acnepatch",
+   "매체": "일반사이트",
+   "도메인": "ko.accio.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.kingpharmedical.com/personal-care/acne-cover-patch/hydrocolloid-pimple-patches.html",
+   "정규url": "https://ko.kingpharmedical.com/personal-care/acne-cover-patch/hydrocolloid-pimple-patches.html",
+   "매체": "일반사이트",
+   "도메인": "ko.kingpharmedical.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.senwelloem.com/pimple-patch/acne-microneedle-patch/acne-treatment-patch.html",
+   "정규url": "https://ko.senwelloem.com/pimple-patch/acne-microneedle-patch/acne-treatment-patch.html",
+   "매체": "일반사이트",
+   "도메인": "ko.senwelloem.com",
+   "제목": "중국 맞춤형 여드름 치료 패치 공급 업체, 제조 업체 - 공장 직접 도매 - SENWELL",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3458,
+   "본문해시": "3b3d55e916",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.senwelloem.com/pimple-patch/hydrocolloid-pimple-patches/hydrocolloid-pimple-patch.html",
+   "정규url": "https://ko.senwelloem.com/pimple-patch/hydrocolloid-pimple-patches/hydrocolloid-pimple-patch.html",
+   "매체": "일반사이트",
+   "도메인": "ko.senwelloem.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ko.whhuaweimedical.com/showroom/acne-patch-for-face/",
+   "정규url": "https://ko.whhuaweimedical.com/showroom/acne-patch-for-face",
+   "매체": "일반사이트",
+   "도메인": "ko.whhuaweimedical.com",
+   "제목": "중국얼굴을위한 여드름 패치 제조업체 공급 업체 공장 - 맞춤형얼굴을위한 여드름 패치 중국에서 만들어졌습니다",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 5797,
+   "본문해시": "64367a5670",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://korean.alibaba.com/g/acne-patches.html",
+   "정규url": "https://korean.alibaba.com/g/acne-patches.html",
+   "매체": "일반사이트",
+   "도메인": "korean.alibaba.com",
+   "제목": "404-Error",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://korean.alibaba.com/g/anti-acne-patch.html",
+   "정규url": "https://korean.alibaba.com/g/anti-acne-patch.html",
+   "매체": "일반사이트",
+   "도메인": "korean.alibaba.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://korean.alibaba.com/product-detail/Custom-Logo-Acne-Cover-Patch-Acne-1600717021208.html",
+   "정규url": "https://korean.alibaba.com/product-detail/Custom-Logo-Acne-Cover-Patch-Acne-1600717021208.html",
+   "매체": "일반사이트",
+   "도메인": "korean.alibaba.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-ODM-Manufacturer-Private-Label-Hydrocolloid-Acne-Pimple-Patch_yunsurshyg.html",
+   "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-ODM-Manufacturer-Private-Label-Hydrocolloid-Acne-Pimple-Patch_yunsurshyg.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "OEM ODM 제조업체 개인 상표 하이드로콜로이드 여드름 패치 - 2026 패치, ance Patch price | Made-in-china.com",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4988,
+   "본문해시": "2280935464",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-Original-Hydrocolloid-Acne-Patch-Custom-Design-Factory-Price_uoyorgssou.html",
+   "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-Original-Hydrocolloid-Acne-Patch-Custom-Design-Factory-Price_uoyorgssou.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "OEM 원본 하이드로콜로이드 여드름 패치 맞춤 디자인 공장 가격 - 2026 여드름 패치, 점심원 패치 price | Made-in-china.com",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 6080,
+   "본문해시": "a4f49b24d8",
+   "진료항목": 1,
+   "지역어": 1,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
+   "정규url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
+   "매체": "일반사이트",
+   "도메인": "kr.tradekorea.com",
+   "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1294,
+   "본문해시": "e242787f91",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://m.gsshop.com/search/searchSect.gs?tq=%ED%8A%B8%EB%9F%AC%EB%B8%94%ED%8C%A8%EC%B9%98&mseq=406355",
+   "정규url": "https://gsshop.com/search/searchSect.gs?tq=%ED%8A%B8%EB%9F%AC%EB%B8%94%ED%8C%A8%EC%B9%98&mseq=406355",
+   "매체": "일반사이트",
+   "도메인": "m.gsshop.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 2796,
+   "본문해시": "d3b728fc72",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://m.shoppinghow.kakao.com/m/search/q/%EC%97%AC%EB%93%9C%EB%A6%84%20%ED%8C%A8%EC%B9%98",
+   "정규url": "https://shoppinghow.kakao.com/m/search/q/여드름 패치",
+   "매체": "일반사이트",
+   "도메인": "m.shoppinghow.kakao.com",
+   "제목": "여드름 패치 - 검색결과 | 쇼핑하우",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 123,
+   "본문해시": "3294e31f80",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "http://m.yakup.com/news/index.html?mode=view&nid=328176",
+   "정규url": "https://yakup.com/news/index.html?mode=view&nid=328176",
+   "매체": "일반사이트",
+   "도메인": "m.yakup.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.metroprivatelabel.com/ko/top-microneedle-patch-manufacturers/",
+   "정규url": "https://metroprivatelabel.com/ko/top-microneedle-patch-manufacturers",
+   "매체": "일반사이트",
+   "도메인": "metroprivatelabel.com",
+   "제목": "가장 신뢰받는 마이크로니들 패치 제조업체 TOP 10 - 메트로 프라이빗 라벨 - 스킨케어 제조업체",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 78274,
+   "본문해시": "ad5243a1d1",
+   "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+   "정규url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_idx=13&com_board_id=1",
+   "매체": "자사홈페이지",
+   "도메인": "nicomedical.com",
+   "제목": "니코메디칼",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 588,
+   "본문해시": "57e3626439",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "http://www.nicomedical.com/default/product/product1.php",
+   "정규url": "https://nicomedical.com/default/product/product1.php",
+   "매체": "자사홈페이지",
+   "도메인": "nicomedical.com",
+   "제목": "NicoMedical",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 556,
+   "본문해시": "cc9b1985a7",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.opsoem.com/ko/oem-acne-patches/",
+   "정규url": "https://opsoem.com/ko/oem-acne-patches",
+   "매체": "일반사이트",
+   "도메인": "opsoem.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://patents.google.com/patent/KR20240060379A/ko",
+   "정규url": "https://patents.google.com/patent/KR20240060379A/ko",
+   "매체": "일반사이트",
+   "도메인": "patents.google.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pharm.edaily.co.kr/news/read?newsId=01282486638986664",
+   "정규url": "https://pharm.edaily.co.kr/news/read?newsId=01282486638986664",
+   "매체": "언론",
+   "도메인": "pharm.edaily.co.kr",
+   "제목": "라파스, 여드름패치 듀얼 브랜드로 美공략…3년 내 수백억 매출 자신 - 팜이데일리",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4286,
+   "본문해시": "bbc5056aeb",
+   "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
+   "정규url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
+   "매체": "언론",
+   "도메인": "pharm.edaily.co.kr",
+   "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4702,
+   "본문해시": "e1428f01f6",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
+   "정규url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
+   "매체": "언론",
+   "도메인": "pharm.edaily.co.kr",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://supple.kr/news/cmusxvewx000xj1ai8u621h02",
+   "정규url": "https://supple.kr/news/cmusxvewx000xj1ai8u621h02",
+   "매체": "일반사이트",
+   "도메인": "supple.kr",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+   "정규url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+   "매체": "자사홈페이지",
+   "도메인": "tnl.co.kr",
+   "제목": "티앤엘",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1208,
+   "본문해시": "43bbfca7d3",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://twoeight-medicare.com/COMPANY",
+   "정규url": "https://twoeight-medicare.com/COMPANY",
+   "매체": "일반사이트",
+   "도메인": "twoeight-medicare.com",
+   "제목": "(주)투에잇 메디케어 hydrocolloid 하이드로콜로이드 습윤밴드",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1960,
+   "본문해시": "ef4f8ddba5",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://web.blackbirdskincare.com/ko/%EC%A0%9C%ED%92%88-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98/",
+   "정규url": "https://web.blackbirdskincare.com/ko/제품-여드름-패치",
+   "매체": "일반사이트",
+   "도메인": "web.blackbirdskincare.com",
+   "제목": "",
+   "소스": 0,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Dr._Jart%2B",
+   "정규url": "https://en.wikipedia.org/wiki/Dr._Jart+",
+   "매체": "일반사이트",
+   "도메인": "en.wikipedia.org",
+   "제목": "Dr. Jart%2B",
+   "소스": 4,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
+   "정규url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
+   "매체": "일반사이트",
+   "도메인": "en.wikipedia.org",
+   "제목": "Original equipment manufacturer",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.gqkorea.co.kr/2025/08/05/%EC%97%AC%EB%93%9C%EB%A6%84-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%A2%8B%EC%95%84-%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B0%80-%EA%B3%A0%EB%A5%B8-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8/",
+   "정규url": "https://gqkorea.co.kr/2025/08/05/여드름-오히려-좋아-전문가가-고른-최고의-여드름-패",
+   "매체": "일반사이트",
+   "도메인": "gqkorea.co.kr",
+   "제목": "전문가가 고른, 돈값하는 최고의 여드름 패치 7 | 지큐 코리아 (GQ Korea)",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://topten-blog.com/articles/%EC%9D%B8%EA%B8%B0-%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98-%EC%B6%94%EC%B2%9C",
+   "정규url": "https://topten-blog.com/articles/인기-여드름패치-추천",
+   "매체": "일반사이트",
+   "도메인": "topten-blog.com",
+   "제목": "인기 여드름패치 추천 TOP-7",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://web.blackbirdskincare.com/ko/%EC%83%81%EC%9C%84-10%EA%B0%9C-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-%EC%A0%9C%EC%A1%B0%EC%97%85%EC%B2%B4/",
+   "정규url": "https://web.blackbirdskincare.com/ko/상위-10개-여드름-패치-제조업체",
+   "매체": "일반사이트",
+   "도메인": "web.blackbirdskincare.com",
+   "제목": "여드름 패치 제조업체 상위 10개 - 화장품 제조업체 - Blackbird Skincare",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.3m.com/3M/en_US/p/c/medical/skin-protectants/acne-patches/b/nexcare/i/consumer/",
+   "정규url": "https://3m.com/3M/en_US/p/c/medical/skin-protectants/acne-patches/b/nexcare/i/consumer",
+   "매체": "일반사이트",
+   "도메인": "3m.com",
+   "제목": "Nexcare 여드름 패치 - 소비자",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.accio.com/business/ko/2025%EC%9D%B8%EA%B8%B0%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "정규url": "https://accio.com/business/ko/2025인기여드름패치",
+   "매체": "일반사이트",
+   "도메인": "accio.com",
+   "제목": "2025 인기 여드름 패치: 트렌드와 추천 제품",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://brunch.co.kr/@dailynews/2019",
+   "정규url": "https://brunch.co.kr/@dailynews/2019",
+   "매체": "블로그",
+   "도메인": "brunch.co.kr",
+   "제목": "여드름&트러블 잠재우는 여드름 패치 추천",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://edp.or.kr/%EB%8C%80%EB%B0%95%ED%95%A0%EC%9D%B8%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C-top10-%EC%88%9C%EC%9C%84/",
+   "정규url": "https://edp.or.kr/대박할인여드름패치-추천-순위-구매가이드-top10-순위",
+   "매체": "일반사이트",
+   "도메인": "edp.or.kr",
+   "제목": "[대박할인]여드름패치 추천 순위 구매가이드 TOP10 순위 베스트 - 리뷰모아",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hy_(company)",
+   "정규url": "https://en.wikipedia.org/wiki/Hy_(company)",
+   "매체": "일반사이트",
+   "도메인": "en.wikipedia.org",
+   "제목": "Hy (company)",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Original_design_manufacturer",
+   "정규url": "https://en.wikipedia.org/wiki/Original_design_manufacturer",
+   "매체": "일반사이트",
+   "도메인": "en.wikipedia.org",
+   "제목": "Original design manufacturer",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.glowpick.com/casts/1098",
+   "정규url": "https://glowpick.com/casts/1098",
+   "매체": "일반사이트",
+   "도메인": "glowpick.com",
+   "제목": "상황별로 골라쓰는 여드름패치 BEST",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://kr.made-in-china.com/factory/soft-dressing.html",
+   "정규url": "https://kr.made-in-china.com/factory/soft-dressing.html",
+   "매체": "일반사이트",
+   "도메인": "kr.made-in-china.com",
+   "제목": "부드러운 드레싱 공장, 중국 부드러운 드레싱 공장 목록 당신은에서 직접 구입할 수 있습니다.",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.marieclairekorea.com/newnew/2024/11/welcome-to-the-patch-world/",
+   "정규url": "https://marieclairekorea.com/newnew/2024/11/welcome-to-the-patch-world",
+   "매체": "일반사이트",
+   "도메인": "marieclairekorea.com",
+   "제목": "여드름부터 자외선까지! 피부 고민별 맞춤 패치 추천 BEST 5",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://mj1126.co.kr/279",
+   "정규url": "https://mj1126.co.kr/279",
+   "매체": "일반사이트",
+   "도메인": "mj1126.co.kr",
+   "제목": "여드름 패치 BEST 순위 완전 정리 - mj1126 님의 블로그",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "정규url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "매체": "일반사이트",
+   "도메인": "search.danawa.com",
+   "제목": "여드름패치 통합검색 : 다나와 통합검색",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://shinsegaemall.ssg.com/search.ssg?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "정규url": "https://shinsegaemall.ssg.com/search.ssg?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+   "매체": "일반사이트",
+   "도메인": "shinsegaemall.ssg.com",
+   "제목": "여드름패치 - 추천•인기 상품, 신세계몰 - SSG.com",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.sphericalinsights.com/ko/reports/anti-acne-dermal-patch-market",
+   "정규url": "https://sphericalinsights.com/ko/reports/anti-acne-dermal-patch-market",
+   "매체": "일반사이트",
+   "도메인": "sphericalinsights.com",
+   "제목": "글로벌 여드름 방지 피부 패치 시장 규모, 2033년 예측",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.threads.com/@one.drop_beauty/post/DSotu2yiYKC/30%EC%A2%85-%EC%8D%A8%EB%B3%B4%EA%B3%A0-%EC%A7%84%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-%EC%A0%95%EB%A6%AC%ED%96%88%EC%96%B4%EC%9A%94-%EC%97%AC%EB%93%9C%EB%A6%84-%EB%82%98%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%ED%8C%A8%EC%B9%98-%EB%B6%99%EC%9D%B4%EB%8A%94-%EA%B2%8C-%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94%EC%82%AC%EC%8B%A4-%EC%9E%98%EB%AA%BB-%EC%93%B0%EB%A9%B4-%EC%98%A4%ED%9E%88%EB%A0%A4-%EB%8D%94-%EC%95%85%ED%99%94%EB%90%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-",
+   "정규url": "https://threads.com/@one.drop_beauty/post/DSotu2yiYKC/30종-써보고-진심으로-추천하는-여드름-패치-정리했어요-여드름-나면-무조건-패치-붙이는-게-답일까요사실-잘못-쓰면-오히려-더-악화될-수-있다는-",
+   "매체": "일반사이트",
+   "도메인": "threads.com",
+   "제목": "💧 30종 써보고 진심으로 추천하는 여드름 패치 정리했어요 💙 여드름 나면 무조건 패치 붙이는 게 답일까요? 사실 잘못 쓰면 오히려 더 악화될 수 있다는 거 알고 계셨나요? 😱 압출 전/후 구분 안 하고 아무거나 붙이면 여드름균이 더 증식하고 염증이 악화될 수 있어요. 오늘은 직접 써본 제품들 중에서 정말 효과 좋았던 것들만 골라봤어요! . . . ✅ 가성비 갑 - 올리브영 케어플러스 ✅",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.threads.com/@one.drop_beauty/post/DSotu2yiYKC/30%EC%A2%85-%EC%8D%A8%EB%B3%B4%EA%B3%A0-%EC%A7%84%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-%EC%A0%95%EB%A6%AC%ED%96%88%EC%96%B4%EC%9A%94-%EC%97%AC%EB%93%9C%EB%A6%84-%EB%82%98%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%ED%8C%A8%EC%B9%98-%EB%B6%99%EC%9D%B4%EB%8A%94-%EA%B2%8C-%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94%EC%82%AC%EC%8B%A4-%EC%9E%98%EB%AA%BB-%EC%93%B0%EB%A9%B4-%EC%98%A4%ED%9E%88%EB%A0%A4-%EB%8D%94-%EC%95%85%ED%99%94%EB%90%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-?hl=ko",
+   "정규url": "https://threads.com/@one.drop_beauty/post/DSotu2yiYKC/30종-써보고-진심으로-추천하는-여드름-패치-정리했어요-여드름-나면-무조건-패치-붙이는-게-답일까요사실-잘못-쓰면-오히려-더-악화될-수-있다는-?hl=ko",
+   "매체": "일반사이트",
+   "도메인": "threads.com",
+   "제목": "💧 30종 써보고 진심으로 추천하는 여드름 패치 정리했어요 💙 여드름 나면 무조건 패치 붙이는 게 답일까요? 사실 잘못 쓰면 오히려 더 악화될 수 있다는 거 알고 계셨나요? 😱 압출 전/후 구분 안 하고 아무거나 붙이면 여드름균이 더 증식하고 염증이 악화될 수 있어요. 오늘은 직접 써본 제품들 중에서 정말 효과 좋았던 것들만 골라봤어요! . . . ✅ 가성비 갑 - 올리브영 케어플러스 ✅",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://unpa.me/community/dermocosmetic/124617168",
+   "정규url": "https://unpa.me/community/dermocosmetic/124617168",
+   "매체": "일반사이트",
+   "도메인": "unpa.me",
+   "제목": "여드름 관리하기 편한 패치 추천해주세요 - 언니의파우치 커뮤니티",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
+   "url": "https://us.sheglam.com/ko/category/Aknepflaster-Nasenpflaster-4981",
+   "정규url": "https://us.sheglam.com/ko/category/Aknepflaster-Nasenpflaster-4981",
+   "매체": "일반사이트",
+   "도메인": "us.sheglam.com",
+   "제목": "여드름 패치 & 코 패치｜SHEGLAM_US",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  }
+ ],
+ "질문": [
+  {
+   "qid": "5fb406e840c0",
+   "질문": "여드름 패치 납품용 제조사 추천해 줘.",
+   "지역": "",
+   "회차": 3,
+   "우리": {
+    "소스": 0,
+    "인용": 0,
+    "열어봄": 0,
+    "추천": 0,
+    "지도": 0
+   },
+   "승자": [
+    {
+     "name": "니코메디칼",
+     "추천": 3,
+     "경로": {
+      "모름": 3
+     },
+     "페이지": []
+    },
+    {
+     "name": "티앤엘",
+     "추천": 2,
+     "경로": {
+      "모름": 1,
+      "일반사이트": 1
+     },
+     "페이지": [
+      {
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "일반사이트",
+       "n": 1
+      },
+      {
+       "url": "https://www.hankyung.com/article/202109160793i",
+       "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+       "매체": "일반사이트",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "라파스",
+     "추천": 1,
+     "경로": {
+      "모름": 1
+     },
+     "페이지": []
+    }
+   ],
+   "승자총수": 3,
+   "칸": "Ⅳ 아예 없다",
+   "글없이_지도": false
+  },
+  {
+   "qid": "2ff69707d3ab",
+   "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+   "지역": "",
+   "회차": 3,
+   "우리": {
+    "소스": 0,
+    "인용": 0,
+    "열어봄": 0,
+    "추천": 0,
+    "지도": 0
+   },
+   "승자": [
+    {
+     "name": "티앤엘",
+     "추천": 2,
+     "경로": {
+      "자사홈페이지": 1,
+      "모름": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+       "제목": "티앤엘",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "니코메디칼",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "NicoMedical",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "라파스",
+     "추천": 1,
+     "경로": {
+      "모름": 1
+     },
+     "페이지": []
+    }
+   ],
+   "승자총수": 3,
+   "칸": "Ⅳ 아예 없다",
+   "글없이_지도": false
+  },
+  {
+   "qid": "36de8a91af11",
+   "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
+   "지역": "",
+   "회차": 3,
+   "우리": {
+    "소스": 0,
+    "인용": 0,
+    "열어봄": 0,
+    "추천": 0,
+    "지도": 0
+   },
+   "승자": [
+    {
+     "name": "티앤엘",
+     "추천": 2,
+     "경로": {
+      "모름": 1,
+      "일반사이트": 1
+     },
+     "페이지": [
+      {
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "일반사이트",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "니코메디칼",
+     "추천": 2,
+     "경로": {
+      "자사홈페이지": 1,
+      "일반사이트": 1
+     },
+     "페이지": [
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "니코메디칼",
+       "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.cosinkorea.com/news/article.html?no=56672",
+       "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+       "매체": "일반사이트",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "승자총수": 2,
+   "칸": "Ⅳ 아예 없다",
+   "글없이_지도": false
+  }
+ ],
+ "페이지대장": [
+  {
+   "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+   "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+   "매체": "일반사이트",
+   "병원": "티앤엘",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘.",
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 2,
+   "문항수": 2,
+   "종류": "글·게시판",
+   "소스": 2,
+   "인용": 9,
+   "우리것": false
+  },
+  {
+   "url": "https://www.hankyung.com/article/202109160793i",
+   "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+   "매체": "일반사이트",
+   "병원": "티앤엘",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘."
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 2,
+   "우리것": false
+  },
+  {
+   "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+   "제목": "티앤엘",
+   "매체": "자사홈페이지",
+   "병원": "티앤엘",
+   "문항": [
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 0,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "http://www.nicomedical.com/default/product/product1.php",
+   "제목": "NicoMedical",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
+   "문항": [
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 0,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+   "제목": "니코메디칼",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
+   "문항": [
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 0,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "https://www.cosinkorea.com/news/article.html?no=56672",
+   "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+   "매체": "일반사이트",
+   "병원": "니코메디칼",
+   "문항": [
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 8,
+   "우리것": false
+  }
+ ]
+}
