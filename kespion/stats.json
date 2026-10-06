@@ -1,24 +1,56 @@
 {
  "key": "kespion",
  "project": "케스피온",
- "total": 9,
+ "total": 12,
  "questions": 3,
  "지역회차": {},
  "매체": {
   "자사홈페이지": {
-   "건": 3,
-   "페이지": 3,
-   "도메인수": 2,
-   "소스건": 0,
-   "소스페이지": 0,
+   "건": 13,
+   "페이지": 8,
+   "도메인수": 6,
+   "소스건": 31,
+   "소스페이지": 12,
    "열어봄건": 0,
    "도메인": [
     [
+     "dermatech.life",
+     3,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     "nurimedicskorea.com",
+     3,
+     6,
+     2,
+     2,
+     0
+    ],
+    [
      "nicomedical.com",
      2,
-     0,
      2,
-     0,
+     2,
+     1,
+     0
+    ],
+    [
+     "kespion.co.kr",
+     2,
+     5,
+     1,
+     1,
+     1
+    ],
+    [
+     "ynkbc.com",
+     2,
+     5,
+     1,
+     2,
      0
     ],
     [
@@ -30,7 +62,7 @@
      0
     ]
    ],
-   "추천회차": 3
+   "추천회차": 13
   },
   "블로그": {
    "건": 1,
@@ -52,11 +84,11 @@
    "추천회차": 0
   },
   "일반사이트": {
-   "건": 67,
-   "페이지": 39,
-   "도메인수": 31,
-   "소스건": 80,
-   "소스페이지": 55,
+   "건": 74,
+   "페이지": 46,
+   "도메인수": 38,
+   "소스건": 185,
+   "소스페이지": 131,
    "열어봄건": 0,
    "도메인": [
     [
@@ -182,9 +214,9 @@
     [
      "korean.alibaba.com",
      1,
-     3,
+     4,
      1,
-     3,
+     4,
      0
     ],
     [
@@ -260,7 +292,7 @@
      0
     ]
    ],
-   "추천회차": 3
+   "추천회차": 4
   },
   "언론": {
    "건": 6,
@@ -303,25 +335,25 @@
    "name": "케스피온",
    "me": true,
    "추천": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0
+    "질문": 2,
+    "회차": 2,
+    "건": 9
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 3,
+    "회차": 3,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
     "자사페이지": 0
    },
    "인용": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0,
-    "페이지": 0,
-    "자사회차": 0,
-    "자사페이지": 0
+    "질문": 2,
+    "회차": 2,
+    "건": 2,
+    "페이지": 1,
+    "자사회차": 2,
+    "자사페이지": 1
    },
    "열어봄": {
     "회차": 0,
@@ -333,32 +365,47 @@
     "회차": 0
    },
    "지역": {},
-   "글로": 0,
-   "매체": {},
-   "추천페이지": 0,
-   "내페이지": {},
+   "글로": 2,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 2
+    }
+   },
+   "추천페이지": 1,
+   "내페이지": {
+    "자사홈페이지": [
+     {
+      "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid&utm_source=openai",
+      "title": "KESPION",
+      "소스": 0,
+      "인용": 2,
+      "열어봄": 0
+     }
+    ]
+   },
    "문항별": [
     {
      "질문": "여드름 패치 납품용 제조사 추천해 줘.",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
-     "인용": 0,
+     "인용": 1,
      "열어봄": 0,
-     "추천": 0,
+     "추천": 1,
      "지도": 0
     },
     {
      "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
-     "인용": 0,
+     "인용": 1,
      "열어봄": 0,
-     "추천": 0,
+     "추천": 1,
      "지도": 0
     },
     {
      "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
      "인용": 0,
      "열어봄": 0,
@@ -367,7 +414,7 @@
     }
    ],
    "경로": {
-    "자사홈페이지": 0,
+    "자사홈페이지": 2,
     "플랫폼": 0,
     "일반사이트": 0,
     "언론": 0,
@@ -375,15 +422,25 @@
     "지도카드": 0,
     "모름": 0
    },
-   "인용페이지목록": []
+   "인용페이지목록": [
+    {
+     "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+     "인용회차": 2,
+     "일한회차": 2,
+     "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
+     "도메인": "kespion.co.kr",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
   },
   {
    "name": "티앤엘",
    "me": false,
    "추천": {
     "질문": 3,
-    "회차": 6,
-    "건": 29
+    "회차": 7,
+    "건": 34
    },
    "소스": {
     "질문": 3,
@@ -427,7 +484,7 @@
    "문항별": [
     {
      "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
      "인용": 1,
      "열어봄": 0,
@@ -436,16 +493,16 @@
     },
     {
      "질문": "여드름 패치 납품용 제조사 추천해 줘.",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
      "인용": 0,
      "열어봄": 0,
-     "추천": 2,
+     "추천": 3,
      "지도": 0
     },
     {
      "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
-     "회차": 3,
+     "회차": 4,
      "소스": 0,
      "인용": 0,
      "열어봄": 0,
@@ -460,7 +517,7 @@
     "언론": 0,
     "블로그": 0,
     "지도카드": 0,
-    "모름": 3
+    "모름": 4
    },
    "인용페이지목록": [
     {
@@ -497,12 +554,12 @@
    "me": false,
    "추천": {
     "질문": 3,
-    "회차": 6,
-    "건": 20
+    "회차": 7,
+    "건": 23
    },
    "소스": {
     "질문": 3,
-    "회차": 5,
+    "회차": 7,
     "건": 1,
     "페이지": 1,
     "자사회차": 0,
@@ -510,9 +567,9 @@
    },
    "인용": {
     "질문": 3,
-    "회차": 4,
-    "건": 6,
-    "페이지": 3,
+    "회차": 5,
+    "건": 7,
+    "페이지": 4,
     "자사회차": 2,
     "자사페이지": 2
    },
@@ -526,7 +583,7 @@
     "회차": 0
    },
    "지역": {},
-   "글로": 4,
+   "글로": 5,
    "매체": {
     "자사홈페이지": {
      "소스": 0,
@@ -534,16 +591,16 @@
     },
     "일반사이트": {
      "소스": 1,
-     "인용": 4
+     "인용": 5
     }
    },
-   "추천페이지": 3,
+   "추천페이지": 4,
    "내페이지": null,
    "문항별": null,
    "경로": {
     "자사홈페이지": 2,
     "플랫폼": 0,
-    "일반사이트": 1,
+    "일반사이트": 2,
     "언론": 0,
     "블로그": 0,
     "지도카드": 0,
@@ -556,6 +613,15 @@
      "일한회차": 1,
      "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
      "도메인": "cosinkorea.com",
+     "매체": "일반사이트",
+     "일함": true
+    },
+    {
+     "url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
+     "도메인": "gobizkorea.com",
      "매체": "일반사이트",
      "일함": true
     },
@@ -583,25 +649,25 @@
    "name": "YNK바이오코스",
    "me": false,
    "추천": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0
+    "질문": 2,
+    "회차": 2,
+    "건": 4
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 2,
+    "회차": 2,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
     "자사페이지": 0
    },
    "인용": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0,
-    "페이지": 0,
-    "자사회차": 0,
-    "자사페이지": 0
+    "질문": 2,
+    "회차": 2,
+    "건": 2,
+    "페이지": 1,
+    "자사회차": 2,
+    "자사페이지": 1
    },
    "열어봄": {
     "회차": 0,
@@ -613,13 +679,18 @@
     "회차": 0
    },
    "지역": {},
-   "글로": 0,
-   "매체": {},
-   "추천페이지": 0,
+   "글로": 2,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 2
+    }
+   },
+   "추천페이지": 1,
    "내페이지": null,
    "문항별": null,
    "경로": {
-    "자사홈페이지": 0,
+    "자사홈페이지": 2,
     "플랫폼": 0,
     "일반사이트": 0,
     "언론": 0,
@@ -627,31 +698,41 @@
     "지도카드": 0,
     "모름": 0
    },
-   "인용페이지목록": []
+   "인용페이지목록": [
+    {
+     "url": "https://ynkbc.com",
+     "인용회차": 2,
+     "일한회차": 2,
+     "제목": "Y&K BIOCOS official site",
+     "도메인": "ynkbc.com",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
   },
   {
    "name": "더마텍",
    "me": false,
    "추천": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0
+    "질문": 3,
+    "회차": 3,
+    "건": 9
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 3,
+    "회차": 3,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
     "자사페이지": 0
    },
    "인용": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0,
-    "페이지": 0,
-    "자사회차": 0,
-    "자사페이지": 0
+    "질문": 3,
+    "회차": 3,
+    "건": 3,
+    "페이지": 1,
+    "자사회차": 3,
+    "자사페이지": 1
    },
    "열어봄": {
     "회차": 0,
@@ -663,13 +744,18 @@
     "회차": 0
    },
    "지역": {},
-   "글로": 0,
-   "매체": {},
-   "추천페이지": 0,
+   "글로": 3,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 3
+    }
+   },
+   "추천페이지": 1,
    "내페이지": null,
    "문항별": null,
    "경로": {
-    "자사홈페이지": 0,
+    "자사홈페이지": 3,
     "플랫폼": 0,
     "일반사이트": 0,
     "언론": 0,
@@ -677,31 +763,41 @@
     "지도카드": 0,
     "모름": 0
    },
-   "인용페이지목록": []
+   "인용페이지목록": [
+    {
+     "url": "https://dermatech.life",
+     "인용회차": 3,
+     "일한회차": 3,
+     "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+     "도메인": "dermatech.life",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
   },
   {
    "name": "누리메딕스",
    "me": false,
    "추천": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0
+    "질문": 3,
+    "회차": 3,
+    "건": 16
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 3,
+    "회차": 3,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
     "자사페이지": 0
    },
    "인용": {
-    "질문": 0,
-    "회차": 0,
-    "건": 0,
-    "페이지": 0,
-    "자사회차": 0,
-    "자사페이지": 0
+    "질문": 3,
+    "회차": 3,
+    "건": 3,
+    "페이지": 2,
+    "자사회차": 3,
+    "자사페이지": 2
    },
    "열어봄": {
     "회차": 0,
@@ -713,13 +809,18 @@
     "회차": 0
    },
    "지역": {},
-   "글로": 0,
-   "매체": {},
-   "추천페이지": 0,
+   "글로": 3,
+   "매체": {
+    "자사홈페이지": {
+     "소스": 0,
+     "인용": 3
+    }
+   },
+   "추천페이지": 2,
    "내페이지": null,
    "문항별": null,
    "경로": {
-    "자사홈페이지": 0,
+    "자사홈페이지": 3,
     "플랫폼": 0,
     "일반사이트": 0,
     "언론": 0,
@@ -727,7 +828,26 @@
     "지도카드": 0,
     "모름": 0
    },
-   "인용페이지목록": []
+   "인용페이지목록": [
+    {
+     "url": "https://nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+     "인용회차": 2,
+     "일한회차": 2,
+     "제목": "Hydrocolloid OEM Acne Patches | Private Label | Nurimedics | Korea",
+     "도메인": "nurimedicskorea.com",
+     "매체": "자사홈페이지",
+     "일함": true
+    },
+    {
+     "url": "https://nurimedicskorea.com",
+     "인용회차": 1,
+     "일한회차": 1,
+     "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+     "도메인": "nurimedicskorea.com",
+     "매체": "자사홈페이지",
+     "일함": true
+    }
+   ]
   },
   {
    "name": "뉴와이메디칼",
@@ -738,8 +858,8 @@
     "건": 0
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 1,
+    "회차": 1,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
@@ -838,8 +958,8 @@
     "건": 0
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 2,
+    "회차": 2,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
@@ -938,8 +1058,8 @@
     "건": 0
    },
    "소스": {
-    "질문": 0,
-    "회차": 0,
+    "질문": 3,
+    "회차": 3,
     "건": 0,
     "페이지": 0,
     "자사회차": 0,
@@ -1031,19 +1151,19 @@
   }
  ],
  "추천_지도카드": 0,
- "추천_모름": 8,
+ "추천_모름": 9,
  "총계": {
   "retrieved": {
-   "건": 84,
-   "페이지": 59,
-   "도메인": 41,
-   "회차": 6
+   "건": 220,
+   "페이지": 147,
+   "도메인": 79,
+   "회차": 9
   },
   "cited": {
-   "건": 77,
-   "페이지": 48,
-   "도메인": 37,
-   "회차": 9
+   "건": 94,
+   "페이지": 60,
+   "도메인": 48,
+   "회차": 12
   },
   "opened": {
    "건": 0,
@@ -1052,8 +1172,8 @@
    "회차": 0
   },
   "recommended": {
-   "건": 54,
-   "회차": 7,
+   "건": 100,
+   "회차": 10,
    "페이지": null,
    "도메인": null
   }
@@ -1114,6 +1234,24 @@
    "종류": "글·게시판"
   },
   {
+   "url": "https://www.dermatech.life/",
+   "정규url": "https://dermatech.life",
+   "매체": "자사홈페이지",
+   "도메인": "dermatech.life",
+   "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+   "소스": 6,
+   "인용": 3,
+   "열어봄": 0,
+   "인용회차": 3,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4664,
+   "본문해시": "4e5d53bcdb",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
+  },
+  {
    "url": "https://kr.made-in-china.com/factory/acne-patch.html",
    "정규url": "https://kr.made-in-china.com/factory/acne-patch.html",
    "매체": "일반사이트",
@@ -1148,6 +1286,60 @@
    "진료항목": 0,
    "지역어": 0,
    "종류": "글·게시판"
+  },
+  {
+   "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+   "정규url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+   "매체": "자사홈페이지",
+   "도메인": "kespion.co.kr",
+   "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
+   "소스": 5,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": true,
+   "스캔": "",
+   "본문길이": 617,
+   "본문해시": "07d0fc3052",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+   "정규url": "https://nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+   "매체": "자사홈페이지",
+   "도메인": "nurimedicskorea.com",
+   "제목": "Hydrocolloid OEM Acne Patches | Private Label | Nurimedics | Korea",
+   "소스": 4,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1405,
+   "본문해시": "b16d32c125",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ynkbc.com/",
+   "정규url": "https://ynkbc.com",
+   "매체": "자사홈페이지",
+   "도메인": "ynkbc.com",
+   "제목": "Y&K BIOCOS official site",
+   "소스": 4,
+   "인용": 2,
+   "열어봄": 0,
+   "인용회차": 2,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3637,
+   "본문해시": "fa81144368",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
   },
   {
    "url": "https://ko.biyingcosmetics.com/facial-care-products/acne-patch/acne-removing-patch.html",
@@ -1276,6 +1468,24 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+   "정규url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+   "매체": "일반사이트",
+   "도메인": "m.gobizkorea.com",
+   "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
+   "소스": 4,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3518,
+   "본문해시": "64004024e0",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://web.blackbirdskincare.com/ko/products-acne-patch/",
    "정규url": "https://web.blackbirdskincare.com/ko/products-acne-patch",
    "매체": "일반사이트",
@@ -1312,6 +1522,42 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://yeonixkr.com/",
+   "정규url": "https://yeonixkr.com",
+   "매체": "일반사이트",
+   "도메인": "yeonixkr.com",
+   "제목": "yeonixkr.com – Korean Manufacturer of Acne Patches and Cosmetics",
+   "소스": 4,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
+  },
+  {
+   "url": "https://en.jtexbio.co.kr/company",
+   "정규url": "https://en.jtexbio.co.kr/company",
+   "매체": "일반사이트",
+   "도메인": "en.jtexbio.co.kr",
+   "제목": "jtexbio",
+   "소스": 3,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.glowpick.com/categories/39?ids=315",
    "정규url": "https://glowpick.com/categories/39?ids=315",
    "매체": "일반사이트",
@@ -1327,6 +1573,60 @@
    "본문해시": "612503a7ff",
    "진료항목": 0,
    "지역어": 1,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://tnl.tradekorea.com/main.do",
+   "정규url": "https://tnl.tradekorea.com/main.do",
+   "매체": "일반사이트",
+   "도메인": "tnl.tradekorea.com",
+   "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
+   "소스": 3,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 364,
+   "본문해시": "c7afdd1310",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://buykorea.org/seller-home/1159725/com/index.do",
+   "정규url": "https://buykorea.org/seller-home/1159725/com/index.do",
+   "매체": "일반사이트",
+   "도메인": "buykorea.org",
+   "제목": "Nico Medical Co.,Ltd. - Verified Korean Supplier Profile | About Us | BuyKOREA",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1132,
+   "본문해시": "7014e946ef",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims?trk=article-ssr-frontend-pulse_little-text-block",
+   "정규url": "https://fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims?trk=article-ssr-frontend-pulse_little-text-block",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "Cosmetics Labeling Claims | FDA",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
    "종류": "고정 페이지"
   },
   {
@@ -1348,6 +1648,24 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.mfds.go.kr/brd/m_1060/view.do?Data_stts_gubun=C9999&company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=1&seq=15456&srchFr=&srchTo=&srchTp=0&srchWord=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%B9%98%EB%A3%8C%EC%A0%9C",
+   "정규url": "https://mfds.go.kr/brd/m_1060/view.do?Data_stts_gubun=C9999&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=1&seq=15456&srchTp=0&srchWord=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%B9%98%EB%A3%8C%EC%A0%9C",
+   "매체": "일반사이트",
+   "도메인": "mfds.go.kr",
+   "제목": "식품의약품안전처>법령/자료>법령정보>공무원지침서/민원인안내서>민원인안내서 | 식품의약품안전처",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
    "정규url": "https://mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
    "매체": "일반사이트",
@@ -1364,6 +1682,24 @@
    "진료항목": 2,
    "지역어": 0,
    "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.nurimedicskorea.com/",
+   "정규url": "https://nurimedicskorea.com",
+   "매체": "자사홈페이지",
+   "도메인": "nurimedicskorea.com",
+   "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+   "소스": 2,
+   "인용": 1,
+   "열어봄": 0,
+   "인용회차": 1,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 2301,
+   "본문해시": "4b10376124",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
   },
   {
    "url": "https://cupass.co.kr/%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-%EC%B6%94%EC%B2%9C-top-5-%EC%9D%B8%EA%B8%B0-%EC%A0%9C%ED%92%88-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A0%ED%83%9D-%EA%B5%AC%EB%A7%A4-%EA%B0%80%EC%9D%B4/",
@@ -1942,6 +2278,78 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://nutriadvisor.net/acne-hydrocolloid-patch-oem",
+   "정규url": "https://nutriadvisor.net/acne-hydrocolloid-patch-oem",
+   "매체": "일반사이트",
+   "도메인": "nutriadvisor.net",
+   "제목": "Acne Hydrocolloid Patch OEM | Korean Pimple Patch Manufacturer",
+   "소스": 3,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/PrivateLabelSellers/comments/1rdipdu/anyone_exploring_korean_skincare_cosmetic_oem_or/",
+   "정규url": "https://reddit.com/r/PrivateLabelSellers/comments/1rdipdu/anyone_exploring_korean_skincare_cosmetic_oem_or",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 3,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/smallbusinessowner/comments/1symc8a/looking_for_a_reliable_skincare_oem_manufacturer/",
+   "정규url": "https://reddit.com/r/smallbusinessowner/comments/1symc8a/looking_for_a_reliable_skincare_oem_manufacturer",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 3,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://elovebook.com/upload/files/2026/01/HmOZ8WwmyyQ4vzij3kum_06_1dcc476c1625f9270f0071d19b90d492_file.pdf",
+   "정규url": "https://elovebook.com/upload/files/2026/01/HmOZ8WwmyyQ4vzij3kum_06_1dcc476c1625f9270f0071d19b90d492_file.pdf",
+   "매체": "일반사이트",
+   "도메인": "elovebook.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
    "정규url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
    "매체": "일반사이트",
@@ -1960,11 +2368,209 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://file.alphasquare.co.kr/media/pdfs/company-report/%EC%9D%B4%EB%B2%A0%EC%8A%A4%ED%8A%B820211229%ED%8B%B0%EC%95%A4%EC%97%98.pdf",
+   "정규url": "https://file.alphasquare.co.kr/media/pdfs/company-report/이베스트20211229티앤엘.pdf",
+   "매체": "일반사이트",
+   "도메인": "file.alphasquare.co.kr",
+   "제목": "2021년 12월 29일",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.gqkorea.co.kr/2025/08/05/%EC%97%AC%EB%93%9C%EB%A6%84-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%A2%8B%EC%95%84-%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B0%80-%EA%B3%A0%EB%A5%B8-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8/",
    "정규url": "https://gqkorea.co.kr/2025/08/05/여드름-오히려-좋아-전문가가-고른-최고의-여드름-패",
    "매체": "일반사이트",
    "도메인": "gqkorea.co.kr",
    "제목": "전문가가 고른, 돈값하는 최고의 여드름 패치 7 | 지큐 코리아 (GQ Korea)",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://kotra-hamburg.de/wp-content/uploads/2023/01/Cosmoprof-koreanische-Austeller.pdf",
+   "정규url": "https://kotra-hamburg.de/wp-content/uploads/2023/01/Cosmoprof-koreanische-Austeller.pdf",
+   "매체": "일반사이트",
+   "도메인": "kotra-hamburg.de",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://medicalresearch.co.kr/",
+   "정규url": "https://medicalresearch.co.kr",
+   "매체": "자사홈페이지",
+   "도메인": "medicalresearch.co.kr",
+   "제목": "메디칼리서치 공식몰 | 디스펜서 패치 · 밴드",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 10808,
+   "본문해시": "e275f69c76",
+   "진료항목": 1,
+   "지역어": 0,
+   "종류": "대문"
+  },
+  {
+   "url": "https://nicomedical.com/default/eng/company/history.php",
+   "정규url": "https://nicomedical.com/default/eng/company/history.php",
+   "매체": "자사홈페이지",
+   "도메인": "nicomedical.com",
+   "제목": "Nico Medical",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/AsianBeauty/comments/1gencgg",
+   "정규url": "https://reddit.com/r/AsianBeauty/comments/1gencgg",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/KoreanBeauty/comments/1h2nt4q",
+   "정규url": "https://reddit.com/r/KoreanBeauty/comments/1h2nt4q",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/PrivateLabelSellers/comments/1t1svk1/looking_for_a_korean_skincare_manufacturer/",
+   "정규url": "https://reddit.com/r/PrivateLabelSellers/comments/1t1svk1/looking_for_a_korean_skincare_manufacturer",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/PrivateLabelSellers/comments/1wns9x7/where_should_i_start_to_find_odm_manufacturers/",
+   "정규url": "https://reddit.com/r/PrivateLabelSellers/comments/1wns9x7/where_should_i_start_to_find_odm_manufacturers",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/koreanskincare/comments/1qq6vt1/im_korean_and_i_run_a_skincare_brand_ask_me/",
+   "정규url": "https://reddit.com/r/koreanskincare/comments/1qq6vt1/im_korean_and_i_run_a_skincare_brand_ask_me",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/singaporestartups/comments/1vuahi8/looking_for_honest_feedback_on_a_pimple_patch/",
+   "정규url": "https://reddit.com/r/singaporestartups/comments/1vuahi8/looking_for_honest_feedback_on_a_pimple_patch",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://static1.squarespace.com/static/6253886ec5b59c62ba24d42f/t/68eedd22011cf14a095df81a/1760484642605/2025%2BKOREA%2BBUSINESS%2BEXPO%2BINCHEON%2BBuyer%27s%2BDirectory%2BBook%2Bof%2BExhibitors%2B%28%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AB%29_opt.pdf",
+   "정규url": "https://static1.squarespace.com/static/6253886ec5b59c62ba24d42f/t/68eedd22011cf14a095df81a/1760484642605/2025+KOREA+BUSINESS+EXPO+INCHEON+Buyer's+Directory+Book+of+Exhibitors+(영문)_opt.pdf",
+   "매체": "일반사이트",
+   "도메인": "static1.squarespace.com",
+   "제목": "",
    "소스": 2,
    "인용": 0,
    "열어봄": 0,
@@ -2014,11 +2620,65 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.yansecos.com/learn/best-pimple-patch-manufacturers",
+   "정규url": "https://yansecos.com/learn/best-pimple-patch-manufacturers",
+   "매체": "자사홈페이지",
+   "도메인": "yansecos.com",
+   "제목": "Best Pimple Patch Manufacturers for Brands (2026 Sourcing Guide) | Yanse",
+   "소스": 2,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 8508,
+   "본문해시": "27fb2d2916",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.3m.com/3M/en_US/p/c/medical/skin-protectants/acne-patches/b/nexcare/i/consumer/",
    "정규url": "https://3m.com/3M/en_US/p/c/medical/skin-protectants/acne-patches/b/nexcare/i/consumer",
    "매체": "일반사이트",
    "도메인": "3m.com",
    "제목": "Nexcare 여드름 패치 - 소비자",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.accessdata.fda.gov/drugsatfda_docs/omuf/OTC%20Monograph_M006-Topical%20Acne%20drug%20products%20for%20OTC%20Human%20Use%2011.23.2021.pdf",
+   "정규url": "https://accessdata.fda.gov/drugsatfda_docs/omuf/OTC Monograph_M006-Topical Acne drug products for OTC Human Use 11.23.2021.pdf",
+   "매체": "일반사이트",
+   "도메인": "accessdata.fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.accessdata.fda.gov/drugsatfda_docs/omuf/Order/Final%20Administrative%20Order%20OTC000013_M006-Topical%20Acne%20drug%20products%20for%20OTC%20Human%20Use.pdf",
+   "정규url": "https://accessdata.fda.gov/drugsatfda_docs/omuf/Order/Final Administrative Order OTC000013_M006-Topical Acne drug products for OTC Human Use.pdf",
+   "매체": "일반사이트",
+   "도메인": "accessdata.fda.gov",
+   "제목": "",
    "소스": 1,
    "인용": 0,
    "열어봄": 0,
@@ -2066,6 +2726,24 @@
    "진료항목": 1,
    "지역어": 0,
    "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.acnepatchfactory.com/",
+   "정규url": "https://acnepatchfactory.com",
+   "매체": "일반사이트",
+   "도메인": "acnepatchfactory.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
   },
   {
    "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
@@ -2117,6 +2795,24 @@
    "스캔": "",
    "본문길이": 3534,
    "본문해시": "3c7a7ed33b",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://dataseoul.s3.ap-northeast-2.amazonaws.com/upload/S20221126cc1dc4069e1fa/69fcb68932864.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJZQOKHMYYDTTJAFA%2F20260623%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260623T070745Z&X-Amz-Expires=60&X-Amz-Signature=68bbcd661bd16e7fc13c97e5741d457461ca82a34a71762207cb2d52d5ecd4e4&X-Amz-SignedHeaders=host&response-cache-control=private%2C+no-store%2C+max-age%3D0&response-content-disposition=attachment%3B+filename%3D%2235______________PitchBook_1____.pdf%22%3B+filename%2A%3DUTF-8%27%2735%25EA%25B8%25B0_%25ED%258B%25B0%25EC%2595%25A4%25EC%2597%2598_PitchBook%25281%25EC%25A1%25B0%2529.pdf&response-content-type=application%2Fpdf&response-expires=1997-07-28T05%3A00%3A00Z",
+   "정규url": "https://dataseoul.s3.ap-northeast-2.amazonaws.com/upload/S20221126cc1dc4069e1fa/69fcb68932864.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJZQOKHMYYDTTJAFA%2F20260623%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260623T070745Z&X-Amz-Expires=60&X-Amz-Signature=68bbcd661bd16e7fc13c97e5741d457461ca82a34a71762207cb2d52d5ecd4e4&X-Amz-SignedHeaders=host&response-cache-control=private%2C+no-store%2C+max-age%3D0&response-content-disposition=attachment%3B+filename%3D%2235______________PitchBook_1____.pdf%22%3B+filename%2A%3DUTF-8%27%2735%25EA%25B8%25B0_%25ED%258B%25B0%25EC%2595%25A4%25EC%2597%2598_PitchBook%25281%25EC%25A1%25B0%2529.pdf&response-content-type=application%2Fpdf&response-expires=1997-07-28T05%3A00%3A00Z",
+   "매체": "일반사이트",
+   "도메인": "dataseoul.s3.ap-northeast-2.amazonaws.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
    "진료항목": 0,
    "지역어": 0,
    "종류": "고정 페이지"
@@ -2176,6 +2872,258 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/alpha-hydroxy-acids",
+   "정규url": "https://fda.gov/cosmetics/cosmetic-ingredients/alpha-hydroxy-acids",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/cosmetics-labeling",
+   "정규url": "https://fda.gov/cosmetics/cosmetics-labeling",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/cosmeceutical",
+   "정규url": "https://fda.gov/cosmetics/cosmetics-labeling-claims/cosmeceutical",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-regulations",
+   "정규url": "https://fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-regulations",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/cosmetics-us-law",
+   "정규url": "https://fda.gov/cosmetics/cosmetics-laws-regulations/cosmetics-us-law",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-personal-care-products",
+   "정규url": "https://fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-personal-care-products",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+   "정규url": "https://fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/files/drugs/published/Topical-Acne-Drug-Products-for-Over-the-Counter-Human-Use--Revision-of-Labeling-and-Classification-of-Benzoyl-Peroxide-as-Safe-and-Effective.pdf",
+   "정규url": "https://fda.gov/files/drugs/published/Topical-Acne-Drug-Products-for-Over-the-Counter-Human-Use--Revision-of-Labeling-and-Classification-of-Benzoyl-Peroxide-as-Safe-and-Effective.pdf",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/industry/fda-basics-industry/are-all-personal-care-products-regulated-cosmetics",
+   "정규url": "https://fda.gov/industry/fda-basics-industry/are-all-personal-care-products-regulated-cosmetics",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/industry/fda-basics-industry/how-can-i-tell-if-my-product-cosmetic-drug-or-both",
+   "정규url": "https://fda.gov/industry/fda-basics-industry/how-can-i-tell-if-my-product-cosmetic-drug-or-both",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/island-kinetics-inc-dba-covalence-laboratories-726379-07162026",
+   "정규url": "https://fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/island-kinetics-inc-dba-covalence-laboratories-726379-07162026",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/media/80442/download",
+   "정규url": "https://fda.gov/media/80442/download",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/topical-acne-drug-products-over-counter-human-use-revision-labeling-and-classification-benzoyl",
+   "정규url": "https://fda.gov/regulatory-information/search-fda-guidance-documents/topical-acne-drug-products-over-counter-human-use-revision-labeling-and-classification-benzoyl",
+   "매체": "일반사이트",
+   "도메인": "fda.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.friend007.com/upload/files/2026/03/tYs1NbIcDp8fXQJEjGWx_05_b19998b4e384a8ecefe00ce4b54f306c_file.pdf",
+   "정규url": "https://friend007.com/upload/files/2026/03/tYs1NbIcDp8fXQJEjGWx_05_b19998b4e384a8ecefe00ce4b54f306c_file.pdf",
+   "매체": "일반사이트",
+   "도메인": "friend007.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.glowpick.com/casts/1098",
    "정규url": "https://glowpick.com/casts/1098",
    "매체": "일반사이트",
@@ -2212,6 +3160,42 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
+   "정규url": "https://gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
+   "매체": "일반사이트",
+   "도메인": "gobizkorea.com",
+   "제목": "Water borne resin PUD | Medical Consumable | GOBIZKOREA.COM",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.hknu.ac.kr/bbs/kor/597/89403/download.do",
+   "정규url": "https://hknu.ac.kr/bbs/kor/597/89403/download.do",
+   "매체": "일반사이트",
+   "도메인": "hknu.ac.kr",
+   "제목": "PowerPoint 프레젠테이션",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
    "url": "https://www.jswldmed.com/ko/acne-plaster-product/",
    "정규url": "https://jswldmed.com/ko/acne-plaster-product",
    "매체": "일반사이트",
@@ -2230,6 +3214,42 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://kasba.or.kr/uploads/papers/ART002026480.pdf",
+   "정규url": "https://kasba.or.kr/uploads/papers/ART002026480.pdf",
+   "매체": "일반사이트",
+   "도메인": "kasba.or.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.kbiz.or.kr/download.do?fleDwnDs=bbsAttachFile&orgalFle=e29885ebb684ec95bcebb3845fecb59ceca28528eb8ba8eba9b4292e706466&saveFle=173691717093496865.pdf&seq=84268",
+   "정규url": "https://kbiz.or.kr/download.do?fleDwnDs=bbsAttachFile&orgalFle=e29885ebb684ec95bcebb3845fecb59ceca28528eb8ba8eba9b4292e706466&saveFle=173691717093496865.pdf&seq=84268",
+   "매체": "일반사이트",
+   "도메인": "kbiz.or.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
+  },
+  {
    "url": "https://ko.senwelloem.com/pimple-patch/hydrocolloid-pimple-patches/hydrocolloid-pimple-patch.html",
    "정규url": "https://ko.senwelloem.com/pimple-patch/hydrocolloid-pimple-patches/hydrocolloid-pimple-patch.html",
    "매체": "일반사이트",
@@ -2244,6 +3264,24 @@
    "본문길이": 2483,
    "본문해시": "f9029a3c33",
    "진료항목": 2,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://korean.alibaba.com/f/%EC%A0%90-%ED%8C%A8%EC%B9%98.html",
+   "정규url": "https://korean.alibaba.com/f/점-패치.html",
+   "매체": "일반사이트",
+   "도메인": "korean.alibaba.com",
+   "제목": "Alibaba.com의 점 패치 - 도매 및 맞춤 옵션",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
    "지역어": 0,
    "종류": "고정 페이지"
   },
@@ -2338,6 +3376,60 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.mfds.go.kr/brd/m_99/view.do?Data_stts_gubun=C9999&company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=15&seq=50221&srchFr=&srchTo=&srchTp=&srchWord=",
+   "정규url": "https://mfds.go.kr/brd/m_99/view.do?Data_stts_gubun=C9999&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=15&seq=50221",
+   "매체": "일반사이트",
+   "도메인": "mfds.go.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.mfds.go.kr/webzine/pdf/201805.pdf",
+   "정규url": "https://mfds.go.kr/webzine/pdf/201805.pdf",
+   "매체": "일반사이트",
+   "도메인": "mfds.go.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.mfds.go.kr/webzine/pdf/201811.pdf",
+   "정규url": "https://mfds.go.kr/webzine/pdf/201811.pdf",
+   "매체": "일반사이트",
+   "도메인": "mfds.go.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://mj1126.co.kr/279",
    "정규url": "https://mj1126.co.kr/279",
    "매체": "일반사이트",
@@ -2356,10 +3448,424 @@
    "종류": "글·게시판"
   },
   {
+   "url": "https://www.newymedical.com/",
+   "정규url": "https://newymedical.com",
+   "매체": "자사홈페이지",
+   "도메인": "newymedical.com",
+   "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 1774,
+   "본문해시": "4209e14591",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
+  },
+  {
+   "url": "https://nutriadvisor.net/products/hydrocolloid-acne-patch",
+   "정규url": "https://nutriadvisor.net/products/hydrocolloid-acne-patch",
+   "매체": "일반사이트",
+   "도메인": "nutriadvisor.net",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://oemkorea.com/products/liquid-blemish-patch",
+   "정규url": "https://oemkorea.com/products/liquid-blemish-patch",
+   "매체": "일반사이트",
+   "도메인": "oemkorea.com",
+   "제목": "Liquid Blemish Patch OEM/ODM & Private Label Manufacturing in Korea | OEMKorea",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 2059,
+   "본문해시": "f085a4643f",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://www.opsoem.com/ko/oem-acne-patches/",
    "정규url": "https://opsoem.com/ko/oem-acne-patches",
    "매체": "일반사이트",
    "도메인": "opsoem.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-3361e6af-efa6-4368-96bf-f4769f118bc8/633dc2c6-a7fa-4eeb-86c2-362cad654b30.pdf",
+   "정규url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-3361e6af-efa6-4368-96bf-f4769f118bc8/633dc2c6-a7fa-4eeb-86c2-362cad654b30.pdf",
+   "매체": "일반사이트",
+   "도메인": "pub-mediabox-storage.rxweb-prd.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-4483940a-c157-400c-88c1-169d7af1f819/a843ee3b-bce0-4fdf-9ab6-e525aedb3f2b.pdf",
+   "정규url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-4483940a-c157-400c-88c1-169d7af1f819/a843ee3b-bce0-4fdf-9ab6-e525aedb3f2b.pdf",
+   "매체": "일반사이트",
+   "도메인": "pub-mediabox-storage.rxweb-prd.com",
+   "제목": "Company Outline",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-b9100d5d-184a-4e21-ac21-f4d4d08cfa6f/a3ee78fc-bb31-4052-9ec8-1d602d44b792.pdf",
+   "정규url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-b9100d5d-184a-4e21-ac21-f4d4d08cfa6f/a3ee78fc-bb31-4052-9ec8-1d602d44b792.pdf",
+   "매체": "일반사이트",
+   "도메인": "pub-mediabox-storage.rxweb-prd.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/30PlusSkinCare/comments/170qwy4",
+   "정규url": "https://reddit.com/r/30PlusSkinCare/comments/170qwy4",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/AsianBeauty/comments/15kfwlj/whats_your_favourite_acne_patch/",
+   "정규url": "https://reddit.com/r/AsianBeauty/comments/15kfwlj/whats_your_favourite_acne_patch",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/AsianBeauty/comments/1uk90t7/cute_and_effective_korean_pimple_patches/",
+   "정규url": "https://reddit.com/r/AsianBeauty/comments/1uk90t7/cute_and_effective_korean_pimple_patches",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/AsianBeauty/comments/8x857n/understanding_of_how_korean_beauty_products_are/",
+   "정규url": "https://reddit.com/r/AsianBeauty/comments/8x857n/understanding_of_how_korean_beauty_products_are",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/AsianBeauty/comments/8y8r2y/kbeauty_manufacturer_1_kolmar_korea_the_1st/",
+   "정규url": "https://reddit.com/r/AsianBeauty/comments/8y8r2y/kbeauty_manufacturer_1_kolmar_korea_the_1st",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/BusinessPH/comments/1ei4jof/looking_for_reputable_skincare_manufacturers/",
+   "정규url": "https://reddit.com/r/BusinessPH/comments/1ei4jof/looking_for_reputable_skincare_manufacturers",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/Esthetics/comments/1uwvqt7/private_label_skincare/",
+   "정규url": "https://reddit.com/r/Esthetics/comments/1uwvqt7/private_label_skincare",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/KoreanBeauty/comments/1rdifpa/looking_for_how_to_translate_your_beauty_ideas/",
+   "정규url": "https://reddit.com/r/KoreanBeauty/comments/1rdifpa/looking_for_how_to_translate_your_beauty_ideas",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/Mogong/comments/1coejom",
+   "정규url": "https://reddit.com/r/Mogong/comments/1coejom",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/PrivateLabelSellers/comments/1otv5re/anyone_looking_for_korean_skincare_cosmetics/",
+   "정규url": "https://reddit.com/r/PrivateLabelSellers/comments/1otv5re/anyone_looking_for_korean_skincare_cosmetics",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/SideProject/comments/1vysyta/i_built_a_database_of_4000_korean_cosmetics/",
+   "정규url": "https://reddit.com/r/SideProject/comments/1vysyta/i_built_a_database_of_4000_korean_cosmetics",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/manufacturing/comments/1tpy5jw/manufacturing_white_label_cosmetics/",
+   "정규url": "https://reddit.com/r/manufacturing/comments/1tpy5jw/manufacturing_white_label_cosmetics",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1u34k7e/private_label_manufacturers_for_skincare/",
+   "정규url": "https://reddit.com/r/smallbusiness/comments/1u34k7e/private_label_manufacturers_for_skincare",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/startupideas/comments/1otv631/anyone_looking_for_korean_skincare_cosmetics/",
+   "정규url": "https://reddit.com/r/startupideas/comments/1otv631/anyone_looking_for_korean_skincare_cosmetics",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.reddit.com/r/startups/comments/1e6ohlc",
+   "정규url": "https://reddit.com/r/startups/comments/1e6ohlc",
+   "매체": "일반사이트",
+   "도메인": "reddit.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2020%2F2026031308045349K_02_01.pdf&inlineYn=Y&saveKey=research.pdf",
+   "정규url": "https://samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2020%2F2026031308045349K_02_01.pdf&inlineYn=Y&saveKey=research.pdf",
+   "매체": "일반사이트",
+   "도메인": "samsungpop.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2020%2F2026040807544214K_02_01.pdf&inlineYn=Y&saveKey=research.pdf",
+   "정규url": "https://samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2020%2F2026040807544214K_02_01.pdf&inlineYn=Y&saveKey=research.pdf",
+   "매체": "일반사이트",
+   "도메인": "samsungpop.com",
    "제목": "",
    "소스": 1,
    "인용": 0,
@@ -2397,6 +3903,60 @@
    "매체": "일반사이트",
    "도메인": "shinsegaemall.ssg.com",
    "제목": "여드름패치 - 추천•인기 상품, 신세계몰 - SSG.com",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://skinmarket.imweb.me/patch",
+   "정규url": "https://skinmarket.imweb.me/patch",
+   "매체": "일반사이트",
+   "도메인": "skinmarket.imweb.me",
+   "제목": "SKIN MARKET GLOBAL의 패치 제품 소개",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.sks.co.kr/data1/research/qna_file/20230402204845785_0_ko.pdf",
+   "정규url": "https://sks.co.kr/data1/research/qna_file/20230402204845785_0_ko.pdf",
+   "매체": "일반사이트",
+   "도메인": "sks.co.kr",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.sourcingstart.co.kr/download/sostart_20260314.pdf",
+   "정규url": "https://sourcingstart.co.kr/download/sostart_20260314.pdf",
+   "매체": "일반사이트",
+   "도메인": "sourcingstart.co.kr",
+   "제목": "",
    "소스": 1,
    "인용": 0,
    "열어봄": 0,
@@ -2464,6 +4024,96 @@
    "종류": "고정 페이지"
   },
   {
+   "url": "https://www.tianzioem.com/ko/products/hydrocolloid-acne-patch/",
+   "정규url": "https://tianzioem.com/ko/products/hydrocolloid-acne-patch",
+   "매체": "일반사이트",
+   "도메인": "tianzioem.com",
+   "제목": "Hydrocolloid Acne Pimple Patch 2 Sizes 8mm 12mm Invisible Acne Patch OEM ODM · TIANZIOEM",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 3038,
+   "본문해시": "5affb21f71",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://tnl.tradekorea.com/product.do",
+   "정규url": "https://tnl.tradekorea.com/product.do",
+   "매체": "일반사이트",
+   "도메인": "tnl.tradekorea.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
+   "정규url": "https://tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
+   "매체": "일반사이트",
+   "도메인": "tradekorea.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
+   "정규url": "https://tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
+   "매체": "일반사이트",
+   "도메인": "tradekorea.com",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ttabvue.uspto.gov/ttabvue/ttabvue-91297143-OPP-1.pdf",
+   "정규url": "https://ttabvue.uspto.gov/ttabvue/ttabvue-91297143-OPP-1.pdf",
+   "매체": "일반사이트",
+   "도메인": "ttabvue.uspto.gov",
+   "제목": "",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 0,
+   "본문해시": "",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
    "url": "https://unpa.me/community/dermocosmetic/124617168",
    "정규url": "https://unpa.me/community/dermocosmetic/124617168",
    "매체": "일반사이트",
@@ -2498,6 +4148,60 @@
    "진료항목": 0,
    "지역어": 0,
    "종류": "고정 페이지"
+  },
+  {
+   "url": "https://www.yansecos.com/",
+   "정규url": "https://yansecos.com",
+   "매체": "자사홈페이지",
+   "도메인": "yansecos.com",
+   "제목": "Oil Blotting Paper · Oil-Control Film · Acne Patch OEM/ODM Manufacturer | Yanse Cosmetics",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 17539,
+   "본문해시": "d6d5b1abc8",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "대문"
+  },
+  {
+   "url": "https://www.yansecos.com/products/acne-patch",
+   "정규url": "https://yansecos.com/products/acne-patch",
+   "매체": "자사홈페이지",
+   "도메인": "yansecos.com",
+   "제목": "Pimple Patch Manufacturer & Acne Patch Supplier — Hydrocolloid OEM/ODM | Yanse",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 15682,
+   "본문해시": "0c9595e3ba",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "고정 페이지"
+  },
+  {
+   "url": "https://ynkbc.com/39",
+   "정규url": "https://ynkbc.com/39",
+   "매체": "자사홈페이지",
+   "도메인": "ynkbc.com",
+   "제목": "Y&K BIOCOS 공식 사이트",
+   "소스": 1,
+   "인용": 0,
+   "열어봄": 0,
+   "인용회차": 0,
+   "이수탑": false,
+   "스캔": "",
+   "본문길이": 4689,
+   "본문해시": "3a86a54ac7",
+   "진료항목": 0,
+   "지역어": 0,
+   "종류": "글·게시판"
   }
  ],
  "질문": [
@@ -2505,28 +4209,36 @@
    "qid": "5fb406e840c0",
    "질문": "여드름 패치 납품용 제조사 추천해 줘.",
    "지역": "",
-   "회차": 3,
+   "회차": 4,
    "우리": {
     "소스": 0,
-    "인용": 0,
+    "인용": 1,
     "열어봄": 0,
-    "추천": 0,
+    "추천": 1,
     "지도": 0
    },
    "승자": [
     {
      "name": "니코메디칼",
-     "추천": 3,
+     "추천": 4,
      "경로": {
-      "모름": 3
+      "모름": 3,
+      "일반사이트": 1
      },
-     "페이지": []
+     "페이지": [
+      {
+       "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+       "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
+       "매체": "일반사이트",
+       "n": 1
+      }
+     ]
     },
     {
      "name": "티앤엘",
-     "추천": 2,
+     "추천": 3,
      "경로": {
-      "모름": 1,
+      "모름": 2,
       "일반사이트": 1
      },
      "페이지": [
@@ -2551,22 +4263,82 @@
       "모름": 1
      },
      "페이지": []
+    },
+    {
+     "name": "케스피온",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+       "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "YNK바이오코스",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://ynkbc.com/",
+       "제목": "Y&K BIOCOS official site",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "더마텍",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.dermatech.life/",
+       "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "누리메딕스",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+       "제목": "Hydrocolloid OEM Acne Patches | Private Label | Nurimedics | Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
     }
    ],
-   "승자총수": 3,
-   "칸": "Ⅳ 아예 없다",
+   "승자총수": 7,
+   "칸": "Ⅱ 글 없이 불렸다",
    "글없이_지도": false
   },
   {
    "qid": "2ff69707d3ab",
    "질문": "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
    "지역": "",
-   "회차": 3,
+   "회차": 4,
    "우리": {
     "소스": 0,
-    "인용": 0,
+    "인용": 1,
     "열어봄": 0,
-    "추천": 0,
+    "추천": 1,
     "지도": 0
    },
    "승자": [
@@ -2608,17 +4380,62 @@
       "모름": 1
      },
      "페이지": []
+    },
+    {
+     "name": "케스피온",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+       "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "더마텍",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.dermatech.life/",
+       "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "누리메딕스",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+       "제목": "Hydrocolloid OEM Acne Patches | Private Label | Nurimedics | Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
     }
    ],
-   "승자총수": 3,
-   "칸": "Ⅳ 아예 없다",
+   "승자총수": 6,
+   "칸": "Ⅱ 글 없이 불렸다",
    "글없이_지도": false
   },
   {
    "qid": "36de8a91af11",
    "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
    "지역": "",
-   "회차": 3,
+   "회차": 4,
    "우리": {
     "소스": 0,
     "인용": 0,
@@ -2664,14 +4481,76 @@
        "n": 1
       }
      ]
+    },
+    {
+     "name": "YNK바이오코스",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://ynkbc.com/",
+       "제목": "Y&K BIOCOS official site",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "더마텍",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.dermatech.life/",
+       "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
+    },
+    {
+     "name": "누리메딕스",
+     "추천": 1,
+     "경로": {
+      "자사홈페이지": 1
+     },
+     "페이지": [
+      {
+       "url": "https://www.nurimedicskorea.com/",
+       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+       "매체": "자사홈페이지",
+       "n": 1
+      }
+     ]
     }
    ],
-   "승자총수": 2,
+   "승자총수": 5,
    "칸": "Ⅳ 아예 없다",
    "글없이_지도": false
   }
  ],
  "페이지대장": [
+  {
+   "url": "https://www.dermatech.life/",
+   "제목": "DERMATECH | Skincare Patch Manufacturer - Acne, Pimple, Hydrocolloid... Made in Korea",
+   "매체": "자사홈페이지",
+   "병원": "더마텍",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘.",
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 3,
+   "문항수": 3,
+   "종류": "대문",
+   "소스": 6,
+   "인용": 3,
+   "우리것": false
+  },
   {
    "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
    "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
@@ -2686,6 +4565,69 @@
    "종류": "글·게시판",
    "소스": 3,
    "인용": 8,
+   "우리것": false
+  },
+  {
+   "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
+   "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
+   "매체": "자사홈페이지",
+   "병원": "케스피온",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘.",
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등"
+   ],
+   "각주": 2,
+   "문항수": 2,
+   "종류": "고정 페이지",
+   "소스": 5,
+   "인용": 2,
+   "우리것": true
+  },
+  {
+   "url": "https://ynkbc.com/",
+   "제목": "Y&K BIOCOS official site",
+   "매체": "자사홈페이지",
+   "병원": "YNK바이오코스",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘.",
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 2,
+   "문항수": 2,
+   "종류": "대문",
+   "소스": 4,
+   "인용": 2,
+   "우리것": false
+  },
+  {
+   "url": "https://www.nurimedicskorea.com/hydrocolloid-oem-acne-patch",
+   "제목": "Hydrocolloid OEM Acne Patches | Private Label | Nurimedics | Korea",
+   "매체": "자사홈페이지",
+   "병원": "누리메딕스",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘.",
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등"
+   ],
+   "각주": 2,
+   "문항수": 2,
+   "종류": "고정 페이지",
+   "소스": 4,
+   "인용": 2,
+   "우리것": false
+  },
+  {
+   "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+   "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
+   "매체": "일반사이트",
+   "병원": "니코메디칼",
+   "문항": [
+    "여드름 패치 납품용 제조사 추천해 줘."
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 4,
+   "인용": 1,
    "우리것": false
   },
   {
@@ -2761,6 +4703,21 @@
    "종류": "고정 페이지",
    "소스": 1,
    "인용": 8,
+   "우리것": false
+  },
+  {
+   "url": "https://www.nurimedicskorea.com/",
+   "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+   "매체": "자사홈페이지",
+   "병원": "누리메딕스",
+   "문항": [
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐."
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "대문",
+   "소스": 2,
+   "인용": 1,
    "우리것": false
   }
  ]
