@@ -4,10 +4,10 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "지역 안 씀": 114,
   "부산": 73,
-  "인천": 78,
-  "서울": 72
+  "지역 안 씀": 114,
+  "서울": 72,
+  "인천": 78
  },
  "매체": {
   "자사홈페이지": {
@@ -38050,8 +38050,8 @@
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-       "제목": "팝업코리아 공간 검색",
+       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -39349,14 +39349,14 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
-       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
+       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -41774,14 +41774,14 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
-       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
+       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -43898,14 +43898,14 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
-       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
+       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -44927,8 +44927,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-   "제목": "팝업코리아 공간 검색",
+   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -44937,7 +44937,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 0,
+   "소스": 1,
    "인용": 1,
    "우리것": false
   },
