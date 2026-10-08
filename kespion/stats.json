@@ -1518,7 +1518,7 @@
      "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_id=1&com_board_idx=10",
      "인용회차": 3,
      "일한회차": 3,
-     "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+     "제목": "니코메디칼.",
      "도메인": "nicomedical.com",
      "매체": "자사홈페이지",
      "일함": true
@@ -3616,7 +3616,7 @@
    "정규url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_id=1&com_board_idx=10",
    "매체": "자사홈페이지",
    "도메인": "nicomedical.com",
-   "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+   "제목": "니코메디칼.",
    "소스": 0,
    "인용": 3,
    "열어봄": 0,
@@ -5758,7 +5758,7 @@
    "정규url": "https://selfcos.com/portfolio/detail/32842",
    "매체": "일반사이트",
    "도메인": "selfcos.com",
-   "제목": "셀바이오휴먼텍 - 셀프코스.",
+   "제목": "셀바이오휴먼텍 | 셀프코스",
    "소스": 2,
    "인용": 1,
    "열어봄": 0,
@@ -7018,7 +7018,7 @@
    "정규url": "https://namu.wiki/w/히어로 코스메틱스",
    "매체": "일반사이트",
    "도메인": "namu.wiki",
-   "제목": "히어로 코스메틱스 - 나무위키.",
+   "제목": "히어로 코스메틱스 - 나무위키",
    "소스": 0,
    "인용": 1,
    "열어봄": 0,
@@ -7144,7 +7144,7 @@
    "정규url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
    "매체": "언론",
    "도메인": "pharm.edaily.co.kr",
-   "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리.",
+   "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
    "소스": 0,
    "인용": 1,
    "열어봄": 0,
@@ -25099,14 +25099,14 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -25270,14 +25270,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -25419,14 +25419,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "주요 레퍼런스: 올리브영 케어플러스, 쿠팡 코멧밴드, 대웅제약 이지덤뷰티, 자체 브랜드 '캐치미패치' 등 니",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "주요 레퍼런스: 올리브영 케어플러스, 쿠팡 코멧밴드, 대웅제약 이지덤뷰티, 자체 브랜드 '캐치미패치' 등 니",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -25686,14 +25686,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -25745,14 +25745,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -26480,14 +26480,14 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "주요 레퍼런스: 올리브영 케어플러스, 쿠팡 코멧밴드, 대웅제약 이지덤뷰티, 자체 브랜드 '캐치미패치' 등 니",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "주요 레퍼런스: 올리브영 케어플러스, 쿠팡 코멧밴드, 대웅제약 이지덤뷰티, 자체 브랜드 '캐치미패치' 등 니",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -26776,7 +26776,7 @@
       },
       {
        "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "제목": "니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -26985,14 +26985,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -27198,14 +27198,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -27706,7 +27706,7 @@
   },
   {
    "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-   "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+   "제목": "니코메디칼.",
    "매체": "자사홈페이지",
    "병원": "니코메디칼",
    "문항": [
