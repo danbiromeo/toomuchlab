@@ -5,9 +5,9 @@
  "questions": 80,
  "지역회차": {
   "인천": 78,
+  "서울": 72,
   "지역 안 씀": 114,
-  "부산": 73,
-  "서울": 72
+  "부산": 73
  },
  "매체": {
   "자사홈페이지": {
@@ -39427,8 +39427,8 @@
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+       "제목": "팝업코리아 공간 검색",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -44835,15 +44835,15 @@
      },
      "페이지": [
       {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
        "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -46855,8 +46855,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+   "제목": "팝업코리아 공간 검색",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -46865,7 +46865,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
+   "소스": 0,
    "인용": 1,
    "우리것": false
   },
