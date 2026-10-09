@@ -4,8 +4,8 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "지역 안 씀": 114,
   "인천": 78,
+  "지역 안 씀": 114,
   "서울": 72,
   "부산": 73
  },
@@ -39427,8 +39427,8 @@
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-       "제목": "팝업코리아 공간 검색",
+       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -46855,8 +46855,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-   "제목": "팝업코리아 공간 검색",
+   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -46865,7 +46865,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 0,
+   "소스": 1,
    "인용": 1,
    "우리것": false
   },
