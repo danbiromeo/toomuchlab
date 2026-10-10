@@ -18753,15 +18753,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.daangn.com/kr/local-profile/?in=%EC%8B%A0%EC%9B%90%EB%8F%99-6129&search=%EC%9A%A9%EB%8B%AC&utm_source=chatgpt.com",
-       "제목": "서울특별시 서초구 신원동 이웃들이 자주 가는 용달 | 당근",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://quierosaberlo.tistory.com/321?utm_source=chatgpt.com",
        "제목": "“짐도 얼마 없는데 이삿값이 왜 이래요?” 원룸 용달이사 비용 총정리 [2025년 기준 실제 견적 포함] 🚛📦",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://www.daangn.com/kr/local-profile/?in=%EC%8B%A0%EC%9B%90%EB%8F%99-6129&search=%EC%9A%A9%EB%8B%AC&utm_source=chatgpt.com",
+       "제목": "서울특별시 서초구 신원동 이웃들이 자주 가는 용달 | 당근",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -19371,21 +19371,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.daangn.com/kr/local-profile/?in=%EC%8B%A0%EC%9B%90%EB%8F%99-6129&search=%EC%9A%A9%EB%8B%AC&utm_source=chatgpt.com",
-   "제목": "서울특별시 서초구 신원동 이웃들이 자주 가는 용달 | 당근",
-   "매체": "플랫폼",
-   "병원": "당근",
-   "문항": [
-    "혼자 사는 집 이사 싸게 하는 곳 알려줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
-   "인용": 1,
-   "우리것": false
-  },
-  {
    "url": "https://quierosaberlo.tistory.com/321?utm_source=chatgpt.com",
    "제목": "“짐도 얼마 없는데 이삿값이 왜 이래요?” 원룸 용달이사 비용 총정리 [2025년 기준 실제 견적 포함] 🚛📦",
    "매체": "블로그",
@@ -19396,6 +19381,21 @@
    "각주": 1,
    "문항수": 1,
    "종류": "글·게시판",
+   "소스": 2,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "https://www.daangn.com/kr/local-profile/?in=%EC%8B%A0%EC%9B%90%EB%8F%99-6129&search=%EC%9A%A9%EB%8B%AC&utm_source=chatgpt.com",
+   "제목": "서울특별시 서초구 신원동 이웃들이 자주 가는 용달 | 당근",
+   "매체": "플랫폼",
+   "병원": "당근",
+   "문항": [
+    "혼자 사는 집 이사 싸게 하는 곳 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
    "소스": 2,
    "인용": 1,
    "우리것": false
