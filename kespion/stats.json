@@ -26139,15 +26139,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
-       "제목": "티앤엘 - 여드름엔 마이티 패치! | Valley AI",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
        "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
        "제목": "여드름 패치는 여기서 - 트러블패치 제조 '티앤엘'",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://www.valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
+       "제목": "티앤엘 - 여드름엔 마이티 패치! | Valley AI",
+       "매체": "일반사이트",
        "n": 1
       },
       {
@@ -26748,14 +26748,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.hankyung.com/article/202109160793i",
-       "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "일반사이트",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://www.hankyung.com/article/202109160793i",
+       "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
        "매체": "일반사이트",
        "n": 1
       },
@@ -27226,14 +27226,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.hankyung.com/article/202109160793i",
-       "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "일반사이트",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://www.hankyung.com/article/202109160793i",
+       "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
        "매체": "일반사이트",
        "n": 1
       }
@@ -28916,14 +28916,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/hydrocolloid-patches",
-       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/blemish-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/blemish-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/hydrocolloid-patches",
+       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -29594,21 +29594,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
-   "제목": "티앤엘 - 여드름엔 마이티 패치! | Valley AI",
-   "매체": "일반사이트",
-   "병원": "티앤엘",
-   "문항": [
-    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 2,
-   "우리것": false
-  },
-  {
    "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
    "제목": "여드름 패치는 여기서 - 트러블패치 제조 '티앤엘'",
    "매체": "블로그",
@@ -29621,6 +29606,21 @@
    "종류": "글·게시판",
    "소스": 2,
    "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "https://www.valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
+   "제목": "티앤엘 - 여드름엔 마이티 패치! | Valley AI",
+   "매체": "일반사이트",
+   "병원": "티앤엘",
+   "문항": [
+    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 2,
    "우리것": false
   },
   {
@@ -29969,21 +29969,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.newymedical.com/hydrocolloid-patches",
-   "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
-   "매체": "자사홈페이지",
-   "병원": "뉴와이메디칼",
-   "문항": [
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 3,
-   "인용": 1,
-   "우리것": false
-  },
-  {
    "url": "https://www.newymedical.com/blemish-patches",
    "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
    "매체": "자사홈페이지",
@@ -29995,6 +29980,21 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 5,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "https://www.newymedical.com/hydrocolloid-patches",
+   "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
+   "매체": "자사홈페이지",
+   "병원": "뉴와이메디칼",
+   "문항": [
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 3,
    "인용": 1,
    "우리것": false
   },
