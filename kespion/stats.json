@@ -26265,14 +26265,14 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -26473,14 +26473,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -26618,14 +26618,14 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -27360,15 +27360,15 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
        "매체": "일반사이트",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -28066,14 +28066,14 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -28365,15 +28365,15 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 2
-      },
-      {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
        "매체": "일반사이트",
+       "n": 2
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 2
       },
       {
@@ -28579,14 +28579,14 @@
        "n": 2
       },
       {
-       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
-       "제목": "Hydrocolloid Acne Patches | Nurimedics | Korea",
+       "url": "https://www.nurimedicskorea.com/",
+       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.nurimedicskorea.com/",
-       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
+       "제목": "Hydrocolloid Acne Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -28916,14 +28916,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/hydrocolloid-patches",
-       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/blemish-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/blemish-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/hydrocolloid-patches",
+       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -29969,21 +29969,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.newymedical.com/hydrocolloid-patches",
-   "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
-   "매체": "자사홈페이지",
-   "병원": "뉴와이메디칼",
-   "문항": [
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 3,
-   "인용": 1,
-   "우리것": false
-  },
-  {
    "url": "https://www.newymedical.com/blemish-patches",
    "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
    "매체": "자사홈페이지",
@@ -29995,6 +29980,21 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 5,
+   "인용": 1,
+   "우리것": false
+  },
+  {
+   "url": "https://www.newymedical.com/hydrocolloid-patches",
+   "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
+   "매체": "자사홈페이지",
+   "병원": "뉴와이메디칼",
+   "문항": [
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 3,
    "인용": 1,
    "우리것": false
   },
