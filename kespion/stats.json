@@ -1176,6 +1176,20 @@
       "남": 3
      }
     },
+    "남종류": {
+     "인용": {
+      "경제언론": 1,
+      "기타": 3
+     },
+     "소스": {
+      "경제언론": 1,
+      "기타": 1
+     },
+     "장": {
+      "경제언론": 2,
+      "기타": 1
+     }
+    },
     "페이지": [
      {
       "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
@@ -1241,6 +1255,7 @@
     "모름": 4,
     "합": 16
    },
+   "근거페이지": 4,
    "인용페이지목록": [
     {
      "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
@@ -1441,6 +1456,40 @@
       "자기": 26,
       "입점": 6,
       "남": 57
+     }
+    },
+    "남종류": {
+     "인용": {
+      "상품등록페이지": 4,
+      "경제언론": 21,
+      "블로그": 71,
+      "백과": 1,
+      "동영상": 1,
+      "기타": 15
+     },
+     "소스": {
+      "상품등록페이지": 15,
+      "쇼핑검색": 17,
+      "경제언론": 25,
+      "블로그": 100,
+      "백과": 6,
+      "동영상": 1,
+      "공시": 1,
+      "채용": 1,
+      "특허": 1,
+      "기타": 43
+     },
+     "장": {
+      "상품등록페이지": 5,
+      "쇼핑검색": 1,
+      "경제언론": 10,
+      "블로그": 20,
+      "백과": 2,
+      "동영상": 1,
+      "공시": 1,
+      "채용": 1,
+      "특허": 1,
+      "기타": 21
      }
     },
     "페이지": [
@@ -2453,6 +2502,7 @@
     "모름": 22,
     "합": 97
    },
+   "근거페이지": 89,
    "인용페이지목록": [
     {
      "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
@@ -3216,6 +3266,37 @@
       "남": 20
      }
     },
+    "남종류": {
+     "인용": {
+      "업체목록페이지": 25,
+      "상품등록페이지": 6,
+      "업계지": 102,
+      "경제언론": 2,
+      "블로그": 28,
+      "특허": 1,
+      "기타": 10
+     },
+     "소스": {
+      "업체목록페이지": 27,
+      "상품등록페이지": 21,
+      "쇼핑검색": 19,
+      "업계지": 69,
+      "경제언론": 2,
+      "블로그": 6,
+      "특허": 6,
+      "기타": 20
+     },
+     "장": {
+      "업체목록페이지": 2,
+      "상품등록페이지": 6,
+      "쇼핑검색": 2,
+      "업계지": 2,
+      "경제언론": 2,
+      "블로그": 3,
+      "특허": 2,
+      "기타": 9
+     }
+    },
     "페이지": [
      {
       "url": "https://cosinkorea.com/news/article.html?no=56672",
@@ -3858,6 +3939,7 @@
     "모름": 9,
     "합": 117
    },
+   "근거페이지": 55,
    "인용페이지목록": [
     {
      "url": "https://cosinkorea.com/news/article.html?no=56672",
@@ -4211,6 +4293,24 @@
       "남": 8
      }
     },
+    "남종류": {
+     "인용": {
+      "경제언론": 2,
+      "기타": 9
+     },
+     "소스": {
+      "상품등록페이지": 2,
+      "쇼핑검색": 20,
+      "경제언론": 3,
+      "기타": 11
+     },
+     "장": {
+      "상품등록페이지": 1,
+      "쇼핑검색": 2,
+      "경제언론": 1,
+      "기타": 7
+     }
+    },
     "페이지": [
      {
       "url": "https://ynkbc.com",
@@ -4465,6 +4565,7 @@
     "모름": 2,
     "합": 21
    },
+   "근거페이지": 21,
    "인용페이지목록": [
     {
      "url": "https://ynkbc.com",
@@ -4649,6 +4750,15 @@
       "남": 3
      }
     },
+    "남종류": {
+     "인용": {},
+     "소스": {
+      "기타": 3
+     },
+     "장": {
+      "기타": 3
+     }
+    },
     "페이지": [
      {
       "url": "https://dermatech.life",
@@ -4714,6 +4824,7 @@
     "모름": 3,
     "합": 32
    },
+   "근거페이지": 4,
    "인용페이지목록": [
     {
      "url": "https://dermatech.life",
@@ -4848,6 +4959,24 @@
       "자기": 6,
       "입점": 9,
       "남": 3
+     }
+    },
+    "남종류": {
+     "인용": {
+      "상품등록페이지": 10,
+      "블로그": 4
+     },
+     "소스": {
+      "상품등록페이지": 18,
+      "쇼핑검색": 17,
+      "블로그": 6,
+      "기타": 3
+     },
+     "장": {
+      "상품등록페이지": 8,
+      "쇼핑검색": 1,
+      "블로그": 1,
+      "기타": 2
      }
     },
     "페이지": [
@@ -5072,6 +5201,7 @@
     "모름": 0,
     "합": 24
    },
+   "근거페이지": 18,
    "인용페이지목록": [
     {
      "url": "https://nurimedicskorea.com/hydrocolloid-oem-acne-patch",
@@ -5245,6 +5375,20 @@
       "남": 3
      }
     },
+    "남종류": {
+     "인용": {
+      "상품등록페이지": 4,
+      "기타": 1
+     },
+     "소스": {
+      "상품등록페이지": 7,
+      "기타": 4
+     },
+     "장": {
+      "상품등록페이지": 4,
+      "기타": 3
+     }
+    },
     "페이지": [
      {
       "url": "https://newymedical.com",
@@ -5402,6 +5546,7 @@
     "모름": 4,
     "합": 14
    },
+   "근거페이지": 12,
    "인용페이지목록": [
     {
      "url": "https://newymedical.com",
@@ -5618,6 +5763,23 @@
       "남": 10
      }
     },
+    "남종류": {
+     "인용": {
+      "업계지": 1,
+      "경제언론": 10,
+      "기타": 1
+     },
+     "소스": {
+      "업계지": 1,
+      "경제언론": 5,
+      "기타": 3
+     },
+     "장": {
+      "업계지": 2,
+      "경제언론": 5,
+      "기타": 3
+     }
+    },
     "페이지": [
      {
       "url": "https://pharm.edaily.co.kr/news/read?newsId=01282486638986664",
@@ -5786,6 +5948,7 @@
     "모름": 18,
     "합": 29
    },
+   "근거페이지": 13,
    "인용페이지목록": [
     {
      "url": "https://hitnews.co.kr/news/articleView.html?idxno=46993",
@@ -5960,6 +6123,11 @@
       "자기": 3
      }
     },
+    "남종류": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
     "페이지": [
      {
       "url": "https://medicalresearch.co.kr",
@@ -6014,6 +6182,7 @@
     "모름": 2,
     "합": 15
    },
+   "근거페이지": 3,
    "인용페이지목록": [
     {
      "url": "https://medicalresearch.co.kr",
@@ -6102,6 +6271,11 @@
      "소스": {},
      "장": {}
     },
+    "남종류": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
     "페이지": []
    },
    "경로": {
@@ -6120,6 +6294,7 @@
     "모름": 0,
     "합": 0
    },
+   "근거페이지": 0,
    "인용페이지목록": []
   },
   {
@@ -6223,6 +6398,17 @@
      "장": {
       "자기": 7,
       "남": 1
+     }
+    },
+    "남종류": {
+     "인용": {
+      "기타": 2
+     },
+     "소스": {
+      "기타": 7
+     },
+     "장": {
+      "기타": 1
      }
     },
     "페이지": [
@@ -6334,6 +6520,7 @@
     "모름": 1,
     "합": 6
    },
+   "근거페이지": 8,
    "인용페이지목록": [
     {
      "url": "https://yansecos.com/learn/acne-patch-oem-manufacturer",
@@ -6466,6 +6653,15 @@
       "남": 1
      }
     },
+    "남종류": {
+     "인용": {},
+     "소스": {
+      "업체목록페이지": 1
+     },
+     "장": {
+      "업체목록페이지": 1
+     }
+    },
     "페이지": [
      {
       "url": "https://selfcos.com/category",
@@ -6496,6 +6692,7 @@
     "모름": 0,
     "합": 0
    },
+   "근거페이지": 1,
    "인용페이지목록": []
   }
  ],
@@ -37680,18 +37877,6 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
-       "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
-       "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
        "매체": "언론",
@@ -37701,6 +37886,18 @@
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
+       "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
+       "매체": "플랫폼",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -37715,6 +37912,12 @@
      },
      "페이지": [
       {
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
+       "n": 1
+      },
+      {
        "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
        "제목": "Re: 여드름 패치 OEM 생산 의뢰 제안서 > 제품문의 | T&L - 티앤엘.",
        "매체": "자사홈페이지",
@@ -37724,12 +37927,6 @@
        "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
        "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
        "매체": "언론",
-       "n": 1
-      },
-      {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "블로그",
        "n": 1
       },
       {
@@ -37898,9 +38095,9 @@
        "n": 3
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       },
       {
@@ -38171,14 +38368,14 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -38371,15 +38568,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.k-beautyexpo.co.kr/fairBbs.do?selAction=view&FAIRMENU_IDX=12880&BOARD_IDX=52851",
-       "제목": "㈜라파스, ‘용해성 마이크로니들’ 생산하는 세계 유일의 기업 - KBEAUTY EXPO KOREA",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=46993",
        "제목": "라파스, 여드름 치료제 '마이크로니들 패치' 美 FDA cGMP 획득.",
        "매체": "언론",
+       "n": 1
+      },
+      {
+       "url": "https://www.k-beautyexpo.co.kr/fairBbs.do?selAction=view&FAIRMENU_IDX=12880&BOARD_IDX=52851",
+       "제목": "㈜라파스, ‘용해성 마이크로니들’ 생산하는 세계 유일의 기업 - KBEAUTY EXPO KOREA",
+       "매체": "일반사이트",
        "n": 1
       }
      ]
@@ -38711,12 +38908,6 @@
      },
      "페이지": [
       {
-       "url": "https://patents.google.com/patent/KR20240060379A/ko",
-       "제목": "KR20240060379A - 하이드로 콜로이드 여드름 패치 및 이의 제조방법 \n      - Google Patents",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
        "매체": "언론",
@@ -38726,6 +38917,12 @@
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://patents.google.com/patent/KR20240060379A/ko",
+       "제목": "KR20240060379A - 하이드로 콜로이드 여드름 패치 및 이의 제조방법 \n      - Google Patents",
+       "매체": "일반사이트",
        "n": 1
       },
       {
@@ -38825,6 +39022,12 @@
      },
      "페이지": [
       {
+       "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
+       "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
+       "매체": "언론",
+       "n": 1
+      },
+      {
        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=46993",
        "제목": "라파스, 여드름 치료제 '마이크로니들 패치' 美 FDA cGMP 획득.",
        "매체": "언론",
@@ -38833,12 +39036,6 @@
       {
        "url": "https://www.cosinkorea.com/news/article_print.html?no=51745",
        "제목": "화장품 뷰티 전문 미디어 코스인코리아닷컴",
-       "매체": "언론",
-       "n": 1
-      },
-      {
-       "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
-       "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
        "매체": "언론",
        "n": 1
       }
@@ -38903,15 +39100,15 @@
        "n": 3
       },
       {
-       "url": "http://www.nicomedical.com/default/index2.php",
-       "제목": "니코메디칼",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/index2.php",
+       "제목": "니코메디칼",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -38993,15 +39190,15 @@
        "n": 2
       },
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
        "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -39014,15 +39211,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/hydrocolloid-patches-manufactuerer",
-       "제목": "Manufacturer of Hydrocolloid acne patches | Pimple patches | NEWYMEDICAL Korea",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://www.tradekorea.com/product/detail/P817677",
        "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
        "매체": "플랫폼",
+       "n": 1
+      },
+      {
+       "url": "https://www.newymedical.com/hydrocolloid-patches-manufactuerer",
+       "제목": "Manufacturer of Hydrocolloid acne patches | Pimple patches | NEWYMEDICAL Korea",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -39122,15 +39319,15 @@
        "n": 2
       },
       {
-       "url": "https://everbryan.tistory.com/70",
-       "제목": "국내 하이드로콜로이드 패치 회사들 순위",
-       "매체": "블로그",
-       "n": 1
-      },
-      {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
        "매체": "언론",
+       "n": 1
+      },
+      {
+       "url": "https://everbryan.tistory.com/70",
+       "제목": "국내 하이드로콜로이드 패치 회사들 순위",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -39276,15 +39473,15 @@
        "n": 2
       },
       {
-       "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
-       "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
+       "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -39522,15 +39719,15 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://selfcos.com/index/company_view/2154",
        "제목": "화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적 - 셀프코스.",
        "매체": "플랫폼",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -39768,15 +39965,15 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -40185,9 +40382,9 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -40213,14 +40410,14 @@
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
        "매체": "블로그",
        "n": 1
       }
@@ -40319,14 +40516,14 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -40481,15 +40678,15 @@
        "n": 1
       },
       {
-       "url": "https://kr.aving.net/news/articleView.html?idxno=1805002",
-       "제목": "니코메디칼, 제29차 세계한인경제인대회 참가... 고기능성 습윤 패치 브랜드 ‘캐치미패치’ 및 신제품 마이크로니들 패치 선보인다",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://kr.aving.net/news/articleView.html?idxno=1805002",
+       "제목": "니코메디칼, 제29차 세계한인경제인대회 참가... 고기능성 습윤 패치 브랜드 ‘캐치미패치’ 및 신제품 마이크로니들 패치 선보인다",
+       "매체": "일반사이트",
        "n": 1
       }
      ]
@@ -40609,14 +40806,14 @@
        "n": 1
       },
       {
-       "url": "https://lemonitcsoul.tistory.com/40",
-       "제목": "[티앤엘 분석]여드름 게섯거라!",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://lemonitcsoul.tistory.com/40",
+       "제목": "[티앤엘 분석]여드름 게섯거라!",
        "매체": "블로그",
        "n": 1
       }
@@ -40632,6 +40829,12 @@
      },
      "페이지": [
       {
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
+       "n": 1
+      },
+      {
        "url": "https://lemonitcsoul.tistory.com/40",
        "제목": "[티앤엘 분석]여드름 게섯거라!",
        "매체": "블로그",
@@ -40641,12 +40844,6 @@
        "url": "https://www.dhdaily.co.kr/news/articleView.html?idxno=27403",
        "제목": "[기업 분석] '트러블 패치' 뒤의 소재기업 티앤엘 - 대한데일리.",
        "매체": "일반사이트",
-       "n": 1
-      },
-      {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "블로그",
        "n": 1
       },
       {
@@ -40793,15 +40990,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.tradekorea.com/product/detail/P817677",
-       "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.newymedical.com/",
        "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P817677",
+       "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -40814,15 +41011,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/",
        "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -40918,9 +41115,9 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -40970,14 +41167,14 @@
        "n": 2
       },
       {
-       "url": "https://www.nurimedicskorea.com/",
-       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
+       "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
-       "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
+       "url": "https://www.nurimedicskorea.com/",
+       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -41110,15 +41307,15 @@
        "n": 5
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -41310,15 +41507,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
        "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       },
       {
@@ -41462,7 +41659,7 @@
     "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘",
     "하이드로콜로이드 패치 ODM 업체 알려줘"
    ],
-   "각주": 34,
+   "각주": 39,
    "문항수": 19,
    "종류": "글·게시판",
    "소스": 28,
@@ -41566,34 +41763,6 @@
    "우리것": false
   },
   {
-   "url": "http://www.nicomedical.com/default/company/history.php",
-   "제목": "회사연혁 - 니코메디칼.",
-   "매체": "자사홈페이지",
-   "병원": "니코메디칼",
-   "문항": [
-    "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
-    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
-    "여드름 패치 기획부터 포장 완제품까지 다 맡길 수 있는 제조사 있어?",
-    "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
-    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘",
-    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
-    "인증 있고 품질 관리 제대로 되는 여드름 패치 제조사 추천해줘",
-    "하이드로콜로이드 여드름 패치 ODM 업체 알려줘",
-    "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘",
-    "하이드로콜로이드 패치 ODM 업체 알려줘",
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 15,
-   "문항수": 11,
-   "종류": "고정 페이지",
-   "소스": 19,
-   "인용": 21,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
    "url": "https://blog.naver.com/tnl3113/223517945030",
    "제목": "[티앤엘 소식] 여드름 패치는 티앤엘! 트러블 케어 관리 : 네이버 블로그.",
    "매체": "블로그",
@@ -41619,34 +41788,6 @@
    "매체종류": "블로그",
    "과업": "못 건드림",
    "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "http://www.nicomedical.com/default/product/product1.php",
-   "제목": "제품소개 - ODM / OEM - 니코메디칼.",
-   "매체": "자사홈페이지",
-   "병원": "니코메디칼",
-   "문항": [
-    "내 브랜드로 여드름 패치 만들어 줄 수 있는 제조사 어디야?",
-    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
-    "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
-    "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
-    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
-    "여드름 패치 소량 테스트 발주해보고 싶은데 제조사 추천해줘",
-    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
-    "여드름패치 OEM 품질대비 단가 괜찮은 제조사 추천",
-    "우리가 화장품 ODM인데 여드름 패치 생산 맡길 전문 제조사 추천해줘",
-    "인증 있고 품질 관리 제대로 되는 여드름 패치 제조사 추천해줘",
-    "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 14,
-   "문항수": 11,
-   "종류": "고정 페이지",
-   "소스": 12,
-   "인용": 17,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
    "우리것": false
   },
   {
@@ -41677,6 +41818,32 @@
    "우리것": true
   },
   {
+   "url": "http://www.nicomedical.com/default/company/history.php",
+   "제목": "회사연혁 - 니코메디칼.",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
+   "문항": [
+    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
+    "여드름 패치 기획부터 포장 완제품까지 다 맡길 수 있는 제조사 있어?",
+    "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
+    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘",
+    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
+    "인증 있고 품질 관리 제대로 되는 여드름 패치 제조사 추천해줘",
+    "하이드로콜로이드 여드름 패치 ODM 업체 알려줘",
+    "하이드로콜로이드 패치 ODM 업체 알려줘",
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 13,
+   "문항수": 9,
+   "종류": "고정 페이지",
+   "소스": 19,
+   "인용": 21,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
    "url": "https://ynkbc.com/",
    "제목": "Y&K BIOCOS official site",
    "매체": "자사홈페이지",
@@ -41697,6 +41864,31 @@
    "종류": "대문",
    "소스": 23,
    "인용": 10,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "http://www.nicomedical.com/default/product/product1.php",
+   "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
+   "문항": [
+    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
+    "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
+    "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+    "여드름 패치 소량 테스트 발주해보고 싶은데 제조사 추천해줘",
+    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
+    "여드름패치 OEM 품질대비 단가 괜찮은 제조사 추천",
+    "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 11,
+   "문항수": 8,
+   "종류": "고정 페이지",
+   "소스": 12,
+   "인용": 17,
    "매체종류": "회사 사이트",
    "과업": "고침",
    "소속": "자기",
@@ -43402,5 +43594,1499 @@
    "우리있나": true,
    "남단독합": 0
   }
- ]
+ ],
+ "과업지도": {
+  "등록": [
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "tradekorea.com",
+    "장": 10,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tradekorea.com/products/cHJpdmF0ZSBsYWJlbCBhY25lIHBhdGNo.html",
+      "제목": "private label acne patch | tradekorea",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/companies/detail.do?businessno=216449",
+      "제목": "tradeKorea, Global B2B Trade Website - Offer Global Business, Buyer Matching Services",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+      "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P817677",
+      "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P817677/Hydrocolloid-Acne-Patch-Manufacturer-in-Korea-under-private-label-service-OEM.html",
+      "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P818910/Contains-salicylic-acid-Hydrocolloid-Patches-.html",
+      "제목": "Contains salicylic acid Hydrocolloid Patches | tradekorea",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 4
+   },
+   {
+    "과업": "등록",
+    "매체종류": "쇼핑검색",
+    "도메인": "search.danawa.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
+      "제목": "여드름패치 통합검색 : 다나와 통합검색",
+      "업체수": 4,
+      "우리있나": false
+     }
+    ],
+    "업체수": 4
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "gobizkorea.com",
+    "장": 4,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://gobizkorea.com/user/search/search.do?sfield=All&sqt=private+label+acne+patch",
+      "제목": "",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
+      "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2022110821781",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
+      "제목": "Water borne resin PUD | Medical Consumable | GOBIZKOREA.COM",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 3
+   },
+   {
+    "과업": "등록",
+    "매체종류": "쇼핑검색",
+    "도메인": "prod.danawa.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://prod.danawa.com/info?pcode=14144606",
+      "제목": "코멧 하이드로콜로이드 스팟패치 일반형 120매 (1개) : 다나와 가격비교",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://prod.danawa.com/info?pcode=6573062",
+      "제목": "하이드로콜로이드밴드 멸균스팟패치 52매 통합검색 : 다나와 통합검색",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "등록",
+    "매체종류": "업체목록페이지",
+    "도메인": "selfcos.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://selfcos.com/category",
+      "제목": "셀프코스: 화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://selfcos.com/index/company_view/2154",
+      "제목": "화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적 - 셀프코스.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "korean.alibaba.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://korean.alibaba.com/f/점-패치.html",
+      "제목": "Alibaba.com의 점 패치 - 도매 및 맞춤 옵션",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://korean.alibaba.com/g/pimple-patch.html",
+      "제목": "Alibaba.com에서 고품질의 여드름 패치 제조사와 여드름 패치 출처를 명시하기",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "tnl.tradekorea.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tnl.tradekorea.com/main.do",
+      "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tnl.tradekorea.com/product.do",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "a051358127264.gobizkorea.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
+      "제목": "T&L CO.,LTD. - Company Profile",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "buykorea.org",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://buykorea.org/seller-home/1159725/com/index.do",
+      "제목": "Nico Medical Co.,Ltd. - Verified Korean Supplier Profile | About Us | BuyKOREA",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "kr.tradekorea.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
+      "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "등록",
+    "매체종류": "상품등록페이지",
+    "도메인": "stores.auction.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://stores.auction.co.kr/catchmepatch",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   }
+  ],
+  "기고": [
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "hankyung.com",
+    "장": 4,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://hankyung.com/article/202109160793i",
+      "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://hankyung.com/article/2021091615911",
+      "제목": "美 아마존 1위 여드름패치 티앤엘 급등 - 한국경제.",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://hankyung.com/article/2022092798831",
+      "제목": "여드름 패치 출시 앞둔 라파스…천안공장 의약품 제조허가 취득.",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://hankyung.com/article/202606306824O",
+      "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 3
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "pharm.edaily.co.kr",
+    "장": 5,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
+      "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=01282486638986664",
+      "제목": "라파스, 여드름패치 듀얼 브랜드로 美공략…3년 내 수백억 매출 자신 - 팜이데일리",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=01882726638856448",
+      "제목": "티앤엘, 트러블 패치도 마이크로니들 패치도 ‘쑥쑥’…올해도 매출 경신 기대 - 팜이데일리",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=01954886635678456",
+      "제목": "라파스, 마이크로니들 세계 최초 美cGMP 실사 통과 - 팜이데일리.",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
+      "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "기고",
+    "매체종류": "업계지",
+    "도메인": "cosinkorea.com",
+    "장": 4,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://cosinkorea.com/mobile/article.html?no=56672",
+      "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://cosinkorea.com/news/article.html?no=31674",
+      "제목": "2018년 OEM ODM 업체 TOP 70 입체분석해 보니",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://cosinkorea.com/news/article.html?no=56672",
+      "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://cosinkorea.com/news/article_print.html?no=51745",
+      "제목": "화장품 뷰티 전문 미디어 코스인코리아닷컴",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "mt.co.kr",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://mt.co.kr/renew/view.html?no=2023120509494890352",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://mt.co.kr/stock/2023/12/05/2023120509494890352",
+      "제목": "美서 인기있는 K-여드름패치, 만드는 기업은 어디? - 머니투데이.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "asiae.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://asiae.co.kr/article/2021052514024102630",
+      "제목": "티앤엘, '마이티 패치' 미국 아마존 1위…\"해외시장 선점할 것\".",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "edaily.co.kr",
+    "장": 1,
+    "우리있나": true,
+    "쪽": [
+     {
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04542806645320344",
+      "제목": "케스피온, 여드름패치 전문기업 인수…신성장동력 확보",
+      "업체수": 1,
+      "우리있나": true
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "hankookilbo.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://hankookilbo.com/news/article/201901231748326090",
+      "제목": "상처∙여드름에 패치 붙여 흉터 줄여요-경제ㅣ한국일보",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "hitnews.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://hitnews.co.kr/news/articleView.html?idxno=46993",
+      "제목": "라파스, 여드름 치료제 '마이크로니들 패치' 美 FDA cGMP 획득.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "incheonilbo.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://incheonilbo.com/news/articleView.html?idxno=1151525",
+      "제목": "[경기 강소기업] '니코메디칼' 의료용 밴드, 뷰티용 가공 '韓·中 열광'",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "marketin.edaily.co.kr",
+    "장": 1,
+    "우리있나": true,
+    "쪽": [
+     {
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04542806645320344",
+      "제목": "케스피온, 여드름패치 전문기업 인수…신성장동력 확보",
+      "업체수": 1,
+      "우리있나": true
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "news.mt.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://news.mt.co.kr/mtview.php?no=2023120509494890352",
+      "제목": "美서 인기있는 K-여드름패치, 만드는 기업은 어디? - 머니투데이",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "기고",
+    "매체종류": "경제언론",
+    "도메인": "v.daum.net",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://v.daum.net/v/Q6ZX3rYcNv",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   }
+  ],
+  "못 건드림": [
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "everbryan.tistory.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://everbryan.tistory.com/70",
+      "제목": "국내 하이드로콜로이드 패치 회사들 순위",
+      "업체수": 3,
+      "우리있나": false
+     },
+     {
+      "url": "https://everbryan.tistory.com/76",
+      "제목": "이런 OEM/ODM에서의 에버레이드 위치 / 위상",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 3
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "yalaiyue.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://yalaiyue.com/info-detail/the-ultimate-guide-to-the-top-10-acne-patch-manufacturers-in-the-world",
+      "제목": "The Ultimate Guide to the Top 10 Acne Patch Manufacturers in the World",
+      "업체수": 3,
+      "우리있나": false
+     }
+    ],
+    "업체수": 3
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "orangeboard.co.kr",
+    "장": 5,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+      "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://orangeboard.co.kr/@California/posts/1008",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://orangeboard.co.kr/@future100k/posts/2840",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://orangeboard.co.kr/@gyeongho/posts/1778",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://orangeboard.co.kr/@tenbagger/미국-아마존-1위-여드름-패치-ODM-기업-티앤엘-3405703",
+      "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "특허",
+    "도메인": "patents.google.com",
+    "장": 3,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://patents.google.com/patent/KR102083002B1/en",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://patents.google.com/patent/KR102815815B1/en",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://patents.google.com/patent/KR20240060379A/ko",
+      "제목": "KR20240060379A - 하이드로 콜로이드 여드름 패치 및 이의 제조방법 \n      - Google Patents",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "app.rndcircle.io",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://app.rndcircle.io/company/871943f7-a27f-5c69-ac48-001d3bcad4ef",
+      "제목": "(주)와이엔케이바이오코스 기업 정보 | RnDcircle | 디써클",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://app.rndcircle.io/company/fcc6981d-573f-5bde-a105-41fbdfdada01",
+      "제목": "주식회사니코메디칼 기업 정보 | RnDcircle | 디써클.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "valley.town",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://valley.town/competitions/valley-insights/analysis/6842a2700000000000000000",
+      "제목": "K-뷰티 다음 주자는 K-패치? 아마존 여드름 패치 1등 | Valley AI",
+      "업체수": 2,
+      "우리있나": false
+     },
+     {
+      "url": "https://valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
+      "제목": "티앤엘 - 여드름엔 마이티 패치! | Valley AI",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "bestlj.ru",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://bestlj.ru/tags",
+      "제목": "",
+      "업체수": 2,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "lemonitcsoul.tistory.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://lemonitcsoul.tistory.com/40",
+      "제목": "[티앤엘 분석]여드름 게섯거라!",
+      "업체수": 2,
+      "우리있나": false
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "wowtv.co.kr",
+    "장": 1,
+    "우리있나": true,
+    "쪽": [
+     {
+      "url": "https://wowtv.co.kr/TotalSearch/Mariner/Index?searchTerm=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C",
+      "제목": "하이드로콜로이드 | 한국경제TV",
+      "업체수": 2,
+      "우리있나": true
+     }
+    ],
+    "업체수": 2
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "blog.naver.com",
+    "장": 7,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
+      "제목": "여드름 패치는 여기서 - 트러블패치 제조 '티앤엘'",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/eunsun879700/222328605545",
+      "제목": "국내 최초 하이드로콜로이드 상처치료재 개발 기업, 티앤엘(T&L ....",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/fakecloud7/223150328781",
+      "제목": "<340570> 티앤엘 (T&L) 기업 알아보기 (f. 여드름 패치? 올리브 ....",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/findingmyself20/222877821941",
+      "제목": "티앤엘 - 아마존 1위 여드름패치 ODM - 네이버블로그.",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/gwon4913/222644856737",
+      "제목": "여드름 패치가 돈이 되네 <티앤엘>",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/invesqueeze/223877913221",
+      "제목": "시장만 놓고 생각해보자 (창상피복재/마이크로니들/스마트패치).",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://blog.naver.com/tnl3113/223517945030",
+      "제목": "[티앤엘 소식] 여드름 패치는 티앤엘! 트러블 케어 관리 : 네이버 블로그.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "catchmepatch.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://catchmepatch.com/article/제휴문의제휴oemodm/5/7336/page/3",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://catchmepatch.com/article/제휴문의제휴oemodm/5/8234",
+      "제목": "제휴문의(제휴/OEM/ODM) - 캐치미패치.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "file.hanaw.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://file.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/04/13/TnL_260414.pdf",
+      "제목": "TnL_260414",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://file.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/05/17/TnL_260518.pdf",
+      "제목": "TnL_260518",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "백과",
+    "도메인": "namu.wiki",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://namu.wiki/w/위탁생산",
+      "제목": "위탁생산 - 나무위키",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://namu.wiki/w/히어로 코스메틱스",
+      "제목": "히어로 코스메틱스 - 나무위키.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "tnlhealthcare.co.kr",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tnlhealthcare.co.kr",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tnlhealthcare.co.kr/25",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "tnlpr.tistory.com",
+    "장": 2,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tnlpr.tistory.com/212",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     },
+     {
+      "url": "https://tnlpr.tistory.com/217",
+      "제목": "[티앤엘 스토리] 좀 더 가까이, 환자의 곁에서 치료하게 티앤엘 제품들 ④",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "alphadistill.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://alphadistill.com/report/505",
+      "제목": "티앤엘 (340570) Strong Buy 목표가 76,000원 | 알파증류소",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "astoria0208.tistory.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://astoria0208.tistory.com/990",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "beautetrade.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://beautetrade.com/products/hydrocolloid-pimple-patches-oem/87036",
+      "제목": "Hydrocolloid Pimple Patches (OEM) | Supplier from South Korea | NURIMEDICS Co.,Ltd. - BeauteTrade",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "biocosone.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://biocosone.com/lmth/03_prod/prod02.php",
+      "제목": "트러블패치 - (주)바이오코스원.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "bioin.or.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://bioin.or.kr/EntrprsIntrcn.do?bid=company&cmd=view&num=480",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "businesskorea.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://businesskorea.co.kr/news/articleView.html?idxno=64152",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "contents.premium.naver.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://contents.premium.naver.com/tenbagger/10bagger/contents/241115145156460pi",
+      "제목": "티앤엘(340570) - \"美 아마존 1위\" 여드름패치의 숨은 진짜 실력자.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "dailyinvest.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://dailyinvest.kr/news/articleView.html?idxno=66653",
+      "제목": "[Hot 종목 체크] 티앤엘, 마이티패치 등 유럽 수출 확대로 주가 동력 얻을까",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "dhdaily.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://dhdaily.co.kr/news/articleView.html?idxno=27403",
+      "제목": "[기업 분석] '트러블 패치' 뒤의 소재기업 티앤엘 - 대한데일리.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "공시",
+    "도메인": "englishdart.fss.or.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=00608440",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "file.myasset.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://file.myasset.com/sitemanager/upload/2024/0410/155135/20240410155135903_0_ko.pdf",
+      "제목": "티앤엘 (340570)",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "g2bmarket.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://g2bmarket.com/detail/waienkeibaiokoseu",
+      "제목": "와이엔케이바이오코스 회사 정보·주요 사업 | G2B Market",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "heylink.me",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://heylink.me/newymedical",
+      "제목": "HeyLink.me | Newymedical",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "hiseoul.sba.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://hiseoul.sba.kr/Pages/AccountDetail.aspx?id=511dc622-1d13-4977-8ff4-143b2f7c0171",
+      "제목": "라파스 - 하이서울기업.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "ibks.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://ibks.com/company/common/download.jsp?filename=20220916072851353_ko.pdf&filepath=%2Ffiles%2Ftradeinfo%2Fbusreport",
+      "제목": "[PDF] 티앤엘 (340570) - IBK투자증권",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "채용",
+    "도메인": "jobplanet.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://jobplanet.co.kr/companies/50886/landing/www.tnl.co.kr",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "journal19302.tistory.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://journal19302.tistory.com/30",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "k-beautyexpo.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://k-beautyexpo.co.kr/fairBbs.do?selAction=view&FAIRMENU_IDX=12880&BOARD_IDX=52851",
+      "제목": "㈜라파스, ‘용해성 마이크로니들’ 생산하는 세계 유일의 기업 - KBEAUTY EXPO KOREA",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "ko.accio.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://ko.accio.com/plp/acnepatch",
+      "제목": "아크네 패치: 피부 트러블 해결의 핵심",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "kr.aving.net",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1805002",
+      "제목": "니코메디칼, 제29차 세계한인경제인대회 참가... 고기능성 습윤 패치 브랜드 ‘캐치미패치’ 및 신제품 마이크로니들 패치 선보인다",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "블로그",
+    "도메인": "luckysevens.tistory.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://luckysevens.tistory.com/2258",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "medica.mobi",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://medica.mobi/tl-co-ltd.html",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "medicalaialliance.org",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://medicalaialliance.org/ko/companies/t-l-340570",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "mordorintelligence.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
+      "제목": "여드름 치료제 시장 규모, 점유율, 2025-2030 전망",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "nicomdical2.cafe24.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://nicomdical2.cafe24.com/default/company/history.php",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "nicomedical2.cafe24.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://nicomedical2.cafe24.com",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "peoplepharm.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://peoplepharm.com/m2/goods/view.php?goodsno=186787726",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "pietrastudio.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://pietrastudio.com/sourcing/suppliers/dermatech",
+      "제목": "Dermatech - Custom projects & base products - Vetted | Pietra",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "sks.co.kr",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://sks.co.kr/data1/research/qna_file/20230402204845785_0_ko.pdf",
+      "제목": "티앤엘(340570/KQ)",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "ssl.pstatic.net",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://ssl.pstatic.net/imgstock/upload/research/company/1640743116875.pdf",
+      "제목": "티앤엘(340570).",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "store.ohou.se",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://store.ohou.se/goods/3309920",
+      "제목": "마스크·건강용품 > 블레미쉬패치 (12가지모양 3컬러 총 36매) 습윤밴드 여드름패치 | 오늘의집 쇼핑",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "thesaemcosmetic.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://thesaemcosmetic.com/product/item.php?it_id=0000000415",
+      "제목": "더샘 THE SAEM",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "thomasnet.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://thomasnet.com/company/dermatech-30882490/profile",
+      "제목": "Dermatech: Wilmington, DE 19810",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "tl-biotech.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tl-biotech.com/ko",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "tnlhealthcare.co.kr?redirect=no",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://tnlhealthcare.co.kr?redirect=no",
+      "제목": "",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "wholekorea.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://wholekorea.com/nico-medical-co-ltd",
+      "제목": "Nico Medical Co., Ltd.  – WHOLEKOREA",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "ynkbio.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://ynkbio.com/product/hydrocolloid",
+      "제목": "하이드로콜로이드 패치 - (주)와이엔케이바이오코스.",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "동영상",
+    "도메인": "youtube.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://youtube.com/watch?v=MfcmzvLmQv8&t=63",
+      "제목": "미국이 선택한 여드름 패치 티앤엘 아직도 싸다! / 손현정 유안타 ..., 동영상, YouTube에서 시청",
+      "업체수": 1,
+      "우리있나": false
+     }
+    ],
+    "업체수": 1
+   }
+  ]
+ }
 }
