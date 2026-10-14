@@ -105,13 +105,21 @@
    "추천회차": 168
   },
   "블로그": {
-   "건": 39,
-   "페이지": 12,
-   "도메인수": 6,
-   "소스건": 108,
-   "소스페이지": 32,
+   "건": 83,
+   "페이지": 14,
+   "도메인수": 7,
+   "소스건": 145,
+   "소스페이지": 37,
    "열어봄건": 0,
    "도메인": [
+    [
+     "orangeboard.co.kr",
+     44,
+     37,
+     2,
+     5,
+     0
+    ],
     [
      "blog.naver.com",
      19,
@@ -161,54 +169,22 @@
      0
     ]
    ],
-   "추천회차": 0
+   "추천회차": 6
   },
   "일반사이트": {
-   "건": 761,
-   "페이지": 261,
-   "도메인수": 159,
-   "소스건": 2265,
-   "소스페이지": 1103,
+   "건": 473,
+   "페이지": 208,
+   "도메인수": 136,
+   "소스건": 1815,
+   "소스페이지": 967,
    "열어봄건": 0,
    "도메인": [
-    [
-     "cosinkorea.com",
-     103,
-     71,
-     3,
-     4,
-     0
-    ],
-    [
-     "orangeboard.co.kr",
-     44,
-     37,
-     2,
-     5,
-     0
-    ],
     [
      "twoeight-medicare.com",
      34,
      14,
      2,
      1,
-     0
-    ],
-    [
-     "selfcos.com",
-     26,
-     30,
-     2,
-     4,
-     0
-    ],
-    [
-     "kr.made-in-china.com",
-     22,
-     54,
-     10,
-     17,
      0
     ],
     [
@@ -241,22 +217,6 @@
      18,
      16,
      18,
-     0
-    ],
-    [
-     "hankyung.com",
-     15,
-     15,
-     4,
-     7,
-     0
-    ],
-    [
-     "tradekorea.com",
-     14,
-     25,
-     3,
-     11,
      0
     ],
     [
@@ -300,35 +260,11 @@
      0
     ],
     [
-     "beautynury.com",
-     11,
-     7,
-     1,
-     1,
-     0
-    ],
-    [
      "yeonixkr.com",
      10,
      46,
      2,
      9,
-     0
-    ],
-    [
-     "glowpick.com",
-     10,
-     29,
-     4,
-     6,
-     0
-    ],
-    [
-     "dailypharm.com",
-     10,
-     9,
-     2,
-     2,
      0
     ],
     [
@@ -356,6 +292,137 @@
      0
     ],
     [
+     "etoday.co.kr",
+     7,
+     4,
+     2,
+     2,
+     0
+    ],
+    [
+     "cupass.co.kr",
+     7,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     "supple.kr",
+     7,
+     4,
+     1,
+     1,
+     0
+    ],
+    [
+     "m.catchmepatch.com",
+     7,
+     15,
+     1,
+     4,
+     0
+    ],
+    [
+     "mfds.go.kr",
+     6,
+     94,
+     5,
+     69,
+     0
+    ],
+    [
+     "epnc.co.kr",
+     6,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     "callaskincare.com",
+     6,
+     13,
+     3,
+     4,
+     0
+    ],
+    [
+     "dmck-oemodm.pages.dev",
+     6,
+     2,
+     1,
+     1,
+     0
+    ],
+    [
+     "everaid.com",
+     6,
+     2,
+     2,
+     1,
+     0
+    ],
+    [
+     "cgbio.co.kr",
+     6,
+     3,
+     1,
+     1,
+     0
+    ],
+    [
+     "adwin.co.kr",
+     6,
+     6,
+     1,
+     1,
+     0
+    ]
+   ],
+   "추천회차": 10
+  },
+  "플랫폼": {
+   "건": 104,
+   "페이지": 40,
+   "도메인수": 17,
+   "소스건": 314,
+   "소스페이지": 119,
+   "열어봄건": 0,
+   "도메인": [
+    [
+     "selfcos.com",
+     26,
+     30,
+     2,
+     4,
+     0
+    ],
+    [
+     "kr.made-in-china.com",
+     22,
+     54,
+     10,
+     17,
+     0
+    ],
+    [
+     "tradekorea.com",
+     14,
+     25,
+     3,
+     11,
+     0
+    ],
+    [
+     "glowpick.com",
+     10,
+     29,
+     4,
+     6,
+     0
+    ],
+    [
      "korean.alibaba.com",
      8,
      30,
@@ -364,24 +431,77 @@
      0
     ],
     [
-     "etoday.co.kr",
-     7,
-     4,
-     2,
+     "buykorea.org",
+     3,
+     15,
+     3,
+     8,
+     0
+    ],
+    [
+     "tnl.tradekorea.com",
+     3,
+     11,
+     1,
      2,
      0
-    ]
-   ],
-   "추천회차": 43
-  },
-  "플랫폼": {
-   "건": 1,
-   "페이지": 1,
-   "도메인수": 1,
-   "소스건": 5,
-   "소스페이지": 4,
-   "열어봄건": 0,
-   "도메인": [
+    ],
+    [
+     "m.gobizkorea.com",
+     3,
+     15,
+     1,
+     1,
+     0
+    ],
+    [
+     "nbhshmt.en.made-in-china.com",
+     3,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "kr.tradekorea.com",
+     2,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     "hwahae.co.kr",
+     2,
+     3,
+     1,
+     2,
+     0
+    ],
+    [
+     "nicomedical.tradekorea.com",
+     2,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     "search.11st.co.kr",
+     2,
+     2,
+     1,
+     1,
+     0
+    ],
+    [
+     "wuhanhuawei.en.made-in-china.com",
+     1,
+     1,
+     1,
+     1,
+     0
+    ],
     [
      "news.hidoc.co.kr",
      1,
@@ -389,18 +509,66 @@
      1,
      2,
      0
+    ],
+    [
+     "cjgmarket.co.kr",
+     1,
+     1,
+     1,
+     1,
+     0
+    ],
+    [
+     "a051358127264.gobizkorea.com",
+     1,
+     2,
+     1,
+     1,
+     0
     ]
    ],
-   "추천회차": 0
+   "추천회차": 6
   },
   "언론": {
-   "건": 39,
-   "페이지": 18,
-   "도메인수": 11,
-   "소스건": 42,
-   "소스페이지": 26,
+   "건": 180,
+   "페이지": 30,
+   "도메인수": 17,
+   "소스건": 146,
+   "소스페이지": 42,
    "열어봄건": 0,
    "도메인": [
+    [
+     "cosinkorea.com",
+     103,
+     71,
+     3,
+     4,
+     0
+    ],
+    [
+     "hankyung.com",
+     15,
+     15,
+     4,
+     7,
+     0
+    ],
+    [
+     "beautynury.com",
+     11,
+     7,
+     1,
+     1,
+     0
+    ],
+    [
+     "dailypharm.com",
+     10,
+     9,
+     2,
+     2,
+     0
+    ],
     [
      "pharm.edaily.co.kr",
      9,
@@ -458,6 +626,14 @@
      0
     ],
     [
+     "m.yakup.com",
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
      "m.health.chosun.com",
      1,
      1,
@@ -488,9 +664,17 @@
      1,
      0,
      0
+    ],
+    [
+     "asiae.co.kr",
+     1,
+     1,
+     1,
+     1,
+     0
     ]
    ],
-   "추천회차": 0
+   "추천회차": 21
   }
  },
  "brands": [
@@ -919,17 +1103,49 @@
     }
    ],
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 1,
-     "경제언론": 1
+     "인용": {
+      "회사 사이트": 12
+     },
+     "소스": {
+      "회사 사이트": 34,
+      "경제언론": 1
+     },
+     "장": {
+      "회사 사이트": 1,
+      "경제언론": 1
+     }
     },
     "과업": {
-     "고침": 1,
-     "기고": 1
+     "인용": {
+      "고침": 12
+     },
+     "소스": {
+      "고침": 34,
+      "기고": 1
+     },
+     "장": {
+      "고침": 1,
+      "기고": 1
+     }
     },
     "소속": {
-     "자기": 1,
-     "남": 1
+     "인용": {
+      "자기": 12
+     },
+     "소스": {
+      "자기": 34,
+      "남": 1
+     },
+     "장": {
+      "자기": 1,
+      "남": 1
+     }
     },
     "페이지": [
      {
@@ -1015,21 +1231,25 @@
    "지역": {},
    "글로": 32,
    "매체": {
+    "플랫폼": {
+     "소스": 10,
+     "인용": 4
+    },
     "일반사이트": {
-     "소스": 92,
-     "인용": 35
+     "소스": 36,
+     "인용": 6
     },
     "자사홈페이지": {
      "소스": 36,
      "인용": 11
     },
     "블로그": {
-     "소스": 54,
-     "인용": 1
+     "소스": 91,
+     "인용": 17
     },
     "언론": {
-     "소스": 5,
-     "인용": 0
+     "소스": 14,
+     "인용": 9
     }
    },
    "추천페이지": 18,
@@ -1062,25 +1282,74 @@
     }
    ],
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 26,
-     "입점몰": 1,
-     "경제언론": 6,
-     "블로그": 15,
-     "동영상": 1,
-     "채용": 1,
-     "기타": 14
+     "인용": {
+      "회사 사이트": 11,
+      "입점몰": 3,
+      "경제언론": 9,
+      "블로그": 17,
+      "기타": 6
+     },
+     "소스": {
+      "회사 사이트": 36,
+      "입점몰": 10,
+      "경제언론": 14,
+      "블로그": 91,
+      "동영상": 1,
+      "채용": 1,
+      "기타": 34
+     },
+     "장": {
+      "회사 사이트": 26,
+      "입점몰": 1,
+      "경제언론": 6,
+      "블로그": 15,
+      "동영상": 1,
+      "채용": 1,
+      "기타": 14
+     }
     },
     "과업": {
-     "고침": 26,
-     "등록": 1,
-     "기고": 6,
-     "못 건드림": 31
+     "인용": {
+      "고침": 11,
+      "등록": 3,
+      "기고": 9,
+      "못 건드림": 23
+     },
+     "소스": {
+      "고침": 36,
+      "등록": 10,
+      "기고": 14,
+      "못 건드림": 127
+     },
+     "장": {
+      "고침": 26,
+      "등록": 1,
+      "기고": 6,
+      "못 건드림": 31
+     }
     },
     "소속": {
-     "자기": 26,
-     "입점": 1,
-     "남": 37
+     "인용": {
+      "자기": 11,
+      "입점": 3,
+      "남": 32
+     },
+     "소스": {
+      "자기": 36,
+      "입점": 10,
+      "남": 141
+     },
+     "장": {
+      "자기": 26,
+      "입점": 1,
+      "남": 37
+     }
     },
     "페이지": [
      {
@@ -1663,10 +1932,10 @@
    },
    "경로": {
     "자사홈페이지": 10,
-    "플랫폼": 0,
-    "일반사이트": 19,
-    "언론": 0,
-    "블로그": 0,
+    "플랫폼": 4,
+    "일반사이트": 5,
+    "언론": 4,
+    "블로그": 6,
     "지도카드": 0,
     "모름": 68
    },
@@ -1677,7 +1946,7 @@
      "일한회차": 7,
      "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
      "도메인": "orangeboard.co.kr",
-     "매체": "일반사이트",
+     "매체": "블로그",
      "일함": true
     },
     {
@@ -1686,7 +1955,7 @@
      "일한회차": 4,
      "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
      "도메인": "hankyung.com",
-     "매체": "일반사이트",
+     "매체": "언론",
      "일함": true
     },
     {
@@ -1704,7 +1973,7 @@
      "일한회차": 3,
      "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
      "도메인": "tnl.tradekorea.com",
-     "매체": "일반사이트",
+     "매체": "플랫폼",
      "일함": true
     },
     {
@@ -1731,7 +2000,7 @@
      "일한회차": 1,
      "제목": "T&L CO.,LTD. - Company Profile",
      "도메인": "a051358127264.gobizkorea.com",
-     "매체": "일반사이트",
+     "매체": "플랫폼",
      "일함": true
     },
     {
@@ -1776,7 +2045,7 @@
      "일한회차": 1,
      "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
      "도메인": "orangeboard.co.kr",
-     "매체": "일반사이트",
+     "매체": "블로그",
      "일함": true
     },
     {
@@ -1877,16 +2146,20 @@
    "지역": {},
    "글로": 81,
    "매체": {
-    "일반사이트": {
-     "소스": 88,
-     "인용": 40
+    "플랫폼": {
+     "소스": 15,
+     "인용": 3
     },
     "자사홈페이지": {
      "소스": 95,
      "인용": 70
     },
     "언론": {
-     "소스": 1,
+     "소스": 70,
+     "인용": 37
+    },
+    "일반사이트": {
+     "소스": 4,
      "인용": 0
     }
    },
@@ -2196,23 +2469,67 @@
    ],
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 26,
-     "입점몰": 1,
-     "업계지": 2,
-     "경제언론": 1,
-     "기타": 3
+     "인용": {
+      "회사 사이트": 69,
+      "입점몰": 3,
+      "업계지": 37
+     },
+     "소스": {
+      "회사 사이트": 95,
+      "입점몰": 15,
+      "업계지": 69,
+      "경제언론": 1,
+      "기타": 4
+     },
+     "장": {
+      "회사 사이트": 26,
+      "입점몰": 1,
+      "업계지": 2,
+      "경제언론": 1,
+      "기타": 3
+     }
     },
     "과업": {
-     "고침": 26,
-     "등록": 1,
-     "기고": 3,
-     "못 건드림": 3
+     "인용": {
+      "고침": 69,
+      "등록": 3,
+      "기고": 37
+     },
+     "소스": {
+      "고침": 95,
+      "등록": 15,
+      "기고": 70,
+      "못 건드림": 4
+     },
+     "장": {
+      "고침": 26,
+      "등록": 1,
+      "기고": 3,
+      "못 건드림": 3
+     }
     },
     "소속": {
-     "자기": 26,
-     "입점": 1,
-     "남": 6
+     "인용": {
+      "자기": 69,
+      "입점": 3,
+      "남": 37
+     },
+     "소스": {
+      "자기": 95,
+      "입점": 15,
+      "남": 74
+     },
+     "장": {
+      "자기": 26,
+      "입점": 1,
+      "남": 6
+     }
     },
     "페이지": [
      {
@@ -2516,9 +2833,9 @@
    },
    "경로": {
     "자사홈페이지": 53,
-    "플랫폼": 0,
-    "일반사이트": 17,
-    "언론": 0,
+    "플랫폼": 2,
+    "일반사이트": 0,
+    "언론": 15,
     "블로그": 0,
     "지도카드": 0,
     "모름": 47
@@ -2548,7 +2865,7 @@
      "일한회차": 13,
      "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
      "도메인": "cosinkorea.com",
-     "매체": "일반사이트",
+     "매체": "언론",
      "일함": true
     },
     {
@@ -2566,7 +2883,7 @@
      "일한회차": 7,
      "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
      "도메인": "cosinkorea.com",
-     "매체": "일반사이트",
+     "매체": "언론",
      "일함": true
     },
     {
@@ -2602,7 +2919,7 @@
      "일한회차": 2,
      "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
      "도메인": "gobizkorea.com",
-     "매체": "일반사이트",
+     "매체": "플랫폼",
      "일함": true
     },
     {
@@ -2699,8 +3016,12 @@
      "인용": 13
     },
     "일반사이트": {
-     "소스": 9,
-     "인용": 8
+     "소스": 6,
+     "인용": 6
+    },
+    "언론": {
+     "소스": 3,
+     "인용": 2
     }
    },
    "추천페이지": 7,
@@ -2708,19 +3029,58 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 10,
-     "경제언론": 1,
-     "기타": 3
+     "인용": {
+      "회사 사이트": 13,
+      "경제언론": 2,
+      "기타": 4
+     },
+     "소스": {
+      "회사 사이트": 47,
+      "경제언론": 3,
+      "기타": 6
+     },
+     "장": {
+      "회사 사이트": 10,
+      "경제언론": 1,
+      "기타": 3
+     }
     },
     "과업": {
-     "고침": 10,
-     "기고": 1,
-     "못 건드림": 3
+     "인용": {
+      "고침": 13,
+      "기고": 2,
+      "못 건드림": 4
+     },
+     "소스": {
+      "고침": 47,
+      "기고": 3,
+      "못 건드림": 6
+     },
+     "장": {
+      "고침": 10,
+      "기고": 1,
+      "못 건드림": 3
+     }
     },
     "소속": {
-     "자기": 10,
-     "남": 4
+     "인용": {
+      "자기": 13,
+      "남": 6
+     },
+     "소스": {
+      "자기": 47,
+      "남": 9
+     },
+     "장": {
+      "자기": 10,
+      "남": 4
+     }
     },
     "페이지": [
      {
@@ -2854,8 +3214,8 @@
    "경로": {
     "자사홈페이지": 13,
     "플랫폼": 0,
-    "일반사이트": 6,
-    "언론": 0,
+    "일반사이트": 4,
+    "언론": 2,
     "블로그": 0,
     "지도카드": 0,
     "모름": 2
@@ -2876,7 +3236,7 @@
      "일한회차": 2,
      "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
      "도메인": "hankyung.com",
-     "매체": "일반사이트",
+     "매체": "언론",
      "일함": true
     },
     {
@@ -2991,17 +3351,49 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 1,
-     "기타": 2
+     "인용": {
+      "회사 사이트": 32
+     },
+     "소스": {
+      "회사 사이트": 50,
+      "기타": 2
+     },
+     "장": {
+      "회사 사이트": 1,
+      "기타": 2
+     }
     },
     "과업": {
-     "고침": 1,
-     "못 건드림": 2
+     "인용": {
+      "고침": 32
+     },
+     "소스": {
+      "고침": 50,
+      "못 건드림": 2
+     },
+     "장": {
+      "고침": 1,
+      "못 건드림": 2
+     }
     },
     "소속": {
-     "자기": 1,
-     "남": 2
+     "인용": {
+      "자기": 32
+     },
+     "소스": {
+      "자기": 50,
+      "남": 2
+     },
+     "장": {
+      "자기": 1,
+      "남": 2
+     }
     },
     "페이지": [
      {
@@ -3100,8 +3492,12 @@
      "소스": 53,
      "인용": 26
     },
+    "플랫폼": {
+     "소스": 4,
+     "인용": 0
+    },
     "일반사이트": {
-     "소스": 6,
+     "소스": 2,
      "인용": 0
     }
    },
@@ -3110,20 +3506,55 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 6,
-     "입점몰": 1,
-     "기타": 1
+     "인용": {
+      "회사 사이트": 26
+     },
+     "소스": {
+      "회사 사이트": 53,
+      "입점몰": 4,
+      "기타": 2
+     },
+     "장": {
+      "회사 사이트": 6,
+      "입점몰": 1,
+      "기타": 1
+     }
     },
     "과업": {
-     "고침": 6,
-     "등록": 1,
-     "못 건드림": 1
+     "인용": {
+      "고침": 26
+     },
+     "소스": {
+      "고침": 53,
+      "등록": 4,
+      "못 건드림": 2
+     },
+     "장": {
+      "고침": 6,
+      "등록": 1,
+      "못 건드림": 1
+     }
     },
     "소속": {
-     "자기": 6,
-     "입점": 1,
-     "남": 1
+     "인용": {
+      "자기": 26
+     },
+     "소스": {
+      "자기": 53,
+      "입점": 4,
+      "남": 2
+     },
+     "장": {
+      "자기": 6,
+      "입점": 1,
+      "남": 1
+     }
     },
     "페이지": [
      {
@@ -3304,17 +3735,52 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 5,
-     "기타": 1
+     "인용": {
+      "회사 사이트": 12,
+      "기타": 1
+     },
+     "소스": {
+      "회사 사이트": 32,
+      "기타": 2
+     },
+     "장": {
+      "회사 사이트": 5,
+      "기타": 1
+     }
     },
     "과업": {
-     "고침": 5,
-     "못 건드림": 1
+     "인용": {
+      "고침": 12,
+      "못 건드림": 1
+     },
+     "소스": {
+      "고침": 32,
+      "못 건드림": 2
+     },
+     "장": {
+      "고침": 5,
+      "못 건드림": 1
+     }
     },
     "소속": {
-     "자기": 5,
-     "남": 1
+     "인용": {
+      "자기": 12,
+      "남": 1
+     },
+     "소스": {
+      "자기": 32,
+      "남": 2
+     },
+     "장": {
+      "자기": 5,
+      "남": 1
+     }
     },
     "페이지": [
      {
@@ -3486,11 +3952,11 @@
      "인용": 4
     },
     "언론": {
-     "소스": 4,
+     "소스": 5,
      "인용": 0
     },
     "일반사이트": {
-     "소스": 2,
+     "소스": 1,
      "인용": 0
     }
    },
@@ -3524,19 +3990,53 @@
     }
    ],
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 2,
-     "경제언론": 4,
-     "기타": 1
+     "인용": {
+      "회사 사이트": 3
+     },
+     "소스": {
+      "회사 사이트": 3,
+      "경제언론": 5,
+      "기타": 1
+     },
+     "장": {
+      "회사 사이트": 2,
+      "경제언론": 4,
+      "기타": 1
+     }
     },
     "과업": {
-     "고침": 2,
-     "기고": 4,
-     "못 건드림": 1
+     "인용": {
+      "고침": 3
+     },
+     "소스": {
+      "고침": 3,
+      "기고": 5,
+      "못 건드림": 1
+     },
+     "장": {
+      "고침": 2,
+      "기고": 4,
+      "못 건드림": 1
+     }
     },
     "소속": {
-     "자기": 2,
-     "남": 5
+     "인용": {
+      "자기": 3
+     },
+     "소스": {
+      "자기": 3,
+      "남": 6
+     },
+     "장": {
+      "자기": 2,
+      "남": 5
+     }
     },
     "페이지": [
      {
@@ -3695,14 +4195,43 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 3
+     "인용": {
+      "회사 사이트": 13
+     },
+     "소스": {
+      "회사 사이트": 20
+     },
+     "장": {
+      "회사 사이트": 3
+     }
     },
     "과업": {
-     "고침": 3
+     "인용": {
+      "고침": 13
+     },
+     "소스": {
+      "고침": 20
+     },
+     "장": {
+      "고침": 3
+     }
     },
     "소속": {
-     "자기": 3
+     "인용": {
+      "자기": 13
+     },
+     "소스": {
+      "자기": 20
+     },
+     "장": {
+      "자기": 3
+     }
     },
     "페이지": [
      {
@@ -3811,9 +4340,26 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
-    "종류": {},
-    "과업": {},
-    "소속": {},
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
+    "종류": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
+    "과업": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
+    "소속": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
     "페이지": []
    },
    "경로": {
@@ -3879,14 +4425,43 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
     "종류": {
-     "회사 사이트": 7
+     "인용": {
+      "회사 사이트": 7
+     },
+     "소스": {
+      "회사 사이트": 28
+     },
+     "장": {
+      "회사 사이트": 7
+     }
     },
     "과업": {
-     "고침": 7
+     "인용": {
+      "고침": 7
+     },
+     "소스": {
+      "고침": 28
+     },
+     "장": {
+      "고침": 7
+     }
     },
     "소속": {
-     "자기": 7
+     "인용": {
+      "자기": 7
+     },
+     "소스": {
+      "자기": 28
+     },
+     "장": {
+      "자기": 7
+     }
     },
     "페이지": [
      {
@@ -4049,9 +4624,26 @@
    "문항별": null,
    "도메인별": null,
    "종류별": {
-    "종류": {},
-    "과업": {},
-    "소속": {},
+    "기준": [
+     "인용",
+     "소스",
+     "장"
+    ],
+    "종류": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
+    "과업": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
+    "소속": {
+     "인용": {},
+     "소스": {},
+     "장": {}
+    },
     "페이지": []
    },
    "경로": {
@@ -4098,7 +4690,7 @@
   {
    "url": "https://www.cosinkorea.com/news/article.html?no=56672",
    "정규url": "https://cosinkorea.com/news/article.html?no=56672",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "cosinkorea.com",
    "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
    "소스": 61,
@@ -4119,7 +4711,7 @@
   {
    "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
    "정규url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "도메인": "orangeboard.co.kr",
    "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
    "소스": 28,
@@ -4182,7 +4774,7 @@
   {
    "url": "https://selfcos.com/index/company_view/2154",
    "정규url": "https://selfcos.com/index/company_view/2154",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "selfcos.com",
    "제목": "화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적 - 셀프코스.",
    "소스": 26,
@@ -4413,7 +5005,7 @@
   {
    "url": "https://www.beautynury.com/news/view/97929/cat/10/page/1",
    "정규url": "https://beautynury.com/news/view/97929/cat/10/page/1",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "beautynury.com",
    "제목": "뷰티누리 - 화장품신문 (Beautynury.com) :: [OEM·ODM 특집_하] 활동 영역 넓히는 화장품 제조사들",
    "소스": 7,
@@ -4497,7 +5089,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
    "정규url": "https://tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
    "소스": 7,
@@ -4518,7 +5110,7 @@
   {
    "url": "https://kr.made-in-china.com/factory/acne-patch.html",
    "정규url": "https://kr.made-in-china.com/factory/acne-patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "여드름 패치 공장, 중국 여드름 패치 공장 목록 당신은에서 직접 구입할 수 있습니다.",
    "소스": 13,
@@ -4581,7 +5173,7 @@
   {
    "url": "https://www.dailypharm.com/user/news/335642",
    "정규url": "https://dailypharm.com/user/news/335642",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "dailypharm.com",
    "제목": "[데일리팜]제이와이팜 마이크로니들 라인 증설…고기능성 패치 ODM 강화",
    "소스": 7,
@@ -4602,7 +5194,7 @@
   {
    "url": "https://www.hankyung.com/article/202109160793i",
    "정규url": "https://hankyung.com/article/202109160793i",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
    "소스": 4,
@@ -4644,7 +5236,7 @@
   {
    "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
    "정규url": "https://orangeboard.co.kr/@tenbagger/미국-아마존-1위-여드름-패치-ODM-기업-티앤엘-3405703",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "도메인": "orangeboard.co.kr",
    "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
    "소스": 5,
@@ -4728,7 +5320,7 @@
   {
    "url": "https://cosinkorea.com/mobile/article.html?no=56672",
    "정규url": "https://cosinkorea.com/mobile/article.html?no=56672",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "cosinkorea.com",
    "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
    "소스": 8,
@@ -5001,7 +5593,7 @@
   {
    "url": "https://www.glowpick.com/categories/39?ids=315",
    "정규url": "https://glowpick.com/categories/39?ids=315",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
    "소스": 18,
@@ -5169,7 +5761,7 @@
   {
    "url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-ODM-Manufacturer-Private-Label-Hydrocolloid-Acne-Pimple-Patch_yunsurshyg.html",
    "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-ODM-Manufacturer-Private-Label-Hydrocolloid-Acne-Pimple-Patch_yunsurshyg.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "OEM ODM 제조업체 개인 상표 하이드로콜로이드 여드름 패치 - 2026 패치, ance Patch price | Made-in-china.com",
    "소스": 7,
@@ -5358,7 +5950,7 @@
   {
    "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
    "정규url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "m.gobizkorea.com",
    "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
    "소스": 15,
@@ -5400,7 +5992,7 @@
   {
    "url": "https://tnl.tradekorea.com/main.do",
    "정규url": "https://tnl.tradekorea.com/main.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tnl.tradekorea.com",
    "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
    "소스": 10,
@@ -5463,7 +6055,7 @@
   {
    "url": "https://www.glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315",
    "정규url": "https://glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "올리브영 스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
    "소스": 4,
@@ -5484,7 +6076,7 @@
   {
    "url": "https://www.hankyung.com/article/2021091615911",
    "정규url": "https://hankyung.com/article/2021091615911",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "美 아마존 1위 여드름패치 티앤엘 급등 - 한국경제.",
    "소스": 4,
@@ -5589,7 +6181,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P817677",
    "정규url": "https://tradekorea.com/product/detail/P817677",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
    "소스": 2,
@@ -5652,7 +6244,7 @@
   {
    "url": "https://nbhshmt.en.made-in-china.com/product/wtCrFehTrfcK/China-Factory-Colorful-Acne-Patches-Hydrocolloid-Pimple-Patches-Cute-Star-Zit-Covers.html",
    "정규url": "https://nbhshmt.en.made-in-china.com/product/wtCrFehTrfcK/China-Factory-Colorful-Acne-Patches-Hydrocolloid-Pimple-Patches-Cute-Star-Zit-Covers.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "nbhshmt.en.made-in-china.com",
    "제목": "Factory Colorful Acne Patches Hydrocolloid Pimple Patches Cute Star Zit Covers - 2026 Acne Patch, Pimple Patch Acne price | Made-in-china.com",
    "소스": 1,
@@ -5799,7 +6391,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/Acne-Pimple-Patch-Wholesale-Hydrocolloid-Acne-1600991781724.html",
    "정규url": "https://korean.alibaba.com/product-detail/Acne-Pimple-Patch-Wholesale-Hydrocolloid-Acne-1600991781724.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "여드름 여드름 패치 도매 하이드로 콜로이드 여드름 스킨 케어 치료 케이스 여드름 스티커 - Buy Acne Pimple Patch Wholesale acne Skincare Treatment Best Seller Acne Patch acne Stickers Patches Plasters Acne Sticker With Case acne Treatment facial Patches face Care Products dots For Spots skin Care Accessories Product on Alibaba.com",
    "소스": 8,
@@ -5862,7 +6454,7 @@
   {
    "url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-Original-Hydrocolloid-Acne-Patch-Custom-Design-Factory-Price_uoyorgssou.html",
    "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_OEM-Original-Hydrocolloid-Acne-Patch-Custom-Design-Factory-Price_uoyorgssou.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "OEM 원본 하이드로콜로이드 여드름 패치 맞춤 디자인 공장 가격 - 2026 여드름 패치, 점심원 패치 price | Made-in-china.com",
    "소스": 6,
@@ -5883,7 +6475,7 @@
   {
    "url": "https://nicomedical.tradekorea.com/main.do",
    "정규url": "https://nicomedical.tradekorea.com/main.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "nicomedical.tradekorea.com",
    "제목": "Image: South Korea Nico Medical Co., Ltd. NICO MEDICAL CO., LTD. Country Image: South Korea South Korea Verified Certificate Home Products Company Contact * Send Inquiry * +82-70-5080-1789 Im...",
    "소스": 6,
@@ -6219,7 +6811,7 @@
   {
    "url": "https://www.hankyung.com/article/202606306824O",
    "정규url": "https://hankyung.com/article/202606306824O",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
    "소스": 3,
@@ -6366,7 +6958,7 @@
   {
    "url": "https://www.hwahae.co.kr/rankings?english_name=category&theme_id=4262",
    "정규url": "https://hwahae.co.kr/rankings?english_name=category&theme_id=4262",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "hwahae.co.kr",
    "제목": "패치 TOP 100 추천 | 1000만 화해 실사용자 103만 리뷰 기반",
    "소스": 2,
@@ -6555,7 +7147,7 @@
   {
    "url": "https://search.11st.co.kr/pc/total-search?kwd=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%A8%EC%B9%98",
    "정규url": "https://search.11st.co.kr/pc/total-search?kwd=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%ED%8C%A8%EC%B9%98",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "search.11st.co.kr",
    "제목": "하이드로콜로이드 패치 - 11번가 추천.",
    "소스": 2,
@@ -7059,7 +7651,7 @@
   {
    "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
    "정규url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.tradekorea.com",
    "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
    "소스": 0,
@@ -7248,7 +7840,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/OEM-Korean-Hydrocolloid-Acne-Patch-Global-10000032838722.html",
    "정규url": "https://korean.alibaba.com/product-detail/OEM-Korean-Hydrocolloid-Acne-Patch-Global-10000032838722.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "OEM 한국 하이드로 콜로이드 여드름 패치 글로벌 유통 도매 방수 ...",
    "소스": 6,
@@ -7269,7 +7861,7 @@
   {
    "url": "https://kr.made-in-china.com/co_hanguhealth/product_Acne-Spot-Treatment-Patch-for-24-Hour-Protection-and-Relief_yyhhghihrg.html",
    "정규url": "https://kr.made-in-china.com/co_hanguhealth/product_Acne-Spot-Treatment-Patch-for-24-Hour-Protection-and-Relief_yyhhghihrg.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "여드름 점 치료 패치 24-Hour 보호 및 완화 - 2026 대상 여드름 패치, 24시간 보호 패치 price | Made-in-china.com",
    "소스": 6,
@@ -7353,7 +7945,7 @@
   {
    "url": "https://kr.made-in-china.com/factory/hydrophilic-wound-dressing.html",
    "정규url": "https://kr.made-in-china.com/factory/hydrophilic-wound-dressing.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "수분 친화성 상처 드레싱 공장, 중국 수분 친화성 상처 드레싱 공장 목록 당신은에서 직접 구입할 수 있습니다.",
    "소스": 5,
@@ -7500,7 +8092,7 @@
   {
    "url": "https://buykorea.org/seller-home/1159725/prd/index.do",
    "정규url": "https://buykorea.org/seller-home/1159725/prd/index.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "Nico Medical Co.,Ltd. Official Product Catalog on BuyKOREA",
    "소스": 4,
@@ -7584,7 +8176,7 @@
   {
    "url": "https://kr.made-in-china.com/factory/soft-dressing.html",
    "정규url": "https://kr.made-in-china.com/factory/soft-dressing.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "부드러운 드레싱 공장, 중국 부드러운 드레싱 공장 목록 당신은에서 직접 구입할 수 있습니다.",
    "소스": 4,
@@ -7668,7 +8260,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3701279",
    "정규url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3701279",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "SALITICA TRIPLE-CARE Spot Patch - wholesale | Find Korean Trouble Care Suppliers on BuyKOREA",
    "소스": 3,
@@ -7689,7 +8281,7 @@
   {
    "url": "https://buykorea.org/seller-home/1159725/com/index.do",
    "정규url": "https://buykorea.org/seller-home/1159725/com/index.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "Nico Medical Co.,Ltd. - Verified Korean Supplier Profile | About Us | BuyKOREA",
    "소스": 3,
@@ -7857,7 +8449,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P817677/Hydrocolloid-Acne-Patch-Manufacturer-in-Korea-under-private-label-service-OEM.html",
    "정규url": "https://tradekorea.com/product/detail/P817677/Hydrocolloid-Acne-Patch-Manufacturer-in-Korea-under-private-label-service-OEM.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "Hydrocolloid Acne Patch Manufacturer in Korea under private label service OEM | tradekorea",
    "소스": 3,
@@ -7878,7 +8470,7 @@
   {
    "url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
    "정규url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "a051358127264.gobizkorea.com",
    "제목": "T&L CO.,LTD. - Company Profile",
    "소스": 2,
@@ -8067,7 +8659,7 @@
   {
    "url": "https://www.dailypharm.com/user/news/335642?view_mode=pc",
    "정규url": "https://dailypharm.com/user/news/335642?view_mode=pc",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "dailypharm.com",
    "제목": "[데일리팜]제이와이팜 마이크로니들 라인 증설…고기능성 패치 ODM 강화",
    "소스": 2,
@@ -8235,7 +8827,7 @@
   {
    "url": "https://korean.alibaba.com/g/acne-patches.html",
    "정규url": "https://korean.alibaba.com/g/acne-patches.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "404-Error",
    "소스": 2,
@@ -8256,7 +8848,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/hydrocolloid-pimple-patch-for-nose-pimples-1601025586295.html",
    "정규url": "https://korean.alibaba.com/product-detail/hydrocolloid-pimple-patch-for-nose-pimples-1601025586295.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "하이드로콜로이드 여드름 패치, 코 및 피지 모공 관리용 XL 사이즈",
    "소스": 2,
@@ -8277,7 +8869,7 @@
   {
    "url": "https://kr.made-in-china.com/co_huaweimedical/product_Hydrocolloid-Acne-Patches-with-Tea-Tree-Oil-Salicylic-Acid-Pimple-Patches-for-Face-Zits-Breakouts-Hydrocolloid-Acne-Dots-for-Zits-Blemishes-Patches_yseinnngrg.html",
    "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_Hydrocolloid-Acne-Patches-with-Tea-Tree-Oil-Salicylic-Acid-Pimple-Patches-for-Face-Zits-Breakouts-Hydrocolloid-Acne-Dots-for-Zits-Blemishes-Patches_yseinnngrg.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "티트리 오일과 살리실산이 있는 하이드로콜로이드 여드름 패치, 페이스 브레이크아웃용 핀플 패치, 얼룩얼룩을 위한 하이드로콜로이드 여드름 점 - 중국 뾰루지 패치 그리고 여드름 패치 가격",
    "소스": 2,
@@ -8550,7 +9142,7 @@
   {
    "url": "https://www.selfcos.com/portfolio/detail/32842",
    "정규url": "https://selfcos.com/portfolio/detail/32842",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "selfcos.com",
    "제목": "셀바이오휴먼텍 | 셀프코스",
    "소스": 2,
@@ -8865,7 +9457,7 @@
   {
    "url": "https://www.asiae.co.kr/article/2021052514024102630",
    "정규url": "https://asiae.co.kr/article/2021052514024102630",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "asiae.co.kr",
    "제목": "티앤엘, '마이티 패치' 미국 아마존 1위…\"해외시장 선점할 것\".",
    "소스": 1,
@@ -8928,7 +9520,7 @@
   {
    "url": "https://www.cjgmarket.co.kr/shop/search.php?sfl=wr_subject%7C%7Cwr_content&sop=and&q=%EC%8A%A4%ED%8C%9F%ED%8C%A8%EC%B9%98&usid=12483",
    "정규url": "https://cjgmarket.co.kr/shop/search.php?sfl=wr_subject%7C%7Cwr_content&sop=and&q=%EC%8A%A4%ED%8C%9F%ED%8C%A8%EC%B9%98&usid=12483",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "cjgmarket.co.kr",
    "제목": "스팟패치 - 최저가 검색 추천 최저가마켓",
    "소스": 1,
@@ -9096,7 +9688,7 @@
   {
    "url": "https://www.glowpick.com/products/160171",
    "정규url": "https://glowpick.com/products/160171",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "동국제약 마데카 메디패치 스팟패치 | 소비자평점 4.5 리뷰 133건 | 내돈내산 뷰티 리뷰, 글로우픽",
    "소스": 1,
@@ -9117,7 +9709,7 @@
   {
    "url": "https://www.glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315&monthTerm=24",
    "정규url": "https://glowpick.com/stores/21?cate1Id=8&cate2Id=39&cate3Ids=315&monthTerm=24",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "올리브영 스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
    "소스": 1,
@@ -9138,7 +9730,7 @@
   {
    "url": "https://www.hankyung.com/article/2022092798831",
    "정규url": "https://hankyung.com/article/2022092798831",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "여드름 패치 출시 앞둔 라파스…천안공장 의약품 제조허가 취득.",
    "소스": 1,
@@ -9285,7 +9877,7 @@
   {
    "url": "https://korean.alibaba.com/g/oem-acne-patch.html",
    "정규url": "https://korean.alibaba.com/g/oem-acne-patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "OEM 여드름 패치(6+)",
    "소스": 1,
@@ -9306,7 +9898,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/Hot-Selling-Printed-Acne-Patch-Low-1601562217492.html",
    "정규url": "https://korean.alibaba.com/product-detail/Hot-Selling-Printed-Acne-Patch-Low-1601562217492.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "인기 있는 인쇄 여드름 패치 패턴 커스터마이징 하이드로 ...",
    "소스": 1,
@@ -9327,7 +9919,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/OEM-customize-hydrocolloid-acne-pimple-patch-1600715035145.html",
    "정규url": "https://korean.alibaba.com/product-detail/OEM-customize-hydrocolloid-acne-pimple-patch-1600715035145.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "OEM 맞춤형 하이드로콜로이드 여드름 패치 스팟 트리트먼트용",
    "소스": 1,
@@ -9348,7 +9940,7 @@
   {
    "url": "https://kr.made-in-china.com/co_huaweimedical/product_Advanced-Hydrocolloid-Acne-Patches-OEM-Spot-Patches-Zit-Stickers-Waterproof-Star-Pimple-Patches-Day-and-Night-Use_yuouroeghg.html",
    "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_Advanced-Hydrocolloid-Acne-Patches-OEM-Spot-Patches-Zit-Stickers-Waterproof-Star-Pimple-Patches-Day-and-Night-Use_yuouroeghg.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "고급 하이드로콜로이드 여드름 패치 OEM 스팟 패치 여드름 스티커 방수 스타 여드름 패치 낮과 밤 사용 - 중국 스팟 패치 그리고 Zit 스티커 가격",
    "소스": 1,
@@ -9369,7 +9961,7 @@
   {
    "url": "https://kr.made-in-china.com/video-channel/huaweimedical_hAgpvfFLqQkm_China-Original-Factory-OEM-Design-Color-Print-Flower-Type-Acne-Pimple-Remove-Patch-Hydrocolloid-Absorbent-Spots-Treatment-Patch-24PCS-Pack-Skincare-Cosmetic.html",
    "정규url": "https://kr.made-in-china.com/video-channel/huaweimedical_hAgpvfFLqQkm_China-Original-Factory-OEM-Design-Color-Print-Flower-Type-Acne-Pimple-Remove-Patch-Hydrocolloid-Absorbent-Spots-Treatment-Patch-24PCS-Pack-Skincare-Cosmetic.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "중국 원래 공장 OEM 디자인 컬러 프린트 꽃 타입 여드름 제거 ..., 동영상, 중국 제조 업체, 공급 업체 및 제품에서 시청",
    "소스": 1,
@@ -9390,7 +9982,7 @@
   {
    "url": "https://kr.made-in-china.com/video-channel/nbhshmt_SfaUHIMPOrcD_OEM-Colud-Shape-Hydrocolloid-Acne-Patches-Absorb-Fluid-Acne-Spot-DOT-Stickers-for-Face-and-Skin.html",
    "정규url": "https://kr.made-in-china.com/video-channel/nbhshmt_SfaUHIMPOrcD_OEM-Colud-Shape-Hydrocolloid-Acne-Patches-Absorb-Fluid-Acne-Spot-DOT-Stickers-for-Face-and-Skin.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "OEM 클라우드 형태의 하이드로콜로이드 여드름 패치, 여드름 부위의 액체를 흡수하는 스팟 스티커, 얼굴과 피부용 무엇입니까에 대한 영상",
    "소스": 1,
@@ -9609,8 +10201,8 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "경제언론",
-   "과업": "기고",
+   "매체종류": "디렉터리",
+   "과업": "등록",
    "소속": "남",
    "본문길이": 4583,
    "본문해시": "b672f45f6d",
@@ -9810,7 +10402,7 @@
   {
    "url": "https://wuhanhuawei.en.made-in-china.com/product/mCHQbBsuEOkY/China-Star-Shape-OEM-ODM-Acne-Patch-Care-Pimple-Patch-Absorbing-Round.html",
    "정규url": "https://wuhanhuawei.en.made-in-china.com/product/mCHQbBsuEOkY/China-Star-Shape-OEM-ODM-Acne-Patch-Care-Pimple-Patch-Absorbing-Round.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "wuhanhuawei.en.made-in-china.com",
    "제목": "Star Shape OEM/ODM Acne Patch Care Pimple Patch Absorbing Round - China Star Shape Patch and Pimple Patch",
    "소스": 1,
@@ -10335,7 +10927,7 @@
   {
    "url": "https://www.cosinkorea.com/news/article_print.html?no=51745",
    "정규url": "https://cosinkorea.com/news/article_print.html?no=51745",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "cosinkorea.com",
    "제목": "화장품 뷰티 전문 미디어 코스인코리아닷컴",
    "소스": 0,
@@ -10755,7 +11347,7 @@
   {
    "url": "http://m.yakup.com/news/index.html?mode=view&nid=328176",
    "정규url": "https://yakup.com/news/index.html?mode=view&nid=328176",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "m.yakup.com",
    "제목": "",
    "소스": 0,
@@ -11112,7 +11704,7 @@
   {
    "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
    "정규url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "search.danawa.com",
    "제목": "여드름패치 통합검색 : 다나와 통합검색",
    "소스": 17,
@@ -11154,7 +11746,7 @@
   {
    "url": "https://www.brandk.kr/resources/ebook/eng/catImage/204/BRAND_K_e-Book.pdf",
    "정규url": "https://brandk.kr/resources/ebook/eng/catImage/204/BRAND_K_e-Book.pdf",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "brandk.kr",
    "제목": "",
    "소스": 15,
@@ -12162,7 +12754,7 @@
   {
    "url": "https://www.glowpick.com/casts/1098",
    "정규url": "https://glowpick.com/casts/1098",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "상황별로 골라쓰는 여드름패치 BEST",
    "소스": 4,
@@ -12225,7 +12817,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/Korean-Hydrocolloid-Acne-Patch-OEM-Global-10000032845595.html",
    "정규url": "https://korean.alibaba.com/product-detail/Korean-Hydrocolloid-Acne-Patch-OEM-Global-10000032845595.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "한국 하이드로 콜로이드 여드름 패치 OEM 글로벌 스킨 케어 브랜드 ...",
    "소스": 4,
@@ -12351,7 +12943,7 @@
   {
    "url": "https://www.tradekorea.com/service/eCatalog.do?onlineExhibitionNo=4908&productno=817866&temp=B",
    "정규url": "https://tradekorea.com/service/eCatalog.do?onlineExhibitionNo=4908&productno=817866&temp=B",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "NURIMEDICS CO.,LTD. tradeKorea tradeshows company E-catalog NURIMEDICS CO.,LTD. CEO : Ko Hyun Jun ADRESS | 11, Hasa-ro, Haseong-myeon, Gimpo-si, Gyeonggi-do, Korea | E-MAIL | nurimedics@gmail....",
    "소스": 4,
@@ -12708,7 +13300,7 @@
   {
    "url": "https://oemkorea.com/",
    "정규url": "https://oemkorea.com",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "oemkorea.com",
    "제목": "Korean OEM/ODM Manufacturer Sourcing Platform | OEMKorea",
    "소스": 3,
@@ -12729,7 +13321,7 @@
   {
    "url": "https://oemkorea.com/products/liquid-blemish-patch",
    "정규url": "https://oemkorea.com/products/liquid-blemish-patch",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "oemkorea.com",
    "제목": "Liquid Blemish Patch OEM/ODM & Private Label Manufacturing in Korea | OEMKorea",
    "소스": 3,
@@ -12750,7 +13342,7 @@
   {
    "url": "https://prod.danawa.com/info/?pcode=6573062",
    "정규url": "https://prod.danawa.com/info?pcode=6573062",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "prod.danawa.com",
    "제목": "하이드로콜로이드밴드 멸균스팟패치 52매 통합검색 : 다나와 통합검색",
    "소스": 3,
@@ -13149,7 +13741,7 @@
   {
    "url": "https://www.alibaba.com/product-detail/Hydrocolloid-Patches-Manufacturer-from-Korea-with_10000011764899.html",
    "정규url": "https://alibaba.com/product-detail/Hydrocolloid-Patches-Manufacturer-from-Korea-with_10000011764899.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "alibaba.com",
    "제목": "Hydrocolloid Patches Manufacturer From Korea With Excellent Effect Acne Patches Oem With Low Moq - Buy Hydrocolloid Manufacturer Private Label Acne Patch Hydrocolloid Acne Patch Product on Alibaba.com",
    "소스": 2,
@@ -13170,7 +13762,7 @@
   {
    "url": "https://www.amazon.com/Hydrocolloid-Bandages-Self-Adhesive-Absorbent-Waterproof/dp/B0F2FWJP16",
    "정규url": "https://amazon.com/Hydrocolloid-Bandages-Self-Adhesive-Absorbent-Waterproof/dp/B0F2FWJP16",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "",
    "소스": 2,
@@ -13821,7 +14413,7 @@
   {
    "url": "https://kr.made-in-china.com/manufacturers/hydrocolloid-patches.html",
    "정규url": "https://kr.made-in-china.com/manufacturers/hydrocolloid-patches.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "중국 하이드로콜로이드 패치 제조 업체, 하이드로콜로이드 패치 제조 업체 및 공급 업체에 kr.Made-in-China.com",
    "소스": 2,
@@ -14292,8 +14884,8 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "경제언론",
-   "과업": "기고",
+   "매체종류": "디렉터리",
+   "과업": "등록",
    "소속": "남",
    "본문길이": 3627,
    "본문해시": "f0d12704d7",
@@ -14409,7 +15001,7 @@
   {
    "url": "https://orangeboard.co.kr/%40California/posts/1008",
    "정규url": "https://orangeboard.co.kr/@California/posts/1008",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "도메인": "orangeboard.co.kr",
    "제목": "",
    "소스": 2,
@@ -14556,7 +15148,7 @@
   {
    "url": "https://prod.danawa.com/info/?pcode=14144606",
    "정규url": "https://prod.danawa.com/info?pcode=14144606",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "prod.danawa.com",
    "제목": "코멧 하이드로콜로이드 스팟패치 일반형 120매 (1개) : 다나와 가격비교",
    "소스": 2,
@@ -15060,7 +15652,7 @@
   {
    "url": "https://tradekorea.com/product/detail/P854583/Hydrocolloid-Acne-Patch.html",
    "정규url": "https://tradekorea.com/product/detail/P854583/Hydrocolloid-Acne-Patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "Hydrocolloid Acne Patch | tradekorea",
    "소스": 2,
@@ -15081,7 +15673,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
    "정규url": "https://tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "",
    "소스": 2,
@@ -15984,7 +16576,7 @@
   {
    "url": "https://www.alibaba.com/pla/Wholesale-Custom-50ml-Beveled-Rectangular-Perfume_1601788486694.html?biz=pla&mark=google_shopping&pcy=gb_en&product_id=1601788486694&searchText=glass+bottles",
    "정규url": "https://alibaba.com/pla/Wholesale-Custom-50ml-Beveled-Rectangular-Perfume_1601788486694.html?biz=pla&mark=google_shopping&pcy=gb_en&product_id=1601788486694&searchText=glass+bottles",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "alibaba.com",
    "제목": "",
    "소스": 1,
@@ -16005,7 +16597,7 @@
   {
    "url": "https://www.alibaba.com/supplier/acne-patches-manufacturer.html",
    "정규url": "https://alibaba.com/supplier/acne-patches-manufacturer.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "alibaba.com",
    "제목": "Buy Acne Patches Manufacturer",
    "소스": 1,
@@ -16026,7 +16618,7 @@
   {
    "url": "https://www.alibaba.com/supplier/hydrocolloid-patch-manufacturer.html",
    "정규url": "https://alibaba.com/supplier/hydrocolloid-patch-manufacturer.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "alibaba.com",
    "제목": "Hydrocolloid Patch Manufacturers - Alibaba.com",
    "소스": 1,
@@ -16047,7 +16639,7 @@
   {
    "url": "https://www.alibaba.com/wholesale/korean-acne-patch.html",
    "정규url": "https://alibaba.com/wholesale/korean-acne-patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "alibaba.com",
    "제목": "Wholesale korean acne patch-Buy Best korean acne patch lots from China korean acne patch wholesalers Online",
    "소스": 1,
@@ -16110,7 +16702,7 @@
   {
    "url": "https://www.amazon.com/AUSLKA-Star-Pimple-Patches-Hydrocolloid/dp/B0CR2XPJFV",
    "정규url": "https://amazon.com/AUSLKA-Star-Pimple-Patches-Hydrocolloid/dp/B0CR2XPJFV",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "Amazon.com : AUSLKA Star Pimple Patches - 150 Count - Hydrocolloid Pimple Patches,Cute Star Shape, 6 Colors,Spot Stickers For Face And Skin,Temporary Mirror : Beauty & Personal Care",
    "소스": 1,
@@ -16131,7 +16723,7 @@
   {
    "url": "https://www.amazon.com/Starface-Holographic-Hydrocolloid-Dermatologist-Cruelty-Free/dp/B0GFPZZ6XV",
    "정규url": "https://amazon.com/Starface-Holographic-Hydrocolloid-Dermatologist-Cruelty-Free/dp/B0GFPZZ6XV",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "Starface Hydro-Star® Holographic Hydrocolloid Star Pimple Patch, 36 ct",
    "소스": 1,
@@ -16152,7 +16744,7 @@
   {
    "url": "https://www.amazon.com/Starface-Hydro-Stars-Colorful-Hydrocolloid-Inflammation/dp/B0BHF59N9Y",
    "정규url": "https://amazon.com/Starface-Hydro-Stars-Colorful-Hydrocolloid-Inflammation/dp/B0BHF59N9Y",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "Starface Hydro-Star Party Pack Hydrocolloid Star-Shaped Pimple Patch, 96 ct",
    "소스": 1,
@@ -16173,7 +16765,7 @@
   {
    "url": "https://www.amazon.com/Starface-Hydrocolloid-Effective-Stickers-Protection/dp/B0DNK835M7",
    "정규url": "https://amazon.com/Starface-Hydrocolloid-Effective-Stickers-Protection/dp/B0DNK835M7",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "TIKIYOUN Star Pimple Patches for Face Star Acne Patches Pimple Patch With 6 Colors 2 Sizes 336 Count, Zit Patches Cute Patch Pimple Stickers for Blemish Protection Tools Kit : Beauty & Personal Care",
    "소스": 1,
@@ -16194,7 +16786,7 @@
   {
    "url": "https://www.amazon.com/Starface-Hydrocolloid-Patches-Redness-Neutral/dp/B0CS1J95D3",
    "정규url": "https://amazon.com/Starface-Hydrocolloid-Patches-Redness-Neutral/dp/B0CS1J95D3",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "Starface Hydro-Star® Earth Pimple Patches BIG PACK Refill, Hydrocolloid, Dermatologist Tested, Covers and Protects Visible Spots, Absorbs Pimple Gunk, 4 Neutral Colors, Vegan Skincare (96 Count) : Beauty & Personal Care",
    "소스": 1,
@@ -16215,7 +16807,7 @@
   {
    "url": "https://www.amazon.com/live/video/09a311f12f994502b1c4e30f3fd74afe",
    "정규url": "https://amazon.com/live/video/09a311f12f994502b1c4e30f3fd74afe",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "amazon.com",
    "제목": "",
    "소스": 1,
@@ -16803,7 +17395,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3433685",
    "정규url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3433685",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "",
    "소스": 1,
@@ -16824,7 +17416,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3612963",
    "정규url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3612963",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "",
    "소스": 1,
@@ -16845,7 +17437,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3701069",
    "정규url": "https://buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3701069",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "",
    "소스": 1,
@@ -16866,7 +17458,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3417196",
    "정규url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3417196",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "",
    "소스": 1,
@@ -16887,7 +17479,7 @@
   {
    "url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3707764",
    "정규url": "https://buykorea.org/ec/prd/selectSvcDetail.do?goodsSn=3707764",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "buykorea.org",
    "제목": "",
    "소스": 1,
@@ -17286,7 +17878,7 @@
   {
    "url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=647133",
    "정규url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=647133",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "consensus.hankyung.com",
    "제목": "",
    "소스": 1,
@@ -17328,7 +17920,7 @@
   {
    "url": "https://www.cosinkorea.com/news/article.html?no=17477",
    "정규url": "https://cosinkorea.com/news/article.html?no=17477",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "cosinkorea.com",
    "제목": "2015년 화장품 OEM 전문기업 TOP 50은?",
    "소스": 1,
@@ -17349,7 +17941,7 @@
   {
    "url": "https://www.cosinkorea.com/news/article.html?no=31674",
    "정규url": "https://cosinkorea.com/news/article.html?no=31674",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "cosinkorea.com",
    "제목": "2018년 OEM ODM 업체 TOP 70 입체분석해 보니",
    "소스": 1,
@@ -17475,7 +18067,7 @@
   {
    "url": "https://www.coupang.com/vp/products/7419076212",
    "정규url": "https://coupang.com/vp/products/7419076212",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "coupang.com",
    "제목": "",
    "소스": 1,
@@ -17496,7 +18088,7 @@
   {
    "url": "https://www.coupang.com/vp/products/8200454358",
    "정규url": "https://coupang.com/vp/products/8200454358",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "coupang.com",
    "제목": "",
    "소스": 1,
@@ -17517,7 +18109,7 @@
   {
    "url": "https://www.coupang.com/vp/products/8743287958",
    "정규url": "https://coupang.com/vp/products/8743287958",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "coupang.com",
    "제목": "",
    "소스": 1,
@@ -17538,7 +18130,7 @@
   {
    "url": "https://www.coupang.com/vp/products/9304193431",
    "정규url": "https://coupang.com/vp/products/9304193431",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "coupang.com",
    "제목": "",
    "소스": 1,
@@ -17559,7 +18151,7 @@
   {
    "url": "https://www.coupang.com/vp/products/9469744080?itemId=26956304427&vendorItemId=93925326394",
    "정규url": "https://coupang.com/vp/products/9469744080?itemId=26956304427&vendorItemId=93925326394",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "coupang.com",
    "제목": "",
    "소스": 1,
@@ -18357,7 +18949,7 @@
   {
    "url": "https://www.ec21.com/product-details/Hydrocolloid-Acne-strong-Patch-strong--12076543.html",
    "정규url": "https://ec21.com/product-details/Hydrocolloid-Acne-strong-Patch-strong--12076543.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "ec21.com",
    "제목": "",
    "소스": 1,
@@ -18483,7 +19075,7 @@
   {
    "url": "https://electronics.alibaba.com/supplier/electronic-acne-patch-manufacturer",
    "정규url": "https://electronics.alibaba.com/supplier/electronic-acne-patch-manufacturer",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "electronics.alibaba.com",
    "제목": "Top Electronic Acne Patch Manufacturers for OEM/ODM",
    "소스": 1,
@@ -19365,7 +19957,7 @@
   {
    "url": "https://eyabrush.en.made-in-china.com/product/cXFJmCVrndYz/China-High-Quality-Beveled-Aluminum-Ferrule-Plastic-Handle-Powder-Brush-Makeup-Brush.html",
    "정규url": "https://eyabrush.en.made-in-china.com/product/cXFJmCVrndYz/China-High-Quality-Beveled-Aluminum-Ferrule-Plastic-Handle-Powder-Brush-Makeup-Brush.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "eyabrush.en.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -20310,7 +20902,7 @@
   {
    "url": "https://fo.buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3433696",
    "정규url": "https://fo.buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3433696",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "fo.buykorea.org",
    "제목": "",
    "소스": 1,
@@ -20331,7 +20923,7 @@
   {
    "url": "https://fo.buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3753781",
    "정규url": "https://fo.buykorea.org/ec/prd/selectGoodsDetail.do?goodsSn=3753781",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "fo.buykorea.org",
    "제목": "",
    "소스": 1,
@@ -20352,7 +20944,7 @@
   {
    "url": "https://foosin.en.made-in-china.com/product/BSEJXKDVnZUp/China-Wego-Brand-Hydrocolloid-Wound-Dressing.html",
    "정규url": "https://foosin.en.made-in-china.com/product/BSEJXKDVnZUp/China-Wego-Brand-Hydrocolloid-Wound-Dressing.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "foosin.en.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -20487,8 +21079,8 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "규제기관",
-   "과업": "못 건드림",
+   "매체종류": "디렉터리",
+   "과업": "등록",
    "소속": "남",
    "본문길이": 0,
    "본문해시": "",
@@ -20625,7 +21217,7 @@
   {
    "url": "https://www.glowpick.com/stores/42?cate1Id=8&cate2Id=39&cate3Ids=315&monthTerm=24",
    "정규url": "https://glowpick.com/stores/42?cate1Id=8&cate2Id=39&cate3Ids=315&monthTerm=24",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "glowpick.com",
    "제목": "다이소 스팟패치 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 ... - 글로우픽",
    "소스": 1,
@@ -20646,7 +21238,7 @@
   {
    "url": "https://www.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2022110821781",
    "정규url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2022110821781",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "gobizkorea.com",
    "제목": "",
    "소스": 1,
@@ -20667,7 +21259,7 @@
   {
    "url": "https://www.gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
    "정규url": "https://gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "gobizkorea.com",
    "제목": "Water borne resin PUD | Medical Consumable | GOBIZKOREA.COM",
    "소스": 1,
@@ -20688,7 +21280,7 @@
   {
    "url": "https://www.gobizkorea.com/user/search/search.do?delmyquery=&menu=&sfield=All&sqt=private+label+acne+patch",
    "정규url": "https://gobizkorea.com/user/search/search.do?sfield=All&sqt=private+label+acne+patch",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "gobizkorea.com",
    "제목": "",
    "소스": 1,
@@ -20793,7 +21385,7 @@
   {
    "url": "https://www.hankyung.com/article/202209078027i",
    "정규url": "https://hankyung.com/article/202209078027i",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "",
    "소스": 1,
@@ -20814,7 +21406,7 @@
   {
    "url": "https://www.hankyung.com/article/2024050342417",
    "정규url": "https://hankyung.com/article/2024050342417",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "블랙핑크 로제 얼굴에 저게 뭐야?…불티나게 팔린다 - 한국경제.",
    "소스": 1,
@@ -20835,7 +21427,7 @@
   {
    "url": "https://www.hankyung.com/koreamarket/consensus/pdf/2026-04-ba51c94cbcd41ec6aa67733997c9aa77",
    "정규url": "https://hankyung.com/koreamarket/consensus/pdf/2026-04-ba51c94cbcd41ec6aa67733997c9aa77",
-   "매체": "일반사이트",
+   "매체": "언론",
    "도메인": "hankyung.com",
    "제목": "",
    "소스": 1,
@@ -21171,7 +21763,7 @@
   {
    "url": "https://www.hwahae.co.kr/rankings?english_name=skin&theme_id=1029",
    "정규url": "https://hwahae.co.kr/rankings?english_name=skin&theme_id=1029",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "hwahae.co.kr",
    "제목": "여드름 화장품 추천",
    "소스": 1,
@@ -22032,7 +22624,7 @@
   {
    "url": "https://korean.alibaba.com/f/%EC%A0%90-%ED%8C%A8%EC%B9%98.html",
    "정규url": "https://korean.alibaba.com/f/점-패치.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "Alibaba.com의 점 패치 - 도매 및 맞춤 옵션",
    "소스": 1,
@@ -22053,7 +22645,7 @@
   {
    "url": "https://korean.alibaba.com/f/%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%B8%8C%EB%9F%AC%EC%89%AC-%EC%A2%85%EB%A5%98.html",
    "정규url": "https://korean.alibaba.com/f/파운데이션-브러쉬-종류.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "",
    "소스": 1,
@@ -22074,7 +22666,7 @@
   {
    "url": "https://korean.alibaba.com/g/pimple-patch.html",
    "정규url": "https://korean.alibaba.com/g/pimple-patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "Alibaba.com에서 고품질의 여드름 패치 제조사와 여드름 패치 출처를 명시하기",
    "소스": 1,
@@ -22095,7 +22687,7 @@
   {
    "url": "https://korean.alibaba.com/guides/how-to-choose-pu-olympic-weight-plates-in-kg-a-complete-buying-guide.html",
    "정규url": "https://korean.alibaba.com/guides/how-to-choose-pu-olympic-weight-plates-in-kg-a-complete-buying-guide.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "",
    "소스": 1,
@@ -22116,7 +22708,7 @@
   {
    "url": "https://korean.alibaba.com/product-detail/Private-Label-OEM-Men-s-Nose-1601361067517.html",
    "정규url": "https://korean.alibaba.com/product-detail/Private-Label-OEM-Men-s-Nose-1601361067517.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "korean.alibaba.com",
    "제목": "코 피지 흡수 핑크 여드름 패치 - 밤새 유분 및 노폐물 흡수 - 블랙헤드 제거용 순한 하이드로콜로이드 모공 스트립 - 10개입 - Buy Product on Alibaba.com",
    "소스": 1,
@@ -22242,7 +22834,7 @@
   {
    "url": "https://kr.made-in-china.com/co_ailebaomed/product_Hydrocolloid-Acne-Patch-Raw-Material-Hydrocolloid-Dressing-Raw-Material-Waterproof-Soft_ysosyynoug.html",
    "정규url": "https://kr.made-in-china.com/co_ailebaomed/product_Hydrocolloid-Acne-Patch-Raw-Material-Hydrocolloid-Dressing-Raw-Material-Waterproof-Soft_ysosyynoug.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -22263,7 +22855,7 @@
   {
    "url": "https://kr.made-in-china.com/co_huaweimedical/product_FDA-Approved-Hydrocolloid-Acne-Pimple-Patch-for-Covering-Zits-and-Blemishes-for-Face-and-Skin_yuonrnuigg.html",
    "정규url": "https://kr.made-in-china.com/co_huaweimedical/product_FDA-Approved-Hydrocolloid-Acne-Pimple-Patch-for-Covering-Zits-and-Blemishes-for-Face-and-Skin_yuonrnuigg.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -22284,7 +22876,7 @@
   {
    "url": "https://kr.made-in-china.com/co_mightypatch/product_New-Design-OEM-Patch-Pimples-Personalized-Acne-Patch-For-Covering-Zits_ysriiseooy.html",
    "정규url": "https://kr.made-in-china.com/co_mightypatch/product_New-Design-OEM-Patch-Pimples-Personalized-Acne-Patch-For-Covering-Zits_ysriiseooy.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -22305,7 +22897,7 @@
   {
    "url": "https://kr.made-in-china.com/factory/wound-healing.html",
    "정규url": "https://kr.made-in-china.com/factory/wound-healing.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "상처 치유 공장, 중국 상처 치유 공장 목록 당신은에서 직접 구입할 수 있습니다.",
    "소스": 1,
@@ -22326,7 +22918,7 @@
   {
    "url": "https://kr.made-in-china.com/video-channel/hanguhealth_YwvASpfUJbGR_Medical-Grade-Hydrocolloid-Face-Patches-for-Acne-Spot-Relief.html",
    "정규url": "https://kr.made-in-china.com/video-channel/hanguhealth_YwvASpfUJbGR_Medical-Grade-Hydrocolloid-Face-Patches-for-Acne-Spot-Relief.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -22347,7 +22939,7 @@
   {
    "url": "https://kr.made-in-china.com/video-channel/mightypatch_adPGFpxTqItV_Invisible-Acne-Stickers-Effectively-Remove-Pimples-Acne.html",
    "정규url": "https://kr.made-in-china.com/video-channel/mightypatch_adPGFpxTqItV_Invisible-Acne-Stickers-Effectively-Remove-Pimples-Acne.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "kr.made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -22746,7 +23338,7 @@
   {
    "url": "https://lu.kompass.com/p/nurimedics-co-ltd/kr028184/hydrocolloid-patch-acne-patch-beveling-type-hydrocolloid-acne/c41ecd86-ccfb-470e-bdc9-cfa8bf97e792/",
    "정규url": "https://lu.kompass.com/p/nurimedics-co-ltd/kr028184/hydrocolloid-patch-acne-patch-beveling-type-hydrocolloid-acne/c41ecd86-ccfb-470e-bdc9-cfa8bf97e792",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "lu.kompass.com",
    "제목": "",
    "소스": 1,
@@ -22956,7 +23548,7 @@
   {
    "url": "https://m.coupang.com/nm/plp/557249",
    "정규url": "https://coupang.com/nm/plp/557249",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "m.coupang.com",
    "제목": "스팟패치 - 스킨케어 | 쿠팡",
    "소스": 1,
@@ -22998,7 +23590,7 @@
   {
    "url": "https://m.gmarket.co.kr/vi/product/1729794165",
    "정규url": "https://gmarket.co.kr/vi/product/1729794165",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "m.gmarket.co.kr",
    "제목": "",
    "소스": 1,
@@ -23208,7 +23800,7 @@
   {
    "url": "https://www.made-in-china.com/price/prodetail_Polishing-Pad_gOpARZajnFfk.html",
    "정규url": "https://made-in-china.com/price/prodetail_Polishing-Pad_gOpARZajnFfk.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "made-in-china.com",
    "제목": "",
    "소스": 1,
@@ -23229,7 +23821,7 @@
   {
    "url": "https://www.made-in-china.com/products-search/hot-china-products/Acne_Patch.html",
    "정규url": "https://made-in-china.com/products-search/hot-china-products/Acne_Patch.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "made-in-china.com",
    "제목": "China Acne Patch, Acne Patch Wholesale, Manufacturers, Price",
    "소스": 1,
@@ -24993,7 +25585,7 @@
   {
    "url": "https://neomedipharm.tradekorea.com/",
    "정규url": "https://neomedipharm.tradekorea.com",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "neomedipharm.tradekorea.com",
    "제목": "",
    "소스": 1,
@@ -25581,7 +26173,7 @@
   {
    "url": "https://oemkorea.com/products/eye-sheet-patch",
    "정규url": "https://oemkorea.com/products/eye-sheet-patch",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "oemkorea.com",
    "제목": "Sheet Eye Patch OEM/ODM & Private Label Manufacturing in Korea",
    "소스": 1,
@@ -25602,7 +26194,7 @@
   {
    "url": "https://oemkorea.com/products/microneedle-patch",
    "정규url": "https://oemkorea.com/products/microneedle-patch",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "oemkorea.com",
    "제목": "",
    "소스": 1,
@@ -25623,7 +26215,7 @@
   {
    "url": "https://oemkorea.com/products/spot-pad",
    "정규url": "https://oemkorea.com/products/spot-pad",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "oemkorea.com",
    "제목": "Spot Pad OEM/ODM & Private Label Manufacturing in Korea | OEMKorea",
    "소스": 1,
@@ -25791,7 +26383,7 @@
   {
    "url": "https://orangeboard.co.kr/%40future100k/posts/2840",
    "정규url": "https://orangeboard.co.kr/@future100k/posts/2840",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "도메인": "orangeboard.co.kr",
    "제목": "",
    "소스": 1,
@@ -25812,7 +26404,7 @@
   {
    "url": "https://orangeboard.co.kr/%40gyeongho/posts/1778",
    "정규url": "https://orangeboard.co.kr/@gyeongho/posts/1778",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "도메인": "orangeboard.co.kr",
    "제목": "",
    "소스": 1,
@@ -26505,7 +27097,7 @@
   {
    "url": "https://prod.danawa.com/info/?pcode=122144363",
    "정규url": "https://prod.danawa.com/info?pcode=122144363",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "prod.danawa.com",
    "제목": "",
    "소스": 1,
@@ -26526,7 +27118,7 @@
   {
    "url": "https://prod.danawa.com/info/?pcode=30403361",
    "정규url": "https://prod.danawa.com/info?pcode=30403361",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "prod.danawa.com",
    "제목": "",
    "소스": 1,
@@ -28395,7 +28987,7 @@
   {
    "url": "https://search.danawa.com/dsearch.php?query=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EB%B0%B4%EB%93%9C",
    "정규url": "https://search.danawa.com/dsearch.php?query=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EB%B0%B4%EB%93%9C",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "search.danawa.com",
    "제목": "하이드로콜로이드 밴드 통합검색 : 다나와 통합검색",
    "소스": 1,
@@ -28437,7 +29029,7 @@
   {
    "url": "https://www.selfcos.com/category",
    "정규url": "https://selfcos.com/category",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "selfcos.com",
    "제목": "셀프코스: 화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적",
    "소스": 1,
@@ -28458,7 +29050,7 @@
   {
    "url": "https://www.selfcos.com/index/company_list/cosmetic",
    "정규url": "https://selfcos.com/index/company_list/cosmetic",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "selfcos.com",
    "제목": "셀프코스 - 화장품 제조 플랫폼",
    "소스": 1,
@@ -28899,7 +29491,7 @@
   {
    "url": "https://stores.auction.co.kr/catchmepatch",
    "정규url": "https://stores.auction.co.kr/catchmepatch",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "stores.auction.co.kr",
    "제목": "",
    "소스": 1,
@@ -29676,7 +30268,7 @@
   {
    "url": "https://tnl.tradekorea.com/product.do",
    "정규url": "https://tnl.tradekorea.com/product.do",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tnl.tradekorea.com",
    "제목": "",
    "소스": 1,
@@ -29823,7 +30415,7 @@
   {
    "url": "https://www.tradekorea.com/companies/detail.do?businessno=216449",
    "정규url": "https://tradekorea.com/companies/detail.do?businessno=216449",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "tradeKorea, Global B2B Trade Website - Offer Global Business, Buyer Matching Services",
    "소스": 1,
@@ -29844,7 +30436,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
    "정규url": "https://tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "",
    "소스": 1,
@@ -29865,7 +30457,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P794919/Acne---Spot-Facial-Patches-for-OEM%2C-ODM-or-distributor-in-your-country%2C-Korean-Skincare-Cosmetics-.html",
    "정규url": "https://tradekorea.com/product/detail/P794919/Acne---Spot-Facial-Patches-for-OEM,-ODM-or-distributor-in-your-country,-Korean-Skincare-Cosmetics-.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "",
    "소스": 1,
@@ -29886,7 +30478,7 @@
   {
    "url": "https://www.tradekorea.com/product/detail/P818910/Contains-salicylic-acid-Hydrocolloid-Patches-.html",
    "정규url": "https://tradekorea.com/product/detail/P818910/Contains-salicylic-acid-Hydrocolloid-Patches-.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "Contains salicylic acid Hydrocolloid Patches | tradekorea",
    "소스": 1,
@@ -29907,7 +30499,7 @@
   {
    "url": "https://www.tradekorea.com/products/cHJpdmF0ZSBsYWJlbCBhY25lIHBhdGNo.html",
    "정규url": "https://tradekorea.com/products/cHJpdmF0ZSBsYWJlbCBhY25lIHBhdGNo.html",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "도메인": "tradekorea.com",
    "제목": "private label acne patch | tradekorea",
    "소스": 1,
@@ -31352,7 +31944,7 @@
      "추천": 4,
      "경로": {
       "자사홈페이지": 2,
-      "일반사이트": 1,
+      "플랫폼": 1,
       "모름": 1
      },
      "페이지": [
@@ -31365,7 +31957,7 @@
       {
        "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
        "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       },
       {
@@ -31382,7 +31974,7 @@
      "경로": {
       "자사홈페이지": 1,
       "모름": 1,
-      "일반사이트": 1
+      "플랫폼": 1
      },
      "페이지": [
       {
@@ -31394,7 +31986,7 @@
       {
        "url": "https://tnl.tradekorea.com/main.do",
        "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -31505,13 +32097,13 @@
      "추천": 4,
      "경로": {
       "모름": 3,
-      "일반사이트": 1
+      "언론": 1
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202109160793i",
        "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -31525,14 +32117,14 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -31646,8 +32238,9 @@
      "name": "티앤엘",
      "추천": 6,
      "경로": {
-      "일반사이트": 3,
-      "모름": 3
+      "일반사이트": 2,
+      "모름": 3,
+      "블로그": 1
      },
      "페이지": [
       {
@@ -31665,7 +32258,7 @@
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       },
       {
@@ -31680,7 +32273,7 @@
      "name": "니코메디칼",
      "추천": 6,
      "경로": {
-      "일반사이트": 2,
+      "언론": 2,
       "자사홈페이지": 1,
       "모름": 3
      },
@@ -31688,7 +32281,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -31700,7 +32293,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -31777,14 +32370,14 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -31898,7 +32491,7 @@
      "경로": {
       "모름": 2,
       "자사홈페이지": 2,
-      "일반사이트": 1
+      "언론": 1
      },
      "페이지": [
       {
@@ -31916,7 +32509,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -31967,7 +32560,7 @@
      "name": "니코메디칼",
      "추천": 5,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "자사홈페이지": 3,
       "모름": 1
      },
@@ -31981,18 +32574,18 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "매체": "언론",
        "n": 1
       },
       {
        "url": "http://www.nicomedical.com/default/company/history.php",
        "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -32112,7 +32705,7 @@
      "name": "니코메디칼",
      "추천": 5,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "자사홈페이지": 2,
       "모름": 2
      },
@@ -32126,7 +32719,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -32240,13 +32833,13 @@
      "추천": 5,
      "경로": {
       "모름": 4,
-      "일반사이트": 1
+      "플랫폼": 1
      },
      "페이지": [
       {
        "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
        "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -32256,25 +32849,26 @@
      "추천": 3,
      "경로": {
       "모름": 1,
-      "일반사이트": 2
+      "언론": 1,
+      "플랫폼": 1
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202109160793i",
        "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       },
       {
        "url": "https://tnl.tradekorea.com/main.do",
        "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -32396,13 +32990,13 @@
      "추천": 4,
      "경로": {
       "모름": 3,
-      "일반사이트": 1
+      "블로그": 1
      },
      "페이지": [
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -32531,7 +33125,7 @@
      "name": "니코메디칼",
      "추천": 5,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "자사홈페이지": 2,
       "모름": 2
      },
@@ -32545,7 +33139,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -32560,13 +33154,13 @@
      "name": "YNK바이오코스",
      "추천": 1,
      "경로": {
-      "일반사이트": 1
+      "언론": 1
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202606306824O",
        "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -32602,14 +33196,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -32638,13 +33232,13 @@
      "추천": 4,
      "경로": {
       "모름": 3,
-      "일반사이트": 1
+      "블로그": 1
      },
      "페이지": [
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -32733,20 +33327,20 @@
      "name": "티앤엘",
      "추천": 4,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "모름": 3
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202109160793i",
        "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -32760,14 +33354,14 @@
      },
      "페이지": [
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -32880,7 +33474,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -32900,14 +33494,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
-       "제목": "레노케어 하이드로콜로이드 드레싱 (Thin) > Standard | T&L - 티앤엘",
+       "url": "https://www.tnl.co.kr/?lang=EN",
+       "제목": "Product - T&L",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.tnl.co.kr/?lang=EN",
-       "제목": "Product - T&L",
+       "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
+       "제목": "레노케어 하이드로콜로이드 드레싱 (Thin) > Standard | T&L - 티앤엘",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -32989,7 +33583,7 @@
      "추천": 5,
      "경로": {
       "자사홈페이지": 3,
-      "일반사이트": 1,
+      "언론": 1,
       "모름": 1
      },
      "페이지": [
@@ -33002,7 +33596,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -33095,7 +33689,7 @@
      "추천": 3,
      "경로": {
       "자사홈페이지": 2,
-      "일반사이트": 1
+      "언론": 1
      },
      "페이지": [
       {
@@ -33107,7 +33701,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -33123,13 +33717,13 @@
      "추천": 2,
      "경로": {
       "모름": 1,
-      "일반사이트": 1
+      "블로그": 1
      },
      "페이지": [
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -33330,20 +33924,21 @@
      "name": "티앤엘",
      "추천": 5,
      "경로": {
-      "일반사이트": 2,
-      "모름": 3
+      "블로그": 1,
+      "모름": 3,
+      "플랫폼": 1
      },
      "페이지": [
       {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       },
       {
        "url": "https://tnl.tradekorea.com/main.do",
        "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -33445,7 +34040,7 @@
      "name": "니코메디칼",
      "추천": 6,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "모름": 2,
       "자사홈페이지": 3
      },
@@ -33453,18 +34048,18 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "매체": "언론",
        "n": 1
       },
       {
        "url": "http://www.nicomedical.com/default/product/product1.php",
        "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -33480,14 +34075,14 @@
      "name": "티앤엘",
      "추천": 4,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "모름": 3
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202109160793i",
        "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -33619,13 +34214,13 @@
      "name": "YNK바이오코스",
      "추천": 1,
      "경로": {
-      "일반사이트": 1
+      "언론": 1
      },
      "페이지": [
       {
        "url": "https://www.hankyung.com/article/202606306824O",
        "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -33668,13 +34263,13 @@
      "추천": 5,
      "경로": {
       "모름": 4,
-      "일반사이트": 1
+      "블로그": 1
      },
      "페이지": [
       {
        "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
-       "매체": "일반사이트",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -33872,7 +34467,7 @@
      "추천": 5,
      "경로": {
       "자사홈페이지": 3,
-      "일반사이트": 1,
+      "언론": 1,
       "모름": 1
      },
      "페이지": [
@@ -33885,7 +34480,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 2
       },
       {
@@ -34024,14 +34619,14 @@
      "name": "니코메디칼",
      "추천": 5,
      "경로": {
-      "일반사이트": 2,
+      "언론": 2,
       "자사홈페이지": 3
      },
      "페이지": [
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 2
       },
       {
@@ -34043,7 +34638,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -34113,14 +34708,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -34207,7 +34802,7 @@
      "name": "니코메디칼",
      "추천": 6,
      "경로": {
-      "일반사이트": 2,
+      "언론": 2,
       "자사홈페이지": 3,
       "모름": 1
      },
@@ -34215,7 +34810,7 @@
       {
        "url": "https://www.cosinkorea.com/news/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 2
       },
       {
@@ -34227,7 +34822,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -34329,7 +34924,7 @@
      "name": "니코메디칼",
      "추천": 5,
      "경로": {
-      "일반사이트": 1,
+      "언론": 1,
       "자사홈페이지": 3,
       "모름": 1
      },
@@ -34343,7 +34938,7 @@
       {
        "url": "https://cosinkorea.com/mobile/article.html?no=56672",
        "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "일반사이트",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -34365,13 +34960,13 @@
      "추천": 3,
      "경로": {
       "모름": 2,
-      "일반사이트": 1
+      "플랫폼": 1
      },
      "페이지": [
       {
        "url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
        "제목": "T&L CO.,LTD. - Company Profile",
-       "매체": "일반사이트",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -34613,7 +35208,7 @@
   {
    "url": "https://www.cosinkorea.com/news/article.html?no=56672",
    "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-   "매체": "일반사이트",
+   "매체": "언론",
    "병원": "니코메디칼",
    "문항": [
     "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
@@ -34744,7 +35339,7 @@
   {
    "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
    "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "병원": "티앤엘",
    "문항": [
     "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
@@ -34768,7 +35363,7 @@
   {
    "url": "https://cosinkorea.com/mobile/article.html?no=56672",
    "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-   "매체": "일반사이트",
+   "매체": "언론",
    "병원": "니코메디칼",
    "문항": [
     "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
@@ -34857,7 +35452,7 @@
   {
    "url": "https://www.hankyung.com/article/202109160793i",
    "제목": "미국인도 고민하는 여드름…여드름패치 티앤엘 급등",
-   "매체": "일반사이트",
+   "매체": "언론",
    "병원": "티앤엘",
    "문항": [
     "내 브랜드로 여드름 패치 만들어 줄 수 있는 제조사 어디야?",
@@ -34919,7 +35514,7 @@
   {
    "url": "https://tnl.tradekorea.com/main.do",
    "제목": "T&L CO., LTD T&L CO., LTD Country Image: South Korea South Korea Verified Certificate Contact * Send Inquiry * +82-31-651-6255 COMPANY INTRODUCTION Image T&L Co., Ltd. was founded in the 9th...",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "병원": "티앤엘",
    "문항": [
     "여드름 패치 납품용 제조사 추천해 줘.",
@@ -34999,7 +35594,7 @@
   {
    "url": "https://m.gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
    "제목": "Nicomedical Acne Patch OEM/ODM | Skin Care | GOBIZKOREA.COM",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "병원": "니코메디칼",
    "문항": [
     "여드름 패치 납품용 제조사 추천해 줘.",
@@ -35056,7 +35651,7 @@
   {
    "url": "https://www.hankyung.com/article/202606306824O",
    "제목": "Y&K BIOCOS 여름철 여드름 패치, 흡수력·접착력·소재 확인해야 | 한국경제",
-   "매체": "일반사이트",
+   "매체": "언론",
    "병원": "YNK바이오코스",
    "문항": [
     "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
@@ -35400,24 +35995,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
-   "제목": "레노케어 하이드로콜로이드 드레싱 (Thin) > Standard | T&L - 티앤엘",
-   "매체": "자사홈페이지",
-   "병원": "티앤엘",
-   "문항": [
-    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
    "url": "https://www.tnl.co.kr/?lang=EN",
    "제목": "Product - T&L",
    "매체": "자사홈페이지",
@@ -35428,6 +36005,24 @@
    "각주": 1,
    "문항수": 1,
    "종류": "대문",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
+   "제목": "레노케어 하이드로콜로이드 드레싱 (Thin) > Standard | T&L - 티앤엘",
+   "매체": "자사홈페이지",
+   "병원": "티앤엘",
+   "문항": [
+    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
    "소스": 2,
    "인용": 1,
    "매체종류": "회사 사이트",
@@ -35492,7 +36087,7 @@
   {
    "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
    "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
-   "매체": "일반사이트",
+   "매체": "블로그",
    "병원": "티앤엘",
    "문항": [
     "자기 브랜드 안 하는 여드름 패치 제조사 있어? 우리랑 안 겹치는 데로 찾고 있어"
@@ -35636,7 +36231,7 @@
   {
    "url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
    "제목": "T&L CO.,LTD. - Company Profile",
-   "매체": "일반사이트",
+   "매체": "플랫폼",
    "병원": "티앤엘",
    "문항": [
     "하이드로콜로이드 패치 시트 제조사 추천해줘"
