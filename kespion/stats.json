@@ -683,8 +683,8 @@
    "me": true,
    "호명": {
     "회차": 16,
-    "일위": 2,
-    "평균순위": 2.69,
+    "일위": 1,
+    "평균순위": 3.44,
     "최고": 1
    },
    "추천": {
@@ -781,7 +781,7 @@
      "지도": 0,
      "호명회차": 3,
      "호명1위": 0,
-     "호명평균": 3.0
+     "호명평균": 3.67
     },
     {
      "질문": "여드름 패치 납품용 제조사 추천해 줘.",
@@ -793,7 +793,7 @@
      "지도": 0,
      "호명회차": 2,
      "호명1위": 0,
-     "호명평균": 3.0
+     "호명평균": 4.5
     },
     {
      "질문": "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
@@ -805,7 +805,7 @@
      "지도": 0,
      "호명회차": 1,
      "호명1위": 0,
-     "호명평균": 3.0
+     "호명평균": 5.0
     },
     {
      "질문": "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
@@ -865,7 +865,7 @@
      "지도": 0,
      "호명회차": 1,
      "호명1위": 0,
-     "호명평균": 3.0
+     "호명평균": 4.0
     },
     {
      "질문": "지금 쓰는 여드름 패치 제조사 말고 이중 공급사 두려는데 어디가 좋아?",
@@ -889,7 +889,7 @@
      "지도": 0,
      "호명회차": 1,
      "호명1위": 0,
-     "호명평균": 5.0
+     "호명평균": 6.0
     },
     {
      "질문": "내 브랜드로 여드름 패치 만들어 줄 수 있는 제조사 어디야?",
@@ -901,7 +901,7 @@
      "지도": 0,
      "호명회차": 1,
      "호명1위": 0,
-     "호명평균": 2.0
+     "호명평균": 4.0
     },
     {
      "질문": "하이드로콜로이드 여드름 패치 ODM 업체 알려줘",
@@ -912,8 +912,8 @@
      "추천": 1,
      "지도": 0,
      "호명회차": 1,
-     "호명1위": 1,
-     "호명평균": 1.0
+     "호명1위": 0,
+     "호명평균": 2.0
     },
     {
      "질문": "하이드로콜로이드 패치 ODM 업체 알려줘",
@@ -1183,7 +1183,8 @@
       "소속": "자기",
       "소스": 34,
       "인용": 12,
-      "추천": 12
+      "단독": 12,
+      "같이": 0
      },
      {
       "url": "https://wowtv.co.kr/TotalSearch/Mariner/Index?searchTerm=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C",
@@ -1193,7 +1194,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 3,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04542806645320344",
@@ -1203,7 +1205,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -1215,6 +1218,15 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 4
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 12
+    },
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 4,
+    "합": 16
    },
    "인용페이지목록": [
     {
@@ -1252,7 +1264,7 @@
    "호명": {
     "회차": 97,
     "일위": 60,
-    "평균순위": 1.45,
+    "평균순위": 1.46,
     "최고": 1
    },
    "추천": {
@@ -1347,7 +1359,7 @@
     "종류": {
      "인용": {
       "회사 사이트": 11,
-      "입점몰": 4,
+      "상품등록페이지": 4,
       "경제언론": 20,
       "블로그": 69,
       "백과": 1,
@@ -1356,7 +1368,7 @@
      },
      "소스": {
       "회사 사이트": 36,
-      "입점몰": 15,
+      "상품등록페이지": 15,
       "쇼핑검색": 17,
       "경제언론": 25,
       "블로그": 100,
@@ -1369,7 +1381,7 @@
      },
      "장": {
       "회사 사이트": 26,
-      "입점몰": 5,
+      "상품등록페이지": 5,
       "쇼핑검색": 1,
       "경제언론": 9,
       "블로그": 18,
@@ -1427,7 +1439,8 @@
       "소속": "남",
       "소스": 28,
       "인용": 36,
-      "추천": 25
+      "단독": 16,
+      "같이": 9
      },
      {
       "url": "https://blog.naver.com/tnl3113/223517945030",
@@ -1437,37 +1450,8 @@
       "소속": "남",
       "소스": 29,
       "인용": 18,
-      "추천": 18
-     },
-     {
-      "url": "https://orangeboard.co.kr/@tenbagger/미국-아마존-1위-여드름-패치-ODM-기업-티앤엘-3405703",
-      "도메인": "orangeboard.co.kr",
-      "매체종류": "블로그",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 5,
-      "인용": 8,
-      "추천": 6
-     },
-     {
-      "url": "https://mt.co.kr/stock/2023/12/05/2023120509494890352",
-      "도메인": "mt.co.kr",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 9,
-      "인용": 6,
-      "추천": 5
-     },
-     {
-      "url": "https://hankyung.com/article/202109160793i",
-      "도메인": "hankyung.com",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 4,
-      "인용": 9,
-      "추천": 4
+      "단독": 16,
+      "같이": 2
      },
      {
       "url": "https://everbryan.tistory.com/70",
@@ -1477,37 +1461,41 @@
       "소속": "남",
       "소스": 6,
       "인용": 4,
-      "추천": 3
+      "단독": 3,
+      "같이": 0
      },
      {
       "url": "https://tnl.tradekorea.com/main.do",
       "도메인": "tnl.tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 10,
       "인용": 3,
-      "추천": 3
+      "단독": 3,
+      "같이": 0
      },
      {
-      "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
-      "도메인": "tnl.co.kr",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 3,
-      "인용": 3,
-      "추천": 3
-     },
-     {
-      "url": "https://dhdaily.co.kr/news/articleView.html?idxno=27403",
-      "도메인": "dhdaily.co.kr",
-      "매체종류": "기타",
+      "url": "https://orangeboard.co.kr/@tenbagger/미국-아마존-1위-여드름-패치-ODM-기업-티앤엘-3405703",
+      "도메인": "orangeboard.co.kr",
+      "매체종류": "블로그",
       "과업": "못 건드림",
       "소속": "남",
-      "소스": 1,
-      "인용": 3,
-      "추천": 3
+      "소스": 5,
+      "인용": 8,
+      "단독": 2,
+      "같이": 4
+     },
+     {
+      "url": "https://mt.co.kr/stock/2023/12/05/2023120509494890352",
+      "도메인": "mt.co.kr",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 9,
+      "인용": 6,
+      "단독": 2,
+      "같이": 3
      },
      {
       "url": "https://contents.premium.naver.com/tenbagger/10bagger/contents/241115145156460pi",
@@ -1517,7 +1505,8 @@
       "소속": "남",
       "소스": 3,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=hydrocolloid3",
@@ -1527,27 +1516,8 @@
       "소속": "자기",
       "소스": 3,
       "인용": 2,
-      "추천": 2
-     },
-     {
-      "url": "https://blog.naver.com/invesqueeze/223877913221",
-      "도메인": "blog.naver.com",
-      "매체종류": "블로그",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 2,
-      "인용": 2,
-      "추천": 2
-     },
-     {
-      "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
-      "도메인": "pharm.edaily.co.kr",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 2,
-      "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=584&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98&page=3",
@@ -1557,17 +1527,30 @@
       "소속": "자기",
       "소스": 1,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
-      "url": "https://valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
-      "도메인": "valley.town",
-      "매체종류": "기타",
-      "과업": "못 건드림",
+      "url": "https://hankyung.com/article/202109160793i",
+      "도메인": "hankyung.com",
+      "매체종류": "경제언론",
+      "과업": "기고",
       "소속": "남",
-      "소스": 1,
-      "인용": 2,
-      "추천": 2
+      "소스": 4,
+      "인용": 9,
+      "단독": 1,
+      "같이": 3
+     },
+     {
+      "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
+      "도메인": "tnl.co.kr",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 3,
+      "인용": 3,
+      "단독": 1,
+      "같이": 2
      },
      {
       "url": "https://sks.co.kr/data1/research/qna_file/20230402204845785_0_ko.pdf",
@@ -1577,27 +1560,19 @@
       "소속": "남",
       "소스": 4,
       "인용": 2,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://a051358127264.gobizkorea.com/mini/site/companyProfile.do",
       "도메인": "a051358127264.gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 2,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
-      "도메인": "blog.naver.com",
-      "매체종류": "블로그",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 2,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://file.myasset.com/sitemanager/upload/2024/0410/155135/20240410155135903_0_ko.pdf",
@@ -1607,7 +1582,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://ibks.com/company/common/download.jsp?filename=20220916072851353_ko.pdf&filepath=%2Ffiles%2Ftradeinfo%2Fbusreport",
@@ -1617,17 +1593,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://pharm.edaily.co.kr/news/read?newsId=01882726638856448",
-      "도메인": "pharm.edaily.co.kr",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 2,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa_other_en&page=2&sod=desc&sop=and&sst=wr_hit&wr_id=65",
@@ -1637,17 +1604,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
-      "도메인": "tnl.co.kr",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 2,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=584&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98&sst=wr_hit&sod=desc&sop=and&page=1",
@@ -1657,17 +1615,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://tnl.co.kr?lang=EN",
-      "도메인": "tnl.co.kr?lang=en",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 2,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://alphadistill.com/report/505",
@@ -1677,27 +1626,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://asiae.co.kr/article/2021052514024102630",
-      "도메인": "asiae.co.kr",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 1,
-      "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://namu.wiki/w/히어로 코스메틱스",
-      "도메인": "namu.wiki",
-      "매체종류": "백과",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 1,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://youtube.com/watch?v=MfcmzvLmQv8&t=63",
@@ -1707,7 +1637,118 @@
       "소속": "남",
       "소스": 1,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
+     },
+     {
+      "url": "https://dhdaily.co.kr/news/articleView.html?idxno=27403",
+      "도메인": "dhdaily.co.kr",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 3,
+      "단독": 0,
+      "같이": 3
+     },
+     {
+      "url": "https://blog.naver.com/invesqueeze/223877913221",
+      "도메인": "blog.naver.com",
+      "매체종류": "블로그",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 2,
+      "인용": 2,
+      "단독": 0,
+      "같이": 2
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
+      "도메인": "pharm.edaily.co.kr",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 2,
+      "인용": 2,
+      "단독": 0,
+      "같이": 2
+     },
+     {
+      "url": "https://valley.town/space/@aurumresearch/articles/670936d39fff010bc648e1c4",
+      "도메인": "valley.town",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 2,
+      "단독": 0,
+      "같이": 2
+     },
+     {
+      "url": "https://blog.naver.com/PostView.naver?blogId=normal_life_dream&logNo=223783398710",
+      "도메인": "blog.naver.com",
+      "매체종류": "블로그",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 2,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://pharm.edaily.co.kr/news/read?newsId=01882726638856448",
+      "도메인": "pharm.edaily.co.kr",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 2,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://tnl.co.kr/bbs/board.php?bo_table=hydrocolloid&wr_id=68",
+      "도메인": "tnl.co.kr",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 2,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://tnl.co.kr?lang=EN",
+      "도메인": "tnl.co.kr?lang=en",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 2,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://asiae.co.kr/article/2021052514024102630",
+      "도메인": "asiae.co.kr",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 1,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://namu.wiki/w/히어로 코스메틱스",
+      "도메인": "namu.wiki",
+      "매체종류": "백과",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
      },
      {
       "url": "https://mordorintelligence.kr/industry-reports/anti-acne-dermal-patch-market",
@@ -1717,7 +1758,8 @@
       "소속": "남",
       "소스": 3,
       "인용": 2,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://news.mt.co.kr/mtview.php?no=2023120509494890352",
@@ -1727,7 +1769,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 1,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
@@ -1737,7 +1780,8 @@
       "소속": "입점",
       "소스": 17,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://blog.naver.com/findingmyself20/222877821941",
@@ -1747,7 +1791,8 @@
       "소속": "남",
       "소스": 15,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ssl.pstatic.net/imgstock/upload/research/company/1640743116875.pdf",
@@ -1757,7 +1802,8 @@
       "소속": "남",
       "소스": 11,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://namu.wiki/w/위탁생산",
@@ -1767,7 +1813,8 @@
       "소속": "남",
       "소스": 5,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://hankyung.com/article/2021091615911",
@@ -1777,7 +1824,8 @@
       "소속": "남",
       "소스": 4,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://file.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/05/17/TnL_260518.pdf",
@@ -1787,7 +1835,8 @@
       "소속": "남",
       "소스": 3,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://blog.naver.com/eunsun879700/222328605545",
@@ -1797,7 +1846,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://orangeboard.co.kr/@California/posts/1008",
@@ -1807,7 +1857,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&page=3&sod=asc&sop=and&sst=wr_datetime",
@@ -1817,7 +1868,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98&page=2",
@@ -1827,7 +1879,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnlhealthcare.co.kr?redirect=no",
@@ -1837,7 +1890,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://valley.town/competitions/valley-insights/analysis/6842a2700000000000000000",
@@ -1847,7 +1901,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://astoria0208.tistory.com/990",
@@ -1857,7 +1912,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://bioin.or.kr/EntrprsIntrcn.do?bid=company&cmd=view&num=480",
@@ -1867,7 +1923,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://blog.naver.com/gwon4913/222644856737",
@@ -1877,7 +1934,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://blog.naver.com/fakecloud7/223150328781",
@@ -1887,7 +1945,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://businesskorea.co.kr/news/articleView.html?idxno=64152",
@@ -1897,7 +1956,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=00608440",
@@ -1907,7 +1967,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://everbryan.tistory.com/76",
@@ -1917,7 +1978,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://file.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/04/13/TnL_260414.pdf",
@@ -1927,17 +1989,19 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://gobizkorea.com/user/goods/frontGoodsDetail.do?goods_no=GS20180317034299",
       "도메인": "gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://jobplanet.co.kr/companies/50886/landing/www.tnl.co.kr",
@@ -1947,7 +2011,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://journal19302.tistory.com/30",
@@ -1957,7 +2022,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://luckysevens.tistory.com/2258",
@@ -1967,7 +2033,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://medica.mobi/tl-co-ltd.html",
@@ -1977,7 +2044,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://medicalaialliance.org/ko/companies/t-l-340570",
@@ -1987,7 +2055,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://mt.co.kr/renew/view.html?no=2023120509494890352",
@@ -1997,7 +2066,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://orangeboard.co.kr/@future100k/posts/2840",
@@ -2007,7 +2077,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://orangeboard.co.kr/@gyeongho/posts/1778",
@@ -2017,7 +2088,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://patents.google.com/patent/KR102083002B1/en",
@@ -2027,7 +2099,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tl-biotech.com/ko",
@@ -2037,7 +2110,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa_other_en&wr_id=468",
@@ -2047,7 +2121,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa_other_en&page=9&sod=desc&sop=and&sst=wr_hit&wr_id=219",
@@ -2057,7 +2132,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa_other_en&wr_id=433",
@@ -2067,7 +2143,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=notice&page=3&wr_id=153",
@@ -2077,7 +2154,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa_other_en&wr_id=463",
@@ -2087,7 +2165,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=notice&page=9&wr_id=153",
@@ -2097,7 +2176,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=1212",
@@ -2107,7 +2187,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&page=2&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98",
@@ -2117,7 +2198,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&page=7&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98&sod=desc&sop=and&sst=wr_datetime",
@@ -2127,7 +2209,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&page=8&sca=%EC%A0%9C%ED%92%88%EB%AC%B8%EC%9D%98&sod=asc&sop=and&sst=wr_datetime",
@@ -2137,7 +2220,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/sub/sub02_01_03.php",
@@ -2147,7 +2231,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/sub/sub02_03_03_01.php",
@@ -2157,7 +2242,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/sub/sub02_02_01.php",
@@ -2167,7 +2253,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/sub_en/sub02_03_01_03.php",
@@ -2177,7 +2264,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=splint2&wr_id=10",
@@ -2187,7 +2275,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=silicone&wr_id=16",
@@ -2197,7 +2286,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.co.kr/bbs/board.php?bo_table=qa&sst=wr_datetime&sod=asc&sop=and&page=3",
@@ -2207,17 +2297,19 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnl.tradekorea.com/product.do",
       "도메인": "tnl.tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnlhealthcare.co.kr",
@@ -2227,7 +2319,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnlhealthcare.co.kr/25",
@@ -2237,7 +2330,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tnlpr.tistory.com/212",
@@ -2247,17 +2341,19 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/product/detail/P102499/RenoCare-Hydrocolloid-Spot-Patch.html?exhibitionno=2708",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://v.daum.net/v/Q6ZX3rYcNv",
@@ -2267,7 +2363,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -2279,6 +2376,25 @@
     "블로그": 39,
     "지도카드": 0,
     "모름": 22
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 8,
+     "플랫폼": 4,
+     "일반사이트": 7,
+     "언론": 4,
+     "블로그": 39
+    },
+    "섞임": 13,
+    "섞임조합": {
+     "언론 + 블로그": 6,
+     "일반사이트 + 블로그": 3,
+     "일반사이트 + 언론 + 블로그": 2,
+     "자사홈페이지 + 블로그": 1,
+     "자사홈페이지 + 언론 + 블로그": 1
+    },
+    "모름": 22,
+    "합": 97
    },
    "인용페이지목록": [
     {
@@ -2602,9 +2718,9 @@
    "name": "니코메디칼",
    "me": false,
    "호명": {
-    "회차": 116,
+    "회차": 117,
     "일위": 56,
-    "평균순위": 1.56,
+    "평균순위": 1.61,
     "최고": 1
    },
    "추천": {
@@ -2686,7 +2802,7 @@
      "지도": 0,
      "호명회차": 6,
      "호명1위": 1,
-     "호명평균": 2.17
+     "호명평균": 2.33
     },
     {
      "질문": "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
@@ -2794,7 +2910,7 @@
      "지도": 0,
      "호명회차": 5,
      "호명1위": 2,
-     "호명평균": 1.6
+     "호명평균": 1.8
     },
     {
      "질문": "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘",
@@ -2864,9 +2980,9 @@
      "열어봄": 0,
      "추천": 3,
      "지도": 0,
-     "호명회차": 2,
+     "호명회차": 3,
      "호명1위": 2,
-     "호명평균": 1.0
+     "호명평균": 2.0
     },
     {
      "질문": "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
@@ -2962,7 +3078,7 @@
      "지도": 0,
      "호명회차": 5,
      "호명1위": 1,
-     "호명평균": 2.0
+     "호명평균": 2.2
     }
    ],
    "도메인별": null,
@@ -2975,8 +3091,8 @@
     "종류": {
      "인용": {
       "회사 사이트": 69,
-      "디렉터리": 25,
-      "입점몰": 4,
+      "업체목록페이지": 25,
+      "상품등록페이지": 4,
       "업계지": 102,
       "경제언론": 2,
       "블로그": 4,
@@ -2985,8 +3101,8 @@
      },
      "소스": {
       "회사 사이트": 95,
-      "디렉터리": 27,
-      "입점몰": 21,
+      "업체목록페이지": 27,
+      "상품등록페이지": 21,
       "쇼핑검색": 19,
       "업계지": 69,
       "경제언론": 2,
@@ -2996,8 +3112,8 @@
      },
      "장": {
       "회사 사이트": 26,
-      "디렉터리": 2,
-      "입점몰": 5,
+      "업체목록페이지": 2,
+      "상품등록페이지": 5,
       "쇼핑검색": 2,
       "업계지": 2,
       "경제언론": 2,
@@ -3052,77 +3168,19 @@
       "소속": "남",
       "소스": 61,
       "인용": 95,
-      "추천": 75
+      "단독": 18,
+      "같이": 57
      },
      {
       "url": "https://selfcos.com/index/company_view/2154",
       "도메인": "selfcos.com",
-      "매체종류": "디렉터리",
+      "매체종류": "업체목록페이지",
       "과업": "등록",
       "소속": "남",
       "소스": 26,
       "인용": 25,
-      "추천": 21
-     },
-     {
-      "url": "https://nicomedical.com/default/company/history.php",
-      "도메인": "nicomedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 19,
-      "인용": 21,
-      "추천": 20
-     },
-     {
-      "url": "https://nicomedical.com/default/product/product1.php",
-      "도메인": "nicomedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 12,
-      "인용": 17,
-      "추천": 17
-     },
-     {
-      "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_idx=13&com_board_id=1",
-      "도메인": "nicomedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 5,
-      "인용": 13,
-      "추천": 13
-     },
-     {
-      "url": "https://catchmepatch.com/article/제휴문의제휴oemodm/5/8234",
-      "도메인": "catchmepatch.com",
-      "매체종류": "기타",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 11,
-      "인용": 7,
-      "추천": 7
-     },
-     {
-      "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_id=1&com_board_idx=10",
-      "도메인": "nicomedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 9,
-      "인용": 7,
-      "추천": 7
-     },
-     {
-      "url": "https://cosinkorea.com/mobile/article.html?no=56672",
-      "도메인": "cosinkorea.com",
-      "매체종류": "업계지",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 8,
-      "인용": 7,
-      "추천": 7
+      "단독": 10,
+      "같이": 11
      },
      {
       "url": "https://nicomedical.com/default/eng/company/history.php",
@@ -3132,47 +3190,52 @@
       "소속": "자기",
       "소스": 14,
       "인용": 4,
-      "추천": 4
+      "단독": 4,
+      "같이": 0
      },
      {
-      "url": "https://nicomedical.com/default/rnd/technology.php",
+      "url": "https://nicomedical.com/default/company/history.php",
       "도메인": "nicomedical.com",
       "매체종류": "회사 사이트",
       "과업": "고침",
       "소속": "자기",
-      "소스": 2,
-      "인용": 3,
-      "추천": 3
+      "소스": 19,
+      "인용": 21,
+      "단독": 3,
+      "같이": 17
      },
      {
-      "url": "https://everbryan.tistory.com/70",
-      "도메인": "everbryan.tistory.com",
-      "매체종류": "블로그",
-      "과업": "못 건드림",
+      "url": "https://cosinkorea.com/mobile/article.html?no=56672",
+      "도메인": "cosinkorea.com",
+      "매체종류": "업계지",
+      "과업": "기고",
       "소속": "남",
-      "소스": 6,
-      "인용": 4,
-      "추천": 2
+      "소스": 8,
+      "인용": 7,
+      "단독": 3,
+      "같이": 4
      },
      {
       "url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2018111257340",
       "도메인": "gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 15,
       "인용": 3,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
-      "url": "https://hankookilbo.com/news/article/201901231748326090",
-      "도메인": "hankookilbo.com",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 1,
-      "인용": 2,
-      "추천": 1
+      "url": "https://nicomedical.com/default/product/product1.php",
+      "도메인": "nicomedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 12,
+      "인용": 17,
+      "단독": 1,
+      "같이": 16
      },
      {
       "url": "https://nicomedical.com/default/eng/index.php",
@@ -3182,7 +3245,8 @@
       "소속": "자기",
       "소스": 5,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/eng/product/product1.php?com_board_id=11&com_board_page=2",
@@ -3192,17 +3256,8 @@
       "소속": "자기",
       "소스": 5,
       "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://patents.google.com/patent/KR20240060379A/ko",
-      "도메인": "patents.google.com",
-      "매체종류": "특허",
-      "과업": "못 건드림",
-      "소속": "남",
-      "소스": 5,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/eng/product/product1.php",
@@ -3212,7 +3267,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/product/product1.php?com_board_basic=read_form&com_board_id=4&com_board_idx=133",
@@ -3222,7 +3278,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://store.ohou.se/goods/3309920",
@@ -3232,17 +3289,96 @@
       "소속": "남",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
+     },
+     {
+      "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_idx=13&com_board_id=1",
+      "도메인": "nicomedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 5,
+      "인용": 13,
+      "단독": 0,
+      "같이": 13
+     },
+     {
+      "url": "https://catchmepatch.com/article/제휴문의제휴oemodm/5/8234",
+      "도메인": "catchmepatch.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 11,
+      "인용": 7,
+      "단독": 0,
+      "같이": 7
+     },
+     {
+      "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_id=1&com_board_idx=10",
+      "도메인": "nicomedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 9,
+      "인용": 7,
+      "단독": 0,
+      "같이": 7
+     },
+     {
+      "url": "https://nicomedical.com/default/rnd/technology.php",
+      "도메인": "nicomedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 2,
+      "인용": 3,
+      "단독": 0,
+      "같이": 3
+     },
+     {
+      "url": "https://everbryan.tistory.com/70",
+      "도메인": "everbryan.tistory.com",
+      "매체종류": "블로그",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 6,
+      "인용": 4,
+      "단독": 0,
+      "같이": 2
+     },
+     {
+      "url": "https://hankookilbo.com/news/article/201901231748326090",
+      "도메인": "hankookilbo.com",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 1,
+      "인용": 2,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://patents.google.com/patent/KR20240060379A/ko",
+      "도메인": "patents.google.com",
+      "매체종류": "특허",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 5,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
      },
      {
       "url": "https://buykorea.org/seller-home/1159725/com/index.do",
       "도메인": "buykorea.org",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 3,
       "인용": 1,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
@@ -3252,7 +3388,8 @@
       "소속": "입점",
       "소스": 17,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://app.rndcircle.io/company/fcc6981d-573f-5bde-a105-41fbdfdada01",
@@ -3262,7 +3399,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=86",
@@ -3272,7 +3410,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=84",
@@ -3282,7 +3421,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/eng/product/product1.php?com_board_basic=read_form&com_board_id=11&com_board_idx=84",
@@ -3292,7 +3432,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/customer/notice.php?com_board_basic=read_form&com_board_id=1&com_board_idx=13",
@@ -3302,7 +3443,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://prod.danawa.com/info?pcode=14144606",
@@ -3312,7 +3454,8 @@
       "소속": "입점",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://8452-www.nicomedical.com/default/index2.php",
@@ -3322,7 +3465,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://catchmepatch.com/article/제휴문의제휴oemodm/5/7336/page/3",
@@ -3332,27 +3476,30 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://gobizkorea.com/user/search/search.do?sfield=All&sqt=private+label+acne+patch",
       "도메인": "gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://gobizkorea.com/mobile/mobileGoodsDetail.do?goods_no=GS2022110821781",
       "도메인": "gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://incheonilbo.com/news/articleView.html?idxno=1151525",
@@ -3362,7 +3509,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomdical2.cafe24.com/default/company/history.php",
@@ -3372,7 +3520,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/company/history.php",
@@ -3382,7 +3531,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=82",
@@ -3392,7 +3542,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=78",
@@ -3402,7 +3553,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=71",
@@ -3412,7 +3564,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=69&com_board_page=2",
@@ -3422,7 +3575,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/bizdemo75642/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=92",
@@ -3432,7 +3586,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product2.php?com_board_basic=read_form&com_board_id=17&com_board_idx=54",
@@ -3442,7 +3597,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/eng/product/product1.php?com_board_basic=read_form&com_board_id=11&com_board_idx=72",
@@ -3452,7 +3608,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/eng/product/product1.php?com_board_id=11",
@@ -3462,7 +3619,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/china/product/product1.php?com_board_basic=read_form&com_board_id=16&com_board_idx=67&com_board_page=1",
@@ -3472,7 +3630,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical.com/default/product/product2.php",
@@ -3482,7 +3641,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nicomedical2.cafe24.com",
@@ -3492,7 +3652,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://patents.google.com/patent/KR102815815B1/en",
@@ -3502,7 +3663,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://peoplepharm.com/m2/goods/view.php?goodsno=186787726",
@@ -3512,27 +3674,30 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://selfcos.com/category",
       "도메인": "selfcos.com",
-      "매체종류": "디렉터리",
+      "매체종류": "업체목록페이지",
       "과업": "등록",
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://stores.auction.co.kr/catchmepatch",
       "도메인": "stores.auction.co.kr",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://wholekorea.com/nico-medical-co-ltd",
@@ -3542,7 +3707,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -3554,6 +3720,31 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 9
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 13,
+     "플랫폼": 12,
+     "일반사이트": 1,
+     "언론": 24
+    },
+    "섞임": 58,
+    "섞임조합": {
+     "자사홈페이지 + 언론": 19,
+     "자사홈페이지 + 언론 + 블로그": 12,
+     "플랫폼 + 언론": 7,
+     "언론 + 블로그": 4,
+     "일반사이트 + 언론": 4,
+     "자사홈페이지 + 일반사이트 + 언론": 3,
+     "자사홈페이지 + 플랫폼 + 언론": 3,
+     "일반사이트 + 언론 + 블로그": 2,
+     "자사홈페이지 + 일반사이트": 1,
+     "자사홈페이지 + 플랫폼": 1,
+     "자사홈페이지 + 플랫폼 + 언론 + 블로그": 1,
+     "플랫폼 + 언론 + 블로그": 1
+    },
+    "모름": 9,
+    "합": 117
    },
    "인용페이지목록": [
     {
@@ -3787,9 +3978,9 @@
    "name": "YNK바이오코스",
    "me": false,
    "호명": {
-    "회차": 12,
-    "일위": 4,
-    "평균순위": 2.08,
+    "회차": 21,
+    "일위": 8,
+    "평균순위": 2.0,
     "최고": 1
    },
    "추천": {
@@ -3860,14 +4051,14 @@
      },
      "소스": {
       "회사 사이트": 47,
-      "입점몰": 2,
+      "상품등록페이지": 2,
       "쇼핑검색": 20,
       "경제언론": 3,
       "기타": 11
      },
      "장": {
       "회사 사이트": 10,
-      "입점몰": 1,
+      "상품등록페이지": 1,
       "쇼핑검색": 2,
       "경제언론": 1,
       "기타": 7
@@ -3917,7 +4108,8 @@
       "소속": "자기",
       "소스": 23,
       "인용": 10,
-      "추천": 10
+      "단독": 10,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/31",
@@ -3927,7 +4119,8 @@
       "소속": "자기",
       "소스": 6,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://hankyung.com/article/202606306824O",
@@ -3937,7 +4130,8 @@
       "소속": "남",
       "소스": 3,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://ynkbio.com/product/hydrocolloid",
@@ -3947,7 +4141,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/39",
@@ -3957,7 +4152,8 @@
       "소속": "자기",
       "소스": 7,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://g2bmarket.com/detail/waienkeibaiokoseu",
@@ -3967,7 +4163,8 @@
       "소속": "남",
       "소스": 3,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://app.rndcircle.io/company/871943f7-a27f-5c69-ac48-001d3bcad4ef",
@@ -3977,7 +4174,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://wowtv.co.kr/TotalSearch/Mariner/Index?searchTerm=%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%BD%9C%EB%A1%9C%EC%9D%B4%EB%93%9C",
@@ -3987,7 +4185,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 3,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://biocosone.com/lmth/03_prod/prod02.php",
@@ -3997,7 +4196,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 2,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
@@ -4007,7 +4207,8 @@
       "소속": "입점",
       "소스": 17,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://prod.danawa.com/info?pcode=6573062",
@@ -4017,7 +4218,8 @@
       "소속": "입점",
       "소스": 3,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/24",
@@ -4027,7 +4229,8 @@
       "소속": "자기",
       "소스": 3,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/30",
@@ -4037,17 +4240,19 @@
       "소속": "자기",
       "소스": 3,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/product/detail/P854583/Hydrocolloid-Acne-Patch.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://bestlj.ru/tags",
@@ -4057,7 +4262,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://thesaemcosmetic.com/product/item.php?it_id=0000000415",
@@ -4067,7 +4273,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/32",
@@ -4077,7 +4284,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/28",
@@ -4087,7 +4295,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/38",
@@ -4097,7 +4306,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/23",
@@ -4107,7 +4317,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://ynkbc.com/42",
@@ -4117,7 +4328,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -4129,6 +4341,17 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 2
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 13,
+     "일반사이트": 4,
+     "언론": 2
+    },
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 2,
+    "합": 21
    },
    "인용페이지목록": [
     {
@@ -4218,10 +4441,10 @@
    "name": "더마텍",
    "me": false,
    "호명": {
-    "회차": 6,
-    "일위": 0,
-    "평균순위": 3.5,
-    "최고": 2
+    "회차": 32,
+    "일위": 7,
+    "평균순위": 2.75,
+    "최고": 1
    },
    "추천": {
     "질문": 20,
@@ -4323,7 +4546,8 @@
       "소속": "자기",
       "소스": 50,
       "인용": 32,
-      "추천": 29
+      "단독": 29,
+      "같이": 0
      },
      {
       "url": "https://pietrastudio.com/sourcing/suppliers/dermatech",
@@ -4333,7 +4557,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://thomasnet.com/company/dermatech-30882490/profile",
@@ -4343,7 +4568,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yalaiyue.com/info-detail/the-ultimate-guide-to-the-top-10-acne-patch-manufacturers-in-the-world",
@@ -4353,7 +4579,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -4365,6 +4592,15 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 3
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 29
+    },
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 3,
+    "합": 32
    },
    "인용페이지목록": [
     {
@@ -4382,9 +4618,9 @@
    "name": "누리메딕스",
    "me": false,
    "호명": {
-    "회차": 23,
-    "일위": 7,
-    "평균순위": 2.26,
+    "회차": 24,
+    "일위": 3,
+    "평균순위": 2.67,
     "최고": 1
    },
    "추천": {
@@ -4450,19 +4686,19 @@
     "종류": {
      "인용": {
       "회사 사이트": 26,
-      "입점몰": 10,
+      "상품등록페이지": 10,
       "블로그": 4
      },
      "소스": {
       "회사 사이트": 53,
-      "입점몰": 18,
+      "상품등록페이지": 18,
       "쇼핑검색": 17,
       "블로그": 6,
       "기타": 3
      },
      "장": {
       "회사 사이트": 6,
-      "입점몰": 8,
+      "상품등록페이지": 8,
       "쇼핑검색": 1,
       "블로그": 1,
       "기타": 2
@@ -4511,37 +4747,19 @@
       "소속": "자기",
       "소스": 33,
       "인용": 17,
-      "추천": 16
+      "단독": 14,
+      "같이": 2
      },
      {
       "url": "https://tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 7,
       "인용": 10,
-      "추천": 6
-     },
-     {
-      "url": "https://nurimedicskorea.com/hydrocolloid-acne-patches",
-      "도메인": "nurimedicskorea.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 6,
-      "인용": 4,
-      "추천": 3
-     },
-     {
-      "url": "https://nurimedicskorea.com",
-      "도메인": "nurimedicskorea.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 8,
-      "인용": 3,
-      "추천": 3
+      "단독": 3,
+      "같이": 3
      },
      {
       "url": "https://nurimedicskorea.com/vegan-acne-patches",
@@ -4551,7 +4769,30 @@
       "소속": "자기",
       "소스": 4,
       "인용": 2,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
+     },
+     {
+      "url": "https://nurimedicskorea.com",
+      "도메인": "nurimedicskorea.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 8,
+      "인용": 3,
+      "단독": 1,
+      "같이": 2
+     },
+     {
+      "url": "https://nurimedicskorea.com/hydrocolloid-acne-patches",
+      "도메인": "nurimedicskorea.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 6,
+      "인용": 4,
+      "단독": 0,
+      "같이": 3
      },
      {
       "url": "https://everbryan.tistory.com/70",
@@ -4561,7 +4802,8 @@
       "소속": "남",
       "소스": 6,
       "인용": 4,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EB%93%9C%EB%A6%84%ED%8C%A8%EC%B9%98",
@@ -4571,17 +4813,19 @@
       "소속": "입점",
       "소스": 17,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/service/eCatalog.do?onlineExhibitionNo=4908&productno=817866&temp=B",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 4,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://beautetrade.com/products/hydrocolloid-pimple-patches-oem/87036",
@@ -4591,37 +4835,41 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/product/detail/P815942/Hydrocolloid-Pimple-Patches--OEM-.html?RLGOODS=eyelash+essence",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://korean.alibaba.com/f/점-패치.html",
       "도메인": "korean.alibaba.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://korean.alibaba.com/g/pimple-patch.html",
       "도메인": "korean.alibaba.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nurimedicskorea.com/post/manufacturer-hydrocolloid-patches",
@@ -4631,7 +4879,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://nurimedicskorea.com/hydrocolloid-patch",
@@ -4641,37 +4890,41 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/products/cHJpdmF0ZSBsYWJlbCBhY25lIHBhdGNo.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/product/detail/P818910/Contains-salicylic-acid-Hydrocolloid-Patches-.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/companies/detail.do?businessno=216449",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yalaiyue.com/info-detail/the-ultimate-guide-to-the-top-10-acne-patch-manufacturers-in-the-world",
@@ -4681,7 +4934,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -4693,6 +4947,18 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 0
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 18,
+     "플랫폼": 3
+    },
+    "섞임": 3,
+    "섞임조합": {
+     "자사홈페이지 + 플랫폼": 3
+    },
+    "모름": 0,
+    "합": 24
    },
    "인용페이지목록": [
     {
@@ -4755,9 +5021,9 @@
    "name": "뉴와이메디칼",
    "me": false,
    "호명": {
-    "회차": 8,
+    "회차": 14,
     "일위": 1,
-    "평균순위": 2.5,
+    "평균순위": 2.79,
     "최고": 1
    },
    "추천": {
@@ -4819,17 +5085,17 @@
     "종류": {
      "인용": {
       "회사 사이트": 12,
-      "입점몰": 4,
+      "상품등록페이지": 4,
       "기타": 1
      },
      "소스": {
       "회사 사이트": 32,
-      "입점몰": 7,
+      "상품등록페이지": 7,
       "기타": 4
      },
      "장": {
       "회사 사이트": 5,
-      "입점몰": 4,
+      "상품등록페이지": 4,
       "기타": 3
      }
     },
@@ -4876,7 +5142,8 @@
       "소속": "자기",
       "소스": 15,
       "인용": 5,
-      "추천": 5
+      "단독": 2,
+      "같이": 3
      },
      {
       "url": "https://newymedical.com/acne-patches",
@@ -4886,57 +5153,19 @@
       "소속": "자기",
       "소스": 5,
       "인용": 3,
-      "추천": 3
-     },
-     {
-      "url": "https://tradekorea.com/product/detail/P817677",
-      "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
-      "과업": "등록",
-      "소속": "입점",
-      "소스": 2,
-      "인용": 3,
-      "추천": 2
-     },
-     {
-      "url": "https://newymedical.com/hydrocolloid-patches-manufactuerer",
-      "도메인": "newymedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 4,
-      "인용": 2,
-      "추천": 1
-     },
-     {
-      "url": "https://newymedical.com/blemish-patches",
-      "도메인": "newymedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 5,
-      "인용": 1,
-      "추천": 1
-     },
-     {
-      "url": "https://newymedical.com/hydrocolloid-patches",
-      "도메인": "newymedical.com",
-      "매체종류": "회사 사이트",
-      "과업": "고침",
-      "소속": "자기",
-      "소스": 3,
-      "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 2
      },
      {
       "url": "https://tradekorea.com/product/detail/P817677/Hydrocolloid-Acne-Patch-Manufacturer-in-Korea-under-private-label-service-OEM.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 3,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://heylink.me/newymedical",
@@ -4946,7 +5175,52 @@
       "소속": "남",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
+     },
+     {
+      "url": "https://tradekorea.com/product/detail/P817677",
+      "도메인": "tradekorea.com",
+      "매체종류": "상품등록페이지",
+      "과업": "등록",
+      "소속": "입점",
+      "소스": 2,
+      "인용": 3,
+      "단독": 0,
+      "같이": 2
+     },
+     {
+      "url": "https://newymedical.com/hydrocolloid-patches-manufactuerer",
+      "도메인": "newymedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 4,
+      "인용": 2,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://newymedical.com/blemish-patches",
+      "도메인": "newymedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 5,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
+     },
+     {
+      "url": "https://newymedical.com/hydrocolloid-patches",
+      "도메인": "newymedical.com",
+      "매체종류": "회사 사이트",
+      "과업": "고침",
+      "소속": "자기",
+      "소스": 3,
+      "인용": 1,
+      "단독": 0,
+      "같이": 1
      },
      {
       "url": "https://bestlj.ru/tags",
@@ -4956,27 +5230,30 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://gobizkorea.com/user/search/search.do?sfield=All&sqt=private+label+acne+patch",
       "도메인": "gobizkorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://tradekorea.com/products/cHJpdmF0ZSBsYWJlbCBhY25lIHBhdGNo.html",
       "도메인": "tradekorea.com",
-      "매체종류": "입점몰",
+      "매체종류": "상품등록페이지",
       "과업": "등록",
       "소속": "입점",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yalaiyue.com/info-detail/the-ultimate-guide-to-the-top-10-acne-patch-manufacturers-in-the-world",
@@ -4986,7 +5263,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -4998,6 +5276,19 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 4
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 6,
+     "플랫폼": 1,
+     "일반사이트": 1
+    },
+    "섞임": 2,
+    "섞임조합": {
+     "자사홈페이지 + 플랫폼": 2
+    },
+    "모름": 4,
+    "합": 14
    },
    "인용페이지목록": [
     {
@@ -5221,17 +5512,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 4,
-      "추천": 4
-     },
-     {
-      "url": "https://hitnews.co.kr/news/articleView.html?idxno=46993",
-      "도메인": "hitnews.co.kr",
-      "매체종류": "경제언론",
-      "과업": "기고",
-      "소속": "남",
-      "소스": 1,
-      "인용": 4,
-      "추천": 4
+      "단독": 4,
+      "같이": 0
      },
      {
       "url": "https://raphas.com/kr/news/ir?page=3&id=63",
@@ -5241,7 +5523,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 2,
-      "추천": 2
+      "단독": 1,
+      "같이": 1
      },
      {
       "url": "https://odm.raphas.com",
@@ -5251,7 +5534,19 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
+     },
+     {
+      "url": "https://hitnews.co.kr/news/articleView.html?idxno=46993",
+      "도메인": "hitnews.co.kr",
+      "매체종류": "경제언론",
+      "과업": "기고",
+      "소속": "남",
+      "소스": 1,
+      "인용": 4,
+      "단독": 0,
+      "같이": 4
      },
      {
       "url": "https://pharm.edaily.co.kr/news/read?newsId=01954886635678456",
@@ -5261,7 +5556,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 1,
-      "추천": 1
+      "단독": 0,
+      "같이": 1
      },
      {
       "url": "https://valley.town/competitions/valley-insights/analysis/6842a2700000000000000000",
@@ -5271,7 +5567,8 @@
       "소속": "남",
       "소스": 2,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://cosinkorea.com/news/article.html?no=31674",
@@ -5281,7 +5578,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://hankyung.com/article/2022092798831",
@@ -5291,7 +5589,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://hiseoul.sba.kr/Pages/AccountDetail.aspx?id=511dc622-1d13-4977-8ff4-143b2f7c0171",
@@ -5301,7 +5600,8 @@
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -5313,6 +5613,19 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 18
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 3,
+     "언론": 6
+    },
+    "섞임": 2,
+    "섞임조합": {
+     "일반사이트 + 언론": 1,
+     "자사홈페이지 + 언론": 1
+    },
+    "모름": 18,
+    "합": 29
    },
    "인용페이지목록": [
     {
@@ -5403,8 +5716,8 @@
    "me": false,
    "호명": {
     "회차": 15,
-    "일위": 4,
-    "평균순위": 2.8,
+    "일위": 3,
+    "평균순위": 2.93,
     "최고": 1
    },
    "추천": {
@@ -5497,7 +5810,8 @@
       "소속": "자기",
       "소스": 12,
       "인용": 7,
-      "추천": 7
+      "단독": 7,
+      "같이": 0
      },
      {
       "url": "https://medicalresearch.co.kr/brand/index.html",
@@ -5507,7 +5821,8 @@
       "소속": "자기",
       "소스": 7,
       "인용": 6,
-      "추천": 6
+      "단독": 6,
+      "같이": 0
      },
      {
       "url": "https://medicalresearch.co.kr/product-calmycare.html",
@@ -5517,7 +5832,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -5529,6 +5845,15 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 2
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 13
+    },
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 2,
+    "합": 15
    },
    "인용페이지목록": [
     {
@@ -5629,6 +5954,13 @@
     "지도카드": 0,
     "모름": 0
    },
+   "기여": {
+    "단독": {},
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 0,
+    "합": 0
+   },
    "인용페이지목록": []
   },
   {
@@ -5636,8 +5968,8 @@
    "me": false,
    "호명": {
     "회차": 6,
-    "일위": 3,
-    "평균순위": 1.67,
+    "일위": 1,
+    "평균순위": 3.0,
     "최고": 1
    },
    "추천": {
@@ -5743,7 +6075,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 3,
-      "추천": 2
+      "단독": 2,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com/learn/best-pimple-patch-manufacturers",
@@ -5753,7 +6086,8 @@
       "소속": "자기",
       "소스": 12,
       "인용": 2,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com",
@@ -5763,7 +6097,8 @@
       "소속": "자기",
       "소스": 4,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com/trends/star-shape-pimple-patch",
@@ -5773,7 +6108,8 @@
       "소속": "자기",
       "소스": 2,
       "인용": 1,
-      "추천": 1
+      "단독": 1,
+      "같이": 0
      },
      {
       "url": "https://ko.accio.com/plp/acnepatch",
@@ -5783,7 +6119,8 @@
       "소속": "남",
       "소스": 7,
       "인용": 2,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com/products/acne-patch",
@@ -5793,7 +6130,8 @@
       "소속": "자기",
       "소스": 6,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com/learn/beveled-edge-hydrocolloid-patch",
@@ -5803,7 +6141,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      },
      {
       "url": "https://yansecos.com/learn/private-label-acne-patch-sourcing-guide",
@@ -5813,7 +6152,8 @@
       "소속": "자기",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -5825,6 +6165,15 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 1
+   },
+   "기여": {
+    "단독": {
+     "자사홈페이지": 5
+    },
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 1,
+    "합": 6
    },
    "인용페이지목록": [
     {
@@ -5934,10 +6283,10 @@
     "종류": {
      "인용": {},
      "소스": {
-      "디렉터리": 1
+      "업체목록페이지": 1
      },
      "장": {
-      "디렉터리": 1
+      "업체목록페이지": 1
      }
     },
     "과업": {
@@ -5962,12 +6311,13 @@
      {
       "url": "https://selfcos.com/category",
       "도메인": "selfcos.com",
-      "매체종류": "디렉터리",
+      "매체종류": "업체목록페이지",
       "과업": "등록",
       "소속": "남",
       "소스": 1,
       "인용": 0,
-      "추천": 0
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -5979,6 +6329,13 @@
     "블로그": 0,
     "지도카드": 0,
     "모름": 0
+   },
+   "기여": {
+    "단독": {},
+    "섞임": 0,
+    "섞임조합": {},
+    "모름": 0,
+    "합": 0
    },
    "인용페이지목록": []
   }
@@ -6108,7 +6465,7 @@
    "인용회차": 21,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 1352,
@@ -6423,7 +6780,7 @@
    "인용회차": 6,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13858,
@@ -6444,7 +6801,7 @@
    "인용회차": 9,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 19343,
@@ -7095,7 +7452,7 @@
    "인용회차": 4,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4988,
@@ -7284,7 +7641,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 3518,
@@ -7326,7 +7683,7 @@
    "인용회차": 3,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 364,
@@ -7515,7 +7872,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 14274,
@@ -7578,7 +7935,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 8887,
@@ -7725,7 +8082,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -7788,7 +8145,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 6080,
@@ -7809,7 +8166,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 382,
@@ -8481,7 +8838,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 11,
@@ -8985,7 +9342,7 @@
    "인용회차": 2,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1294,
@@ -9174,7 +9531,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -9195,7 +9552,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4959,
@@ -9279,7 +9636,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 19066,
@@ -9426,7 +9783,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 893,
@@ -9510,7 +9867,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 19459,
@@ -9594,7 +9951,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 816,
@@ -9615,7 +9972,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1132,
@@ -9783,7 +10140,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 14281,
@@ -9804,7 +10161,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1446,
@@ -10161,7 +10518,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -10182,7 +10539,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -10203,7 +10560,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 6107,
@@ -10476,7 +10833,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 909,
@@ -10854,7 +11211,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 14683,
@@ -11211,7 +11568,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -11232,7 +11589,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -11253,7 +11610,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -11274,7 +11631,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 5492,
@@ -11295,7 +11652,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1075,
@@ -11316,7 +11673,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1085,
@@ -11526,7 +11883,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 4583,
@@ -11736,7 +12093,7 @@
    "인용회차": 1,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 9853,
@@ -13080,7 +13437,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 0,
@@ -14151,7 +14508,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 21,
@@ -14277,7 +14634,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1652,
@@ -14634,7 +14991,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 8004,
@@ -14655,7 +15012,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 2059,
@@ -15075,7 +15432,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 21,
@@ -15096,7 +15453,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 15780,
@@ -15747,7 +16104,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 14803,
@@ -16209,7 +16566,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 3627,
@@ -16986,7 +17343,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13816,
@@ -17007,7 +17364,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13814,
@@ -17910,7 +18267,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4740,
@@ -17931,7 +18288,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 3177,
@@ -17952,7 +18309,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "http404",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -17973,7 +18330,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 3177,
@@ -18036,7 +18393,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 22616,
@@ -18057,7 +18414,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13037,
@@ -18078,7 +18435,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13088,
@@ -18099,7 +18456,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 22573,
@@ -18120,7 +18477,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 12996,
@@ -18141,7 +18498,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1490,
@@ -18729,7 +19086,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1012,
@@ -18750,7 +19107,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4614,
@@ -18771,7 +19128,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1138,
@@ -18792,7 +19149,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 2947,
@@ -18813,7 +19170,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 2257,
@@ -19401,7 +19758,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -19422,7 +19779,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -19443,7 +19800,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -19464,7 +19821,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -19485,7 +19842,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -19947,7 +20304,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 3095,
@@ -20283,7 +20640,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -20409,7 +20766,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13823,
@@ -21291,7 +21648,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 5697,
@@ -22236,7 +22593,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1307,
@@ -22257,7 +22614,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1127,
@@ -22278,7 +22635,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 7184,
@@ -22404,7 +22761,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 0,
@@ -22572,7 +22929,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 3269,
@@ -22593,7 +22950,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 2573,
@@ -22614,7 +22971,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 7132,
@@ -23958,7 +24315,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 8653,
@@ -23979,7 +24336,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 8927,
@@ -24000,7 +24357,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 5312,
@@ -24021,7 +24378,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "http404",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -24042,7 +24399,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 100,
@@ -24168,7 +24525,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4779,
@@ -24189,7 +24546,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4506,
@@ -24210,7 +24567,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 4637,
@@ -24231,7 +24588,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 20427,
@@ -24252,7 +24609,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 956,
@@ -24273,7 +24630,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1032,
@@ -24672,7 +25029,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 0,
@@ -24882,7 +25239,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "blocked",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 0,
@@ -24924,7 +25281,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 8793,
@@ -25134,7 +25491,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 6586,
@@ -25155,7 +25512,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 16933,
@@ -26919,7 +27276,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 1932,
@@ -27507,7 +27864,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 1885,
@@ -27528,7 +27885,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 2249,
@@ -27549,7 +27906,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 2072,
@@ -30363,7 +30720,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 4101,
@@ -30384,7 +30741,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "본문길이": 2960,
@@ -30825,7 +31182,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 2375,
@@ -31602,7 +31959,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 398,
@@ -31749,7 +32106,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 11649,
@@ -31770,7 +32127,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 12969,
@@ -31791,7 +32148,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13141,
@@ -31812,7 +32169,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 13947,
@@ -31833,7 +32190,7 @@
    "인용회차": 0,
    "이수탑": false,
    "스캔": "ok",
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "본문길이": 15309,
@@ -33285,15 +33642,15 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/product/product1.php",
-       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://kr.tradekorea.com/seller/aboutus/successStoryDetail.do?successstoryno=13",
        "제목": "여드름 패치로 캐나다 피부시장 공략! | 국내셀러 스토리 - 성공사례 | tradeKorea.com 한국무역협회",
        "매체": "플랫폼",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -33308,15 +33665,15 @@
      },
      "페이지": [
       {
-       "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
-       "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
-       "매체": "언론",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
+       "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
+       "매체": "언론",
        "n": 1
       },
       {
@@ -33491,15 +33848,15 @@
        "n": 3
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -33644,9 +34001,9 @@
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
-       "매체": "블로그",
+       "url": "https://pharm.edaily.co.kr/news/read?newsId=01882726638856448",
+       "제목": "티앤엘, 트러블 패치도 마이크로니들 패치도 ‘쑥쑥’…올해도 매출 경신 기대 - 팜이데일리",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -33764,15 +34121,15 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -33936,15 +34293,15 @@
      },
      "페이지": [
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
-       "매체": "블로그",
-       "n": 1
-      },
-      {
        "url": "https://www.dhdaily.co.kr/news/articleView.html?idxno=27403",
        "제목": "[기업 분석] '트러블 패치' 뒤의 소재기업 티앤엘 - 대한데일리.",
        "매체": "일반사이트",
+       "n": 1
+      },
+      {
+       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
+       "매체": "블로그",
        "n": 1
       },
       {
@@ -34017,14 +34374,14 @@
        "n": 3
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -34169,15 +34526,15 @@
        "n": 3
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 2
-      },
-      {
        "url": "https://selfcos.com/index/company_view/2154",
        "제목": "화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적 - 셀프코스.",
        "매체": "플랫폼",
+       "n": 2
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 2
       },
       {
@@ -34418,8 +34775,8 @@
      },
      "페이지": [
       {
-       "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
-       "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
+       "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=46993",
+       "제목": "라파스, 여드름 치료제 '마이크로니들 패치' 美 FDA cGMP 획득.",
        "매체": "언론",
        "n": 1
       },
@@ -34430,8 +34787,8 @@
        "n": 1
       },
       {
-       "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=46993",
-       "제목": "라파스, 여드름 치료제 '마이크로니들 패치' 美 FDA cGMP 획득.",
+       "url": "https://pharm.edaily.co.kr/news/read?newsId=02784726635540696",
+       "제목": "라파스, 여드름 패치 내달 美 출시…수익성 개선 기대 - 팜이데일리",
        "매체": "언론",
        "n": 1
       }
@@ -34530,6 +34887,12 @@
        "n": 2
       },
       {
+       "url": "https://tnlpr.tistory.com/217",
+       "제목": "[티앤엘 스토리] 좀 더 가까이, 환자의 곁에서 치료하게 티앤엘 제품들 ④",
+       "매체": "블로그",
+       "n": 1
+      },
+      {
        "url": "https://pharm.edaily.co.kr/news/read?newsId=02673206645382008",
        "제목": "티앤엘, C&D 유통망 확장에 3M ODM까지 '성장 재점화’ - 팜이데일리",
        "매체": "언론",
@@ -34539,12 +34902,6 @@
        "url": "https://www.dhdaily.co.kr/news/articleView.html?idxno=27403",
        "제목": "[기업 분석] '트러블 패치' 뒤의 소재기업 티앤엘 - 대한데일리.",
        "매체": "일반사이트",
-       "n": 1
-      },
-      {
-       "url": "https://tnlpr.tistory.com/217",
-       "제목": "[티앤엘 스토리] 좀 더 가까이, 환자의 곁에서 치료하게 티앤엘 제품들 ④",
-       "매체": "블로그",
        "n": 1
       }
      ]
@@ -34586,15 +34943,15 @@
        "n": 2
       },
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
        "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -34715,15 +35072,15 @@
        "n": 2
       },
       {
-       "url": "https://cosinkorea.com/mobile/article.html?no=56672",
-       "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
-       "매체": "언론",
-       "n": 1
-      },
-      {
        "url": "https://everbryan.tistory.com/70",
        "제목": "국내 하이드로콜로이드 패치 회사들 순위",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://cosinkorea.com/mobile/article.html?no=56672",
+       "제목": "(주)니코메디칼, ‘캐치미패치’ 브랜드K 선정... 하이드로콜로이드+마이크로니들 독자 기술력 보유",
+       "매체": "언론",
        "n": 1
       }
      ]
@@ -34781,14 +35138,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -34996,8 +35353,8 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "url": "http://www.nicomedical.com/default/product/product1.php",
+       "제목": "제품소개 - ODM / OEM - 니코메디칼.",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -35115,15 +35472,15 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/company/history.php",
-       "제목": "회사연혁 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://selfcos.com/index/company_view/2154",
        "제목": "화장품 OEM/ODM 제조사 매칭, 임상시험 비교견적 - 셀프코스.",
        "매체": "플랫폼",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/company/history.php",
+       "제목": "회사연혁 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -35361,15 +35718,15 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       },
       {
@@ -35510,15 +35867,15 @@
        "n": 1
       },
       {
-       "url": "https://blog.naver.com/tnl3113/223517945030",
-       "제목": "[티앤엘 소식] 여드름 패치는 티앤엘! 트러블 케어 관리 : 네이버 블로그.",
-       "매체": "블로그",
-       "n": 1
-      },
-      {
        "url": "https://www.tnl.co.kr/bbs/board.php?bo_table=qa&wr_id=598",
        "제목": "Re: 여드름 패치 OEM 생산 의뢰 제안서 > 제품문의 | T&L - 티앤엘.",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://blog.naver.com/tnl3113/223517945030",
+       "제목": "[티앤엘 소식] 여드름 패치는 티앤엘! 트러블 케어 관리 : 네이버 블로그.",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -35778,9 +36135,9 @@
        "n": 1
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "매체": "블로그",
        "n": 1
       }
      ]
@@ -35806,14 +36163,14 @@
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
        "매체": "블로그",
        "n": 1
       }
@@ -35912,15 +36269,15 @@
        "n": 2
       },
       {
-       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
-       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
        "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
+       "n": 1
+      },
+      {
+       "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=1&&com_board_idx=10",
+       "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -36202,14 +36559,14 @@
        "n": 1
       },
       {
-       "url": "https://lemonitcsoul.tistory.com/40",
-       "제목": "[티앤엘 분석]여드름 게섯거라!",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://lemonitcsoul.tistory.com/40",
+       "제목": "[티앤엘 분석]여드름 게섯거라!",
        "매체": "블로그",
        "n": 1
       }
@@ -36225,14 +36582,14 @@
      },
      "페이지": [
       {
-       "url": "https://lemonitcsoul.tistory.com/40",
-       "제목": "[티앤엘 분석]여드름 게섯거라!",
+       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
+       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
        "매체": "블로그",
        "n": 1
       },
       {
-       "url": "https://orangeboard.co.kr/@tenbagger/posts/2732",
-       "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 팜",
+       "url": "https://lemonitcsoul.tistory.com/40",
+       "제목": "[티앤엘 분석]여드름 게섯거라!",
        "매체": "블로그",
        "n": 1
       },
@@ -36407,15 +36764,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/",
        "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       }
      ]
@@ -36563,14 +36920,14 @@
        "n": 2
       },
       {
-       "url": "https://www.nurimedicskorea.com/",
-       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
+       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
+       "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
-       "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
+       "url": "https://www.nurimedicskorea.com/",
+       "제목": "Vegan Hydrocolloid Acne Pimple Patches | Nurimedics | Korea",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -36585,14 +36942,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/acne-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/",
+       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/",
-       "제목": "Hydrocolloid patches manufactuerer | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/acne-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | blemish patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -36903,15 +37260,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
-       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://www.nurimedicskorea.com/hydrocolloid-acne-patches",
        "제목": "www.nurimedicskorea.com › hydrocolloid-acne-patchesHydrocolloid Acne Patches | Nurimedics - Korea",
        "매체": "자사홈페이지",
+       "n": 1
+      },
+      {
+       "url": "https://www.tradekorea.com/product/detail/P815755/Hydrocolloid-Acne-Patches--OEM-.html",
+       "제목": "Hydrocolloid Acne Patches (OEM) | tradekorea",
+       "매체": "플랫폼",
        "n": 1
       },
       {
@@ -36931,14 +37288,14 @@
      },
      "페이지": [
       {
-       "url": "https://www.newymedical.com/blemish-patches",
-       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/hydrocolloid-patches",
+       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.newymedical.com/hydrocolloid-patches",
-       "제목": "OEM Hydrocolloid patches factory | Acne patches | NEWYMEDICAL Korea",
+       "url": "https://www.newymedical.com/blemish-patches",
+       "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
        "매체": "자사홈페이지",
        "n": 1
       },
@@ -37055,7 +37412,7 @@
     "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘",
     "하이드로콜로이드 패치 ODM 업체 알려줘"
    ],
-   "각주": 39,
+   "각주": 40,
    "문항수": 19,
    "종류": "글·게시판",
    "소스": 28,
@@ -37125,7 +37482,7 @@
    "종류": "글·게시판",
    "소스": 26,
    "인용": 25,
-   "매체종류": "디렉터리",
+   "매체종류": "업체목록페이지",
    "과업": "등록",
    "소속": "남",
    "우리것": false
@@ -37187,6 +37544,33 @@
    "우리것": false
   },
   {
+   "url": "http://www.nicomedical.com/default/company/history.php",
+   "제목": "회사연혁 - 니코메디칼.",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
+   "문항": [
+    "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
+    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
+    "여드름 패치 기획부터 포장 완제품까지 다 맡길 수 있는 제조사 있어?",
+    "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
+    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘",
+    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
+    "인증 있고 품질 관리 제대로 되는 여드름 패치 제조사 추천해줘",
+    "하이드로콜로이드 여드름 패치 ODM 업체 알려줘",
+    "하이드로콜로이드 패치 ODM 업체 알려줘",
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 14,
+   "문항수": 10,
+   "종류": "고정 페이지",
+   "소스": 19,
+   "인용": 21,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
    "url": "https://kespion.co.kr/theme/mild01/subpage/products/introduction.php?sub=hydrocolloid",
    "제목": "케스피온(KESPION) | 무선통신 안테나 전문기업",
    "매체": "자사홈페이지",
@@ -37212,58 +37596,6 @@
    "과업": "고침",
    "소속": "자기",
    "우리것": true
-  },
-  {
-   "url": "http://www.nicomedical.com/default/company/history.php",
-   "제목": "회사연혁 - 니코메디칼.",
-   "매체": "자사홈페이지",
-   "병원": "니코메디칼",
-   "문항": [
-    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
-    "여드름 패치 기획부터 포장 완제품까지 다 맡길 수 있는 제조사 있어?",
-    "여드름 패치 만들 원단을 사야 하는데 제조 업체 추천해줘",
-    "여드름 패치 원단 배합이랑 우리 사양대로 제작하는 업체 추천해줘",
-    "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
-    "인증 있고 품질 관리 제대로 되는 여드름 패치 제조사 추천해줘",
-    "하이드로콜로이드 여드름 패치 ODM 업체 알려줘",
-    "하이드로콜로이드 패치 ODM 업체 알려줘",
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 13,
-   "문항수": 9,
-   "종류": "고정 페이지",
-   "소스": 19,
-   "인용": 21,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
-   "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
-   "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
-   "매체": "자사홈페이지",
-   "병원": "니코메디칼",
-   "문항": [
-    "내 브랜드로 여드름 패치 만들어 줄 수 있는 제조사 어디야?",
-    "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
-    "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
-    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
-    "여드름 패치 소량 테스트 발주해보고 싶은데 제조사 추천해줘",
-    "여드름 패치 원단을 직접 만드는 제조사 어디야?",
-    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
-    "우리가 화장품 ODM인데 여드름 패치 생산 맡길 전문 제조사 추천해줘",
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 11,
-   "문항수": 9,
-   "종류": "글·게시판",
-   "소스": 5,
-   "인용": 13,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
   },
   {
    "url": "https://ynkbc.com/",
@@ -37301,12 +37633,13 @@
     "별 모양이나 컬러 여드름 패치도 발주 가능한 제조사 추천해줘",
     "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
     "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등",
+    "여드름 패치 소량 테스트 발주해보고 싶은데 제조사 추천해줘",
     "여드름 패치에 살리실산이나 티트리 넣을 수 있는 제조사 있어?",
     "여드름패치 OEM 품질대비 단가 괜찮은 제조사 추천",
     "하이드로콜로이드 여드름 패치 시트 제조사 추천해줘"
    ],
-   "각주": 10,
-   "문항수": 7,
+   "각주": 11,
+   "문항수": 8,
    "종류": "고정 페이지",
    "소스": 12,
    "인용": 17,
@@ -37340,26 +37673,26 @@
    "우리것": false
   },
   {
-   "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
-   "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
-   "매체": "블로그",
-   "병원": "티앤엘",
+   "url": "http://www.nicomedical.com/default/customer/notice.php?com_board_basic=read_form&&com_board_idx=13&com_board_id=1",
+   "제목": "CUSTOMER - 뉴스 - 니코메디칼.",
+   "매체": "자사홈페이지",
+   "병원": "니코메디칼",
    "문항": [
-    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?",
+    "내 브랜드로 여드름 패치 만들어 줄 수 있는 제조사 어디야?",
     "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
-    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
-    "우리가 화장품 ODM인데 여드름 패치 생산 맡길 전문 제조사 추천해줘",
-    "자기 브랜드 안 하는 여드름 패치 제조사 있어? 우리랑 안 겹치는 데로 찾고 있어",
+    "얇고 가장자리가 깎인 여드름 패치 만들 수 있는 제조사 어디야?",
+    "여드름 패치 원단을 직접 만드는 제조사 어디야?",
+    "여드름 패치 제조사한테 발주하려고 해 어디가 좋겠냐 추천해 봐.",
     "하이드로콜로이드 패치 시트 제조사 추천해줘"
    ],
-   "각주": 6,
+   "각주": 8,
    "문항수": 6,
    "종류": "글·게시판",
    "소스": 5,
-   "인용": 8,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
-   "소속": "남",
+   "인용": 13,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
    "우리것": false
   },
   {
@@ -37403,7 +37736,7 @@
    "종류": "고정 페이지",
    "소스": 7,
    "인용": 10,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "우리것": false
@@ -37428,6 +37761,28 @@
    "매체종류": "회사 사이트",
    "과업": "고침",
    "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://orangeboard.co.kr/@tenbagger/%EB%AF%B8%EA%B5%AD-%EC%95%84%EB%A7%88%EC%A1%B4-1%EC%9C%84-%EC%97%AC%EB%93%9C%EB%A6%84-%ED%8C%A8%EC%B9%98-ODM-%EA%B8%B0%EC%97%85-%ED%8B%B0%EC%95%A4%EC%97%98-3405703",
+   "제목": "미국 아마존 1위 여드름 패치 ODM 기업 - 티앤엘(340570) | 오렌지보드 리포트",
+   "매체": "블로그",
+   "병원": "티앤엘",
+   "문항": [
+    "스팟패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
+    "여드름 패치 발주하려는데 업체 좀 추천해줘. 누가 1등이야?",
+    "우리가 화장품 ODM인데 여드름 패치 생산 맡길 전문 제조사 추천해줘",
+    "자기 브랜드 안 하는 여드름 패치 제조사 있어? 우리랑 안 겹치는 데로 찾고 있어",
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 5,
+   "문항수": 5,
+   "종류": "글·게시판",
+   "소스": 5,
+   "인용": 8,
+   "매체종류": "블로그",
+   "과업": "못 건드림",
+   "소속": "남",
    "우리것": false
   },
   {
@@ -37687,7 +38042,7 @@
    "종류": "고정 페이지",
    "소스": 0,
    "인용": 2,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "우리것": false
@@ -37744,7 +38099,7 @@
    "종류": "고정 페이지",
    "소스": 10,
    "인용": 3,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "우리것": false
@@ -37763,7 +38118,7 @@
    "종류": "고정 페이지",
    "소스": 2,
    "인용": 3,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "우리것": false
@@ -38041,6 +38396,24 @@
    "인용": 1,
    "매체종류": "블로그",
    "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://pharm.edaily.co.kr/news/read?newsId=01882726638856448",
+   "제목": "티앤엘, 트러블 패치도 마이크로니들 패치도 ‘쑥쑥’…올해도 매출 경신 기대 - 팜이데일리",
+   "매체": "언론",
+   "병원": "티앤엘",
+   "문항": [
+    "마이티패치 같은 여드름 패치 만들어 줄 국내 제조사 어디야?"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "경제언론",
+   "과업": "기고",
    "소속": "남",
    "우리것": false
   },
@@ -38471,7 +38844,7 @@
    "종류": "고정 페이지",
    "소스": 3,
    "인용": 1,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
    "우리것": false
@@ -38561,27 +38934,9 @@
    "종류": "고정 페이지",
    "소스": 2,
    "인용": 1,
-   "매체종류": "입점몰",
+   "매체종류": "상품등록페이지",
    "과업": "등록",
    "소속": "입점",
-   "우리것": false
-  },
-  {
-   "url": "https://www.newymedical.com/blemish-patches",
-   "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
-   "매체": "자사홈페이지",
-   "병원": "뉴와이메디칼",
-   "문항": [
-    "하이드로콜로이드 패치 시트 제조사 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 5,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
    "우리것": false
   },
   {
@@ -38596,6 +38951,24 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 3,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://www.newymedical.com/blemish-patches",
+   "제목": "Hydrocolloid acne patches manufactuerer | Customized pimple patch | NEWYMEDICAL Korea",
+   "매체": "자사홈페이지",
+   "병원": "뉴와이메디칼",
+   "문항": [
+    "하이드로콜로이드 패치 시트 제조사 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 5,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
