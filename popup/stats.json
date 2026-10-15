@@ -4,10 +4,10 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "부산": 73,
   "인천": 78,
+  "서울": 72,
   "지역 안 씀": 114,
-  "서울": 72
+  "부산": 73
  },
  "매체": {
   "자사홈페이지": {
@@ -58948,14 +58948,14 @@
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
+       "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
-       "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
        "n": 1
       }
@@ -59033,14 +59033,14 @@
      },
      "페이지": [
       {
-       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+       "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
+       "제목": "트리니티엑스",
        "매체": "일반사이트",
        "n": 1
       },
       {
-       "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
-       "제목": "트리니티엑스",
+       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
        "매체": "일반사이트",
        "n": 1
       }
@@ -60119,15 +60119,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
        "매체": "일반사이트",
+       "n": 1
+      },
+      {
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "매체": "자사홈페이지",
        "n": 1
       }
      ]
@@ -63709,14 +63709,14 @@
        "n": 1
       },
       {
-       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-       "제목": "송도컨벤시아",
+       "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
+       "제목": "주식회사 이추",
        "매체": "일반사이트",
        "n": 1
       },
       {
-       "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
-       "제목": "주식회사 이추",
+       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+       "제목": "송도컨벤시아",
        "매체": "일반사이트",
        "n": 1
       }
@@ -67107,24 +67107,6 @@
    "우리것": false
   },
   {
-   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
-   "매체": "일반사이트",
-   "병원": "신세계백화점",
-   "문항": [
-    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "채용",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
    "제목": "트리니티엑스",
    "매체": "일반사이트",
@@ -67138,6 +67120,24 @@
    "소스": 1,
    "인용": 1,
    "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+   "매체": "일반사이트",
+   "병원": "신세계백화점",
+   "문항": [
+    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 1,
+   "매체종류": "채용",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -67467,24 +67467,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-   "제목": "송도컨벤시아",
-   "매체": "일반사이트",
-   "병원": "송도컨벤시아",
-   "문항": [
-    "인천 팝업스토어 기획부터 해주는 업체 알려줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
    "제목": "주식회사 이추",
    "매체": "일반사이트",
@@ -67496,6 +67478,24 @@
    "문항수": 1,
    "종류": "대문",
    "소스": 2,
+   "인용": 1,
+   "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+   "제목": "송도컨벤시아",
+   "매체": "일반사이트",
+   "병원": "송도컨벤시아",
+   "문항": [
+    "인천 팝업스토어 기획부터 해주는 업체 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",
