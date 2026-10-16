@@ -4,10 +4,10 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "지역 안 씀": 114,
-  "서울": 72,
   "인천": 78,
-  "부산": 73
+  "지역 안 씀": 114,
+  "부산": 73,
+  "서울": 72
  },
  "매체": {
   "자사홈페이지": {
@@ -58807,6 +58807,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -58822,6 +58823,7 @@
        "url": "https://nalli.kr/?utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 대관 · 서울숲 팝업 공간 | NALLI",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -58869,6 +58871,7 @@
        "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48997236?utm_source=chatgpt.com",
        "제목": "㈜에스디에이션 채용 - 전시, 이벤트, 팝업스토어 설계 및 제작, 시공 전문가를 기다립니다 | 잡코리아",
        "매체": "일반사이트",
+       "종류": "채용",
        "n": 2
       }
      ]
@@ -58884,6 +58887,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -58917,12 +58921,14 @@
        "url": "https://form-flow.co.kr/?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://form-flow.co.kr/project?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -58938,6 +58944,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -58954,24 +58961,28 @@
        "url": "https://www.sweetspot.co.kr/portfolio_chilsung?utm_source=chatgpt.com",
        "제목": "롯데 칠성사이다 팝업스토어 | 북촌 한옥마을 F&B 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -58987,6 +58998,7 @@
        "url": "https://www.layerstudio.kr/popup?utm_source=chatgpt.com",
        "제목": "Layer studio",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -59002,6 +59014,7 @@
        "url": "https://ofnr.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 만드는 오프라인 광고 대행사, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -59035,6 +59048,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -59048,15 +59062,17 @@
      },
      "페이지": [
       {
-       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
-       "매체": "일반사이트",
-       "n": 1
-      },
-      {
        "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
        "제목": "트리니티엑스",
        "매체": "일반사이트",
+       "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+       "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       }
      ]
@@ -59072,6 +59088,7 @@
        "url": "https://goldpeach.co.kr/insight/popup-store-cost/?utm_source=chatgpt.com",
        "제목": "팝업스토어 비용 총정리 (2026) — 평당 200~400만 원, 항목별 실제 견적 | 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59127,6 +59144,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59142,12 +59160,14 @@
        "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
        "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
        "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=164673226&utm_source=chatgpt.com",
        "제목": "유통사 팝업스토어 대행사, 어떻게 골라야 할까? : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59181,6 +59201,7 @@
        "url": "https://nalli.kr/?utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 대관 · 서울숲 팝업 공간 | NALLI",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -59197,24 +59218,28 @@
        "url": "https://www.popupkorea.co.kr/space/291?sfl=wr_subject7C7Cwr_content7C7Cwr_157C7Cwr_217C7Cwr_227C7Cwr_237C7Cwr_247C7Cwr_25&sop=or&stx=EC84B1EC8898EB8F99EC&utm_source=chatgpt.com",
        "제목": "성수동 팝업스토어 대관 | 서울숲역/뚝섬역/성수역 도보 가능 대형 팝업 공간 60평 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.popupkorea.kr/?utm_source=chatgpt.com",
        "제목": "팝업코리아",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.popupkorea.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업코리아 · 브랜드 팝업스토어 공간 큐레이션",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-       "제목": "팝업코리아 공간 검색",
+       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59230,12 +59255,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://baserich.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 선택 가이드: 스위트스팟 분석 — City Scope",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59251,6 +59278,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -59274,6 +59302,7 @@
        "url": "https://www.seoulfcs.com/about?utm_source=chatgpt.com",
        "제목": "SFCS란? | SFCS",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59316,18 +59345,21 @@
        "url": "https://hajei.com/seoul-popup-store-agency-cost-comparison-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 비교: 스위트스팟 vs 상위 3곳 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://www.asiatime.co.kr/article/20260824500274?utm_source=chatgpt.com",
        "제목": "[AT 인터뷰] \"브랜드 데이터·부동산 운영 역량이 스위트스팟 경쟁력\"",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59343,6 +59375,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59376,18 +59409,21 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/popup?utm_source=chatgpt.com",
        "제목": "스위트스팟 팝업스토어 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -59403,6 +59439,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -59418,6 +59455,7 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -59433,6 +59471,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59467,24 +59506,28 @@
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://basekeen.com/seoul-popup-store-agency-comparison-review?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비교 분석 및 스위트스팟 방문 후기 — Town Pick",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://hajei.com/seoul-popup-store-agency-cost-comparison-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 비교: 스위트스팟 vs 상위 3곳 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59500,6 +59543,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -59515,6 +59559,7 @@
        "url": "https://goldpeach.co.kr/insight/popup-store-cost/?utm_source=chatgpt.com",
        "제목": "팝업스토어 비용 총정리 (2026) — 평당 200~400만 원, 항목별 실제 견적 | 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59564,6 +59609,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -59579,18 +59625,21 @@
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59606,6 +59655,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -59621,12 +59671,14 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://biz.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "대한민국 No.1 팝업스토어 플랫폼 팝플리",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59642,6 +59694,7 @@
        "url": "https://aiblog.kinkos.co.kr/fashion-popup-vmd-agency-comparison-guide-2026?utm_source=chatgpt.com",
        "제목": "성수동 패션 팝업스토어 VMD 제작업체 TOP 3 비교 (2026년 기준) | 킨코스 B2B",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59657,6 +59710,7 @@
        "url": "https://aiblog.kinkos.co.kr/fashion-popup-vmd-agency-comparison-guide-2026?utm_source=chatgpt.com",
        "제목": "성수동 패션 팝업스토어 VMD 제작업체 TOP 3 비교 (2026년 기준) | 킨코스 B2B",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -59672,6 +59726,7 @@
        "url": "https://soomgo.com/portfolio/detail/6a51a365b89e4227310862a5?from=feed_list&utm_source=chatgpt.com",
        "제목": "보유장비 / (주)인우애드 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -59695,6 +59750,7 @@
        "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48997236?utm_source=chatgpt.com",
        "제목": "㈜에스디에이션 채용 - 전시, 이벤트, 팝업스토어 설계 및 제작, 시공 전문가를 기다립니다 | 잡코리아",
        "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       }
      ]
@@ -59736,18 +59792,21 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/popup?utm_source=chatgpt.com",
        "제목": "스위트스팟 팝업스토어 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59763,6 +59822,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -59778,6 +59838,7 @@
        "url": "https://popupkorea.co.kr/space?region=seoul_etc&utm_source=chatgpt.com",
        "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59859,6 +59920,7 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59874,6 +59936,7 @@
        "url": "https://nalli.kr/?utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 대관 · 서울숲 팝업 공간 | NALLI",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59889,6 +59952,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59931,18 +59995,21 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -59958,6 +60025,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -59989,6 +60057,7 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60022,12 +60091,14 @@
        "url": "https://goldpeach.co.kr/insight/popup-store-cost/?utm_source=chatgpt.com",
        "제목": "팝업스토어 비용 총정리 (2026) — 평당 200~400만 원, 항목별 실제 견적 | 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://goldpeach.co.kr/popup/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 | 기획·공간섭외·시공·운영·철거 원청 계약 — 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60043,6 +60114,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -60058,6 +60130,7 @@
        "url": "https://www.sweetspot.co.kr/popup_estimate?utm_source=chatgpt.com",
        "제목": "팝업스토어 예산 계산기 | 우리 브랜드 팝업스토어 예상 견적 받아보기",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60073,6 +60146,7 @@
        "url": "https://nalli.kr/?utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 대관 · 서울숲 팝업 공간 | NALLI",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60088,6 +60162,7 @@
        "url": "https://ofnr.co.kr/guides/popup-store-cost?utm_source=chatgpt.com",
        "제목": "팝업스토어 제작 비용, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60121,6 +60196,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60134,15 +60210,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
        "매체": "일반사이트",
+       "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60158,6 +60236,7 @@
        "url": "https://ofnr.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 만드는 오프라인 광고 대행사, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60192,24 +60271,28 @@
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.sweetspot.co.kr/popup?utm_source=chatgpt.com",
        "제목": "스위트스팟 팝업스토어 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_report?utm_source=chatgpt.com",
        "제목": "팝업스토어 리포트 | 팝업 성공 사례 · 팝업 트렌드 · 팝업 기획",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60225,6 +60308,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -60240,6 +60324,7 @@
        "url": "https://aiblog.kinkos.co.kr/fashion-popup-vmd-agency-comparison-guide-2026?utm_source=chatgpt.com",
        "제목": "성수동 패션 팝업스토어 VMD 제작업체 TOP 3 비교 (2026년 기준) | 킨코스 B2B",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       }
      ]
@@ -60255,6 +60340,7 @@
        "url": "https://aiblog.kinkos.co.kr/fashion-popup-vmd-agency-comparison-guide-2026?utm_source=chatgpt.com",
        "제목": "성수동 패션 팝업스토어 VMD 제작업체 TOP 3 비교 (2026년 기준) | 킨코스 B2B",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       }
      ]
@@ -60270,6 +60356,7 @@
        "url": "https://ofnr.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 만드는 오프라인 광고 대행사, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60311,12 +60398,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/popup?utm_source=chatgpt.com",
        "제목": "스위트스팟 팝업스토어 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60332,6 +60421,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60347,6 +60437,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60362,6 +60453,7 @@
        "url": "https://biz.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "대한민국 No.1 팝업스토어 플랫폼 팝플리",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60377,6 +60469,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60408,6 +60501,7 @@
        "url": "https://www.popupkorea.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업코리아 · 브랜드 팝업스토어 공간 큐레이션",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60423,6 +60517,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60456,12 +60551,14 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://i-n.co.kr/showroom-design?utm_source=chatgpt.com",
        "제목": "쇼룸 인테리어·브랜드 쇼룸 디자인 전문 | 기획부터 시공까지 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60477,6 +60574,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -60492,12 +60590,14 @@
        "url": "https://biz.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "대한민국 No.1 팝업스토어 플랫폼 팝플리",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60521,6 +60621,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60570,6 +60671,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -60586,12 +60688,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -60607,6 +60711,7 @@
        "url": "https://goldpeach.co.kr/popup/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 | 기획·공간섭외·시공·운영·철거 원청 계약 — 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -60622,6 +60727,7 @@
        "url": "https://ofnr.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 만드는 오프라인 광고 대행사, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60663,6 +60769,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -60679,6 +60786,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60694,12 +60802,14 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.arteriors.co.kr/index?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60715,12 +60825,14 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/?utm_source=chatgpt.com",
        "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60736,6 +60848,7 @@
        "url": "https://form-flow.co.kr/index?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60769,12 +60882,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60790,12 +60905,14 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.arteriors.co.kr/POPUPSTORE?utm_source=chatgpt.com",
        "제목": "아트리어디자인스튜디오ㅣ팝업스토어 : 브랜드경험 최적화 토탈 크리에이티브 솔루션",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -60811,6 +60928,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60826,6 +60944,7 @@
        "url": "https://biz.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "대한민국 No.1 팝업스토어 플랫폼 팝플리",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -60876,18 +60995,21 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.newspim.com/news/view/20260707000611?utm_source=chatgpt.com",
        "제목": "2년 새 3배 큰 팝업스토어 시장…서울 상권 판도 바꾼다",
        "매체": "언론",
+       "종류": "경제언론",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -60987,6 +61109,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -61124,6 +61247,7 @@
        "url": "https://www.dcb.or.kr/04_business/?mcode=0404050000&tab=3&utm_source=chatgpt.com",
        "제목": "글로벌허브 디자인자산 확충 < 사업안내 < (재)부산디자인진흥원",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -61182,6 +61306,7 @@
        "url": "https://www.inthespace.co.kr/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C?utm_source=chatgpt.com",
        "제목": "INTHESPACE",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -61287,6 +61412,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -61352,6 +61478,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -61441,6 +61568,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -61472,6 +61600,7 @@
        "url": "https://popupkorea.co.kr/agency-popup-space?utm_source=chatgpt.com",
        "제목": "광고대행사 전용 · 제안서용 팝업스토어 공간 추천 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -61539,6 +61668,7 @@
        "url": "https://www.dcb.or.kr/04_business/?mcode=0404050000&tab=3&utm_source=chatgpt.com",
        "제목": "글로벌허브 디자인자산 확충 < 사업안내 < (재)부산디자인진흥원",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -61612,6 +61742,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -61651,6 +61782,7 @@
        "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
        "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -61700,12 +61832,14 @@
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -61721,6 +61855,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -61744,6 +61879,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -61881,6 +62017,7 @@
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -61922,6 +62059,7 @@
        "url": "https://thenanad.com/boards/89/view?referer=%2Fpages%2Fproject&utm_source=chatgpt.com",
        "제목": "The Nanad",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -62011,6 +62149,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62076,6 +62215,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62091,6 +62231,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -62106,6 +62247,7 @@
        "url": "https://form-flow.co.kr/?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62139,6 +62281,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62155,18 +62298,21 @@
        "url": "https://www.sweetspot.co.kr/popup_estimate?utm_source=chatgpt.com",
        "제목": "팝업스토어 예산 계산기 | 우리 브랜드 팝업스토어 예상 견적 받아보기",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62182,6 +62328,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62197,6 +62344,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62212,6 +62360,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62253,6 +62402,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62268,6 +62418,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -62283,6 +62434,7 @@
        "url": "https://nalli.kr/?utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 대관 · 서울숲 팝업 공간 | NALLI",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62298,6 +62450,7 @@
        "url": "https://www.seoulfcs.com/about?utm_source=chatgpt.com",
        "제목": "SFCS란? | SFCS",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -62313,6 +62466,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62346,12 +62500,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62367,6 +62523,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62382,6 +62539,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62397,12 +62555,14 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62418,12 +62578,14 @@
        "url": "https://gggs.popply.co.kr/partner/intro?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62471,6 +62633,7 @@
        "url": "https://goldpeach.co.kr/popup/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 | 기획·공간섭외·시공·운영·철거 원청 계약 — 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62504,6 +62667,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62519,6 +62683,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62534,6 +62699,7 @@
        "url": "https://goldpeach.co.kr/popup/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 | 기획·공간섭외·시공·운영·철거 원청 계약 — 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62549,6 +62715,7 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62582,12 +62749,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -62603,12 +62772,14 @@
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62632,6 +62803,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62655,6 +62827,7 @@
        "url": "https://gggs.popply.co.kr/?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62696,6 +62869,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -62711,6 +62885,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -62742,6 +62917,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62757,6 +62933,7 @@
        "url": "https://gggs.popply.co.kr/partner/intro?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62772,6 +62949,7 @@
        "url": "https://goldpeach.co.kr/popup/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 | 기획·공간섭외·시공·운영·철거 원청 계약 — 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62861,6 +63039,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -62910,6 +63089,7 @@
        "url": "https://www.sweetspot.co.kr/popup_estimate?utm_source=chatgpt.com",
        "제목": "팝업스토어 예산 계산기 | 우리 브랜드 팝업스토어 예상 견적 받아보기",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62925,6 +63105,7 @@
        "url": "https://ofnr.co.kr/guides/popup-store-cost?utm_source=chatgpt.com",
        "제목": "팝업스토어 제작 비용, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -62940,6 +63121,7 @@
        "url": "https://goldpeach.co.kr/insight/popup-store-cost/?utm_source=chatgpt.com",
        "제목": "팝업스토어 비용 총정리 (2026) — 평당 200~400만 원, 항목별 실제 견적 | 골드피치",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62955,6 +63137,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -62996,24 +63179,28 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.sweetspot.co.kr/portfolio_GOALKICKINGGIRLS?utm_source=chatgpt.com",
        "제목": "골때리는그녀들 팝업스토어 | 골때리는그녀들 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/popup?utm_source=chatgpt.com",
        "제목": "스위트스팟 팝업스토어 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63029,6 +63216,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63062,6 +63250,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63077,6 +63266,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -63128,18 +63318,21 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.newspim.com/news/view/20260707000611?utm_source=chatgpt.com",
        "제목": "2년 새 3배 큰 팝업스토어 시장…서울 상권 판도 바꾼다",
        "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63173,6 +63366,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -63188,6 +63382,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -63203,6 +63398,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63218,6 +63414,7 @@
        "url": "https://www.gaiastudio.co.kr/?utm_source=chatgpt.com",
        "제목": "가이아 스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63251,6 +63448,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -63267,18 +63465,21 @@
        "url": "https://zdnet.co.kr/view/?no=20260317103618&utm_source=chatgpt.com",
        "제목": "스위트스팟, 작년 영업익 4.38억원...\"첫 연간 흑자\" - ZDNet korea",
        "매체": "언론",
-       "n": 1
-      },
-      {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       },
       {
        "url": "https://www.news2day.co.kr/article/20260814500063?site_preference=mobile&utm_source=chatgpt.com",
        "제목": "[N2 인터뷰] 김은미 스위트스팟 CMO “팝업, 브랜드 경험하고 팬 만드는 공간”",
        "매체": "일반사이트",
+       "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -63294,6 +63495,7 @@
        "url": "https://incheonsign.com/?utm_source=chatgpt.com",
        "제목": "인천 간판제작 시선공작소 — 프레임 재활용 60% 절감·무료견적",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63333,12 +63535,14 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/?utm_source=chatgpt.com",
        "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63354,6 +63558,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63439,18 +63644,21 @@
        "url": "https://idsc.kr/?utm_source=chatgpt.com",
        "제목": "인천디자인지원센터",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://search.idsc.kr/?utm_source=chatgpt.com",
        "제목": "인천디자인지원센터 디자인기업 검색",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://itp.or.kr/intro.asp?tmid=159&utm_source=chatgpt.com",
        "제목": "인천테크노파크",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63466,6 +63674,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63498,6 +63707,7 @@
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63563,6 +63773,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63612,6 +63823,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -63627,6 +63839,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63650,6 +63863,7 @@
        "url": "https://www.i-boss.co.kr/ab-1958-83659?utm_source=chatgpt.com",
        "제목": "[BTL] 자동차 전시 행사 이력을 보유한 시공 업체 모집합니다. - 대행의뢰 - 마케팅 대행 - 아이보스",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63683,6 +63897,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63698,6 +63913,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -63718,21 +63934,24 @@
      },
      "페이지": [
       {
-       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-       "제목": "송도컨벤시아",
+       "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
+       "제목": "주식회사 이추",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
        "제목": "인천관광공사",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
-       "제목": "주식회사 이추",
+       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+       "제목": "송도컨벤시아",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63774,18 +63993,21 @@
        "url": "https://popupkorea.co.kr/agency-popup-space?utm_source=chatgpt.com",
        "제목": "광고대행사 전용 · 제안서용 팝업스토어 공간 추천 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.popupkorea.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업코리아 · 브랜드 팝업스토어 공간 큐레이션",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.popupkorea.co.kr/contact/write?cta_placement=cta&cta_source=space_detail&space_id=130&type=space_detail&utm_source=chatgpt.com",
        "제목": "선택한 공간 문의 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63801,6 +64023,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -63816,6 +64039,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63831,6 +64055,7 @@
        "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63864,6 +64089,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -63880,6 +64106,7 @@
        "url": "https://idsc.kr/?utm_source=chatgpt.com",
        "제목": "인천디자인지원센터",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -63892,15 +64119,17 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
-       "매체": "자사홈페이지",
-       "n": 2
-      },
-      {
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 2
+      },
+      {
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -63916,6 +64145,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63981,6 +64211,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -63996,12 +64227,14 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -64025,6 +64258,7 @@
        "url": "https://www.interiorgentleman.com/?utm_source=chatgpt.com",
        "제목": "인젠 - No.1 상업공간 인테리어 플랫폼",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64082,6 +64316,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -64097,6 +64332,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -64146,6 +64382,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -64161,6 +64398,7 @@
        "url": "https://ant-design.co.kr/?utm_source=chatgpt.com",
        "제목": "에이앤티디자인 - 전시 부스 디자인 & 인테리어 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       }
      ]
@@ -64202,6 +64440,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -64259,6 +64498,7 @@
        "url": "https://incheonsign.com/?utm_source=chatgpt.com",
        "제목": "인천 간판제작 시선공작소 — 프레임 재활용 60% 절감·무료견적",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       }
      ]
@@ -64300,6 +64540,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -64315,6 +64556,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       }
      ]
@@ -64330,12 +64572,14 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://i-n.co.kr/exhibition-booth-design?utm_source=chatgpt.com",
        "제목": "전시부스 디자인·제작 전문 | KINTEX·COEX·해외 직접 시공 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -64359,6 +64603,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64374,6 +64619,7 @@
        "url": "https://incheonsign.com/?utm_source=chatgpt.com",
        "제목": "인천 간판제작 시선공작소 — 프레임 재활용 60% 절감·무료견적",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64439,12 +64685,14 @@
        "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
        "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -64460,6 +64708,7 @@
        "url": "https://incheonsign.com/?utm_source=chatgpt.com",
        "제목": "인천 간판제작 시선공작소 — 프레임 재활용 60% 절감·무료견적",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -64483,6 +64732,7 @@
        "url": "https://www.gaiastudio.co.kr/?utm_source=chatgpt.com",
        "제목": "가이아 스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64514,6 +64764,7 @@
        "url": "https://ad119.com/?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64547,6 +64798,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -64562,6 +64814,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64577,6 +64830,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64610,6 +64864,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -64651,6 +64906,7 @@
        "url": "https://junoinc.co.kr/?utm_source=chatgpt.com",
        "제목": "쥬노F&B | 크리에이티브 브랜딩 & F&B 유통 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -64666,6 +64922,7 @@
        "url": "https://www.gaiastudio.co.kr/?utm_source=chatgpt.com",
        "제목": "가이아 스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -64689,6 +64946,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -64704,6 +64962,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64747,6 +65006,7 @@
        "url": "https://www.itingcomms.com/?utm_source=chatgpt.com",
        "제목": "아이팅커뮤니케이션즈 | 디지털 광고·GEO 플랫폼·전시 행사 대행",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64762,6 +65022,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -64774,21 +65035,24 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 No.1 기업, 스위트스팟",
+       "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
+       "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
        "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
        "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
-       "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
+       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -64804,12 +65068,14 @@
        "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
        "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
        "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64825,6 +65091,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64890,6 +65157,7 @@
        "url": "https://thenanad.com/boards/89/view?referer=%2Fpages%2Fproject&utm_source=chatgpt.com",
        "제목": "The Nanad",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -64906,6 +65174,7 @@
        "url": "https://www.bbf.show/sub/application.php?utm_source=chatgpt.com",
        "제목": "2026 부산브랜드페스타",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -64953,6 +65222,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65068,6 +65338,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65165,6 +65436,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65180,6 +65452,7 @@
        "url": "https://thenanad.com/boards/89/view?referer=%2Fpages%2Fproject&utm_source=chatgpt.com",
        "제목": "The Nanad",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -65245,6 +65518,7 @@
        "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
        "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65284,6 +65558,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65318,6 +65593,7 @@
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -65351,6 +65627,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -65366,6 +65643,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -65381,6 +65659,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65404,6 +65683,7 @@
        "url": "https://gggs.popply.co.kr/partner/intro?utm_source=chatgpt.com",
        "제목": "공간검색 | 팝업스토어 & 행사 공간 매칭, 공간 비지니스 업체 매칭",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65419,6 +65699,7 @@
        "url": "https://www.story-kaan.com/?utm_source=chatgpt.com",
        "제목": "스토리칸 | 성수 팝업스토어",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65460,6 +65741,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -65475,12 +65757,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65496,6 +65780,7 @@
        "url": "https://form-flow.co.kr/project?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65537,18 +65822,21 @@
        "url": "https://hajei.com/seoul-popup-store-agency-cost-comparison-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 비교: 스위트스팟 vs 상위 3곳 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://kecify.com/seoul-popup-store-agency-guide?utm_source=chatgpt.com",
        "제목": "성공적인 서울 팝업스토어 기획을 위한 대행사 선택 가이드 — Service Memo",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -65582,12 +65870,14 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://kontekst.kr/?utm_source=chatgpt.com",
        "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65600,15 +65890,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 No.1 기업, 스위트스팟",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 No.1 기업, 스위트스팟",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65624,6 +65916,7 @@
        "url": "https://i-n.co.kr/?utm_source=chatgpt.com",
        "제목": "전시부스·팝업스토어·쇼룸 공간 디자인 기획·시공 전문 | 아이엔디자인그룹",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65647,6 +65940,7 @@
        "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&cntPerPage=10&curPage=1&nttNo=458614&utm_source=chatgpt.com",
        "제목": "(석간) 서울 도시 브랜드, 소상공인 굿즈 산업으로 확장 > 보도자료 | 서울특별시",
        "매체": "일반사이트",
+       "종류": "규제기관",
        "n": 1
       }
      ]
@@ -65662,6 +65956,7 @@
        "url": "https://www.arteriors.co.kr/?utm_source=chatgpt.com",
        "제목": "아트리어 디자인스튜디오 | 공간 브랜딩 & 팝업스토어 원스톱 솔루션 제공",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65695,6 +65990,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65710,6 +66006,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65725,6 +66022,7 @@
        "url": "https://ofnr.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 만드는 오프라인 광고 대행사, 오프너",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65740,6 +66038,7 @@
        "url": "https://form-flow.co.kr/project?utm_source=chatgpt.com",
        "제목": "폼플로우 - FORMFLOW",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65773,6 +66072,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65788,6 +66088,7 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65837,6 +66138,7 @@
        "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
        "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65852,12 +66154,14 @@
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
        "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -65891,6 +66195,7 @@
        "url": "https://hara789.com/?utm_source=chatgpt.com",
        "제목": "출력하라 | 실사출력·UV인쇄·아크릴굿즈·팝업/전시 출력물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -65906,6 +66211,7 @@
        "url": "https://popupkorea.co.kr/agency-popup-space?utm_source=chatgpt.com",
        "제목": "광고대행사 전용 · 제안서용 팝업스토어 공간 추천 | 팝업코리아",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -65921,6 +66227,7 @@
        "url": "https://inwooad.net/?utm_source=chatgpt.com",
        "제목": "인우애드 | 실사출력·포토존·팝업스토어·대형 펜스 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -65954,12 +66261,14 @@
        "url": "https://ad119.com/about?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://ad119.com/?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -65975,6 +66284,7 @@
        "url": "https://incheonsign.com/?utm_source=chatgpt.com",
        "제목": "인천 간판제작 시선공작소 — 프레임 재활용 60% 절감·무료견적",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -65990,6 +66300,7 @@
        "url": "https://lua-bloom.com/?utm_source=chatgpt.com",
        "제목": "자이언트플라워 포토존 제작·대여 업체 | 포토존 대여 - 루아아뜰리에블룸",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -67122,24 +67433,6 @@
    "우리것": false
   },
   {
-   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
-   "매체": "일반사이트",
-   "병원": "신세계백화점",
-   "문항": [
-    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "채용",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
    "제목": "트리니티엑스",
    "매체": "일반사이트",
@@ -67153,6 +67446,24 @@
    "소스": 1,
    "인용": 1,
    "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+   "매체": "일반사이트",
+   "병원": "신세계백화점",
+   "문항": [
+    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 1,
+   "매체종류": "채용",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -67194,8 +67505,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
-   "제목": "팝업코리아 공간 검색",
+   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
+   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -67204,7 +67515,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 0,
+   "소스": 1,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -67464,8 +67775,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-   "제목": "송도컨벤시아",
+   "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
+   "제목": "주식회사 이추",
    "매체": "일반사이트",
    "병원": "송도컨벤시아",
    "문항": [
@@ -67473,8 +67784,8 @@
    ],
    "각주": 1,
    "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
+   "종류": "대문",
+   "소스": 2,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",
@@ -67500,8 +67811,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
-   "제목": "주식회사 이추",
+   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+   "제목": "송도컨벤시아",
    "매체": "일반사이트",
    "병원": "송도컨벤시아",
    "문항": [
@@ -67509,8 +67820,8 @@
    ],
    "각주": 1,
    "문항수": 1,
-   "종류": "대문",
-   "소스": 2,
+   "종류": "고정 페이지",
+   "소스": 1,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",

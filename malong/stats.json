@@ -113015,18 +113015,21 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://hephaestusworks.co.kr/product/c5f08d01-8243-4166-b24d-489cc0732f45-802",
        "제목": "국제양궁대회 행사 글자 홍보 스카시 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113043,24 +113046,28 @@
        "url": "https://malongcompany.tistory.com/371?utm_source=chatgpt.com",
        "제목": "대형 글자 조형물로 특별한 순간을 완성하는 법 – 글자 스카시 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1066&s_cate=&t=%5B%EC%8B%A0%EC%9A%A9%EB%B3%B4%EC%A6%9D%EA%B8%B0%EA%B8%88%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90%5D_%EA%B8%88%EC%86%8D_%EA%B8%80%EC%9E%90_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/30",
        "제목": "브랜드 가치를 높이는 글자 조형물·포토존 조형물 제작 – 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/121",
        "제목": "공기업·공공기관을 위한 흉상 제작과 입체 글자 조형물 업체 마롱컴퍼니 완벽 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -113077,6 +113084,7 @@
        "url": "https://www.life114.co.kr/html/board/view.asp?M_SEQ=1101717",
        "제목": "간판제작 솜씨잔넬스카시 (서울 중구 을지로4)",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -113176,24 +113184,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1066&s_cate=&t=%5B%EC%8B%A0%EC%9A%A9%EB%B3%B4%EC%A6%9D%EA%B8%B0%EA%B8%88%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90%5D_%EA%B8%88%EC%86%8D_%EA%B8%80%EC%9E%90_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 6
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/71",
        "제목": "조형물 보수부터 금속 조형물 제작까지, 개인 맞춤 모형 제작 업체 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/341",
        "제목": "공기업을 위한 금속 조형물 제작 가이드 | 공공조달부터 설치까지 마롱컴퍼니가 함께합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -113217,6 +113229,7 @@
        "url": "https://www.xn--ch-qo2iy87ds6ey8dvq5a.com/about/",
        "제목": "CH조형연구소 회사소개",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -113232,6 +113245,7 @@
        "url": "https://kmong.com/gig/773822",
        "제목": "금속조형물(팝업.랜드마크.관공서) 제작 및 시공 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -113255,6 +113269,7 @@
        "url": "https://economist.co.kr/article/view/ecn202603100040",
        "제목": "이코노미스트 - 조형물 제작 분야가 주목하는 ‘가이아 스튜디오’",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113304,24 +113319,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=14315&mode=view&utm_source=chatgpt.com",
        "제목": "[건국대학교] FRP 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=887&mode=view",
        "제목": "[이마트] FRP 단진 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
-       "n": 2
-      },
-      {
-       "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=925&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EC%98%A4%EC%97%A0%EC%A7%80%EC%BB%B4%ED%8D%BC%EB%8B%88%5D_FRP_%EB%B9%8C%EB%A6%AC_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
-       "제목": "마롱컴퍼니 MALONG COMPANY",
-       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1075&s_cate=&t=%5B%EB%94%94%EC%A0%80%ED%8A%B8%ED%94%8C%EB%9E%98%EB%84%B7%5D_EPS_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 2
+      },
+      {
+       "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=925&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EC%98%A4%EC%97%A0%EC%A7%80%EC%BB%B4%ED%8D%BC%EB%8B%88%5D_FRP_%EB%B9%8C%EB%A6%AC_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
+       "제목": "마롱컴퍼니 MALONG COMPANY",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -113337,6 +113356,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -113361,12 +113381,14 @@
        "url": "https://hephaestusworks.co.kr/product/682c2786-1fc9-404f-bade-619e05b990c8-473-858?utm_source=chatgpt.com",
        "제목": "초대형 문어 캐릭터 모형 호수 설치 FRP 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -113382,12 +113404,14 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://haenoon.com/%EC%BA%90%EB%A6%AD%ED%84%B0/?query-5-page=3&utm_source=chatgpt.com",
        "제목": "캐릭터 - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113403,6 +113427,7 @@
        "url": "https://thehand.kr/product/%EB%AF%B8%EB%85%B8%EC%9D%B4-%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4/79/?utm_source=chatgpt.com",
        "제목": "미노이 팝업스토어 FRP조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -113418,12 +113443,14 @@
        "url": "https://damandler.com/frp/",
        "제목": "FRP 조형물 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://damandler.tistory.com/entry/FRP%EC%A1%B0%ED%98%95-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%AA%A8%ED%98%95-%EB%8C%80%ED%98%95-%ED%94%BC%EA%B7%9C%EC%96%B4-%EC%A0%9C%EC%9E%91-%EC%82%AC%EB%A1%80",
        "제목": "FRP조형 캐릭터모형 대형 피규어 제작 사례",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -113447,6 +113474,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113481,24 +113509,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=407&mode=view&utm_source=chatgpt.com",
        "제목": "[상상마당] FRP 포토존 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
-      },
-      {
-       "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
-       "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
-       "매체": "자사홈페이지",
-       "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=890&s_cate=&t=%5B%EC%82%AC%EB%8F%84%EC%94%A8%EB%94%94%EC%9E%90%EC%9D%B8%5D_%EB%94%94%ED%98%B8_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 2
+      },
+      {
+       "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
+       "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -113524,6 +113556,7 @@
        "url": "https://weavement.co.kr/portfolio/66505632e4f3111c30b95336",
        "제목": "위브먼트 | '곰돌찡 토끼찡' FRP 캐릭터 포토존 마스코트 모형 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113539,6 +113572,7 @@
        "url": "https://kmong.com/gig/750273",
        "제목": "국내제작 다양한 소재를 이용한 대형 포토존 조형물 제작 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 3
       }
      ]
@@ -113552,21 +113586,24 @@
      },
      "페이지": [
       {
-       "url": "https://hephaestusworks.co.kr/",
-       "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
-       "매체": "자사홈페이지",
-       "n": 1
-      },
-      {
        "url": "https://hephaestusworks.co.kr/product/ccb31dfd-135a-4dc8-bb47-bed1af957622?utm_source=chatgpt.com",
        "제목": "서울시 브랜드 캐릭터 실내 입구 FRP 포토존 조형물 제작",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://hephaestusworks.co.kr/",
+       "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -113582,6 +113619,7 @@
        "url": "https://www.airbible.com/byuljubu",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113613,6 +113651,7 @@
        "url": "https://thehand.kr/product/%ED%95%98%EB%A3%A8%EC%97%94%EC%A7%84-%EC%9D%B4%EB%AE%A8/151/",
        "제목": "삼진제약 이뮨 포토존 모형 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113656,24 +113695,28 @@
        "url": "https://malongcompany.tistory.com/397",
        "제목": "공기업 조형물 발주, FRP 제작 전문 모형 제작 업체 마롱컴퍼니와 함께하세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=837&mode=view&utm_source=chatgpt.com",
        "제목": "[식품의약품안전처] FRP 지킬박사 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malong.co.kr/archives/frp-%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%A0%9C%EC%9E%91%EC%97%85%EC%B2%B4-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%A3%BC%EB%AC%B8%EC%A0%9C%EC%9E%91-%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80/?utm_source=chatgpt.com",
        "제목": "캐릭터 조형물 주문제작 공공기관 조형물 시공업체 공공 조형물 가격 기업 조형물 제작비 업체 조형물 견적문의 - 마롱컴퍼니",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113690,12 +113733,14 @@
        "url": "https://hephaestusworks.co.kr/product/53cd09cc-194b-45bb-a9ac-2490bdc2ccf2?utm_source=chatgpt.com",
        "제목": "노타 인공지능 자동차 하우징 FRP 모형 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       }
      ]
@@ -113711,6 +113756,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -113726,12 +113772,14 @@
        "url": "https://soomgo.com/portfolio/detail/6908681dd16fbb3fbe92b9f6",
        "제목": "성수동 이자카야 밤토리 캐릭터 frp 조형물 주문제작 / 모형 파는 아가씨 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       },
       {
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5",
        "제목": "서울 서대문구 지역 조형물 시공 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       }
      ]
@@ -113748,6 +113796,7 @@
        "url": "https://weavement.co.kr/portfolio/66505632e4f3111c30b95336",
        "제목": "위브먼트 | '곰돌찡 토끼찡' FRP 캐릭터 포토존 마스코트 모형 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113763,6 +113812,7 @@
        "url": "https://kmong.com/gig/215105",
        "제목": "주문제작 FRP조형물 인테리어 소품 스티로폼 원형조각 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       }
      ]
@@ -113778,6 +113828,7 @@
        "url": "https://haenoon.com/%EC%A0%84%EC%8B%9C%EB%AA%A8%ED%98%95/?utm_source=chatgpt.com",
        "제목": "전시모형 - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113793,6 +113844,7 @@
        "url": "https://thehand.kr/product/%ED%99%94%EC%9D%B4%ED%8A%B8-%ED%86%A0%EB%A7%88%ED%86%A0/125/?utm_source=chatgpt.com",
        "제목": "화이트 토마토 FRP조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113808,6 +113860,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113841,24 +113894,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1074&s_cate=&t=%5B%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=925&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EC%98%A4%EC%97%A0%EC%A7%80%EC%BB%B4%ED%8D%BC%EB%8B%88%5D_FRP_%EB%B9%8C%EB%A6%AC_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=13811&s_cate=&t=%5B%ED%99%98%EB%8F%99%ED%95%B4%EC%82%B0%EC%97%85%EC%97%B0%EA%B5%AC%EC%9B%90%5D_FRP_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -113874,6 +113931,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -113889,12 +113947,14 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://haenoon.com/%EC%A0%84%EC%8B%9C%EB%AA%A8%ED%98%95/?utm_source=chatgpt.com",
        "제목": "전시모형 - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113910,6 +113970,7 @@
        "url": "https://www.gaiastudio.co.kr/",
        "제목": "가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -113933,6 +113994,7 @@
        "url": "https://kmong.com/gig/215105",
        "제목": "주문제작 FRP조형물 인테리어 소품 스티로폼 원형조각 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -113964,6 +114026,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -113998,24 +114061,28 @@
        "url": "https://malongcompany.tistory.com/465",
        "제목": "공기업 조형물 제작 업체 선정 가이드 | FRP 조형물·캐릭터 조형물 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 4
       },
       {
        "url": "https://malongcompany.tistory.com/20",
        "제목": "공공기관 글자 조형물·흉상 제작 전문 마롱컴퍼니 | 공공조형물 조달 완벽 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/business/build.php",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114040,6 +114107,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -114123,24 +114191,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=903&mode=view&utm_source=chatgpt.com",
        "제목": "[예술의전당] 스티로폼 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=1068&mode=view",
        "제목": "[의령군청] 금속 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/257",
        "제목": "글자 조형물 제작부터 글자 스카시까지 – 마롱컴퍼니에서 나만의 특별한 모형 제작하기",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -114172,6 +114244,7 @@
        "url": "https://hephaestusworks.co.kr/product/2d0219f7-03b2-4684-84d5-91d891837027",
        "제목": "바바요 런칭 행사 무대 전시용 대형 스티로폼 영문 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114195,6 +114268,7 @@
        "url": "https://www.turnkeystudio.co.kr/",
        "제목": "조형물 제작 턴키스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114210,6 +114284,7 @@
        "url": "https://kmong.com/gig/688439",
        "제목": "국내제작 눈길을 사로잡는 입체 글자 조형물 포토존 제작 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -114253,24 +114328,28 @@
        "url": "https://malongcompany.tistory.com/562",
        "제목": "브랜드를 공간에 새기다 – 대형 글자 FRP 조형물 제작 업체 마롱컴퍼니의 기업 맞춤 솔루션",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=934",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=1068&mode=view",
        "제목": "[의령군청] 금속 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/",
        "제목": "마롱컴퍼니 ㅣ 조형물 제작 전문 업계 1위, 만족도 99% 업체",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -114295,12 +114374,14 @@
        "url": "https://hephaestusworks.co.kr/product/256dfe39-6a4e-4b88-93a6-3ef018accc00",
        "제목": "리치앤코 로비 입구 홍보 대형 FRP 캐릭터 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://hephaestusworks.co.kr/home",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114316,6 +114397,7 @@
        "url": "https://www.turnkeystudio.co.kr/",
        "제목": "조형물 제작 턴키스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -114331,6 +114413,7 @@
        "url": "https://www.gaiastudio.co.kr/pages/about.php",
        "제목": "회사소개 | 가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -114346,6 +114429,7 @@
        "url": "https://www.airbible.com/JayB-seed",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114361,6 +114445,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114394,24 +114479,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?FRP_%EC%A1%B0%ED%98%95%EB%AC%BC=&idx=360&s_cate=&t=%5B%EC%B0%BD%EC%97%85%ED%97%88%EB%B8%8C%5D_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EA%B8%80%EC%9E%90_",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1075&s_cate=&t=%5B%EB%94%94%EC%A0%80%ED%8A%B8%ED%94%8C%EB%9E%98%EB%84%B7%5D_EPS_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1074&s_cate=&t=%5B%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -114428,18 +114517,21 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://hephaestusworks.co.kr/product/2ad5deca-602c-487d-8667-38ca8aff9962-470-484-577",
        "제목": "시너지타워 야외 건물 대형 곰 캐릭터 FRP 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114455,6 +114547,7 @@
        "url": "https://weavement.co.kr/portfolio/692668eccbb327137ed08e96",
        "제목": "위브먼트 | 국민체육진흥공단 '백호돌이' 캐릭터 FRP 조형물 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -114470,6 +114563,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114485,6 +114579,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114500,6 +114595,7 @@
        "url": "https://damandler.com/frp/",
        "제목": "FRP 조형물 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114523,6 +114619,7 @@
        "url": "https://www.airbible.com/BBchoonsik_popup_air?utm_source=chatgpt.com",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114558,24 +114655,28 @@
        "url": "https://malongcompany.tistory.com/387",
        "제목": "공기업 로고 조형물·대형 조형물·동상 제작, 공공조달 전문 업체 마롱컴퍼니가 함께합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1044&t=%5B%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EA%B2%BD%EC%B0%B0%EC%B2%AD%5D_%EB%B8%8C%EB%A1%A0%EC%A6%88_%ED%9D%89%EC%83%81_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/67",
        "제목": "브랜드 가치를 공간으로 만든다 – 금속 조형물·포토존 제작 전문, 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=1044&mode=view",
        "제목": "[경기남부경찰청] 브론즈 흉상 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114689,6 +114790,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -114704,12 +114806,14 @@
        "url": "https://www.stellamove.com/",
        "제목": "스텔라무브 홈페이지",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://www.stellamove.com/3dprintingservice",
        "제목": "3D프린팅 및 시제품 제작 서비스 - 13년 경력 전문가 상담 | 스텔라무브 — 스텔라무브",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -114750,6 +114854,7 @@
        "url": "https://richcat.tistory.com/307293",
        "제목": "업종별 서울특별시 금천구 제조기업 목록. 2025 : 전기식 진단 및 요법 기기 제조업",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -114800,24 +114905,28 @@
        "url": "https://malongcompany.tistory.com/123",
        "제목": "스티로폼 스카시로 나만의 로고 조형물 만들기 – 조형물 업체 마롱컴퍼니 추천",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=903&mode=view&utm_source=chatgpt.com",
        "제목": "[예술의전당] 스티로폼 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/147?utm_source=chatgpt.com",
        "제목": "브랜드를 입체로 표현하다 – 스티로폼 스카시·FRP 제작 전문 조형물 제작 업체 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=13777&s_cate=&t=%5B%EB%84%A5%EC%8A%A4%ED%8E%98%EC%96%B4%5D_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EA%B8%80%EC%9E%90_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -114833,18 +114942,21 @@
        "url": "https://hephaestusworks.co.kr/product/01703dd1-644d-4004-8eab-182a98c1dd8d",
        "제목": "삼성 실내 무대 행사용 스티로폼 영문 스카시 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://hephaestusworks.co.kr/product/7f34e78b-2dfc-4bfb-8e08-25f3814832cb",
        "제목": "무대 홍보용 대형 스티로폼 스카시 촬영 소품 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/5c5cfc7f-5665-42c2-a1a7-9b8f29861f87?utm_source=chatgpt.com",
        "제목": "브랜드 행사 홍보용 스티로폼 실외 슬로건 스카시 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -114929,12 +115041,14 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=2471&s_cate=&t=%5B%EC%95%84%EC%8A%A4%ED%8A%B8%5D_EPS_%EC%9A%B0%EB%A0%88%EC%95%84_%EB%B9%97%EC%82%B4%EB%AC%B4%EB%8A%AC%ED%86%A0%EA%B8%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://malongcompany.tistory.com/102",
        "제목": "FRP 제작 업체 마롱컴퍼니 | 스티로폼 제작부터 캐릭터 포토존까지 개인 맞춤 조형물 한 번에",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       }
      ]
@@ -114950,12 +115064,14 @@
        "url": "https://www.yoonchan.kr/default/03/01.php?utm_source=chatgpt.com",
        "제목": "윤찬",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://www.yoonchan.kr/default/03/04.php?com_board_basic=read_form&com_board_id=7&com_board_idx=164&com_board_page=&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&utm_source=chatgpt.com",
        "제목": "윤찬",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115023,24 +115139,28 @@
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=950&mode=view",
        "제목": "[롯데칠성] EPS 조형물 4종 제작 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=853&mode=view&utm_source=chatgpt.com",
        "제목": "[세화문화예술재단] EPS 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=950&s_cate=&t=%5B%EB%A1%AF%EB%8D%B0%EC%B9%A0%EC%84%B1%5D_EPS_%EC%A1%B0%ED%98%95%EB%AC%BC_4%EC%A2%85_%EC%A0%9C%EC%9E%91",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115066,6 +115186,7 @@
        "url": "https://weavement.co.kr/portfolio",
        "제목": "포트폴리오 | 위브먼트",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115081,6 +115202,7 @@
        "url": "https://kmong.com/gig/698207",
        "제목": "국내제작 가볍고 빠른 EPS 스티로폼 조형물 제작 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       }
      ]
@@ -115096,6 +115218,7 @@
        "url": "https://thehand.kr/product/%EC%95%A0%ED%84%B0%EB%AF%B8-%EC%8B%B1%ED%8F%AC%EB%93%9C%EB%A6%BC/56/",
        "제목": "애터미 싱포드림 무대 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -115111,6 +115234,7 @@
        "url": "https://www.gaiastudio.co.kr/?bo_table=gallery",
        "제목": "가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -115142,6 +115266,7 @@
        "url": "https://damandler.com/frp/",
        "제목": "FRP 조형물 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115194,24 +115319,28 @@
        "url": "https://malongcompany.tistory.com/71",
        "제목": "조형물 보수부터 금속 조형물 제작까지, 개인 맞춤 모형 제작 업체 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://malongcompany.tistory.com/513",
        "제목": "공기업 조형물 제작, FRP 캐릭터부터 대형 인형 제작·보수까지 마롱컴퍼니가 해결합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115227,6 +115356,7 @@
        "url": "https://art1.co.kr/%EC%82%AC%EC%97%85%EC%98%81%EC%97%AD/",
        "제목": "사업영역 - 조형물 제작 전문업체 | 공공조형물·기업조형물 맞춤 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -115250,6 +115380,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115283,24 +115414,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=934",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=2274&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80%5D_FRP_%EA%B5%B0%EC%9D%B8_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -115325,24 +115460,28 @@
        "url": "https://hephaestusworks.co.kr/home",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/2ad5deca-602c-487d-8667-38ca8aff9962-470-484-577",
        "제목": "시너지타워 야외 건물 대형 곰 캐릭터 FRP 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115384,6 +115523,7 @@
        "url": "https://damandler.com/",
        "제목": "다만드러 홈페이지 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115399,6 +115539,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115414,6 +115555,7 @@
        "url": "https://art1.co.kr/%EC%82%AC%EC%97%85%EC%98%81%EC%97%AD/",
        "제목": "사업영역 - 조형물 제작 전문업체 | 공공조형물·기업조형물 맞춤 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115466,18 +115608,21 @@
        "url": "https://malongcompany.tistory.com/145",
        "제목": "공기업 조형물 제작 업체 선정 가이드 | 대형 피규어·스카시 제작까지 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=957&s_cate=&t=%5B%ED%95%9C%EA%B5%AD%EB%93%B1%EC%82%B0%ED%8A%B8%EB%A0%88%ED%82%B9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0%5D_%EA%B8%88%EC%86%8D_%EC%83%81%EC%A7%95_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115533,6 +115678,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115584,24 +115730,28 @@
        "url": "https://malongcompany.tistory.com/",
        "제목": "마롱컴퍼니 ㅣ 조형물 제작 전문 업계 1위, 만족도 99% 업체",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/429",
        "제목": "포토존 벤치부터 FRP 조형물까지 — 조형물 제작 업체 마롱컴퍼니의 개인 맞춤 제작 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?FRP_%EC%A1%B0%ED%98%95%EB%AC%BC=&idx=360&s_cate=&t=%5B%EC%B0%BD%EC%97%85%ED%97%88%EB%B8%8C%5D_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EA%B8%80%EC%9E%90_",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/30",
        "제목": "브랜드 가치를 높이는 글자 조형물·포토존 조형물 제작 – 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115618,12 +115768,14 @@
        "url": "https://www.incruit.com/company/1681101924",
        "제목": "2026년 헤파이스토스웍스주식회사 채용 기업정보 | 인크루트",
        "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115639,12 +115791,14 @@
        "url": "https://www.airbible.co.kr/shopinfo/guide.html",
        "제목": "공기조형물 전문제작 에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.airbible.com/large",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115668,12 +115822,14 @@
        "url": "https://thehand.kr/product/%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EC%B0%BD%EC%97%85%EC%A7%80%EC%9B%90%EB%8B%A8/84/",
        "제목": "건국대학교 창업지원단 포토존 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://thehand.kr/product/%ED%95%98%EB%A3%A8%EC%97%94%EC%A7%84-%EC%9D%B4%EB%AE%A8/151/",
        "제목": "삼진제약 이뮨 포토존 모형 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115747,6 +115903,7 @@
        "url": "https://soomgo.com/portfolio/detail/690868d8d16fbb3fbe945a1e",
        "제목": "인물 흉상, 부조 제작 / 장은석 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 6
       }
      ]
@@ -115763,18 +115920,21 @@
        "url": "https://myfacestory.net/category/%EC%9D%B8%EB%AC%BC%EC%83%81/86/",
        "제목": "페이스스토리 흉상 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://www.fsprestige.com/default/bust/sub1.php",
        "제목": "FS :: Prestige",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://m.myfacestory.net/product/list_zoom.html?cate_no=126&utm_source=chatgpt.com",
        "제목": "흉상 제작 전문 페이스스토리",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115790,12 +115950,14 @@
        "url": "https://malongcompany.tistory.com/93",
        "제목": "공기업 흉상·청동 조형물 제작, 공공조달 기준을 충족하는 마롱컴퍼니의 선택",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/78",
        "제목": "흉상·포토존 제작·캐릭터 모형 제작까지, 마롱컴퍼니와 함께하는 나만의 특별한 조형물",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115827,6 +115989,7 @@
        "url": "https://creallo.com/ko/services/3d-printing",
        "제목": "3D 프린터 출력 대행 서비스 | 산업용 3D프린팅 업체 | 크렐로",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -115861,24 +116024,28 @@
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1074&s_cate=&t=%5B%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -115894,6 +116061,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 7
       }
      ]
@@ -115909,6 +116077,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -115924,6 +116093,7 @@
        "url": "https://kmong.com/gig/215105",
        "제목": "주문제작 FRP조형물 인테리어 소품 스티로폼 원형조각 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       }
      ]
@@ -115940,12 +116110,14 @@
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://damandler.tistory.com/entry/%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC-%EC%A1%B0%EA%B0%81%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B3%B5%EA%B3%B5%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%A0%9C%EC%9E%91-%EC%97%85%EC%B2%B4",
        "제목": "스티로폼 조각을 이용한 공공조형물 제작 업체",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -115969,6 +116141,7 @@
        "url": "https://weavement.co.kr/portfolio/692668eccbb327137ed08e96",
        "제목": "위브먼트 | 국민체육진흥공단 '백호돌이' 캐릭터 FRP 조형물 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -115984,6 +116157,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       }
      ]
@@ -116007,6 +116181,7 @@
        "url": "https://www.gaiastudio.co.kr/",
        "제목": "가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116041,24 +116216,28 @@
        "url": "https://malongcompany.tistory.com/21",
        "제목": "공기업 조형물 디자인부터 FRP 모형 제작까지 — 마롱컴퍼니의 공공조달 맞춤 솔루션",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/465",
        "제목": "공기업 조형물 제작 업체 선정 가이드 | FRP 조형물·캐릭터 조형물 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.uljin.go.kr/index.uljin?CTRT_NO=202000315209&menuCd=DOM_000000103007011003&mstartPage=210&type=view",
        "제목": "> 물품",
        "매체": "일반사이트",
+       "종류": "규제기관",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/20",
        "제목": "공공기관 글자 조형물·흉상 제작 전문 마롱컴퍼니 | 공공조형물 조달 완벽 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116084,12 +116263,14 @@
        "url": "https://www.aivision.kr/en/",
        "제목": "아이비전(AIVISION) — 환경디자인의 새로운 미래 | 아이비전",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://huan-uhpc.co.kr/about?utm_source=chatgpt.com",
        "제목": "회사소개 | HUAN UHPC | 휴안 HUAN",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116121,6 +116302,7 @@
        "url": "https://www.gaiastudio.co.kr/pages/about.php",
        "제목": "회사소개 | 가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116136,6 +116318,7 @@
        "url": "https://hephaestusworks.co.kr/",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116151,6 +116334,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116216,6 +116400,7 @@
        "url": "https://ainad.co.kr/63",
        "제목": "유니크한 간판업체 | 아인종합기획 : 매출을 올리는 간판",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -116239,12 +116424,14 @@
        "url": "https://malongcompany.tistory.com/308",
        "제목": "브랜드 공간을 바꾸는 글자 스카시·동물 조형물·스티로폼 조형물 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/257",
        "제목": "글자 조형물 제작부터 글자 스카시까지 – 마롱컴퍼니에서 나만의 특별한 모형 제작하기",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116276,6 +116463,7 @@
        "url": "https://www.designjoy.com/%EC%A2%85%EB%A5%98%EB%B3%84%EB%B6%84%EB%A5%98/view/5701641",
        "제목": "[소재] 입체글씨‧스카시 간판",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116358,6 +116546,7 @@
        "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/49570425?utm_source=chatgpt.com",
        "제목": "㈜아이엔조형디자인 채용 - 전시 모형 플랜트 모형 디오라마 모형 제작에 참여하실 인재를 모십니다. | 잡코리아",
        "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       }
      ]
@@ -116373,12 +116562,14 @@
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://damandler.com/exhibition-exposition-diorama-maker-danmdr/",
        "제목": "박람회 및 전시회용 디오라마 제작 | 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116394,12 +116585,14 @@
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/171",
        "제목": "브랜드 가치를 높이는 조형물 보수·대형 모형 제작 전략 | 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116450,24 +116643,28 @@
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=934",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=800&s_cate=&t=%5B%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EA%BE%B8%EA%B9%8C%5D_%EB%8C%80%ED%98%95_%EC%86%90_EPS_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116493,6 +116690,7 @@
        "url": "https://app.rndcircle.io/company/b768aa60-d6a9-5cd2-9751-8c0e38bc2386",
        "제목": "미술과조형 기업 정보 | RnDcircle | 디써클",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116517,6 +116715,7 @@
        "url": "https://www.gaiastudio.co.kr/pages/about.php",
        "제목": "회사소개 | 가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116540,6 +116739,7 @@
        "url": "https://www.xn--ch-qo2iy87ds6ey8dvq5a.com/about/",
        "제목": "CH조형연구소 회사소개",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116582,24 +116782,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=809&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EC%84%B8%EA%B0%80%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%EC%BD%94%EB%A6%AC%EC%95%84%5DFRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://malongcompany.tistory.com/513",
        "제목": "공기업 조형물 제작, FRP 캐릭터부터 대형 인형 제작·보수까지 마롱컴퍼니가 해결합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/411?utm_source=chatgpt.com",
        "제목": "공기업 조형물 설치부터 보수까지 — 대형 피규어·스카시 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116615,6 +116819,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -116631,12 +116836,14 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/2ad5deca-602c-487d-8667-38ca8aff9962-470-484-577",
        "제목": "시너지타워 야외 건물 대형 곰 캐릭터 FRP 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116652,6 +116859,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -116667,6 +116875,7 @@
        "url": "https://damandler.tistory.com/entry/FRP%EC%A1%B0%ED%98%95-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%AA%A8%ED%98%95-%EB%8C%80%ED%98%95-%ED%94%BC%EA%B7%9C%EC%96%B4-%EC%A0%9C%EC%9E%91-%EC%82%AC%EB%A1%80",
        "제목": "FRP조형 캐릭터모형 대형 피규어 제작 사례",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116682,6 +116891,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116697,6 +116907,7 @@
        "url": "https://www.airbible.com/large",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116712,6 +116923,7 @@
        "url": "https://weavement.co.kr/portfolio/692668eccbb327137ed08e96",
        "제목": "위브먼트 | 국민체육진흥공단 '백호돌이' 캐릭터 FRP 조형물 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -116754,24 +116966,28 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://hephaestusworks.co.kr/product/ce61ffd0-6434-407a-91df-6364e685c69c",
        "제목": "로고 글자 스티로폼 실내 무대 스카시 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/m/entry/%EB%AF%B8%EC%98%A4%EC%BD%94%EC%8A%A4%ED%83%80-%EC%9B%A8%EC%9D%B4%EB%B8%8C%ED%8C%8C%ED%81%AC-%EB%A1%9C%EA%B3%A0-%EA%B0%84%ED%8C%90%EB%8C%80%ED%98%95-%EA%B8%80%EC%9E%90-%ED%8F%AC%ED%86%A0%EC%A1%B4-%EB%B0%A9%EC%88%98-FRP-%EC%84%A4%EC%B9%98-%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%A0%9C%EC%9E%91?utm_source=chatgpt.com",
        "제목": "[미오코스타 웨이브파크 로고 간판]_대형 글자 포토존 방수 FRP 설치 조형물 제작",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116788,24 +117004,28 @@
        "url": "https://malongcompany.tistory.com/",
        "제목": "마롱컴퍼니 ㅣ 조형물 제작 전문 업계 1위, 만족도 99% 업체",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://malongcompany.tistory.com/123",
        "제목": "스티로폼 스카시로 나만의 로고 조형물 만들기 – 조형물 업체 마롱컴퍼니 추천",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1066&s_cate=&t=%5B%EC%8B%A0%EC%9A%A9%EB%B3%B4%EC%A6%9D%EA%B8%B0%EA%B8%88%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90%5D_%EA%B8%88%EC%86%8D_%EA%B8%80%EC%9E%90_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/147?utm_source=chatgpt.com",
        "제목": "브랜드를 입체로 표현하다 – 스티로폼 스카시·FRP 제작 전문 조형물 제작 업체 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -116838,6 +117058,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116853,6 +117074,7 @@
        "url": "https://thehand.kr/product/%EC%84%A4%ED%99%94%EC%88%98-%EB%8B%AC%ED%95%AD%EC%95%84%EB%A6%AC/75/",
        "제목": "설화수 달항아리 FRP조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -116896,24 +117118,28 @@
        "url": "https://malongcompany.tistory.com/537",
        "제목": "브론즈 조형물부터 스티로폼 조각까지 – 마롱컴퍼니의 개인 맞춤 제작 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1042&s_cate=&t=%5B%EB%AF%B8%EC%82%B0%EC%9A%B0%EB%93%9C%5D_%ED%99%A9%EC%86%8C_%EB%B8%8C%EB%A1%A0%EC%A6%88_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=756&mode=view",
        "제목": "[개인] 브론즈 흉상 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://malongcompany.tistory.com/414",
-       "제목": "브론즈 조형물부터 스티로폼 모형까지 — 마롱컴퍼니의 개인 맞춤 행사 조형물 제작 가이드",
-       "매체": "블로그",
+       "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=998&t=%5B%EC%97%90%EC%8A%A4%EC%95%84%EC%9D%B4%EB%94%94%5D_%EB%B8%8C%EB%A1%A0%EC%A6%88_%ED%99%A9%EC%86%8C_%EC%A1%B0%ED%98%95%EB%AC%BC",
+       "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117005,24 +117231,28 @@
        "url": "https://malongcompany.tistory.com/102",
        "제목": "FRP 제작 업체 마롱컴퍼니 | 스티로폼 제작부터 캐릭터 포토존까지 개인 맞춤 조형물 한 번에",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1235",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/266",
        "제목": "공기업·공공기관을 위한 스티로폼 글씨·글자 조형물 제작 전문 가이드 | 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=903&mode=view&utm_source=chatgpt.com",
        "제목": "[예술의전당] 스티로폼 글자 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117040,6 +117270,7 @@
        "url": "https://localview.co.kr/store/detail.asp?seq=102515125",
        "제목": "서울상사",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -117055,12 +117286,14 @@
        "url": "https://thehand.kr/product/%EC%95%A0%ED%84%B0%EB%AF%B8-%EC%8B%B1%ED%8F%AC%EB%93%9C%EB%A6%BC/56/",
        "제목": "애터미 싱포드림 무대 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://thehand.kr/product/%EC%97%91%EC%8A%A4%EB%A6%AC%EC%96%BC-%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4/88/",
        "제목": "엑스리얼 포토존 대형 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -117076,12 +117309,14 @@
        "url": "https://hephaestusworks.co.kr/product/682c2786-1fc9-404f-bade-619e05b990c8-473-821-827?utm_source=chatgpt.com",
        "제목": "무대 위 행사명 스티로폼 홍보 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/c5f08d01-8243-4166-b24d-489cc0732f45-814",
        "제목": "브랜드 팝업 오픈 스티로폼 스카시 로고 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117125,24 +117360,28 @@
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1044&t=%5B%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EA%B2%BD%EC%B0%B0%EC%B2%AD%5D_%EB%B8%8C%EB%A1%A0%EC%A6%88_%ED%9D%89%EC%83%81_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=1044&mode=view",
        "제목": "[경기남부경찰청] 브론즈 흉상 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=887&mode=view",
        "제목": "[이마트] FRP 단진 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117167,12 +117406,14 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://hephaestusworks.co.kr/product/682c2786-1fc9-404f-bade-619e05b990c8-473-906",
        "제목": "수학학원 선생님 인물 대형 FRP 전시 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117212,6 +117453,7 @@
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5",
        "제목": "서울 서대문구 지역 조형물 시공 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -117227,6 +117469,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117242,6 +117485,7 @@
        "url": "https://www.airbible.com/middle",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -117283,12 +117527,14 @@
        "url": "https://ainad.co.kr/",
        "제목": "간판 업체 | 디자인·제작·시공 전문기업 | 아인종합기획",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       },
       {
        "url": "https://ainad.co.kr/63/?idx=1150&utm_source=chatgpt.com",
        "제목": "LED 후광 채널 간판 - 디자인시안 무료제작 시공가능 : 유니크한 간판업체 | 아인종합기획 : 매출을 올리는 간판",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -117396,6 +117642,7 @@
        "url": "https://www.life114.co.kr/html/board/view.asp?M_SEQ=1101717",
        "제목": "간판제작 솜씨잔넬스카시 (서울 중구 을지로4)",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -117483,6 +117730,7 @@
        "url": "https://malongcompany.tistory.com/315",
        "제목": "무대 글자·스티로폼 스카시 제작, 개인 맞춤 모형 제작 업체 마롱컴퍼니에서 시작하세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -117518,24 +117766,28 @@
        "url": "https://malongcompany.tistory.com/144?utm_source=chatgpt.com",
        "제목": "입체 간판부터 포토존 제작까지, FRP 조형물로 특별한 공간을 완성하는 법",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/221",
        "제목": "브랜드 가치를 높이는 동상·입체 간판·글자 조형물 제작 – 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://pf.kakao.com/_HGYeC",
        "제목": "카카오톡채널 - 마롱컴퍼니",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/73",
        "제목": "글자 모형·조형물 간판·스티로폼 제작, 개인 맞춤 제작의 모든 것 – 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -117551,6 +117803,7 @@
        "url": "https://www.life114.co.kr/html/board/view.asp?M_SEQ=1101717",
        "제목": "간판제작 솜씨잔넬스카시 (서울 중구 을지로4)",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 3
       }
      ]
@@ -117566,6 +117819,7 @@
        "url": "https://ainad.co.kr/",
        "제목": "간판 업체 | 디자인·제작·시공 전문기업 | 아인종합기획",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -117656,24 +117910,28 @@
        "url": "https://malongcompany.tistory.com/420?utm_source=chatgpt.com",
        "제목": "특별한 순간을 영원히 – 개인 맞춤 조형물 제작·설치, 마롱컴퍼니에 맡기세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/83",
        "제목": "공기업 조형물 설치·동상·스티로폼 글씨 제작, 공공조달 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/business/build.php",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117698,6 +117956,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -117713,12 +117972,14 @@
        "url": "https://soomgo.com/search/pro/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5/%EC%84%9C%EC%9A%B8/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4A--%EC%95%BC%EC%99%B8-%EC%8B%9C%EA%B3%B5A?utm_source=chatgpt.com",
        "제목": "서울 전체 지역, 조형물 시공 고수찾기, 현재 122명 활동중 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       },
       {
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%96%91%EC%B2%9C%EA%B5%AC/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5?utm_source=chatgpt.com",
        "제목": "서울 양천구 지역 조형물 시공 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -117766,6 +118027,7 @@
        "url": "https://www.gaiastudio.co.kr/pages/about.php",
        "제목": "회사소개 | 가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117801,12 +118063,14 @@
        "url": "https://malongcompany.tistory.com/537",
        "제목": "브론즈 조형물부터 스티로폼 조각까지 – 마롱컴퍼니의 개인 맞춤 제작 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 5
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=756&mode=view",
        "제목": "[개인] 브론즈 흉상 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -117830,6 +118094,7 @@
        "url": "https://www.coupang.com/vp/products/224764530?itemId=708662469&vendorItemId=4801607596",
        "제목": "브론즈아트공방 두꺼비(대) 황동 청동 금속 공예품 주물 두꺼비 조각상 장식품 - 미니어처/모형 | 쿠팡",
        "매체": "플랫폼",
+       "종류": "상품등록페이지",
        "n": 1
       }
      ]
@@ -117871,6 +118136,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 6
       }
      ]
@@ -117886,12 +118152,14 @@
        "url": "https://3dprofinder.kr/listing/bh3dart/?utm_source=chatgpt.com",
        "제목": "티토이스튜디오 3D 프린팅 서비스 - 3D프린팅 공급망 검색 플랫폼 - 3D프로파인더(3DProFinder)",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       },
       {
        "url": "https://www.jobkorea.co.kr/company/48829382?utm_source=chatgpt.com",
        "제목": "티토이스튜디오(T Toy Studio 2026년 기업정보 - 직원수, 근무환경, 복리후생 등 | 잡코리아",
        "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       }
      ]
@@ -117907,12 +118175,14 @@
        "url": "https://3dprofinder.kr/listing/bh3dart/?utm_source=chatgpt.com",
        "제목": "티토이스튜디오 3D 프린팅 서비스 - 3D프린팅 공급망 검색 플랫폼 - 3D프로파인더(3DProFinder)",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       },
       {
        "url": "https://www.smileworks.co.kr/default/work/sub2.php?utm_source=chatgpt.com",
        "제목": "스마일웍스",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -117936,6 +118206,7 @@
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%A4%91%EB%9E%91%EA%B5%AC/3D-%ED%94%84%EB%A6%B0%ED%8C%85",
        "제목": "서울 중랑구 지역 3D 프린팅 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       }
      ]
@@ -117951,6 +118222,7 @@
        "url": "https://kmong.com/gig/590853",
        "제목": "3D 프린팅/피규어/시제품 디자인,제작해 드립니다. - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -117966,6 +118238,7 @@
        "url": "https://malongcompany.tistory.com/128",
        "제목": "내가 원하는 캐릭터 조형물, FRP 모형 제작으로 특별하게 만들어드립니다 | 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -117981,6 +118254,7 @@
        "url": "https://weavement.co.kr/portfolio/66505632e4f3111c30b95336",
        "제목": "위브먼트 | '곰돌찡 토끼찡' FRP 캐릭터 포토존 마스코트 모형 제작 업체",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -117996,6 +118270,7 @@
        "url": "https://damandler.com/frp/",
        "제목": "FRP 조형물 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -118038,24 +118313,28 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
-      },
-      {
-       "url": "https://hephaestusworks.co.kr/product/ec8dea82-542c-423f-8ab7-55acd467cb92",
-       "제목": "행사 무대 입식용 대형 스티로폼 글자 스카시 포토존 조형물",
-       "매체": "자사홈페이지",
-       "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://hephaestusworks.co.kr/product/ec8dea82-542c-423f-8ab7-55acd467cb92",
+       "제목": "행사 무대 입식용 대형 스티로폼 글자 스카시 포토존 조형물",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118072,24 +118351,28 @@
        "url": "https://malongcompany.tistory.com/429",
        "제목": "포토존 벤치부터 FRP 조형물까지 — 조형물 제작 업체 마롱컴퍼니의 개인 맞춤 제작 가이드",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/244",
        "제목": "공기업 행사를 위한 포토존 제작·무대 글자·스티로폼 글자, 마롱컴퍼니가 답합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=13743&s_cate=&t=%5B%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%B2%AD%EC%86%8C%EB%85%84%EC%88%98%EB%A0%A8%EC%9B%90%5D_%EB%B2%A4%EC%B9%98%ED%98%95_%EC%BA%90%EB%A6%AD%ED%84%B0_%ED%8F%AC%ED%86%A0%EC%A1%B4_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118138,6 +118421,7 @@
        "url": "https://soomgo.com/a.%EA%B2%BD%EA%B8%B0-%ED%8F%AC%EC%B2%9C%EC%8B%9C/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5",
        "제목": "경기 포천시 지역 조형물 시공 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -118153,6 +118437,7 @@
        "url": "https://www.turnkeystudio.co.kr/",
        "제목": "조형물 제작 턴키스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -118168,6 +118453,7 @@
        "url": "https://www.airbible.com/deokyong-Lee?utm_source=chatgpt.com",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -118253,24 +118539,28 @@
        "url": "https://malongcompany.tistory.com/465",
        "제목": "공기업 조형물 제작 업체 선정 가이드 | FRP 조형물·캐릭터 조형물 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=934",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=13718&s_cate=&t=%5B%EA%B2%BD%EA%B8%B0%EA%B2%8C%EC%9E%84%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%84%B0%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%5D_%EA%B8%88%EC%86%8D_%EA%B8%80%EC%9E%90_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=890&s_cate=&t=%5B%EC%82%AC%EB%8F%84%EC%94%A8%EB%94%94%EC%9E%90%EC%9D%B8%5D_%EB%94%94%ED%98%B8_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118287,12 +118577,14 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://haenoon.com/qna/",
        "제목": "qna - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -118317,6 +118609,7 @@
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -118349,12 +118642,14 @@
        "url": "https://hephaestusworks.co.kr/product/8c24fabe-d7db-4e28-8c49-f3052dc29a98-476-488-551?utm_source=chatgpt.com",
        "제목": "삼산2동 박물관 입구 사미 캐릭터 대형 FRP 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -118370,6 +118665,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118428,24 +118724,28 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=916&s_cate=&t=%5B%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%5D_%ED%8C%A8%EB%B8%8C%EB%A6%AD_%EC%BC%80%EC%96%B4%EB%B2%A0%EC%96%B4_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
-      },
-      {
-       "url": "https://malongcompany.tistory.com/113",
-       "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
-       "매체": "블로그",
-       "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=823&t=%5B%EA%B0%9C%EC%9D%B8%5D_FRP%EA%B3%B0%EB%8F%8C%EC%9D%B4%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://malongcompany.tistory.com/113",
+       "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/253",
        "제목": "공기업 조형물 제작, FRP 동물 모형으로 공공 공간의 품격을 높이는 방법",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -118461,12 +118761,14 @@
        "url": "https://damandler.com/sculpture/?utm_source=chatgpt.com",
        "제목": "조형물 제작 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       },
       {
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -118490,6 +118792,7 @@
        "url": "https://haenoon.com/%EC%A0%84%EC%8B%9C%EB%AA%A8%ED%98%95/?utm_source=chatgpt.com",
        "제목": "전시모형 - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -118505,6 +118808,7 @@
        "url": "https://creallo.com/ko/services/3d-printing",
        "제목": "3D 프린터 출력 대행 서비스 | 산업용 3D프린팅 업체 | 크렐로",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -118520,6 +118824,7 @@
        "url": "https://www.stellamove.com/3dprintingservice",
        "제목": "3D프린팅 및 시제품 제작 서비스 - 13년 경력 전문가 상담 | 스텔라무브 — 스텔라무브",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -118535,6 +118840,7 @@
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC/%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%8B%9C%EA%B3%B5",
        "제목": "서울 서대문구 지역 조형물 시공 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -118550,6 +118856,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118580,27 +118887,31 @@
      },
      "페이지": [
       {
-       "url": "https://www.malongcompany.co.kr/",
-       "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
-       "매체": "자사홈페이지",
-       "n": 3
-      },
-      {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=393&mode=view",
        "제목": "[말표산업] FRP 동물 말 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
+       "n": 3
+      },
+      {
+       "url": "https://www.malongcompany.co.kr/",
+       "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1042&s_cate=&t=%5B%EB%AF%B8%EC%82%B0%EC%9A%B0%EB%93%9C%5D_%ED%99%A9%EC%86%8C_%EB%B8%8C%EB%A1%A0%EC%A6%88_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=823&t=%5B%EA%B0%9C%EC%9D%B8%5D_FRP%EA%B3%B0%EB%8F%8C%EC%9D%B4%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118624,6 +118935,7 @@
        "url": "https://damandler.com/sculpture/?utm_source=chatgpt.com",
        "제목": "조형물 제작 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       }
      ]
@@ -118640,18 +118952,21 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/",
        "제목": "조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -118668,6 +118983,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118717,24 +119033,28 @@
        "url": "https://malongcompany.tistory.com/315",
        "제목": "무대 글자·스티로폼 스카시 제작, 개인 맞춤 모형 제작 업체 마롱컴퍼니에서 시작하세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/248",
        "제목": "브랜드를 공간으로 말하다 — 무대 글자·캐릭터 조형물 제작으로 마케팅 효과를 극대화하는 법",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/60",
        "제목": "스카시 제작부터 캐릭터 조형물 제작까지, 마롱컴퍼니가 당신의 특별한 순간을 완성합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/244",
        "제목": "공기업 행사를 위한 포토존 제작·무대 글자·스티로폼 글자, 마롱컴퍼니가 답합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -118750,24 +119070,28 @@
        "url": "https://hephaestusworks.co.kr/product/ce61ffd0-6434-407a-91df-6364e685c69c",
        "제목": "로고 글자 스티로폼 실내 무대 스카시 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/bfaf3a2c-9aea-4af3-a268-bc1efcdaf6fc",
        "제목": "실내 무대 행사 입식형 대형 고무 글자 스카시 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/29d74592-0943-4caf-8d61-90ecbc61faf8",
        "제목": "행사 글자 로고 고무 스카시 스탠딩 조형물 제작",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://hephaestusworks.co.kr/product/2d0219f7-03b2-4684-84d5-91d891837027",
        "제목": "바바요 런칭 행사 무대 전시용 대형 스티로폼 영문 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118807,12 +119131,14 @@
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8-%EC%A2%85%EB%A1%9C%EA%B5%AC/LED%EC%A0%9C%EC%9E%91?utm_source=chatgpt.com",
        "제목": "서울 종로구 지역 LED 제작 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       },
       {
        "url": "https://soomgo.com/a.%EC%84%9C%EC%9A%B8/LED%EC%A0%9C%EC%9E%91?utm_source=chatgpt.com",
        "제목": "서울 지역 LED 제작 추천고수 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -118852,6 +119178,7 @@
        "url": "https://thehand.kr/product/%EA%B8%80%EC%9E%90%EC%A1%B0%ED%98%95%EB%AC%BC-%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EC%B0%BD%EC%97%85%EC%A7%80%EC%9B%90%EB%8B%A8/84/category/29/display/1/?utm_source=chatgpt.com",
        "제목": "건국대학교 창업지원단 포토존 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118886,18 +119213,21 @@
        "url": "https://malongcompany.tistory.com/251?utm_source=chatgpt.com",
        "제목": "공기업 행사·무대를 품격 있게 완성하는 스티로폼 제작 입체 글자·무대 조형물 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 3
       },
       {
        "url": "https://malongcompany.tistory.com/315",
        "제목": "무대 글자·스티로폼 스카시 제작, 개인 맞춤 모형 제작 업체 마롱컴퍼니에서 시작하세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/14",
        "제목": "개인 맞춤 조형물 제작의 모든 것 – FRP 조형물부터 스티로폼 글자까지, 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -118937,12 +119267,14 @@
        "url": "https://thehand.kr/product/%EC%84%A4%ED%99%94%EC%88%98-%ED%99%94%EC%9E%A5%ED%92%88/76/",
        "제목": "설화수 화장품 FRP조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://thehand.kr/product/%EC%95%A0%ED%84%B0%EB%AF%B8-%EC%8B%B1%ED%8F%AC%EB%93%9C%EB%A6%BC/56/",
        "제목": "애터미 싱포드림 무대 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -118958,6 +119290,7 @@
        "url": "https://www.theteams.kr/teams/839412",
        "제목": "헤파이스토스웍스주식회사 | 더팀스",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -118973,6 +119306,7 @@
        "url": "https://promotionteam.co.kr/",
        "제목": "행사장비 제작, 행사장비 렌탈, 프로모션 추첨기, 프로모션 게임기 무대및 부스 행사의 모든것 프로모션팀",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119007,24 +119341,28 @@
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=2274&s_cate=%EC%A1%B0%ED%98%95%EB%AC%BC+%28FRP%29&t=%5B%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80%5D_FRP_%EA%B5%B0%EC%9D%B8_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/123",
        "제목": "스티로폼 스카시로 나만의 로고 조형물 만들기 – 조형물 업체 마롱컴퍼니 추천",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=934",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119057,6 +119395,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119080,6 +119419,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119095,6 +119435,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -119110,6 +119451,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119125,6 +119467,7 @@
        "url": "https://weavement.co.kr/portfolio/6566e3dd030f20e2f77fba28",
        "제목": "위브먼트 | KSPO 백호돌이 캐릭터 조형물 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119198,6 +119541,7 @@
        "url": "https://soomgo.com/portfolio/detail/69083f35bc65844bee95ecde?utm_source=chatgpt.com",
        "제목": "이태원 이벤트 무대 철골 구조물 설치 작업 / 송화섭 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -119231,24 +119575,28 @@
        "url": "https://kmong.com/gig/714598",
        "제목": "기업/공공기관 마스코트 캐릭터 제작 (메뉴얼북 포함) - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 3
-      },
-      {
-       "url": "https://kmong.com/gig/378887",
-       "제목": "기업 마스코트 및 캐릭터 디자인부터 저작권까지 올인원 - 크몽",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
-       "url": "https://kmong.com/gig/684334",
-       "제목": "마스코트/일러스트/굿즈용 다양한 캐릭터디자인 해드립니다 - 크몽",
-       "매체": "플랫폼",
-       "n": 1
       },
       {
        "url": "https://kmong.com/gig/251292",
        "제목": "브랜드 3D.2D 캐릭터 디자인 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://kmong.com/gig/378887",
+       "제목": "기업 마스코트 및 캐릭터 디자인부터 저작권까지 올인원 - 크몽",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://kmong.com/gig/734107",
+       "제목": "로고/앱/굿즈까지 바로 쓰는 고퀄리티 캐릭터 디자인 - 크몽",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -119307,6 +119655,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -119323,24 +119672,28 @@
        "url": "https://malongcompany.tistory.com/102",
        "제목": "FRP 제작 업체 마롱컴퍼니 | 스티로폼 제작부터 캐릭터 포토존까지 개인 맞춤 조형물 한 번에",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=828&s_cate=&t=%5B%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%97%B0%EC%88%98%EC%9B%90%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?FRP_%EC%A1%B0%ED%98%95%EB%AC%BC=&idx=360&s_cate=&t=%5B%EC%B0%BD%EC%97%85%ED%97%88%EB%B8%8C%5D_%EC%8A%A4%ED%8B%B0%EB%A1%9C%ED%8F%BC_%EA%B8%80%EC%9E%90_",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119357,12 +119710,14 @@
        "url": "https://www.gaiastudio.co.kr/",
        "제목": "가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://economist.co.kr/article/view/ecn202603100040",
        "제목": "이코노미스트 - 조형물 제작 분야가 주목하는 ‘가이아 스튜디오’",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119386,6 +119741,7 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119425,6 +119781,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119459,6 +119816,7 @@
        "url": "https://malongcompany.tistory.com/169",
        "제목": "특별한 순간을 완성하는 대형 조형물 제작 · 포토존 제작 · 스티로폼 스카시 — 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -119590,6 +119948,7 @@
        "url": "https://ad119.com/62?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119647,6 +120006,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119697,24 +120057,28 @@
        "url": "https://malongcompany.tistory.com/54",
        "제목": "공기업·공공기관을 위한 대형 모형 제작 & 금속 조형물 제작 전문 가이드 | 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=794&s_cate=&t=%5B%EA%B0%9C%EC%9D%B8%5D_FRP_%EC%B2%B4%EB%A6%AC_%EB%AA%A8%ED%98%95",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/397",
        "제목": "공기업 조형물 발주, FRP 제작 전문 모형 제작 업체 마롱컴퍼니와 함께하세요",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/418",
        "제목": "공기업 조형물 제작, 스티로폼 제작부터 대형 피규어·조형물 간판까지 마롱컴퍼니가 답합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -119739,6 +120103,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -119754,6 +120119,7 @@
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119769,6 +120135,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -119802,12 +120169,14 @@
        "url": "https://mansangsa.com/about?utm_source=chatgpt.com",
        "제목": "만상사 서비스 소개",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 3
       },
       {
        "url": "https://mansangsa.com/dolls-figures",
        "제목": "상상을 현실로 만드는 인형/피규어 개발 | 만상사",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -119874,12 +120243,14 @@
        "url": "https://malongcompany.tistory.com/112",
        "제목": "브랜드를 공간으로 말하다 – 캐릭터 모형·청동 조형물·흉상 제작으로 기업 마케팅 차별화하기",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/564?utm_source=chatgpt.com",
        "제목": "공기업 브론즈 조형물·대형 피규어·행사 조형물, 마롱컴퍼니가 공공조달부터 납품까지 책임집니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -119919,6 +120290,7 @@
        "url": "https://hephaestusworks.co.kr/portfolio_",
        "제목": "포트폴리오 기존 | 조형물 제작 전문 기업 : 헤파이스토스웍스(주)",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -119984,6 +120356,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 4
       }
      ]
@@ -119999,12 +120372,14 @@
        "url": "https://kmong.com/gig/487087",
        "제목": "레진FRP 캐릭터 조형물 포토스팟 포토존 SNS 홍보용 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       },
       {
        "url": "https://kmong.com/gig/749259",
        "제목": "3D프린팅 시제품 목업 제작 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -120020,6 +120395,7 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=887&mode=view",
        "제목": "[이마트] FRP 단진 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -120035,6 +120411,7 @@
        "url": "https://haenoon.com/%EC%BA%90%EB%A6%AD%ED%84%B0/?query-5-page=3&utm_source=chatgpt.com",
        "제목": "캐릭터 - 해눈 조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120050,6 +120427,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -120065,6 +120443,7 @@
        "url": "https://damandler.tistory.com/entry/FRP%EC%A1%B0%ED%98%95-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%AA%A8%ED%98%95-%EB%8C%80%ED%98%95-%ED%94%BC%EA%B7%9C%EC%96%B4-%EC%A0%9C%EC%9E%91-%EC%82%AC%EB%A1%80",
        "제목": "FRP조형 캐릭터모형 대형 피규어 제작 사례",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -120106,6 +120485,7 @@
        "url": "https://creallo.com/ko",
        "제목": "온라인 맞춤 부품 제조 서비스 | 3D프린팅, CNC, 사출, 시제품 | 크렐로",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120129,6 +120509,7 @@
        "url": "https://ad119.com/about?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120170,6 +120551,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 5
       }
      ]
@@ -120185,6 +120567,7 @@
        "url": "https://creallo.com/ko/services/3d-printing",
        "제목": "3D 프린터 출력 대행 서비스 | 산업용 3D프린팅 업체 | 크렐로",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120285,24 +120668,28 @@
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1044&t=%5B%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EA%B2%BD%EC%B0%B0%EC%B2%AD%5D_%EB%B8%8C%EB%A1%A0%EC%A6%88_%ED%9D%89%EC%83%81_%EC%A1%B0%ED%98%95%EB%AC%BC",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -120319,6 +120706,7 @@
        "url": "https://hephaestusworks.co.kr/product/2010587",
        "제목": "경기도소방재난본부 상징 포토존 소방관 청동 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -120334,6 +120722,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -120349,6 +120738,7 @@
        "url": "https://theoliveart.com/",
        "제목": "올리브조형 | FRP 조형물 종합 솔루션",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120474,18 +120864,21 @@
        "url": "https://malongcompany.tistory.com/244",
        "제목": "공기업 행사를 위한 포토존 제작·무대 글자·스티로폼 글자, 마롱컴퍼니가 답합니다",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 2
       },
       {
        "url": "https://malongcompany.tistory.com/30",
        "제목": "브랜드 가치를 높이는 글자 조형물·포토존 조형물 제작 – 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -120509,12 +120902,14 @@
        "url": "https://www.thegream.com/portfolio/157?utm_source=chatgpt.com",
        "제목": "입체 포토존·행사 트릭아트 포토존 제작｜포토존 업체 더그림 > PORTFOLIO | 더그림컴퍼니",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://www.thegream.com/portfolio?sca=%EC%9E%85%EC%B2%B4+%ED%8F%AC%ED%86%A0%EC%A1%B4&utm_source=chatgpt.com",
        "제목": "PORTFOLIO 페이지 | 더그림컴퍼니",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120530,6 +120925,7 @@
        "url": "https://hworks.tistory.com/",
        "제목": "조형물 제작 업체 : 헤파이스토스웍스",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -120545,6 +120941,7 @@
        "url": "https://www.charmingballoon.co.kr/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C/",
        "제목": "차밍벌룬 - 출장 풍선장식 전문(개인,기업,학교,각종행사)",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120668,6 +121065,7 @@
        "url": "https://ainad.co.kr/",
        "제목": "간판 업체 | 디자인·제작·시공 전문기업 | 아인종합기획",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120733,6 +121131,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -120748,12 +121147,14 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?bid=2&idx=887&mode=view",
        "제목": "[이마트] FRP 단진 캐릭터 조형물 - 포트폴리오 - 마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -120795,6 +121196,7 @@
        "url": "https://kmong.com/gig/491932",
        "제목": "공공기관 및 기업 캐릭터 디자인 전문 2D/3D - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -120860,6 +121262,7 @@
        "url": "https://www.life114.co.kr/html/board/view.asp?M_SEQ=1101717",
        "제목": "간판제작 솜씨잔넬스카시 (서울 중구 을지로4)",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -120909,18 +121312,21 @@
        "url": "https://www.malongcompany.co.kr/",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=925&s_cate=&t=%5B%EC%98%A4%EC%97%A0%EC%A7%80%EC%BB%B4%ED%8D%BC%EB%8B%88%5D_FRP_%EB%B9%8C%EB%A6%AC_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -120936,6 +121342,7 @@
        "url": "https://haenoon.com/",
        "제목": "해눈 조형 - 조형 조형물 조형물제작 FRP 캐릭터조형",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -120969,6 +121376,7 @@
        "url": "https://creallo.com/ko/services/cnc",
        "제목": "CNC 가공 업체 | 정밀 CNC 가공 서비스 · 빠른 견적 | 크렐로",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121018,6 +121426,7 @@
        "url": "https://malongcompany.tistory.com/93",
        "제목": "공기업 흉상·청동 조형물 제작, 공공조달 기준을 충족하는 마롱컴퍼니의 선택",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -121033,6 +121442,7 @@
        "url": "https://myfacestory.net/product/detail.html?cate_no=162&display_group=1&product_no=1241",
        "제목": "흉상 제작 · 동상 · 기념 인물상 전문 | 페이스스토리",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121066,6 +121476,7 @@
        "url": "https://malongcompany.tistory.com/307",
        "제목": "브랜드를 공간으로 말하다 – 글자 조형물·금속 조형물로 완성하는 기업 마케팅 전략",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -121089,6 +121500,7 @@
        "url": "https://thehand.kr/",
        "제목": "HAND",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121140,6 +121552,7 @@
        "url": "https://www.mi-and-luq.com/about?utm_source=chatgpt.com",
        "제목": "소개 | 미와루그 Mi & Luq | 통합 공간 디자인 스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121179,6 +121592,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121213,18 +121627,21 @@
        "url": "https://malongcompany.tistory.com/253",
        "제목": "공기업 조형물 제작, FRP 동물 모형으로 공공 공간의 품격을 높이는 방법",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malong.co.kr/?utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 공식 홈페이지",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malong.co.kr/archives/%EB%8F%99%EB%AC%BC-%EC%A1%B0%ED%98%95%EB%AC%BC-%EC%84%A4%EC%B9%98%EC%97%85%EC%B2%B4-%EB%8F%99%EB%AC%BC-%ED%8F%AC%ED%86%A0%EC%A1%B4-%EC%A0%9C%EC%9E%91%EC%97%85%EC%B2%B4-%EC%A1%B0%ED%98%95%EB%AC%BC/?utm_source=chatgpt.com",
        "제목": "동물 포토존 제작업체 조형물 포토존 설치업체 캐릭터 포토존 주문제작 FRP 포토존 제작사례 공원 조형물 설치 - 마롱컴퍼니",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121240,6 +121657,7 @@
        "url": "https://www.seojinfrp.com/",
        "제목": "open_page",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -121255,6 +121673,7 @@
        "url": "https://www.coupang.com/vp/products/2051573467?itemId=3487790492&vendorItemId=71474066463",
        "제목": "실외 야외 공원 조형물 FRP 동물 캐릭터 포토존 조형물 제작 업체 헤파이스토스웍스 - 미니어처/모형 | 쿠팡",
        "매체": "플랫폼",
+       "종류": "상품등록페이지",
        "n": 1
       }
      ]
@@ -121304,6 +121723,7 @@
        "url": "https://ainad.co.kr/",
        "제목": "간판 업체 | 디자인·제작·시공 전문기업 | 아인종합기획",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121445,12 +121865,14 @@
        "url": "https://ad119.com/about?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
        "url": "https://ad119.com/62?utm_source=chatgpt.com",
        "제목": "애드넷-친환경 전시부스 제작 전문기업",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121500,6 +121922,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121515,6 +121938,7 @@
        "url": "https://mansangsa.com/dolls-figures",
        "제목": "상상을 현실로 만드는 인형/피규어 개발 | 만상사",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121572,6 +121996,7 @@
        "url": "https://kmong.com/gig/502985",
        "제목": "VMD전문가의 기획, 연출, 팝업스토어 진행 - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -121606,12 +122031,14 @@
        "url": "https://malongcompany.tistory.com/113",
        "제목": "공기업 조형물 업체 선정 가이드 | FRP 모형·스티로폼 모형 제작 전문 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=788&s_cate=&t=%5BDGB%EA%B8%88%EC%9C%B5%EA%B7%B8%EB%A3%B9%5D_FRP_%EB%8C%80%ED%98%95_%EC%A1%B0%ED%98%95%EB%AC%BC_%EA%B3%B5%EA%B0%84%EA%B5%AC%EC%84%B1&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121635,6 +122062,7 @@
        "url": "https://ainad.co.kr/",
        "제목": "간판 업체 | 디자인·제작·시공 전문기업 | 아인종합기획",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121668,12 +122096,14 @@
        "url": "https://malongcompany.tistory.com/93",
        "제목": "공기업 흉상·청동 조형물 제작, 공공조달 기준을 충족하는 마롱컴퍼니의 선택",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/112",
        "제목": "브랜드를 공간으로 말하다 – 캐릭터 모형·청동 조형물·흉상 제작으로 기업 마케팅 차별화하기",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -121689,6 +122119,7 @@
        "url": "https://m.myfacestory.net/product/list_zoom.html?cate_no=86&sort_method=4",
        "제목": "페이스스토리 흉상 제작",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121731,12 +122162,14 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1831&s_cate=&t=%5B%EC%B1%84%EB%84%90A%5D_FRP_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC_6%EC%A2%85",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
        "url": "https://malongcompany.tistory.com/171",
        "제목": "브랜드 가치를 높이는 조형물 보수·대형 모형 제작 전략 | 마롱컴퍼니",
        "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -121760,6 +122193,7 @@
        "url": "https://www.gaiastudio.co.kr/bbs/board.php?bo_table=gallery&page=2&sfl=wr_1&stx=%EA%B0%95%ED%99%94+%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1",
        "제목": "포트폴리오 2  | 가이아 스튜디오",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121865,6 +122299,7 @@
        "url": "https://g2bmarket.com/detail/aienjohyeongdijain",
        "제목": "주식회사 아이엔조형디자인 회사 정보·주요 사업 | G2B Market",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121880,6 +122315,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -121895,6 +122331,7 @@
        "url": "https://soomgo.com/search/pro/3D-%ED%94%84%EB%A6%B0%ED%8C%85/%EC%84%9C%EC%9A%B8/%EC%99%B8%EC%A3%BCA--%EC%9D%B8%EC%87%84-%EC%A0%9C%EC%9E%91A/review_count?utm_source=chatgpt.com",
        "제목": "서울 전체 지역, 3D 프린팅 고수찾기, 현재 150명 활동중 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -121936,6 +122373,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 3
       }
      ]
@@ -121960,6 +122398,7 @@
        "url": "https://www.hyup-shin.co.kr/?utm_source=chatgpt.com",
        "제목": "협신물산 공식 사이트",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -121983,6 +122422,7 @@
        "url": "https://damandler.com/how-to-make-frp-sculpture/",
        "제목": "FRP 조형물 제작 방법 소개 | 대형모형 전문 업체 다만드러 - 다만드러",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -122024,6 +122464,7 @@
        "url": "https://hephaestusworks.co.kr/product/2a-668",
        "제목": "에스터스 카페 실내 인테리어 새 포토존 조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -122039,6 +122480,7 @@
        "url": "https://thehand.kr/product/%EC%B9%B4%ED%8E%98-%EB%9E%A9%EC%94%A8%EC%95%A4%EC%94%A8/55/",
        "제목": "랩씨앤씨 로고 소형 글자조형물",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -122080,6 +122522,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -122095,6 +122538,7 @@
        "url": "https://www.airbible.com/customsign",
        "제목": "조형물 제작 전문 기업｜에어바이블",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -122110,6 +122554,7 @@
        "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=1075&s_cate=&t=%5B%EB%94%94%EC%A0%80%ED%8A%B8%ED%94%8C%EB%9E%98%EB%84%B7%5D_EPS_%EC%BA%90%EB%A6%AD%ED%84%B0_%EC%A1%B0%ED%98%95%EB%AC%BC&utm_source=chatgpt.com",
        "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -122167,6 +122612,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -122208,6 +122654,7 @@
        "url": "https://mansangsa.com/",
        "제목": "원스톱 맞춤형 제작 서비스 | 만상사",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -122241,6 +122688,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -122274,6 +122722,7 @@
        "url": "https://layerd3d.com/",
        "제목": "IP상품·전시모형·인테리어소품 3D 제작 전문 | 레이어드 | layerd",
        "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 2
       }
      ]
@@ -122286,15 +122735,17 @@
      },
      "페이지": [
       {
-       "url": "https://kmong.com/gig/570458",
-       "제목": "고퀄리티 앱 아이콘, 로고, 캐릭터 제작 - 크몽",
-       "매체": "플랫폼",
-       "n": 1
-      },
-      {
        "url": "https://kmong.com/prices/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A0%9C%EC%9E%91",
        "제목": "캐릭터 디자인 제작 맡기면 비용은 얼마나 들까? (견적, 체크리스트, 의뢰 템플릿) - 크몽",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://kmong.com/gig/570458",
+       "제목": "고퀄리티 앱 아이콘, 로고, 캐릭터 제작 - 크몽",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -122310,6 +122761,7 @@
        "url": "https://soomgo.com/market/products/65ae399e5a832b8c97550a2d",
        "제목": "공공기관, 대기업이 인정한 캐릭터를 제작해 드립니다. - 마켓 서비스 커머스 - 숨고, 숨은고수",
        "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -122325,6 +122777,7 @@
        "url": "https://technkindness.com/about?utm_source=chatgpt.com",
        "제목": "기술과친절 - 캐릭터 브랜딩 스튜디오",
        "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -125381,9 +125834,9 @@
    "우리것": false
   },
   {
-   "url": "https://malongcompany.tistory.com/414",
-   "제목": "브론즈 조형물부터 스티로폼 모형까지 — 마롱컴퍼니의 개인 맞춤 행사 조형물 제작 가이드",
-   "매체": "블로그",
+   "url": "https://www.malongcompany.co.kr/sub/portfolio/view.php?idx=998&t=%5B%EC%97%90%EC%8A%A4%EC%95%84%EC%9D%B4%EB%94%94%5D_%EB%B8%8C%EB%A1%A0%EC%A6%88_%ED%99%A9%EC%86%8C_%EC%A1%B0%ED%98%95%EB%AC%BC",
+   "제목": "마롱컴퍼니 MALONG COMPANY ㅣ 조형물 제작 업체",
+   "매체": "자사홈페이지",
    "병원": "마롱컴퍼니",
    "문항": [
     "브론즈 조형물 제작 업체 어디가 괜찮아?"
@@ -125391,10 +125844,10 @@
    "각주": 1,
    "문항수": 1,
    "종류": "글·게시판",
-   "소스": 5,
+   "소스": 4,
    "인용": 1,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
+   "매체종류": "회사 사이트",
+   "과업": "고침",
    "소속": "자기",
    "우리것": true
   },
@@ -126065,6 +126518,24 @@
    "우리것": false
   },
   {
+   "url": "https://kmong.com/gig/251292",
+   "제목": "브랜드 3D.2D 캐릭터 디자인 - 크몽",
+   "매체": "플랫폼",
+   "병원": "크몽",
+   "문항": [
+    "기업 마스코트 만들어주는 곳 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 4,
+   "인용": 1,
+   "매체종류": "업체목록페이지",
+   "과업": "등록",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
    "url": "https://kmong.com/gig/378887",
    "제목": "기업 마스코트 및 캐릭터 디자인부터 저작권까지 올인원 - 크몽",
    "매체": "플랫폼",
@@ -126083,8 +126554,8 @@
    "우리것": false
   },
   {
-   "url": "https://kmong.com/gig/684334",
-   "제목": "마스코트/일러스트/굿즈용 다양한 캐릭터디자인 해드립니다 - 크몽",
+   "url": "https://kmong.com/gig/734107",
+   "제목": "로고/앱/굿즈까지 바로 쓰는 고퀄리티 캐릭터 디자인 - 크몽",
    "매체": "플랫폼",
    "병원": "크몽",
    "문항": [
@@ -126094,24 +126565,6 @@
    "문항수": 1,
    "종류": "글·게시판",
    "소스": 2,
-   "인용": 1,
-   "매체종류": "업체목록페이지",
-   "과업": "등록",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
-   "url": "https://kmong.com/gig/251292",
-   "제목": "브랜드 3D.2D 캐릭터 디자인 - 크몽",
-   "매체": "플랫폼",
-   "병원": "크몽",
-   "문항": [
-    "기업 마스코트 만들어주는 곳 알려줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 4,
    "인용": 1,
    "매체종류": "업체목록페이지",
    "과업": "등록",
@@ -126695,24 +127148,6 @@
    "우리것": false
   },
   {
-   "url": "https://kmong.com/gig/570458",
-   "제목": "고퀄리티 앱 아이콘, 로고, 캐릭터 제작 - 크몽",
-   "매체": "플랫폼",
-   "병원": "크몽",
-   "문항": [
-    "시그니처 캐릭터 제작하는 곳 알려줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "업체목록페이지",
-   "과업": "등록",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
    "url": "https://kmong.com/prices/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A0%9C%EC%9E%91",
    "제목": "캐릭터 디자인 제작 맡기면 비용은 얼마나 들까? (견적, 체크리스트, 의뢰 템플릿) - 크몽",
    "매체": "플랫폼",
@@ -126723,6 +127158,24 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "업체목록페이지",
+   "과업": "등록",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://kmong.com/gig/570458",
+   "제목": "고퀄리티 앱 아이콘, 로고, 캐릭터 제작 - 크몽",
+   "매체": "플랫폼",
+   "병원": "크몽",
+   "문항": [
+    "시그니처 캐릭터 제작하는 곳 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
    "소스": 2,
    "인용": 1,
    "매체종류": "업체목록페이지",
