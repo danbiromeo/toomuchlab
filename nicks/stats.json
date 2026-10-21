@@ -6,9 +6,9 @@
  "지역회차": {
   "강남역": 391,
   "역삼": 65,
+  "테헤란로": 6,
   "강남대로": 6,
-  "강남": 23,
-  "테헤란로": 6
+  "강남": 23
  },
  "매체": {
   "자사홈페이지": {
@@ -82060,17 +82060,17 @@
      },
      "페이지": [
       {
-       "url": "https://nayingpick.com/upper-and-under-gangnam-cafe-review/",
-       "제목": "강남역 디저트 카페 어퍼앤언더 (UPPER AND UNDER) 솔직 방문 후기: 메뉴, 가격, 명당자리 팁 - 나잉픽",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
        "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://nayingpick.com/upper-and-under-gangnam-cafe-review/",
+       "제목": "강남역 디저트 카페 어퍼앤언더 (UPPER AND UNDER) 솔직 방문 후기: 메뉴, 가격, 명당자리 팁 - 나잉픽",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
@@ -82691,15 +82691,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
-       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 3
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
+       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 3
@@ -82760,15 +82760,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
-       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 3
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
+       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 3
@@ -82971,15 +82971,15 @@
        "n": 2
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
-       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
+       "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -83050,6 +83050,13 @@
      },
      "페이지": [
       {
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
        "url": "https://www.diningcode.com/profile.php?rid=MOOpxiQ7zBzG",
        "제목": "강남커피 강남점 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
@@ -83061,13 +83068,6 @@
        "제목": "퍼스트커피랩 강남점 – 커피향 가득한 감성 공간",
        "매체": "블로그",
        "종류": "블로그",
-       "n": 1
-      },
-      {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
-       "매체": "플랫폼",
-       "종류": "업체목록페이지",
        "n": 1
       }
      ]
@@ -83187,17 +83187,17 @@
      },
      "페이지": [
       {
-       "url": "https://info.koreacharts.com/tour/2821755/contents.html",
-       "제목": "썸띵어바웃커피 - 서울 강남구 추천 현지인 맛집, 메뉴 및 주차 안내",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
        "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://info.koreacharts.com/tour/2821755/contents.html",
+       "제목": "썸띵어바웃커피 - 서울 강남구 추천 현지인 맛집, 메뉴 및 주차 안내",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       },
       {
@@ -83611,17 +83611,17 @@
        "n": 1
       },
       {
-       "url": "https://moongmoongchichi.tistory.com/26",
-       "제목": "트리오드(TRIODE) 강남역 카페 추천 - 케이크를 그램수로 판매하는 곳!",
-       "매체": "블로그",
-       "종류": "블로그",
-       "n": 1
-      },
-      {
        "url": "https://inform.pengkira.com/40",
        "제목": "2026년 공간 가치 기반 강남역 카페 호핑 리스트 10 - 티아쿠그",
        "매체": "일반사이트",
        "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://moongmoongchichi.tistory.com/26",
+       "제목": "트리오드(TRIODE) 강남역 카페 추천 - 케이크를 그램수로 판매하는 곳!",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -83849,8 +83849,8 @@
        "n": 2
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=lgoKpG7QhZ58",
-       "제목": "썸띵어바웃커피 - 강남역 커피, 카페 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=7S6lXnxtebrw",
+       "제목": "015 COFFEE - 강남역 커피, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -83863,8 +83863,8 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=7S6lXnxtebrw",
-       "제목": "015 COFFEE - 강남역 커피, 카페 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=lgoKpG7QhZ58",
+       "제목": "썸띵어바웃커피 - 강남역 커피, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -83921,15 +83921,15 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
-       "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=7S6lXnxtebrw",
+       "제목": "015 COFFEE - 강남역 커피, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=7S6lXnxtebrw",
-       "제목": "015 COFFEE - 강남역 커피, 카페 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
+       "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -84163,15 +84163,15 @@
      },
      "페이지": [
       {
-       "url": "https://cmsworld.kr/2026/02/22/seoul-coffee-shops-travel-guide-2026-15-best-trendy-cafes-teahouses-bakeries-in-korea/?utm_source=chatgpt.com",
-       "제목": "Seoul Coffee Shops Travel Guide 2026 | cmsworld",
+       "url": "https://laptopfriendlycafe.com/best-cafes-to-work-from-in-seoul?utm_source=chatgpt.com",
+       "제목": "Top 10 Best Cafes To Work From In Seoul - UPDATED: August, 2026",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://laptopfriendlycafe.com/best-cafes-to-work-from-in-seoul?utm_source=chatgpt.com",
-       "제목": "Top 10 Best Cafes To Work From In Seoul - UPDATED: August, 2026",
+       "url": "https://cmsworld.kr/2026/02/22/seoul-coffee-shops-travel-guide-2026-15-best-trendy-cafes-teahouses-bakeries-in-korea/?utm_source=chatgpt.com",
+       "제목": "Seoul Coffee Shops Travel Guide 2026 | cmsworld",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -84270,15 +84270,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=NDdeNX9Iy8Vh",
-       "제목": "더달달 - 강남역 디저트, 초콜릿 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=NDdeNX9Iy8Vh",
+       "제목": "더달달 - 강남역 디저트, 초콜릿 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -84341,15 +84341,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
-       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=NDdeNX9Iy8Vh",
+       "제목": "더달달 - 강남역 디저트, 초콜릿 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=NDdeNX9Iy8Vh",
-       "제목": "더달달 - 강남역 디저트, 초콜릿 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
+       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -84814,17 +84814,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.hunnytip.kr/%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EA%B5%AC-%EB%B6%84%EC%9C%84%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%B9%B4%ED%8E%98-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B3%B3-%EC%B6%94%EC%B2%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC/",
-       "제목": "서울 강남구 분위기좋은카페 잘하는 곳 추천 총정리 - 파두남",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 4
-      },
-      {
        "url": "https://aktqmel.tistory.com/3",
        "제목": "강남 디저트 카페 BEST 7 — 비주얼 + 맛 + 분위기 다 잡은 곳들",
        "매체": "블로그",
        "종류": "블로그",
+       "n": 4
+      },
+      {
+       "url": "https://www.hunnytip.kr/%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EA%B5%AC-%EB%B6%84%EC%9C%84%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%B9%B4%ED%8E%98-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B3%B3-%EC%B6%94%EC%B2%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC/",
+       "제목": "서울 강남구 분위기좋은카페 잘하는 곳 추천 총정리 - 파두남",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 4
       },
       {
@@ -84975,15 +84975,15 @@
        "n": 1
       },
       {
-       "url": "https://edowill.tistory.com/",
-       "제목": "핫플레이스 2025 KOREA",
+       "url": "https://pigrose88.tistory.com/entry/%EA%B0%95%EB%82%A8%EC%97%AD-%EC%8B%AC%EC%95%BC-%EC%98%81%EC%97%85-%EC%B9%B4%ED%8E%98-TOP-5-%EB%85%B8%ED%8A%B8%EB%B6%81-%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-24%EC%8B%9C-%EB%AA%85%EB%8B%B9-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC",
+       "제목": "강남역 심야 영업 카페 TOP 5 | 노트북 하기 좋은 24시 명당 완벽 정리",
        "매체": "블로그",
        "종류": "블로그",
        "n": 1
       },
       {
-       "url": "https://pigrose88.tistory.com/entry/%EA%B0%95%EB%82%A8%EC%97%AD-%EC%8B%AC%EC%95%BC-%EC%98%81%EC%97%85-%EC%B9%B4%ED%8E%98-TOP-5-%EB%85%B8%ED%8A%B8%EB%B6%81-%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-24%EC%8B%9C-%EB%AA%85%EB%8B%B9-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC",
-       "제목": "강남역 심야 영업 카페 TOP 5 | 노트북 하기 좋은 24시 명당 완벽 정리",
+       "url": "https://edowill.tistory.com/",
+       "제목": "핫플레이스 2025 KOREA",
        "매체": "블로그",
        "종류": "블로그",
        "n": 1
@@ -85853,17 +85853,17 @@
      },
      "페이지": [
       {
-       "url": "https://zzv001.tistory.com/entry/%EA%B0%95%EB%82%A8%EC%97%AD-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-BEST10?category=1291614&utm_source=chatgpt.com",
-       "제목": "강남역 조용한 카페 추천 BEST10",
-       "매체": "블로그",
-       "종류": "블로그",
-       "n": 5
-      },
-      {
        "url": "https://inform.pengkira.com/40",
        "제목": "2026년 공간 가치 기반 강남역 카페 호핑 리스트 10 - 티아쿠그",
        "매체": "일반사이트",
        "종류": "기타",
+       "n": 5
+      },
+      {
+       "url": "https://zzv001.tistory.com/entry/%EA%B0%95%EB%82%A8%EC%97%AD-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-BEST10?category=1291614&utm_source=chatgpt.com",
+       "제목": "강남역 조용한 카페 추천 BEST10",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 5
       },
       {
@@ -88540,15 +88540,15 @@
      },
      "페이지": [
       {
-       "url": "https://autoreserve.com/ko/restaurants/tzBvsus8SFySxb1aDq45?utm_source=chatgpt.com",
-       "제목": "바나프레소 강남역점 예약 | 강남구, 서울특별시 | 카페",
+       "url": "https://autoreserve.com/ko/restaurants/5KdMdNMucQBg4QRrcj7z?utm_source=chatgpt.com",
+       "제목": "바나프레소 삼성타운점 예약 | 서초구, 서울특별시 | 카페",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://autoreserve.com/ko/restaurants/5KdMdNMucQBg4QRrcj7z?utm_source=chatgpt.com",
-       "제목": "바나프레소 삼성타운점 예약 | 서초구, 서울특별시 | 카페",
+       "url": "https://autoreserve.com/ko/restaurants/tzBvsus8SFySxb1aDq45?utm_source=chatgpt.com",
+       "제목": "바나프레소 강남역점 예약 | 강남구, 서울특별시 | 카페",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -90736,15 +90736,15 @@
        "n": 3
       },
       {
-       "url": "https://www.siksinhot.com/toplists/best/121247_gangnam",
-       "제목": "강남역 주변 맛집 추천 리스트 | 식신,맛집추천",
+       "url": "https://www.siksinhot.com/taste?hpSchCate=2&hptUpCode=00008",
+       "제목": "서울-강남맛집 - 강남역 카페/디저트맛집 추천 베스트10 | 식신 맛집추천",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 2
       },
       {
-       "url": "https://www.siksinhot.com/taste?hpSchCate=2&hptUpCode=00008",
-       "제목": "서울-강남맛집 - 강남역 카페/디저트맛집 추천 베스트10 | 식신 맛집추천",
+       "url": "https://www.siksinhot.com/toplists/best/121247_gangnam",
+       "제목": "강남역 주변 맛집 추천 리스트 | 식신,맛집추천",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 2
@@ -90774,15 +90774,15 @@
        "n": 3
       },
       {
-       "url": "https://www.siksinhot.com/toplists/best/121247_gangnam",
-       "제목": "강남역 주변 맛집 추천 리스트 | 식신,맛집추천",
+       "url": "https://www.siksinhot.com/taste?hpSchCate=2&hptUpCode=00008",
+       "제목": "서울-강남맛집 - 강남역 카페/디저트맛집 추천 베스트10 | 식신 맛집추천",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 2
       },
       {
-       "url": "https://www.siksinhot.com/taste?hpSchCate=2&hptUpCode=00008",
-       "제목": "서울-강남맛집 - 강남역 카페/디저트맛집 추천 베스트10 | 식신 맛집추천",
+       "url": "https://www.siksinhot.com/toplists/best/121247_gangnam",
+       "제목": "강남역 주변 맛집 추천 리스트 | 식신,맛집추천",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 2
@@ -90812,17 +90812,17 @@
        "n": 2
       },
       {
-       "url": "https://www.loclr.com/ko/blog/best-coffee-gangnam?utm_source=chatgpt.com",
-       "제목": "강남 스페셜티 커피 카페 추천",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 2
-      },
-      {
        "url": "https://www.diningcode.com/profile.php?rid=DOOhQFmJnLNk&utm_source=chatgpt.com",
        "제목": "리퍼크 - 강남역 에스프레소, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
+       "n": 2
+      },
+      {
+       "url": "https://www.loclr.com/ko/blog/best-coffee-gangnam?utm_source=chatgpt.com",
+       "제목": "강남 스페셜티 커피 카페 추천",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 2
       }
      ]
@@ -92012,17 +92012,17 @@
        "n": 1
       },
       {
-       "url": "https://www.hunnytip.kr/%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EA%B5%AC-%EB%B6%84%EC%9C%84%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%B9%B4%ED%8E%98-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B3%B3-%EC%B6%94%EC%B2%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC/",
-       "제목": "서울 강남구 분위기좋은카페 잘하는 곳 추천 총정리 - 파두남",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://pigrose88.tistory.com/entry/%EA%B0%95%EB%82%A8%EC%97%AD-%EC%8B%AC%EC%95%BC-%EC%98%81%EC%97%85-%EC%B9%B4%ED%8E%98-TOP-5-%EB%85%B8%ED%8A%B8%EB%B6%81-%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-24%EC%8B%9C-%EB%AA%85%EB%8B%B9-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC",
        "제목": "강남역 심야 영업 카페 TOP 5 | 노트북 하기 좋은 24시 명당 완벽 정리",
        "매체": "블로그",
        "종류": "블로그",
+       "n": 1
+      },
+      {
+       "url": "https://www.hunnytip.kr/%EC%84%9C%EC%9A%B8-%EA%B0%95%EB%82%A8%EA%B5%AC-%EB%B6%84%EC%9C%84%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%B9%B4%ED%8E%98-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B3%B3-%EC%B6%94%EC%B2%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC/",
+       "제목": "서울 강남구 분위기좋은카페 잘하는 곳 추천 총정리 - 파두남",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -93757,15 +93757,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
-       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
+       "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=aTiOcIGsNBmb",
-       "제목": "퍼스트커피랩 강남점 - 강남역 디저트, 카페 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
+       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93836,8 +93836,8 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
-       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93850,8 +93850,8 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
+       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93873,8 +93873,8 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
-       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93887,8 +93887,8 @@
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
+       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93911,17 +93911,17 @@
      },
      "페이지": [
       {
-       "url": "https://gajaseoul.com/ko/store/coffee_bean_gangnam_station",
-       "제목": "GAJA SEOUL | 커피빈 강남역세계빌딩점 (구)커피빈 강남역GT타워옆점",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://www.diningcode.com/profile.php?rid=LZNxOTvYwBQU",
        "제목": "셀렉토커피 신논현점 - 신논현역 카페, 베이커리카페 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://gajaseoul.com/ko/store/coffee_bean_gangnam_station",
+       "제목": "GAJA SEOUL | 커피빈 강남역세계빌딩점 (구)커피빈 강남역GT타워옆점",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -93934,15 +93934,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
-       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
+       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
       },
       {
-       "url": "https://www.diningcode.com/profile.php?rid=nQm5nYT1IWJk",
-       "제목": "크라프트카페 - 강남역 카페, 크로플 맛집 - 다이닝코드",
+       "url": "https://www.diningcode.com/profile.php?rid=jI75dTxFe9bm",
+       "제목": "프라텔리 - 강남역 카페, 프렌치토스트 맛집 - 다이닝코드",
        "매체": "플랫폼",
        "종류": "업체목록페이지",
        "n": 1
@@ -93999,17 +93999,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.diningcode.com/profile.php?rid=NPWGEgI2MGQf&utm_source=chatgpt.com",
-       "제목": "럭셔리 룸카페 - 강남역 디저트, 팝콘 맛집 - 다이닝코드",
-       "매체": "플랫폼",
-       "종류": "업체목록페이지",
-       "n": 2
-      },
-      {
        "url": "https://krcaus.tistory.com/130",
        "제목": "[강남역·신논현역] 크라프트 카페, 강남 카페 거리 조용한 카페! 카공, 작업, 독서, 조용히 대화하기 좋은 곳 (메뉴)",
        "매체": "블로그",
        "종류": "블로그",
+       "n": 2
+      },
+      {
+       "url": "https://www.diningcode.com/profile.php?rid=NPWGEgI2MGQf&utm_source=chatgpt.com",
+       "제목": "럭셔리 룸카페 - 강남역 디저트, 팝콘 맛집 - 다이닝코드",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 2
       },
       {
@@ -97856,8 +97856,8 @@
    "우리것": false
   },
   {
-   "url": "https://autoreserve.com/ko/restaurants/tzBvsus8SFySxb1aDq45?utm_source=chatgpt.com",
-   "제목": "바나프레소 강남역점 예약 | 강남구, 서울특별시 | 카페",
+   "url": "https://autoreserve.com/ko/restaurants/5KdMdNMucQBg4QRrcj7z?utm_source=chatgpt.com",
+   "제목": "바나프레소 삼성타운점 예약 | 서초구, 서울특별시 | 카페",
    "매체": "플랫폼",
    "병원": "바나프레소",
    "문항": [
@@ -97874,8 +97874,8 @@
    "우리것": false
   },
   {
-   "url": "https://autoreserve.com/ko/restaurants/5KdMdNMucQBg4QRrcj7z?utm_source=chatgpt.com",
-   "제목": "바나프레소 삼성타운점 예약 | 서초구, 서울특별시 | 카페",
+   "url": "https://autoreserve.com/ko/restaurants/tzBvsus8SFySxb1aDq45?utm_source=chatgpt.com",
+   "제목": "바나프레소 강남역점 예약 | 강남구, 서울특별시 | 카페",
    "매체": "플랫폼",
    "병원": "바나프레소",
    "문항": [
