@@ -6,8 +6,8 @@
  "지역회차": {
   "인천": 78,
   "부산": 73,
-  "서울": 72,
-  "지역 안 씀": 114
+  "지역 안 씀": 114,
+  "서울": 72
  },
  "매체": {
   "자사홈페이지": {
@@ -63469,17 +63469,17 @@
        "n": 1
       },
       {
-       "url": "https://www.news2day.co.kr/article/20260814500063?site_preference=mobile&utm_source=chatgpt.com",
-       "제목": "[N2 인터뷰] 김은미 스위트스팟 CMO “팝업, 브랜드 경험하고 팬 만드는 공간”",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
        "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
        "매체": "언론",
        "종류": "경제언론",
+       "n": 1
+      },
+      {
+       "url": "https://www.news2day.co.kr/article/20260814500063?site_preference=mobile&utm_source=chatgpt.com",
+       "제목": "[N2 인터뷰] 김은미 스위트스팟 CMO “팝업, 브랜드 경험하고 팬 만드는 공간”",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63941,15 +63941,15 @@
        "n": 1
       },
       {
-       "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
-       "제목": "인천관광공사",
+       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+       "제목": "송도컨벤시아",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-       "제목": "송도컨벤시아",
+       "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
+       "제목": "인천관광공사",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -65042,17 +65042,17 @@
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
-       "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
-       "매체": "자사홈페이지",
-       "종류": "회사 사이트",
-       "n": 1
-      },
-      {
        "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
        "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
        "매체": "언론",
        "종류": "경제언론",
+       "n": 1
+      },
+      {
+       "url": "https://www.sweetspot.co.kr/portfolio_skt1?utm_source=chatgpt.com",
+       "제목": "T1 팝업스토어 | 유통사 게임 팝업스토어 대행 사례",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -67793,8 +67793,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
-   "제목": "인천관광공사",
+   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+   "제목": "송도컨벤시아",
    "매체": "일반사이트",
    "병원": "송도컨벤시아",
    "문항": [
@@ -67811,8 +67811,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-   "제목": "송도컨벤시아",
+   "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
+   "제목": "인천관광공사",
    "매체": "일반사이트",
    "병원": "송도컨벤시아",
    "문항": [
