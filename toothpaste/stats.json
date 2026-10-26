@@ -48317,17 +48317,17 @@
        "n": 1
       },
       {
-       "url": "https://www.glowpick.com/categories/79?ids=233",
-       "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
-       "매체": "플랫폼",
-       "종류": "쇼핑검색",
-       "n": 1
-      },
-      {
        "url": "https://news.jkn.co.kr/post/990224",
        "제목": "2026 치약 추천: 가성비 좋은 TOP5, 후회 없는 선택 가이드 : 소비자 : 재경일보",
        "매체": "언론",
        "종류": "경제언론",
+       "n": 1
+      },
+      {
+       "url": "https://www.glowpick.com/categories/79?ids=233",
+       "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
+       "매체": "플랫폼",
+       "종류": "쇼핑검색",
        "n": 1
       }
      ]
@@ -48771,10 +48771,10 @@
        "n": 3
       },
       {
-       "url": "https://getlivfresh.com/blogs/blog/best-dentist-recommended-toothpaste",
-       "제목": "Best Dentist-Recommended Toothpaste in 2026",
-       "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "url": "https://freedentalsamples.com/blog/best-toothpaste-recommended-by-dentists",
+       "제목": "Best Toothpaste Recommended by Dentists 2025 | Sensitive Teeth, Fluoride & More",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       },
       {
@@ -48813,10 +48813,10 @@
      },
      "페이지": [
       {
-       "url": "https://getlivfresh.com/blogs/blog/best-dentist-recommended-toothpaste",
-       "제목": "Best Dentist-Recommended Toothpaste in 2026",
-       "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "url": "https://freedentalsamples.com/blog/best-toothpaste-recommended-by-dentists",
+       "제목": "Best Toothpaste Recommended by Dentists 2025 | Sensitive Teeth, Fluoride & More",
+       "매체": "플랫폼",
+       "종류": "업체목록페이지",
        "n": 1
       },
       {
@@ -48827,10 +48827,10 @@
        "n": 1
       },
       {
-       "url": "https://freedentalsamples.com/blog/best-toothpaste-recommended-by-dentists",
-       "제목": "Best Toothpaste Recommended by Dentists 2025 | Sensitive Teeth, Fluoride & More",
-       "매체": "플랫폼",
-       "종류": "업체목록페이지",
+       "url": "https://getlivfresh.com/blogs/blog/best-dentist-recommended-toothpaste",
+       "제목": "Best Dentist-Recommended Toothpaste in 2026",
+       "매체": "일반사이트",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
@@ -48865,10 +48865,10 @@
        "n": 2
       },
       {
-       "url": "https://www.clien.net/service/board/park/18144772",
-       "제목": "치과의사가 말하는 좋은 치약 : 클리앙",
-       "매체": "일반사이트",
-       "종류": "커뮤니티",
+       "url": "https://www.dentalarirang.com/news/articleView.html?idxno=35303",
+       "제목": "[국제] WHO도 치약속 불소의 중요성 강조 - 덴탈아리랑",
+       "매체": "언론",
+       "종류": "업계지",
        "n": 1
       },
       {
@@ -48975,6 +48975,13 @@
      },
      "페이지": [
       {
+       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
+       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
+       "매체": "플랫폼",
+       "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
        "url": "https://www.scanvas.co.kr/articles/127527226460/",
        "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
        "매체": "언론",
@@ -48986,13 +48993,6 @@
        "제목": "2026 치약 티어",
        "매체": "언론",
        "종류": "잡지",
-       "n": 3
-      },
-      {
-       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
-       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
-       "매체": "플랫폼",
-       "종류": "쇼핑검색",
        "n": 3
       },
       {
@@ -49015,6 +49015,13 @@
      },
      "페이지": [
       {
+       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
+       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
+       "매체": "플랫폼",
+       "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
        "url": "https://www.scanvas.co.kr/articles/127527226460/",
        "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
        "매체": "언론",
@@ -49026,13 +49033,6 @@
        "제목": "2026 치약 티어",
        "매체": "언론",
        "종류": "잡지",
-       "n": 3
-      },
-      {
-       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
-       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
-       "매체": "플랫폼",
-       "종류": "쇼핑검색",
        "n": 3
       },
       {
@@ -49061,6 +49061,13 @@
        "n": 3
       },
       {
+       "url": "https://news.jkn.co.kr/post/990224",
+       "제목": "2026 치약 추천: 가성비 좋은 TOP5, 후회 없는 선택 가이드 : 소비자 : 재경일보",
+       "매체": "언론",
+       "종류": "경제언론",
+       "n": 1
+      },
+      {
        "url": "https://www.medicaldaily.co.kr/post/120277",
        "제목": "2026 어린이 치약 가성비 추천: 현명한 선택 : 라이프 : 의약일보",
        "매체": "언론",
@@ -49070,13 +49077,6 @@
       {
        "url": "https://news.jkn.co.kr/post/1002872",
        "제목": "2026년 가성비 치약 추천: 현명한 당신을 위한 TOP 5 선택 : 소비자 : 재경일보",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
-       "url": "https://news.jkn.co.kr/post/990224",
-       "제목": "2026 치약 추천: 가성비 좋은 TOP5, 후회 없는 선택 가이드 : 소비자 : 재경일보",
        "매체": "언론",
        "종류": "경제언론",
        "n": 1
@@ -49134,17 +49134,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.scanvas.co.kr/articles/127527226460/",
-       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 3
-      },
-      {
        "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
        "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
+       "url": "https://www.scanvas.co.kr/articles/127527226460/",
+       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 3
       },
       {
@@ -49218,6 +49218,13 @@
      },
      "페이지": [
       {
+       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
+       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
+       "매체": "플랫폼",
+       "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
        "url": "https://www.scanvas.co.kr/articles/127527226460/",
        "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
        "매체": "언론",
@@ -49229,13 +49236,6 @@
        "제목": "2026 치약 티어",
        "매체": "언론",
        "종류": "잡지",
-       "n": 3
-      },
-      {
-       "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
-       "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
-       "매체": "플랫폼",
-       "종류": "쇼핑검색",
        "n": 3
       }
      ]
@@ -49307,8 +49307,8 @@
        "n": 1
       },
       {
-       "url": "https://www.colgateprofessional.com/products/prevident",
-       "제목": "Colgate Prevident Dental Products | Colgate® Professional",
+       "url": "https://www.colgateprofessional.com/content/dam/cp-sites-aem/oral-care/professional/en-us/brand/colgate-prevident/colgate-prevident-on-dental-advisor-general-market-us.pdf",
+       "제목": "",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49532,15 +49532,15 @@
      },
      "페이지": [
       {
-       "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
-       "제목": "Prescribing Information",
+       "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
+       "제목": "Prescription strength. Patient friendly",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
-       "제목": "Prescription strength. Patient friendly",
+       "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
+       "제목": "Prescribing Information",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49658,8 +49658,8 @@
        "n": 2
       },
       {
-       "url": "https://www.sensodyne.com/en-us/products/sensitivity-gum-enamel-toothpaste/",
-       "제목": "Sensitivity Gum & Enamel Toothpaste | Triple Action Formula | Sensodyne",
+       "url": "https://www.sensodyne.com/en-us/frequently-asked-questions/",
+       "제목": "Explore Our Frequently Asked Questions | Sensodyne",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49754,15 +49754,15 @@
        "n": 1
       },
       {
-       "url": "https://crest.com/en-us/oral-care-products/toothpaste/advanced-gum-restore-deep-clean",
-       "제목": "Pro-Health - Deep Clean - Gum Restore Toothpaste  | Crest US",
+       "url": "https://crest.com/en-us/oral-care-products/toothpaste/gum-sensitivity-repair-gentle-whitening-toothpaste?bvstate=pg%3A3%2Fct%3Ar",
+       "제목": "Gum & Sensitivity Gentle Whitening Toothpaste | Crest US",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://crest.com/en-us/oral-care-products/toothpaste/gum-sensitivity-repair-gentle-whitening-toothpaste?bvstate=pg%3A3%2Fct%3Ar",
-       "제목": "Gum & Sensitivity Gentle Whitening Toothpaste | Crest US",
+       "url": "https://crest.com/en-us/oral-care-products/toothpaste/advanced-gum-restore-deep-clean",
+       "제목": "Pro-Health - Deep Clean - Gum Restore Toothpaste  | Crest US",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49858,17 +49858,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.colgate.com/en-us/products/toothpaste/sv-prevent-repair",
-       "제목": "Colgate® Sensitive Enamel Health Toothpaste for Sensitive Teeth, Peppermint | Colgate Sensitive",
-       "매체": "자사홈페이지",
-       "종류": "회사 사이트",
-       "n": 1
-      },
-      {
        "url": "https://www.ada.org/resources/ada-library/oral-health-topics/toothpastes?trk=article-ssr-frontend-pulse_little-text-block",
        "제목": "Toothpastes | American Dental Association",
        "매체": "일반사이트",
        "종류": "규제기관",
+       "n": 1
+      },
+      {
+       "url": "https://www.colgate.com/en-us/products/toothpaste/sv-prevent-repair",
+       "제목": "Colgate® Sensitive Enamel Health Toothpaste for Sensitive Teeth, Peppermint | Colgate Sensitive",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
@@ -50075,15 +50075,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
-       "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
+       "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
+       "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
-       "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
+       "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
+       "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50105,15 +50105,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.hello-products.com/blogs/news/can-adults-use-kids-toothepaste",
-       "제목": "Can Adults Use Kids' Toothpaste? - Hello Products",
+       "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
+       "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
-       "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
+       "url": "https://www.hello-products.com/blogs/news/can-adults-use-kids-toothepaste",
+       "제목": "Can Adults Use Kids' Toothpaste? - Hello Products",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50480,8 +50480,8 @@
        "n": 2
       },
       {
-       "url": "https://crest.com/en-us/oral-care-products/toothpaste/pro-health-clean-mint?bvstate=pg%3A9%2Fct%3Ar",
-       "제목": "Pro-Health Clean Mint Toothpaste | Crest US",
+       "url": "https://crest.com/en-us/clean-breath-toothpaste",
+       "제목": "Crest Clean Breath Toothpaste | Crest",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50494,8 +50494,8 @@
        "n": 1
       },
       {
-       "url": "https://crest.com/en-us/clean-breath-toothpaste",
-       "제목": "Crest Clean Breath Toothpaste | Crest",
+       "url": "https://crest.com/en-us/oral-care-products/toothpaste/pro-health-clean-mint?bvstate=pg%3A9%2Fct%3Ar",
+       "제목": "Pro-Health Clean Mint Toothpaste | Crest US",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50822,15 +50822,15 @@
        "n": 1
       },
       {
-       "url": "https://enameldentistry.com/What-Is-the-Best-Toothpaste-for-Whitening-teeth-in-2025/",
-       "제목": "The Best Whitening Toothpaste in 2026?",
+       "url": "https://westboroughdentalcare.com/4-dentist-recommended-whitening-teeth-toothpastes-for-you/",
+       "제목": "4 Dentist-Recommended Whitening Teeth Toothpastes for You – Westborough Dental Care",
        "매체": "일반사이트",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://westboroughdentalcare.com/4-dentist-recommended-whitening-teeth-toothpastes-for-you/",
-       "제목": "4 Dentist-Recommended Whitening Teeth Toothpastes for You – Westborough Dental Care",
+       "url": "https://enameldentistry.com/What-Is-the-Best-Toothpaste-for-Whitening-teeth-in-2025/",
+       "제목": "The Best Whitening Toothpaste in 2026?",
        "매체": "일반사이트",
        "종류": "회사 사이트",
        "n": 1
@@ -51136,10 +51136,10 @@
        "n": 1
       },
       {
-       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+       "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
+       "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
        "매체": "일반사이트",
-       "종류": "기타",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
@@ -51150,10 +51150,10 @@
        "n": 1
       },
       {
-       "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
-       "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
+       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
+       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
        "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -51195,10 +51195,10 @@
        "n": 1
       },
       {
-       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+       "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
+       "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
        "매체": "일반사이트",
-       "종류": "기타",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -51274,10 +51274,10 @@
      },
      "페이지": [
       {
-       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+       "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
+       "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
        "매체": "일반사이트",
-       "종류": "기타",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
@@ -51288,10 +51288,10 @@
        "n": 1
       },
       {
-       "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
-       "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
+       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
+       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
        "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -51399,10 +51399,10 @@
        "n": 2
       },
       {
-       "url": "https://wellnessmama.com/reviews/best-natural-toothpaste/",
-       "제목": "What's the Best Natural Toothpaste?",
+       "url": "https://htbotanicals.com/blogs/the-root/best-natural-toothpaste-2026-a-complete-buyers-guide",
+       "제목": "Best Natural Toothpaste 2026: Fluoride-Free Top Picks",
        "매체": "일반사이트",
-       "종류": "기타",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -51516,8 +51516,8 @@
        "n": 1
       },
       {
-       "url": "https://miraclerabbit.com/118",
-       "제목": "프리미엄 치약 비교 후기, 성분 좋은 치약 고르는법",
+       "url": "https://karty.tistory.com/29",
+       "제목": "2025년 한국 인기 치약 TOP 5: 구강 건강을 위한 최고의 선택은?",
        "매체": "블로그",
        "종류": "블로그",
        "n": 1
@@ -51630,17 +51630,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.elle.co.kr/article/1907697",
-       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 2
-      },
-      {
        "url": "https://www.glowpick.com/categories/79?ids=233&monthTerm=24",
        "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 2
+      },
+      {
+       "url": "https://www.elle.co.kr/article/1907697",
+       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 2
       },
       {
@@ -51670,17 +51670,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.elle.co.kr/article/1907697",
-       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 2
-      },
-      {
        "url": "https://www.glowpick.com/categories/79?ids=233&monthTerm=24",
        "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 2
+      },
+      {
+       "url": "https://www.elle.co.kr/article/1907697",
+       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 2
       },
       {
@@ -51767,6 +51767,13 @@
      },
      "페이지": [
       {
+       "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
+       "제목": "",
+       "매체": "블로그",
+       "종류": "블로그",
+       "n": 1
+      },
+      {
        "url": "https://lt3-storyofsonehenge.tistory.com/2",
        "제목": "미백 치약 추천 TOP 5",
        "매체": "블로그",
@@ -51778,13 +51785,6 @@
        "제목": "요즘 커뮤니티 화제인 ‘치약 티어’, 미백부터 충치 예방까지 TOP 5 리스트 | 하퍼스 바자 코리아",
        "매체": "언론",
        "종류": "잡지",
-       "n": 1
-      },
-      {
-       "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
-       "제목": "",
-       "매체": "블로그",
-       "종류": "블로그",
        "n": 1
       }
      ]
@@ -52363,24 +52363,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.clien.net/service/board/park/18144772",
-   "제목": "치과의사가 말하는 좋은 치약 : 클리앙",
-   "매체": "일반사이트",
-   "병원": "센소다인",
-   "문항": [
-    "치과에서 추천하는 치약 알려줘"
-   ],
-   "각주": 5,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 3,
-   "인용": 2,
-   "매체종류": "커뮤니티",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://hysk1222.com/%EC%B2%9C%EC%97%B0-%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%F0%9F%A6%B7%F0%9F%8C%BF-%EC%84%B1%EB%B6%84-%EC%95%88%EC%A0%84%ED%95%9C-%EC%A0%9C%ED%92%88-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EB%B2%95%EA%B3%BC/",
    "제목": "천연 치약 추천 🦷🌿 성분 안전한 제품 고르는 법과 현실 비교 가이드 - 돈거인",
    "매체": "블로그",
@@ -52430,6 +52412,24 @@
    "소스": 6,
    "인용": 2,
    "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.clien.net/service/board/park/18144772",
+   "제목": "치과의사가 말하는 좋은 치약 : 클리앙",
+   "매체": "일반사이트",
+   "병원": "센소다인",
+   "문항": [
+    "치과에서 추천하는 치약 알려줘"
+   ],
+   "각주": 4,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 3,
+   "인용": 2,
+   "매체종류": "커뮤니티",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -52831,8 +52831,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-   "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+   "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
+   "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
    "매체": "일반사이트",
    "병원": "바이오텐",
    "문항": [
@@ -52842,8 +52842,8 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 1,
-   "인용": 1,
-   "매체종류": "기타",
+   "인용": 4,
+   "매체종류": "회사 사이트",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -52903,9 +52903,9 @@
    "우리것": false
   },
   {
-   "url": "https://getlivfresh.com/blogs/blog/best-dentist-recommended-toothpaste",
-   "제목": "Best Dentist-Recommended Toothpaste in 2026",
-   "매체": "일반사이트",
+   "url": "https://freedentalsamples.com/blog/best-toothpaste-recommended-by-dentists",
+   "제목": "Best Toothpaste Recommended by Dentists 2025 | Sensitive Teeth, Fluoride & More",
+   "매체": "플랫폼",
    "병원": "콜게이트",
    "문항": [
     "치과에서 추천하는 치약 알려줘"
@@ -52915,9 +52915,9 @@
    "종류": "글·게시판",
    "소스": 1,
    "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "못 건드림",
-   "소속": "남",
+   "매체종류": "업체목록페이지",
+   "과업": "등록",
+   "소속": "입점",
    "우리것": false
   },
   {
@@ -53281,8 +53281,8 @@
    "우리것": false
   },
   {
-   "url": "https://comfortcaredentalma.com/part-2-of-choosing-the-right-toothpaste-dry-mouth/",
-   "제목": "Part 2 of Choosing the Right Toothpaste: Dry Mouth",
+   "url": "https://www.dentalroundup.com/best/best-toothpaste/",
+   "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
    "매체": "일반사이트",
    "병원": "바이오텐",
    "문항": [
@@ -53292,8 +53292,8 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 1,
-   "인용": 4,
-   "매체종류": "회사 사이트",
+   "인용": 1,
+   "매체종류": "기타",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -53337,6 +53337,24 @@
   {
    "url": "https://sense567.tistory.com/54",
    "제목": "2025년 국내 판매량 및 브랜드 평판 기준 치약 탑5! + 고체치약 추천 원탑!",
+   "매체": "블로그",
+   "병원": "티타드",
+   "문항": [
+    "천연 성분 치약 추천해줘"
+   ],
+   "각주": 2,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 0,
+   "인용": 1,
+   "매체종류": "블로그",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://karty.tistory.com/29",
+   "제목": "2025년 한국 인기 치약 TOP 5: 구강 건강을 위한 최고의 선택은?",
    "매체": "블로그",
    "병원": "티타드",
    "문항": [
@@ -53551,9 +53569,9 @@
    "우리것": false
   },
   {
-   "url": "https://freedentalsamples.com/blog/best-toothpaste-recommended-by-dentists",
-   "제목": "Best Toothpaste Recommended by Dentists 2025 | Sensitive Teeth, Fluoride & More",
-   "매체": "플랫폼",
+   "url": "https://getlivfresh.com/blogs/blog/best-dentist-recommended-toothpaste",
+   "제목": "Best Dentist-Recommended Toothpaste in 2026",
+   "매체": "일반사이트",
    "병원": "크레스트",
    "문항": [
     "치과에서 추천하는 치약 알려줘"
@@ -53563,9 +53581,9 @@
    "종류": "글·게시판",
    "소스": 1,
    "인용": 1,
-   "매체종류": "업체목록페이지",
-   "과업": "등록",
-   "소속": "입점",
+   "매체종류": "회사 사이트",
+   "과업": "못 건드림",
+   "소속": "남",
    "우리것": false
   },
   {
@@ -53582,6 +53600,24 @@
    "소스": 1,
    "인용": 1,
    "매체종류": "경제언론",
+   "과업": "기고",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.dentalarirang.com/news/articleView.html?idxno=35303",
+   "제목": "[국제] WHO도 치약속 불소의 중요성 강조 - 덴탈아리랑",
+   "매체": "언론",
+   "병원": "오스템(뷰센)",
+   "문항": [
+    "치과에서 추천하는 치약 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 1,
+   "매체종류": "업계지",
    "과업": "기고",
    "소속": "남",
    "우리것": false
@@ -53659,8 +53695,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.colgateprofessional.com/products/prevident",
-   "제목": "Colgate Prevident Dental Products | Colgate® Professional",
+   "url": "https://www.colgateprofessional.com/content/dam/cp-sites-aem/oral-care/professional/en-us/brand/colgate-prevident/colgate-prevident-on-dental-advisor-general-market-us.pdf",
+   "제목": "",
    "매체": "자사홈페이지",
    "병원": "콜게이트",
    "문항": [
@@ -53713,8 +53749,8 @@
    "우리것": false
   },
   {
-   "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
-   "제목": "Prescribing Information",
+   "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
+   "제목": "Prescription strength. Patient friendly",
    "매체": "자사홈페이지",
    "병원": "클린프로(3M)",
    "문항": [
@@ -53731,8 +53767,8 @@
    "우리것": false
   },
   {
-   "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
-   "제목": "Prescription strength. Patient friendly",
+   "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
+   "제목": "Prescribing Information",
    "매체": "자사홈페이지",
    "병원": "클린프로(3M)",
    "문항": [
@@ -53785,8 +53821,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.sensodyne.com/en-us/products/sensitivity-gum-enamel-toothpaste/",
-   "제목": "Sensitivity Gum & Enamel Toothpaste | Triple Action Formula | Sensodyne",
+   "url": "https://www.sensodyne.com/en-us/frequently-asked-questions/",
+   "제목": "Explore Our Frequently Asked Questions | Sensodyne",
    "매체": "자사홈페이지",
    "병원": "센소다인",
    "문항": [
@@ -53795,7 +53831,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 2,
+   "소스": 3,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -53857,24 +53893,6 @@
    "우리것": false
   },
   {
-   "url": "https://crest.com/en-us/oral-care-products/toothpaste/advanced-gum-restore-deep-clean",
-   "제목": "Pro-Health - Deep Clean - Gum Restore Toothpaste  | Crest US",
-   "매체": "자사홈페이지",
-   "병원": "크레스트",
-   "문항": [
-    "시린 잇몸에 좋은 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
    "url": "https://crest.com/en-us/oral-care-products/toothpaste/gum-sensitivity-repair-gentle-whitening-toothpaste?bvstate=pg%3A3%2Fct%3Ar",
    "제목": "Gum & Sensitivity Gentle Whitening Toothpaste | Crest US",
    "매체": "자사홈페이지",
@@ -53886,6 +53904,24 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 3,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://crest.com/en-us/oral-care-products/toothpaste/advanced-gum-restore-deep-clean",
+   "제목": "Pro-Health - Deep Clean - Gum Restore Toothpaste  | Crest US",
+   "매체": "자사홈페이지",
+   "병원": "크레스트",
+   "문항": [
+    "시린 잇몸에 좋은 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 2,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -53947,6 +53983,24 @@
    "우리것": false
   },
   {
+   "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
+   "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
+   "매체": "자사홈페이지",
+   "병원": "콜게이트",
+   "문항": [
+    "안 매운 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
    "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
    "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
    "매체": "자사홈페이지",
@@ -53965,10 +54019,10 @@
    "우리것": false
   },
   {
-   "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
-   "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
+   "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
+   "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
    "매체": "자사홈페이지",
-   "병원": "콜게이트",
+   "병원": "hello",
    "문항": [
     "안 매운 치약 추천해줘"
    ],
@@ -53994,24 +54048,6 @@
    "문항수": 1,
    "종류": "글·게시판",
    "소스": 3,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
-   "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
-   "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
-   "매체": "자사홈페이지",
-   "병원": "hello",
-   "문항": [
-    "안 매운 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -54109,8 +54145,8 @@
    "우리것": false
   },
   {
-   "url": "https://crest.com/en-us/oral-care-products/toothpaste/pro-health-clean-mint?bvstate=pg%3A9%2Fct%3Ar",
-   "제목": "Pro-Health Clean Mint Toothpaste | Crest US",
+   "url": "https://crest.com/en-us/clean-breath-toothpaste",
+   "제목": "Crest Clean Breath Toothpaste | Crest",
    "매체": "자사홈페이지",
    "병원": "크레스트",
    "문항": [
@@ -54145,8 +54181,8 @@
    "우리것": false
   },
   {
-   "url": "https://crest.com/en-us/clean-breath-toothpaste",
-   "제목": "Crest Clean Breath Toothpaste | Crest",
+   "url": "https://crest.com/en-us/oral-care-products/toothpaste/pro-health-clean-mint?bvstate=pg%3A9%2Fct%3Ar",
+   "제목": "Pro-Health Clean Mint Toothpaste | Crest US",
    "매체": "자사홈페이지",
    "병원": "크레스트",
    "문항": [
@@ -54271,8 +54307,8 @@
    "우리것": false
   },
   {
-   "url": "https://wellnessmama.com/reviews/best-natural-toothpaste/",
-   "제목": "What's the Best Natural Toothpaste?",
+   "url": "https://htbotanicals.com/blogs/the-root/best-natural-toothpaste-2026-a-complete-buyers-guide",
+   "제목": "Best Natural Toothpaste 2026: Fluoride-Free Top Picks",
    "매체": "일반사이트",
    "병원": "닥터브로너스",
    "문항": [
@@ -54283,43 +54319,7 @@
    "종류": "글·게시판",
    "소스": 2,
    "인용": 1,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "https://karty.tistory.com/29",
-   "제목": "2025년 한국 인기 치약 TOP 5: 구강 건강을 위한 최고의 선택은?",
-   "매체": "블로그",
-   "병원": "티타드",
-   "문항": [
-    "천연 성분 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 0,
-   "인용": 1,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "https://miraclerabbit.com/118",
-   "제목": "프리미엄 치약 비교 후기, 성분 좋은 치약 고르는법",
-   "매체": "블로그",
-   "병원": "덴티스테",
-   "문항": [
-    "천연 성분 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "블로그",
+   "매체종류": "회사 사이트",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -54361,24 +54361,6 @@
    "우리것": false
   },
   {
-   "url": "https://lt3-storyofsonehenge.tistory.com/2",
-   "제목": "미백 치약 추천 TOP 5",
-   "매체": "블로그",
-   "병원": "오스템(뷰센)",
-   "문항": [
-    "커피 착색에 좋은 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 0,
-   "인용": 1,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
    "제목": "",
    "매체": "블로그",
@@ -54391,6 +54373,24 @@
    "종류": "고정 페이지",
    "소스": 0,
    "인용": 2,
+   "매체종류": "블로그",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://lt3-storyofsonehenge.tistory.com/2",
+   "제목": "미백 치약 추천 TOP 5",
+   "매체": "블로그",
+   "병원": "오스템(뷰센)",
+   "문항": [
+    "커피 착색에 좋은 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 0,
+   "인용": 1,
    "매체종류": "블로그",
    "과업": "못 건드림",
    "소속": "남",
