@@ -4,10 +4,10 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "지역 안 씀": 114,
   "인천": 78,
-  "서울": 72,
-  "부산": 73
+  "부산": 73,
+  "지역 안 씀": 114,
+  "서울": 72
  },
  "매체": {
   "자사홈페이지": {
@@ -32512,18 +32512,18 @@
    "열어봄": 0,
    "인용회차": 1,
    "이수탑": false,
-   "스캔": "",
+   "스캔": "ok",
    "매체종류": "기타",
    "과업": "못 건드림",
    "소속": "남",
-   "본문길이": 0,
-   "본문해시": "",
-   "진료항목": 0,
-   "지역어": 0,
-   "종류": "글·게시판",
-   "설명문": null,
-   "색인막힘": null,
-   "대표주소": null
+   "설명문": "도심 속, 가장 감각적인 순간을 담다 – 라운지에이티 (Lounge AT) 라운지에이티는 강남 도산공원 인근, 3호선 압구정역 도보 8분 거리에 위치한 감각적인 복합문화공간입니다. 유럽풍 외관과 클래식한 내부가 조화를 이루는 이곳은 브랜드 쇼룸, 팝업스토어, 플리마켓, 프라이빗 행사, 촬영, 전시 등 다양한 목적에 최적화되어 있습니다. 총 30평 규모로 약 2.95m 층고를 갖춘 넓고 개방감 있는 공간은 남향 채광과 모던-클래식 인테리어가 어우러져 어떤 콘셉트와도 자연스럽게 어울립니다. 천정형 냉난방 시스템과 수도, 전기, 와이파이 등 기본 설비는 물론, 미니 와인냉장고와 프라이버시가 보장된 피팅룸까지 구비되어 있어 쇼룸, 브랜드 행사 운영에 실질적인 편의성을 더합니다. 창고와 화장실도 완비되어 있어 운영 효율 또한 높습니다. 전용 주차 1대 제공, 인근 유료주차장 접근성, 도산대로 및 성수대교와 인접한 교통망까지 — 방문객을 고려한 완성도 높은 입지 역시 자랑입니다. 🎯 이런 분들",
+   "색인막힘": "",
+   "대표주소": "https://shareit.kr/store/9476",
+   "본문길이": 1413,
+   "본문해시": "f74f11e3c2",
+   "진료항목": 3,
+   "지역어": 1,
+   "종류": "글·게시판"
   },
   {
    "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=170367022&utm_source=chatgpt.com",
@@ -59157,17 +59157,17 @@
      },
      "페이지": [
       {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=164673226&utm_source=chatgpt.com",
        "제목": "유통사 팝업스토어 대행사, 어떻게 골라야 할까? : 블로그",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -59236,8 +59236,8 @@
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+       "제목": "팝업코리아 공간 검색",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -59349,15 +59349,15 @@
        "n": 2
       },
       {
-       "url": "https://www.asiatime.co.kr/article/20260824500274?utm_source=chatgpt.com",
-       "제목": "[AT 인터뷰] \"브랜드 데이터·부동산 운영 역량이 스위트스팟 경쟁력\"",
+       "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
+       "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://hajei.com/seoul-popup-store-agency-selection-guide?utm_source=chatgpt.com",
-       "제목": "서울 팝업스토어 대행사 추천 및 스위트스팟 분석 가이드 — Balance",
+       "url": "https://www.asiatime.co.kr/article/20260824500274?utm_source=chatgpt.com",
+       "제목": "[AT 인터뷰] \"브랜드 데이터·부동산 운영 역량이 스위트스팟 경쟁력\"",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -60210,17 +60210,17 @@
      },
      "페이지": [
       {
-       "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
-       "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
        "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
+       "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
+       "매체": "일반사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -63934,13 +63934,6 @@
      },
      "페이지": [
       {
-       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-       "제목": "송도컨벤시아",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 1
-      },
-      {
        "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
        "제목": "인천관광공사",
        "매체": "일반사이트",
@@ -63950,6 +63943,13 @@
       {
        "url": "https://www.itsu.co.kr/?utm_source=chatgpt.com",
        "제목": "주식회사 이추",
+       "매체": "일반사이트",
+       "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+       "제목": "송도컨벤시아",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -64119,15 +64119,15 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
+       "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 2
       },
       {
-       "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
-       "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 2
@@ -65065,15 +65065,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
-       "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
+       "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
+       "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
-       "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
+       "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
+       "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -65867,15 +65867,15 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
-       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/?utm_source=chatgpt.com",
+       "제목": "크리에이티브 에이전시 · 광고대행사 · 디지털 에이전시 · BTL 에이전시 | 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -67505,8 +67505,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+   "제목": "팝업코리아 공간 검색",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -67515,7 +67515,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
+   "소스": 0,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -67775,24 +67775,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
-   "제목": "송도컨벤시아",
-   "매체": "일반사이트",
-   "병원": "송도컨벤시아",
-   "문항": [
-    "인천 팝업스토어 기획부터 해주는 업체 알려줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://www.incheoncvb.or.kr/biz/infra/iccz/list.do?utm_source=chatgpt.com",
    "제목": "인천관광공사",
    "매체": "일반사이트",
@@ -67822,6 +67804,24 @@
    "문항수": 1,
    "종류": "대문",
    "소스": 2,
+   "인용": 1,
+   "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.visitincheon.or.kr/sch/visitor/html/UI-SC-0103-008Q.do?utm_source=chatgpt.com",
+   "제목": "송도컨벤시아",
+   "매체": "일반사이트",
+   "병원": "송도컨벤시아",
+   "문항": [
+    "인천 팝업스토어 기획부터 해주는 업체 알려줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",
@@ -67883,24 +67883,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
-   "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
-   "매체": "일반사이트",
-   "병원": "신세계백화점",
-   "문항": [
-    "부산 대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
    "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
    "매체": "일반사이트",
@@ -67912,6 +67894,24 @@
    "문항수": 1,
    "종류": "고정 페이지",
    "소스": 1,
+   "인용": 1,
+   "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
+   "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
+   "매체": "일반사이트",
+   "병원": "신세계백화점",
+   "문항": [
+    "부산 대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 2,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",
