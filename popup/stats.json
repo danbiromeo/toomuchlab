@@ -4,10 +4,10 @@
  "total": 337,
  "questions": 80,
  "지역회차": {
-  "지역 안 씀": 114,
   "부산": 73,
-  "인천": 78,
-  "서울": 72
+  "지역 안 씀": 114,
+  "서울": 72,
+  "인천": 78
  },
  "매체": {
   "자사홈페이지": {
@@ -58972,15 +58972,15 @@
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
+       "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=171563575&utm_source=chatgpt.com",
-       "제목": "성수 팝업스토어 기획 가이드: D-100 준비 과정 및 체크리스트 : 블로그",
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -59062,17 +59062,17 @@
      },
      "페이지": [
       {
-       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
-       "매체": "일반사이트",
-       "종류": "채용",
-       "n": 1
-      },
-      {
        "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
        "제목": "트리니티엑스",
        "매체": "일반사이트",
        "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+       "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+       "매체": "일반사이트",
+       "종류": "채용",
        "n": 1
       }
      ]
@@ -59157,17 +59157,17 @@
      },
      "페이지": [
       {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/contents_blog/?bmode=view&idx=164673226&utm_source=chatgpt.com",
        "제목": "유통사 팝업스토어 대행사, 어떻게 골라야 할까? : 블로그",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -59236,8 +59236,8 @@
        "n": 1
       },
       {
-       "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-       "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+       "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+       "제목": "팝업코리아 공간 검색",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -60210,17 +60210,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
-       "매체": "자사홈페이지",
-       "종류": "회사 사이트",
-       "n": 1
-      },
-      {
        "url": "https://potgrid.com/seoul-popup-store-agency-cost-review-2026?utm_source=chatgpt.com",
        "제목": "서울 팝업스토어 대행사 비용 및 스위트스팟 방문 후기 (2026) — Living Board",
        "매체": "일반사이트",
        "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -63469,17 +63469,17 @@
        "n": 1
       },
       {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
        "url": "https://www.news2day.co.kr/article/20260814500063?site_preference=mobile&utm_source=chatgpt.com",
        "제목": "[N2 인터뷰] 김은미 스위트스팟 CMO “팝업, 브랜드 경험하고 팬 만드는 공간”",
        "매체": "일반사이트",
        "종류": "기타",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -64119,15 +64119,15 @@
      },
      "페이지": [
       {
-       "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
-       "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 2
       },
       {
-       "url": "https://kontekst.kr/popup-store/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 대행사 · 기획·제작·시공·운영 업체 — 콘텍스트 kontekst",
+       "url": "https://kontekst.kr/brand-space/?utm_source=chatgpt.com",
+       "제목": "공간 브랜딩 회사 · 브랜드 체험 공간 · 집기 제작 업체 — 콘텍스트 kontekst",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 2
@@ -65042,17 +65042,17 @@
        "n": 1
       },
       {
-       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
-       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
        "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
        "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
+       "n": 1
+      },
+      {
+       "url": "https://zdnet.co.kr/view/?no=20240715185629&utm_source=chatgpt.com",
+       "제목": "스위트스팟 \"상반기 유통사 매장서 진행한 팝업스토어 거래액 50억\" - ZDNet korea",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -65065,15 +65065,15 @@
      },
      "페이지": [
       {
-       "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
-       "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
+       "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
+       "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
-       "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
+       "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
+       "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
        "매체": "일반사이트",
        "종류": "기타",
        "n": 1
@@ -65890,15 +65890,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
-       "제목": "스윗스팟의 팝업스토어 공간 서비스",
+       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
+       "제목": "팝업스토어 No.1 기업, 스위트스팟",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.sweetspot.co.kr/?utm_source=chatgpt.com",
-       "제목": "팝업스토어 No.1 기업, 스위트스팟",
+       "url": "https://www.sweetspot.co.kr/popup_stage?utm_source=chatgpt.com",
+       "제목": "스윗스팟의 팝업스토어 공간 서비스",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -67433,24 +67433,6 @@
    "우리것": false
   },
   {
-   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
-   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
-   "매체": "일반사이트",
-   "병원": "신세계백화점",
-   "문항": [
-    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "채용",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://thetrinityx.com/newsroom?utm_source=chatgpt.com",
    "제목": "트리니티엑스",
    "매체": "일반사이트",
@@ -67464,6 +67446,24 @@
    "소스": 1,
    "인용": 1,
    "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://m.saramin.co.kr/job-search/company-info-view?csn=RmFlTzI1RzV1bk10N0VxS0tZRCs0Zz09&t_ref_content=generic&utm_source=chatgpt.com",
+   "제목": "(주)디자인누스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인",
+   "매체": "일반사이트",
+   "병원": "신세계백화점",
+   "문항": [
+    "대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 1,
+   "매체종류": "채용",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -67505,8 +67505,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.popupkorea.co.kr/space?region=seongsu&utm_source=chatgpt.com",
-   "제목": "공간 검색 · 성수·홍대·한남·강남·도쿄 | 팝업코리아",
+   "url": "https://www.popupkorea.co.kr/space?utm_source=chatgpt.com",
+   "제목": "팝업코리아 공간 검색",
    "매체": "자사홈페이지",
    "병원": "팝업코리아",
    "문항": [
@@ -67515,7 +67515,7 @@
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
+   "소스": 0,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -67883,24 +67883,6 @@
    "우리것": false
   },
   {
-   "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
-   "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
-   "매체": "일반사이트",
-   "병원": "신세계백화점",
-   "문항": [
-    "부산 대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 1,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://www.thewklyn.com/popup-portfolio/?bmode=view&idx=173294617&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board&utm_source=chatgpt.com",
    "제목": "메리온 팝업 in 신세계 센텀시티 : 더위클리 포트폴리오ㅣ 더위클리 크루가 직접 시공한 팝업스토어와 공간브랜딩 프로젝트입니다",
    "매체": "일반사이트",
@@ -67912,6 +67894,24 @@
    "문항수": 1,
    "종류": "글·게시판",
    "소스": 2,
+   "인용": 1,
+   "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://4work.imweb.me/Project?category=Ia46NLrch8&utm_source=chatgpt.com",
+   "제목": "일하는 공간을 위한 가구 브랜드 - 4WORK, 포워크",
+   "매체": "일반사이트",
+   "병원": "신세계백화점",
+   "문항": [
+    "부산 대기업 팝업스토어 시공 실적 있는 업체 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 1,
    "인용": 1,
    "매체종류": "기타",
    "과업": "못 건드림",
