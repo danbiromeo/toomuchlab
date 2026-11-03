@@ -1324,9 +1324,9 @@
    },
    "소스": {
     "질문": 14,
-    "회차": 69,
-    "건": 108,
-    "페이지": 24,
+    "회차": 70,
+    "건": 109,
+    "페이지": 25,
     "자사회차": 10,
     "자사페이지": 5
    },
@@ -1367,10 +1367,10 @@
      "그중인용회차": 20
     },
     "일반사이트": {
-     "소스": 6,
+     "소스": 7,
      "인용": 5,
      "그중인용": 5,
-     "소스회차": 6,
+     "소스회차": 7,
      "인용회차": 5,
      "그중인용회차": 5
     },
@@ -1457,7 +1457,8 @@
       "경제언론": 10,
       "잡지": 16,
       "블로그": 6,
-      "커뮤니티": 3
+      "커뮤니티": 3,
+      "기타": 1
      },
      "장": {
       "회사 사이트": 6,
@@ -1467,7 +1468,8 @@
       "경제언론": 4,
       "잡지": 1,
       "블로그": 5,
-      "커뮤니티": 1
+      "커뮤니티": 1,
+      "기타": 1
      }
     },
     "과업": {
@@ -1483,14 +1485,14 @@
       "등록": 53,
       "기고": 14,
       "협찬": 16,
-      "못 건드림": 12
+      "못 건드림": 13
      },
      "장": {
       "고침": 5,
       "등록": 6,
       "기고": 7,
       "협찬": 1,
-      "못 건드림": 7
+      "못 건드림": 8
      }
     },
     "소속": {
@@ -1502,12 +1504,12 @@
      "소스": {
       "자기": 13,
       "입점": 53,
-      "남": 42
+      "남": 43
      },
      "장": {
       "자기": 5,
       "입점": 6,
-      "남": 15
+      "남": 16
      }
     },
     "남종류": {
@@ -1529,7 +1531,8 @@
       "경제언론": 10,
       "잡지": 16,
       "블로그": 6,
-      "커뮤니티": 3
+      "커뮤니티": 3,
+      "기타": 1
      },
      "장": {
       "회사 사이트": 1,
@@ -1539,7 +1542,8 @@
       "경제언론": 4,
       "잡지": 1,
       "블로그": 5,
-      "커뮤니티": 1
+      "커뮤니티": 1,
+      "기타": 1
      }
     },
     "페이지": [
@@ -1828,6 +1832,17 @@
       "인용": 0,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -1857,7 +1872,7 @@
     "모름": 18,
     "합": 37
    },
-   "근거페이지": 26,
+   "근거페이지": 27,
    "인용페이지목록": [
     {
      "url": "https://gqkorea.co.kr/2026/03/09/불소-함유량-높으면-좋은-치약일까-입냄새-충치-잇몸",
@@ -2913,8 +2928,8 @@
    "소스": {
     "질문": 14,
     "회차": 79,
-    "건": 115,
-    "페이지": 30,
+    "건": 116,
+    "페이지": 31,
     "자사회차": 0,
     "자사페이지": 0
    },
@@ -2955,10 +2970,10 @@
      "그중인용회차": 20
     },
     "일반사이트": {
-     "소스": 12,
+     "소스": 13,
      "인용": 7,
      "그중인용": 6,
-     "소스회차": 12,
+     "소스회차": 13,
      "인용회차": 7,
      "그중인용회차": 6
     },
@@ -3002,7 +3017,7 @@
       "커뮤니티": 6,
       "특허": 2,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      },
      "장": {
       "상품등록페이지": 3,
@@ -3014,7 +3029,7 @@
       "커뮤니티": 2,
       "특허": 1,
       "규제기관": 1,
-      "기타": 1
+      "기타": 2
      }
     },
     "과업": {
@@ -3028,13 +3043,13 @@
       "등록": 60,
       "기고": 26,
       "협찬": 1,
-      "못 건드림": 28
+      "못 건드림": 29
      },
      "장": {
       "등록": 8,
       "기고": 11,
       "협찬": 1,
-      "못 건드림": 17
+      "못 건드림": 18
      }
     },
     "소속": {
@@ -3044,11 +3059,11 @@
      },
      "소스": {
       "입점": 60,
-      "남": 55
+      "남": 56
      },
      "장": {
       "입점": 8,
-      "남": 29
+      "남": 30
      }
     },
     "남종류": {
@@ -3072,7 +3087,7 @@
       "커뮤니티": 6,
       "특허": 2,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      },
      "장": {
       "상품등록페이지": 3,
@@ -3084,7 +3099,7 @@
       "커뮤니티": 2,
       "특허": 1,
       "규제기관": 1,
-      "기타": 1
+      "기타": 2
      }
     },
     "페이지": [
@@ -3485,6 +3500,17 @@
       "같이": 0
      },
      {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
+     },
+     {
       "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetailCache?cacheSeq=201007520aupdateTs2026-09-13+11%3A19%3A34.0b",
       "도메인": "nedrug.mfds.go.kr",
       "매체종류": "규제기관",
@@ -3520,7 +3546,7 @@
     "모름": 18,
     "합": 33
    },
-   "근거페이지": 37,
+   "근거페이지": 38,
    "인용페이지목록": [
     {
      "url": "https://glowpick.com/categories/79?ids=233",
@@ -4473,9 +4499,9 @@
    },
    "소스": {
     "질문": 13,
-    "회차": 64,
-    "건": 57,
-    "페이지": 10,
+    "회차": 65,
+    "건": 58,
+    "페이지": 11,
     "자사회차": 2,
     "자사페이지": 1
    },
@@ -4522,6 +4548,14 @@
      "소스회차": 2,
      "인용회차": 4,
      "그중인용회차": 2
+    },
+    "일반사이트": {
+     "소스": 1,
+     "인용": 0,
+     "그중인용": 0,
+     "소스회차": 1,
+     "인용회차": 0,
+     "그중인용회차": 0
     }
    },
    "추천페이지": 10,
@@ -4547,14 +4581,16 @@
       "쇼핑검색": 48,
       "경제언론": 2,
       "잡지": 1,
-      "블로그": 2
+      "블로그": 2,
+      "기타": 1
      },
      "장": {
       "상품등록페이지": 3,
       "쇼핑검색": 5,
       "경제언론": 1,
       "잡지": 1,
-      "블로그": 4
+      "블로그": 4,
+      "기타": 1
      }
     },
     "과업": {
@@ -4568,13 +4604,13 @@
       "등록": 52,
       "기고": 2,
       "협찬": 1,
-      "못 건드림": 2
+      "못 건드림": 3
      },
      "장": {
       "등록": 8,
       "기고": 1,
       "협찬": 1,
-      "못 건드림": 4
+      "못 건드림": 5
      }
     },
     "소속": {
@@ -4586,12 +4622,12 @@
      "소스": {
       "자기": 2,
       "입점": 50,
-      "남": 5
+      "남": 6
      },
      "장": {
       "자기": 1,
       "입점": 7,
-      "남": 6
+      "남": 7
      }
     },
     "남종류": {
@@ -4607,14 +4643,16 @@
       "쇼핑검색": 46,
       "경제언론": 2,
       "잡지": 1,
-      "블로그": 2
+      "블로그": 2,
+      "기타": 1
      },
      "장": {
       "상품등록페이지": 3,
       "쇼핑검색": 4,
       "경제언론": 1,
       "잡지": 1,
-      "블로그": 4
+      "블로그": 4,
+      "기타": 1
      }
     },
     "페이지": [
@@ -4771,6 +4809,17 @@
       "인용": 1,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -4795,7 +4844,7 @@
     "모름": 18,
     "합": 30
    },
-   "근거페이지": 14,
+   "근거페이지": 15,
    "인용페이지목록": [
     {
      "url": "https://amoremall.com/kr/ko/product/detail?onlineProdSn=68230&onlineProdCode=310050000433",
@@ -4940,10 +4989,10 @@
     "건": 53
    },
    "소스": {
-    "질문": 6,
-    "회차": 20,
-    "건": 18,
-    "페이지": 7,
+    "질문": 7,
+    "회차": 21,
+    "건": 19,
+    "페이지": 8,
     "자사회차": 1,
     "자사페이지": 1
    },
@@ -4968,10 +5017,10 @@
    "글로": 10,
    "매체": {
     "일반사이트": {
-     "소스": 9,
+     "소스": 10,
      "인용": 12,
      "그중인용": 5,
-     "소스회차": 9,
+     "소스회차": 10,
      "인용회차": 8,
      "그중인용회차": 5
     },
@@ -5016,7 +5065,7 @@
       "업계지": 5,
       "경제언론": 3,
       "커뮤니티": 3,
-      "기타": 3
+      "기타": 4
      },
      "장": {
       "회사 사이트": 3,
@@ -5025,7 +5074,7 @@
       "커뮤니티": 1,
       "동영상": 1,
       "규제기관": 1,
-      "기타": 1
+      "기타": 2
      }
     },
     "과업": {
@@ -5037,12 +5086,12 @@
      "소스": {
       "고침": 1,
       "기고": 8,
-      "못 건드림": 9
+      "못 건드림": 10
      },
      "장": {
       "고침": 1,
       "기고": 3,
-      "못 건드림": 6
+      "못 건드림": 7
      }
     },
     "소속": {
@@ -5052,11 +5101,11 @@
      },
      "소스": {
       "자기": 1,
-      "남": 17
+      "남": 18
      },
      "장": {
       "자기": 1,
-      "남": 9
+      "남": 10
      }
     },
     "남종류": {
@@ -5073,7 +5122,7 @@
       "업계지": 5,
       "경제언론": 3,
       "커뮤니티": 3,
-      "기타": 3
+      "기타": 4
      },
      "장": {
       "회사 사이트": 2,
@@ -5082,7 +5131,7 @@
       "커뮤니티": 1,
       "동영상": 1,
       "규제기관": 1,
-      "기타": 1
+      "기타": 2
      }
     },
     "페이지": [
@@ -5195,6 +5244,17 @@
       "인용": 0,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -5220,7 +5280,7 @@
     "모름": 14,
     "합": 24
    },
-   "근거페이지": 10,
+   "근거페이지": 11,
    "인용페이지목록": [
     {
      "url": "https://esocialtimes.com/news/articleView.html?idxno=30545",
@@ -7413,9 +7473,9 @@
    },
    "소스": {
     "질문": 13,
-    "회차": 53,
-    "건": 50,
-    "페이지": 5,
+    "회차": 54,
+    "건": 51,
+    "페이지": 6,
     "자사회차": 0,
     "자사페이지": 0
    },
@@ -7455,6 +7515,14 @@
      "인용회차": 4,
      "그중인용회차": 1
     },
+    "일반사이트": {
+     "소스": 1,
+     "인용": 0,
+     "그중인용": 0,
+     "소스회차": 1,
+     "인용회차": 0,
+     "그중인용회차": 0
+    },
     "언론": {
      "소스": 0,
      "인용": 2,
@@ -7484,13 +7552,15 @@
      "소스": {
       "상품등록페이지": 4,
       "쇼핑검색": 40,
-      "블로그": 6
+      "블로그": 6,
+      "기타": 1
      },
      "장": {
       "상품등록페이지": 1,
       "쇼핑검색": 2,
       "경제언론": 1,
-      "블로그": 4
+      "블로그": 4,
+      "기타": 1
      }
     },
     "과업": {
@@ -7501,12 +7571,12 @@
      },
      "소스": {
       "등록": 44,
-      "못 건드림": 6
+      "못 건드림": 7
      },
      "장": {
       "등록": 3,
       "기고": 1,
-      "못 건드림": 4
+      "못 건드림": 5
      }
     },
     "소속": {
@@ -7516,11 +7586,11 @@
      },
      "소스": {
       "입점": 44,
-      "남": 6
+      "남": 7
      },
      "장": {
       "입점": 3,
-      "남": 5
+      "남": 6
      }
     },
     "남종류": {
@@ -7533,13 +7603,15 @@
      "소스": {
       "상품등록페이지": 4,
       "쇼핑검색": 40,
-      "블로그": 6
+      "블로그": 6,
+      "기타": 1
      },
      "장": {
       "상품등록페이지": 1,
       "쇼핑검색": 2,
       "경제언론": 1,
-      "블로그": 4
+      "블로그": 4,
+      "기타": 1
      }
     },
     "페이지": [
@@ -7630,6 +7702,17 @@
       "인용": 1,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -7651,7 +7734,7 @@
     "모름": 8,
     "합": 9
    },
-   "근거페이지": 8,
+   "근거페이지": 9,
    "인용페이지목록": [
     {
      "url": "https://glowpick.com/categories/79?ids=233",
@@ -7743,9 +7826,9 @@
    },
    "소스": {
     "질문": 14,
-    "회차": 63,
-    "건": 59,
-    "페이지": 8,
+    "회차": 64,
+    "건": 60,
+    "페이지": 9,
     "자사회차": 0,
     "자사페이지": 0
    },
@@ -7786,10 +7869,10 @@
      "그중인용회차": 6
     },
     "일반사이트": {
-     "소스": 2,
+     "소스": 3,
      "인용": 6,
      "그중인용": 2,
-     "소스회차": 2,
+     "소스회차": 3,
      "인용회차": 5,
      "그중인용회차": 2
     },
@@ -7828,7 +7911,8 @@
       "업계지": 5,
       "경제언론": 3,
       "블로그": 3,
-      "커뮤니티": 2
+      "커뮤니티": 2,
+      "기타": 1
      },
      "장": {
       "회사 사이트": 1,
@@ -7838,7 +7922,7 @@
       "블로그": 1,
       "커뮤니티": 1,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      }
     },
     "과업": {
@@ -7850,12 +7934,12 @@
      "소스": {
       "등록": 46,
       "기고": 8,
-      "못 건드림": 5
+      "못 건드림": 6
      },
      "장": {
       "등록": 4,
       "기고": 3,
-      "못 건드림": 7
+      "못 건드림": 8
      }
     },
     "소속": {
@@ -7865,11 +7949,11 @@
      },
      "소스": {
       "입점": 46,
-      "남": 13
+      "남": 14
      },
      "장": {
       "입점": 4,
-      "남": 10
+      "남": 11
      }
     },
     "남종류": {
@@ -7888,7 +7972,8 @@
       "업계지": 5,
       "경제언론": 3,
       "블로그": 3,
-      "커뮤니티": 2
+      "커뮤니티": 2,
+      "기타": 1
      },
      "장": {
       "회사 사이트": 1,
@@ -7898,7 +7983,7 @@
       "블로그": 1,
       "커뮤니티": 1,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      }
     },
     "페이지": [
@@ -8055,6 +8140,17 @@
       "인용": 1,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -8077,7 +8173,7 @@
     "모름": 8,
     "합": 10
    },
-   "근거페이지": 14,
+   "근거페이지": 15,
    "인용페이지목록": [
     {
      "url": "https://glowpick.com/categories/79?ids=233",
@@ -11308,9 +11404,9 @@
    },
    "소스": {
     "질문": 12,
-    "회차": 44,
-    "건": 45,
-    "페이지": 4,
+    "회차": 45,
+    "건": 46,
+    "페이지": 5,
     "자사회차": 0,
     "자사페이지": 0
    },
@@ -11350,6 +11446,14 @@
      "인용회차": 2,
      "그중인용회차": 2
     },
+    "일반사이트": {
+     "소스": 1,
+     "인용": 0,
+     "그중인용": 0,
+     "소스회차": 1,
+     "인용회차": 0,
+     "그중인용회차": 0
+    },
     "블로그": {
      "소스": 0,
      "인용": 1,
@@ -11377,12 +11481,14 @@
      },
      "소스": {
       "쇼핑검색": 43,
-      "잡지": 2
+      "잡지": 2,
+      "기타": 1
      },
      "장": {
       "쇼핑검색": 3,
       "잡지": 1,
-      "블로그": 1
+      "블로그": 1,
+      "기타": 1
      }
     },
     "과업": {
@@ -11393,12 +11499,13 @@
      },
      "소스": {
       "등록": 43,
-      "협찬": 2
+      "협찬": 2,
+      "못 건드림": 1
      },
      "장": {
       "등록": 3,
       "협찬": 1,
-      "못 건드림": 1
+      "못 건드림": 2
      }
     },
     "소속": {
@@ -11408,11 +11515,11 @@
      },
      "소스": {
       "입점": 43,
-      "남": 2
+      "남": 3
      },
      "장": {
       "입점": 3,
-      "남": 2
+      "남": 3
      }
     },
     "남종류": {
@@ -11423,12 +11530,14 @@
      },
      "소스": {
       "쇼핑검색": 43,
-      "잡지": 2
+      "잡지": 2,
+      "기타": 1
      },
      "장": {
       "쇼핑검색": 3,
       "잡지": 1,
-      "블로그": 1
+      "블로그": 1,
+      "기타": 1
      }
     },
     "페이지": [
@@ -11486,6 +11595,17 @@
       "인용": 1,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -11507,7 +11627,7 @@
     "모름": 3,
     "합": 4
    },
-   "근거페이지": 5,
+   "근거페이지": 6,
    "인용페이지목록": [
     {
      "url": "https://marieclairekorea.com/beauty/2023/10/tooth-paste-item",
@@ -12375,9 +12495,9 @@
    },
    "소스": {
     "질문": 14,
-    "회차": 106,
-    "건": 208,
-    "페이지": 54,
+    "회차": 107,
+    "건": 209,
+    "페이지": 55,
     "자사회차": 6,
     "자사페이지": 12
    },
@@ -12418,10 +12538,10 @@
      "그중인용회차": 43
     },
     "일반사이트": {
-     "소스": 30,
+     "소스": 31,
      "인용": 41,
      "그중인용": 22,
-     "소스회차": 23,
+     "소스회차": 24,
      "인용회차": 28,
      "그중인용회차": 19
     },
@@ -12672,7 +12792,7 @@
       "블로그": 13,
       "커뮤니티": 7,
       "규제기관": 7,
-      "기타": 5
+      "기타": 6
      },
      "장": {
       "회사 사이트": 20,
@@ -12686,7 +12806,7 @@
       "커뮤니티": 4,
       "동영상": 2,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      }
     },
     "과업": {
@@ -12702,14 +12822,14 @@
       "등록": 59,
       "기고": 23,
       "협찬": 61,
-      "못 건드림": 43
+      "못 건드림": 44
      },
      "장": {
       "고침": 12,
       "등록": 9,
       "기고": 9,
       "협찬": 7,
-      "못 건드림": 26
+      "못 건드림": 27
      }
     },
     "소속": {
@@ -12721,12 +12841,12 @@
      "소스": {
       "자기": 22,
       "입점": 59,
-      "남": 127
+      "남": 128
      },
      "장": {
       "자기": 12,
       "입점": 9,
-      "남": 42
+      "남": 43
      }
     },
     "남종류": {
@@ -12755,7 +12875,7 @@
       "블로그": 13,
       "커뮤니티": 7,
       "규제기관": 7,
-      "기타": 5
+      "기타": 6
      },
      "장": {
       "회사 사이트": 8,
@@ -12769,7 +12889,7 @@
       "커뮤니티": 4,
       "동영상": 2,
       "규제기관": 1,
-      "기타": 3
+      "기타": 4
      }
     },
     "페이지": [
@@ -13379,6 +13499,17 @@
       "같이": 0
      },
      {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
+     },
+     {
       "url": "https://pharmnews.com/news/articleView.html?idxno=92775",
       "도메인": "pharmnews.com",
       "매체종류": "경제언론",
@@ -13500,7 +13631,7 @@
     "모름": 37,
     "합": 104
    },
-   "근거페이지": 63,
+   "근거페이지": 64,
    "인용페이지목록": [
     {
      "url": "https://glowpick.com/categories/79?ids=233",
@@ -14006,9 +14137,9 @@
    },
    "소스": {
     "질문": 14,
-    "회차": 116,
-    "건": 255,
-    "페이지": 81,
+    "회차": 117,
+    "건": 256,
+    "페이지": 82,
     "자사회차": 11,
     "자사페이지": 43
    },
@@ -14057,10 +14188,10 @@
      "그중인용회차": 11
     },
     "일반사이트": {
-     "소스": 62,
+     "소스": 63,
      "인용": 53,
      "그중인용": 31,
-     "소스회차": 36,
+     "소스회차": 37,
      "인용회차": 28,
      "그중인용회차": 24
     },
@@ -14155,7 +14286,7 @@
       "커뮤니티": 1,
       "백과": 2,
       "규제기관": 45,
-      "기타": 2
+      "기타": 3
      },
      "장": {
       "회사 사이트": 52,
@@ -14167,7 +14298,7 @@
       "커뮤니티": 1,
       "백과": 2,
       "규제기관": 5,
-      "기타": 3
+      "기타": 4
      }
     },
     "과업": {
@@ -14183,14 +14314,14 @@
       "등록": 50,
       "기고": 13,
       "협찬": 41,
-      "못 건드림": 89
+      "못 건드림": 90
      },
      "장": {
       "고침": 43,
       "등록": 6,
       "기고": 4,
       "협찬": 7,
-      "못 건드림": 28
+      "못 건드림": 29
      }
     },
     "소속": {
@@ -14202,12 +14333,12 @@
      "소스": {
       "자기": 62,
       "입점": 50,
-      "남": 143
+      "남": 144
      },
      "장": {
       "자기": 43,
       "입점": 6,
-      "남": 39
+      "남": 40
      }
     },
     "남종류": {
@@ -14233,7 +14364,7 @@
       "커뮤니티": 1,
       "백과": 2,
       "규제기관": 45,
-      "기타": 2
+      "기타": 3
      },
      "장": {
       "회사 사이트": 9,
@@ -14245,7 +14376,7 @@
       "커뮤니티": 1,
       "백과": 2,
       "규제기관": 5,
-      "기타": 3
+      "기타": 4
      }
     },
     "페이지": [
@@ -15216,6 +15347,17 @@
       "인용": 0,
       "단독": 0,
       "같이": 0
+     },
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "도메인": "koreahealthlog.com",
+      "매체종류": "기타",
+      "과업": "못 건드림",
+      "소속": "남",
+      "소스": 1,
+      "인용": 0,
+      "단독": 0,
+      "같이": 0
      }
     ]
    },
@@ -15252,7 +15394,7 @@
     "모름": 16,
     "합": 67
    },
-   "근거페이지": 88,
+   "근거페이지": 89,
    "인용페이지목록": [
     {
      "url": "https://glowpick.com/categories/79?ids=233",
@@ -45134,18 +45276,18 @@
    "열어봄": 0,
    "인용회차": 0,
    "이수탑": false,
-   "스캔": "",
+   "스캔": "ok",
    "매체종류": "기타",
    "과업": "못 건드림",
    "소속": "남",
-   "본문길이": 0,
-   "본문해시": "",
+   "설명문": "어릴 때부터 입 속을 청결하게 하기 위해 일어나자마자 ‘윗니아랫니 닦자~’는 노래까지 부를 정도로, 많은 사람들에게 입 속 청결을 위한 노력은 기본적인 위생상태 유지를 위해 필수적인 것으로 여겨집니다.입 속 청결을 위한 노력의 가장 기본이 되는 부분은 칫솔질이고, 부가적으로 치실이나 치간칫솔을 반드시 사용해야 하지만, 뭔가 부족한 느낌이 들기도 합니다. 따라서, 보다 청결한 입 속을 유지하기 위해 구강청정제를 사용하는 사람도 많이 있습니다.하지만, 치약이나 구강청정제의 선택을 정확하게 하고 있는지 한번이라도 궁금하게 여겨보신 적이 있나요? 이번 글에서는 구강청결을 위한 핵심사항인 치약을 선택하는 기준과 요령에 대해 알아보겠습니다.I. 치약을 고르는 방법치약은 어떤 역할을 하는 것일까요? 치약이니까 약으로 생",
+   "색인막힘": "",
+   "대표주소": "https://www.koreahealthlog.com/news/articleView.html?idxno=5458",
+   "본문길이": 9004,
+   "본문해시": "dbf03b3984",
    "진료항목": 0,
    "지역어": 0,
-   "종류": "고정 페이지",
-   "설명문": null,
-   "색인막힘": null,
-   "대표주소": null
+   "종류": "고정 페이지"
   },
   {
    "url": "https://koreasang.co.kr/category/%EB%B6%80%EB%AA%A8%EB%8B%98-%ED%9A%A8%EB%8F%84%EC%84%A0%EB%AC%BC/77/",
@@ -48550,10 +48692,10 @@
        "n": 1
       },
       {
-       "url": "https://everydayallthings.tistory.com/entry/%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B87-2080-%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%A9%94%EB%94%94%EC%95%88-%ED%8E%98%EB%A6%AC%EC%98%A4-%EC%95%94%EC%95%A4%ED%95%B4%EB%A8%B8",
-       "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
-       "매체": "블로그",
-       "종류": "블로그",
+       "url": "https://www.miliminternational.com/ko/%EB%B8%94%EB%A1%9C%EA%B7%B8/eotteon-chi-yag-eul-sseoya-halkkayo",
+       "제목": "어떤 치약을 사용해야 할까요? | 밀림 치과 병원",
+       "매체": "일반사이트",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -48598,17 +48740,17 @@
        "n": 1
       },
       {
-       "url": "https://everydayallthings.tistory.com/entry/%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B87-2080-%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%A9%94%EB%94%94%EC%95%88-%ED%8E%98%EB%A6%AC%EC%98%A4-%EC%95%94%EC%95%A4%ED%95%B4%EB%A8%B8",
-       "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
-       "매체": "블로그",
-       "종류": "블로그",
-       "n": 1
-      },
-      {
        "url": "https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1079914&recmYn=Y",
        "제목": "",
        "매체": "플랫폼",
        "종류": "상품등록페이지",
+       "n": 1
+      },
+      {
+       "url": "https://everydayallthings.tistory.com/entry/%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B87-2080-%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%A9%94%EB%94%94%EC%95%88-%ED%8E%98%EB%A6%AC%EC%98%A4-%EC%95%94%EC%95%A4%ED%95%B4%EB%A8%B8",
+       "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -48663,6 +48805,13 @@
      },
      "페이지": [
       {
+       "url": "https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1044427",
+       "제목": "",
+       "매체": "플랫폼",
+       "종류": "상품등록페이지",
+       "n": 1
+      },
+      {
        "url": "https://topten-blog.com/articles/%EB%B6%88%EC%86%8C-%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-TOP-5",
        "제목": "불소 치약 추천 TOP 5, 고불소 저불소 함량별 비교 | TOPTEN-BLOG",
        "매체": "블로그",
@@ -48674,13 +48823,6 @@
        "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
        "매체": "블로그",
        "종류": "블로그",
-       "n": 1
-      },
-      {
-       "url": "https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1044427",
-       "제목": "",
-       "매체": "플랫폼",
-       "종류": "상품등록페이지",
        "n": 1
       }
      ]
@@ -49038,17 +49180,17 @@
        "n": 3
       },
       {
-       "url": "https://www.scanvas.co.kr/articles/127527226460/",
-       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 3
-      },
-      {
        "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
        "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
+       "url": "https://www.scanvas.co.kr/articles/127527226460/",
+       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 3
       },
       {
@@ -49078,17 +49220,17 @@
        "n": 3
       },
       {
-       "url": "https://www.scanvas.co.kr/articles/127527226460/",
-       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 3
-      },
-      {
        "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
        "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
+       "url": "https://www.scanvas.co.kr/articles/127527226460/",
+       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 3
       },
       {
@@ -49117,13 +49259,6 @@
        "n": 3
       },
       {
-       "url": "https://news.jkn.co.kr/post/990224",
-       "제목": "2026 치약 추천: 가성비 좋은 TOP5, 후회 없는 선택 가이드 : 소비자 : 재경일보",
-       "매체": "언론",
-       "종류": "경제언론",
-       "n": 1
-      },
-      {
        "url": "https://news.jkn.co.kr/post/1002872",
        "제목": "2026년 가성비 치약 추천: 현명한 당신을 위한 TOP 5 선택 : 소비자 : 재경일보",
        "매체": "언론",
@@ -49131,10 +49266,17 @@
        "n": 1
       },
       {
-       "url": "https://www.medicaldaily.co.kr/post/120277",
-       "제목": "2026 어린이 치약 가성비 추천: 현명한 선택 : 라이프 : 의약일보",
+       "url": "https://news.jkn.co.kr/post/1018861",
+       "제목": "2026년 가성비 치약 추천 BEST 5 비교 구매 가이드 : 소비자 : 재경일보",
        "매체": "언론",
-       "종류": "업계지",
+       "종류": "경제언론",
+       "n": 1
+      },
+      {
+       "url": "https://news.jkn.co.kr/post/990224",
+       "제목": "2026 치약 추천: 가성비 좋은 TOP5, 후회 없는 선택 가이드 : 소비자 : 재경일보",
+       "매체": "언론",
+       "종류": "경제언론",
        "n": 1
       }
      ]
@@ -49190,13 +49332,6 @@
      },
      "페이지": [
       {
-       "url": "https://www.scanvas.co.kr/articles/127527226460/",
-       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 3
-      },
-      {
        "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
        "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
        "매체": "플랫폼",
@@ -49204,17 +49339,24 @@
        "n": 3
       },
       {
-       "url": "https://happy-happylife.co.kr/entry/%EC%8B%9C%EB%A6%B0%EC%9D%B4%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%B9%98%EC%95%BD%EA%B3%BC-%EC%84%B1%EB%B6%84-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-40%EB%8C%80-%EC%B2%B4%ED%97%98%EA%B8%B0",
-       "제목": "시린이에 좋은 치약과 성분 알아보기 - 40대 체험기",
-       "매체": "블로그",
-       "종류": "블로그",
-       "n": 1
+       "url": "https://www.scanvas.co.kr/articles/127527226460/",
+       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
+       "매체": "언론",
+       "종류": "잡지",
+       "n": 3
       },
       {
        "url": "https://www.threads.com/@seoultodaydent/post/DGfXJ9CBL-q/%EC%B9%98%EA%B3%BC%EC%9D%98%EC%82%AC%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EC%B9%98%EC%95%BD-%ED%83%913-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EA%B0%9C%EC%84%A0-%EC%B9%98%EC%95%BD-%ED%83%9131%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8-%EC%B9%98%EC%95%BD2%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EC%B9%98%EC%95%BD3%EB%8D%B4%ED%8B%B0%EC%8A%A4%ED%85%8C-%EC%B9%98%EC%95%BD",
        "제목": "치과의사가 추천하는 시린이 치약 탑3 시린이 개선 치약 탑3 1.센소다인 치약 2.콜게이트 치약 3.덴티스테 치약",
        "매체": "일반사이트",
        "종류": "커뮤니티",
+       "n": 1
+      },
+      {
+       "url": "https://happy-happylife.co.kr/entry/%EC%8B%9C%EB%A6%B0%EC%9D%B4%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%B9%98%EC%95%BD%EA%B3%BC-%EC%84%B1%EB%B6%84-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-40%EB%8C%80-%EC%B2%B4%ED%97%98%EA%B8%B0",
+       "제목": "시린이에 좋은 치약과 성분 알아보기 - 40대 체험기",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -49281,17 +49423,17 @@
        "n": 3
       },
       {
-       "url": "https://www.scanvas.co.kr/articles/127527226460/",
-       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 3
-      },
-      {
        "url": "https://www.glowpick.com/stores/21?cate1Id=13&cate2Id=79&cate3Ids=233&monthTerm=24",
        "제목": "올리브영 치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글...",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 3
+      },
+      {
+       "url": "https://www.scanvas.co.kr/articles/127527226460/",
+       "제목": "치약 추천 7가지, 충치·미백·시린 이·구취 고민별로 고르는 법",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 3
       }
      ]
@@ -49363,15 +49505,15 @@
        "n": 1
       },
       {
-       "url": "https://www.colgateprofessional.com/products/prescription-only-products/colgate-prevident-5000-plus-prescription-strength",
-       "제목": "Colgate® PreviDent® 5000 Plus (1.1% Sodium Fluoride), Spearmint | Colgate Prevident",
+       "url": "https://www.colgateprofessional.com/products/prevident",
+       "제목": "Colgate Prevident Dental Products | Colgate® Professional",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.colgateprofessional.com/products/prevident",
-       "제목": "Colgate Prevident Dental Products | Colgate® Professional",
+       "url": "https://www.colgateprofessional.com/products/prescription-only-products/colgate-prevident-5000-plus-prescription-strength",
+       "제목": "Colgate® PreviDent® 5000 Plus (1.1% Sodium Fluoride), Spearmint | Colgate Prevident",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49588,15 +49730,15 @@
      },
      "페이지": [
       {
-       "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
-       "제목": "Prescription strength. Patient friendly",
+       "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
+       "제목": "Prescribing Information",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
-       "제목": "Prescribing Information",
+       "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
+       "제목": "Prescription strength. Patient friendly",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -49914,17 +50056,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.colgate.com/en-us/products/toothpaste/sv-prevent-repair",
-       "제목": "Colgate® Sensitive Enamel Health Toothpaste for Sensitive Teeth, Peppermint | Colgate Sensitive",
-       "매체": "자사홈페이지",
-       "종류": "회사 사이트",
-       "n": 1
-      },
-      {
        "url": "https://www.ada.org/resources/ada-library/oral-health-topics/toothpastes?trk=article-ssr-frontend-pulse_little-text-block",
        "제목": "Toothpastes | American Dental Association",
        "매체": "일반사이트",
        "종류": "규제기관",
+       "n": 1
+      },
+      {
+       "url": "https://www.colgate.com/en-us/products/toothpaste/sv-prevent-repair",
+       "제목": "Colgate® Sensitive Enamel Health Toothpaste for Sensitive Teeth, Peppermint | Colgate Sensitive",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       },
       {
@@ -50131,15 +50273,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
-       "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
+       "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
+       "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
-       "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
+       "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
+       "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50161,15 +50303,15 @@
      },
      "페이지": [
       {
-       "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
-       "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
+       "url": "https://www.hello-products.com/blogs/news/can-adults-use-kids-toothepaste",
+       "제목": "Can Adults Use Kids' Toothpaste? - Hello Products",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.hello-products.com/blogs/news/can-adults-use-kids-toothepaste",
-       "제목": "Can Adults Use Kids' Toothpaste? - Hello Products",
+       "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
+       "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
        "매체": "자사홈페이지",
        "종류": "회사 사이트",
        "n": 1
@@ -50702,6 +50844,13 @@
      },
      "페이지": [
       {
+       "url": "https://girlstyle.com/kr/article/35242/%EB%88%84%EB%A0%81%EB%8B%88-%ED%83%88%EC%B6%9C%ED%95%98%EC%9E%90-%EC%B9%98%EC%95%84-%EB%AF%B8%EB%B0%B1%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%B9%98%EC%95%BD-best-4",
+       "제목": "누렁니 탈출하자! 치아 미백에 좋은 치약 BEST 4",
+       "매체": "언론",
+       "종류": "잡지",
+       "n": 3
+      },
+      {
        "url": "https://woman.chosun.com/news/articleView.html?idxno=124612",
        "제목": "2026 치약 티어",
        "매체": "언론",
@@ -50713,13 +50862,6 @@
        "제목": "오스템 옥치 치아 미백치약 105g 구취케어 잇몸 입냄새 구강청결 치태 ...",
        "매체": "플랫폼",
        "종류": "상품등록페이지",
-       "n": 3
-      },
-      {
-       "url": "https://girlstyle.com/kr/article/35242/%EB%88%84%EB%A0%81%EB%8B%88-%ED%83%88%EC%B6%9C%ED%95%98%EC%9E%90-%EC%B9%98%EC%95%84-%EB%AF%B8%EB%B0%B1%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%B9%98%EC%95%BD-best-4",
-       "제목": "누렁니 탈출하자! 치아 미백에 좋은 치약 BEST 4",
-       "매체": "언론",
-       "종류": "잡지",
        "n": 3
       },
       {
@@ -50764,10 +50906,10 @@
        "n": 1
       },
       {
-       "url": "https://westboroughdentalcare.com/4-dentist-recommended-whitening-teeth-toothpastes-for-you/",
-       "제목": "4 Dentist-Recommended Whitening Teeth Toothpastes for You – Westborough Dental Care",
+       "url": "https://www.cnn.com/cnn-underscored/health-fitness/best-whitening-toothpaste",
+       "제목": "The 13 best whitening toothpastes to brighten any smile, recommended by dentists",
        "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "종류": "기타",
        "n": 1
       }
      ]
@@ -50845,10 +50987,10 @@
        "n": 2
       },
       {
-       "url": "https://adanews.ada.org/ada-news/2025/october/ada-seal-products-on-display-at-smilecon/",
-       "제목": "ADA Seal products on display at SmileCon | American Dental Association",
-       "매체": "언론",
-       "종류": "경제언론",
+       "url": "https://www.colgatepalmolive.com/en-us/news/how-optic-white-learned-to-add-shine",
+       "제목": "How Optic White Pro Series Removes Stains and Adds Shine | Colgate-Palmolive",
+       "매체": "자사홈페이지",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -50878,15 +51020,15 @@
        "n": 1
       },
       {
-       "url": "https://enameldentistry.com/What-Is-the-Best-Toothpaste-for-Whitening-teeth-in-2025/",
-       "제목": "The Best Whitening Toothpaste in 2026?",
+       "url": "https://www.cnn.com/cnn-underscored/health-fitness/best-whitening-toothpaste",
+       "제목": "The 13 best whitening toothpastes to brighten any smile, recommended by dentists",
        "매체": "일반사이트",
-       "종류": "회사 사이트",
+       "종류": "기타",
        "n": 1
       },
       {
-       "url": "https://westboroughdentalcare.com/4-dentist-recommended-whitening-teeth-toothpastes-for-you/",
-       "제목": "4 Dentist-Recommended Whitening Teeth Toothpastes for You – Westborough Dental Care",
+       "url": "https://enameldentistry.com/What-Is-the-Best-Toothpaste-for-Whitening-teeth-in-2025/",
+       "제목": "The Best Whitening Toothpaste in 2026?",
        "매체": "일반사이트",
        "종류": "회사 사이트",
        "n": 1
@@ -51244,17 +51386,17 @@
        "n": 2
       },
       {
-       "url": "https://dentalhealth.com/blogs/news/dry-mouth-toothpaste",
-       "제목": "Dry Mouth Toothpaste: What It Does and How to Choose One\n– DentalHealth.com",
+       "url": "https://mydentaladvocate.com/product-reviews/top-6-best-dry-mouth-products/",
+       "제목": "Best Dry Mouth Products in 2026: A Dentist's Honest Recommendations",
        "매체": "일반사이트",
        "종류": "회사 사이트",
        "n": 1
       },
       {
-       "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-       "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+       "url": "https://dentalhealth.com/blogs/news/dry-mouth-toothpaste",
+       "제목": "Dry Mouth Toothpaste: What It Does and How to Choose One\n– DentalHealth.com",
        "매체": "일반사이트",
-       "종류": "기타",
+       "종류": "회사 사이트",
        "n": 1
       }
      ]
@@ -51441,13 +51583,6 @@
        "n": 3
       },
       {
-       "url": "https://thefiltery.com/best-non-toxic-natural-toothpaste/",
-       "제목": "We Tested 15 \"Non-Toxic\" Toothpastes So You Don't Have To. - The Filtery",
-       "매체": "일반사이트",
-       "종류": "기타",
-       "n": 2
-      },
-      {
        "url": "https://www.healthline.com/health/best-charcoal-toothpastes",
        "제목": "best charcoal toothpastes",
        "매체": "언론",
@@ -51455,8 +51590,15 @@
        "n": 2
       },
       {
-       "url": "https://revitin.com/blogs/natural-oral-care/best-natural-toothpaste",
-       "제목": "Revitin |\n      Best Natural Toothpaste of 2026, Ranked by a Dentist",
+       "url": "https://thefiltery.com/best-non-toxic-natural-toothpaste/",
+       "제목": "We Tested 15 \"Non-Toxic\" Toothpastes So You Don't Have To. - The Filtery",
+       "매체": "일반사이트",
+       "종류": "기타",
+       "n": 2
+      },
+      {
+       "url": "https://htbotanicals.com/blogs/the-root/best-natural-toothpaste-2026-a-complete-buyers-guide",
+       "제목": "Best Natural Toothpaste 2026: Fluoride-Free Top Picks",
        "매체": "일반사이트",
        "종류": "회사 사이트",
        "n": 1
@@ -51686,17 +51828,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.elle.co.kr/article/1907697",
-       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 2
-      },
-      {
        "url": "https://www.glowpick.com/categories/79?ids=233&monthTerm=24",
        "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 2
+      },
+      {
+       "url": "https://www.elle.co.kr/article/1907697",
+       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 2
       },
       {
@@ -51726,17 +51868,17 @@
      },
      "페이지": [
       {
-       "url": "https://www.elle.co.kr/article/1907697",
-       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
-       "매체": "언론",
-       "종류": "잡지",
-       "n": 2
-      },
-      {
        "url": "https://www.glowpick.com/categories/79?ids=233&monthTerm=24",
        "제목": "치약 추천 제품 TOP20 ㅣ 소비자가 직접 뽑는 뷰티 랭킹, 글로우픽",
        "매체": "플랫폼",
        "종류": "쇼핑검색",
+       "n": 2
+      },
+      {
+       "url": "https://www.elle.co.kr/article/1907697",
+       "제목": "매일 마시는 아이스커피, 치아 착색 걱정된다면",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 2
       },
       {
@@ -51823,10 +51965,10 @@
      },
      "페이지": [
       {
-       "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
-       "제목": "",
-       "매체": "블로그",
-       "종류": "블로그",
+       "url": "https://www.harpersbazaar.co.kr/article/1891330",
+       "제목": "요즘 커뮤니티 화제인 ‘치약 티어’, 미백부터 충치 예방까지 TOP 5 리스트 | 하퍼스 바자 코리아",
+       "매체": "언론",
+       "종류": "잡지",
        "n": 1
       },
       {
@@ -51837,10 +51979,10 @@
        "n": 1
       },
       {
-       "url": "https://www.harpersbazaar.co.kr/article/1891330",
-       "제목": "요즘 커뮤니티 화제인 ‘치약 티어’, 미백부터 충치 예방까지 TOP 5 리스트 | 하퍼스 바자 코리아",
-       "매체": "언론",
-       "종류": "잡지",
+       "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
+       "제목": "",
+       "매체": "블로그",
+       "종류": "블로그",
        "n": 1
       }
      ]
@@ -52008,6 +52150,26 @@
    "우리것": false
   },
   {
+   "url": "https://www.miliminternational.com/ko/%EB%B8%94%EB%A1%9C%EA%B7%B8/eotteon-chi-yag-eul-sseoya-halkkayo",
+   "제목": "어떤 치약을 사용해야 할까요? | 밀림 치과 병원",
+   "매체": "일반사이트",
+   "병원": "콜게이트",
+   "문항": [
+    "임플란트 후 좋은 치약 추천해줘",
+    "충치 예방에 좋은 치약 추천해줘",
+    "치과에서 추천하는 치약 알려줘"
+   ],
+   "각주": 13,
+   "문항수": 3,
+   "종류": "고정 페이지",
+   "소스": 3,
+   "인용": 7,
+   "매체종류": "회사 사이트",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
    "url": "https://blog.naver.com/125_suu/224409334808",
    "제목": "고불소치약 추천, 입냄새 구취고민이라면 안전하고 성분좋은 센토 : ...",
    "매체": "블로그",
@@ -52044,25 +52206,6 @@
    "인용": 11,
    "매체종류": "경제언론",
    "과업": "기고",
-   "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "https://www.miliminternational.com/ko/%EB%B8%94%EB%A1%9C%EA%B7%B8/eotteon-chi-yag-eul-sseoya-halkkayo",
-   "제목": "어떤 치약을 사용해야 할까요? | 밀림 치과 병원",
-   "매체": "일반사이트",
-   "병원": "파로돈탁스",
-   "문항": [
-    "임플란트 후 좋은 치약 추천해줘",
-    "치과에서 추천하는 치약 알려줘"
-   ],
-   "각주": 12,
-   "문항수": 2,
-   "종류": "고정 페이지",
-   "소스": 3,
-   "인용": 7,
-   "매체종류": "회사 사이트",
-   "과업": "못 건드림",
    "소속": "남",
    "우리것": false
   },
@@ -52490,6 +52633,24 @@
    "우리것": false
   },
   {
+   "url": "https://news.jkn.co.kr/post/1018861",
+   "제목": "2026년 가성비 치약 추천 BEST 5 비교 구매 가이드 : 소비자 : 재경일보",
+   "매체": "언론",
+   "병원": "페리오",
+   "문항": [
+    "치약 추천해줘"
+   ],
+   "각주": 4,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 2,
+   "인용": 5,
+   "매체종류": "경제언론",
+   "과업": "기고",
+   "소속": "남",
+   "우리것": false
+  },
+  {
    "url": "https://search.danawa.com/?query=%EA%B3%A0%EB%B6%88%EC%86%8C%20%EC%B9%98%EC%95%BD",
    "제목": "고불소 치약 : 다나와 통합검색",
    "매체": "플랫폼",
@@ -52634,24 +52795,6 @@
    "우리것": false
   },
   {
-   "url": "https://everydayallthings.tistory.com/entry/%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B87-2080-%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%A9%94%EB%94%94%EC%95%88-%ED%8E%98%EB%A6%AC%EC%98%A4-%EC%95%94%EC%95%A4%ED%95%B4%EB%A8%B8",
-   "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
-   "매체": "블로그",
-   "병원": "콜게이트",
-   "문항": [
-    "충치 예방에 좋은 치약 추천해줘"
-   ],
-   "각주": 3,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 0,
-   "인용": 1,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://www.harpersbazaar.co.kr/article/1902559",
    "제목": "매일 쓰는데 의외로 아무 치약이나 고르고 있다고? | 하퍼스 바자 코리아",
    "매체": "언론",
@@ -52701,24 +52844,6 @@
    "소스": 2,
    "인용": 1,
    "매체종류": "업계지",
-   "과업": "기고",
-   "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "https://news.jkn.co.kr/post/1018861",
-   "제목": "2026년 가성비 치약 추천 BEST 5 비교 구매 가이드 : 소비자 : 재경일보",
-   "매체": "언론",
-   "병원": "메디안",
-   "문항": [
-    "치약 추천해줘"
-   ],
-   "각주": 3,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 5,
-   "매체종류": "경제언론",
    "과업": "기고",
    "소속": "남",
    "우리것": false
@@ -52796,24 +52921,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.11st.co.kr/products/8978298708",
-   "제목": "오스템 옥치 치아 미백치약 105g 구취케어 잇몸 입냄새 구강청결 치태 ...",
-   "매체": "플랫폼",
-   "병원": "오스템(뷰센)",
-   "문항": [
-    "치아 미백에 좋은 치약 추천해줘"
-   ],
-   "각주": 3,
-   "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 3,
-   "인용": 3,
-   "매체종류": "상품등록페이지",
-   "과업": "등록",
-   "소속": "입점",
-   "우리것": false
-  },
-  {
    "url": "https://girlstyle.com/kr/article/35242/%EB%88%84%EB%A0%81%EB%8B%88-%ED%83%88%EC%B6%9C%ED%95%98%EC%9E%90-%EC%B9%98%EC%95%84-%EB%AF%B8%EB%B0%B1%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%B9%98%EC%95%BD-best-4",
    "제목": "누렁니 탈출하자! 치아 미백에 좋은 치약 BEST 4",
    "매체": "언론",
@@ -52829,6 +52936,24 @@
    "매체종류": "잡지",
    "과업": "협찬",
    "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://www.11st.co.kr/products/8978298708",
+   "제목": "오스템 옥치 치아 미백치약 105g 구취케어 잇몸 입냄새 구강청결 치태 ...",
+   "매체": "플랫폼",
+   "병원": "오스템(뷰센)",
+   "문항": [
+    "치아 미백에 좋은 치약 추천해줘"
+   ],
+   "각주": 3,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 3,
+   "인용": 3,
+   "매체종류": "상품등록페이지",
+   "과업": "등록",
+   "소속": "입점",
    "우리것": false
   },
   {
@@ -52850,9 +52975,9 @@
    "우리것": false
   },
   {
-   "url": "https://adanews.ada.org/ada-news/2025/october/ada-seal-products-on-display-at-smilecon/",
-   "제목": "ADA Seal products on display at SmileCon | American Dental Association",
-   "매체": "언론",
+   "url": "https://www.cnn.com/cnn-underscored/health-fitness/best-whitening-toothpaste",
+   "제목": "The 13 best whitening toothpastes to brighten any smile, recommended by dentists",
+   "매체": "일반사이트",
    "병원": "센소다인",
    "문항": [
     "치아 미백에 좋은 치약 추천해줘"
@@ -52860,10 +52985,10 @@
    "각주": 3,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 7,
-   "인용": 1,
-   "매체종류": "경제언론",
-   "과업": "기고",
+   "소스": 1,
+   "인용": 2,
+   "매체종류": "기타",
+   "과업": "못 건드림",
    "소속": "남",
    "우리것": false
   },
@@ -52886,8 +53011,8 @@
    "우리것": false
   },
   {
-   "url": "https://www.dentalroundup.com/best/best-toothpaste/",
-   "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
+   "url": "https://mydentaladvocate.com/product-reviews/top-6-best-dry-mouth-products/",
+   "제목": "Best Dry Mouth Products in 2026: A Dentist's Honest Recommendations",
    "매체": "일반사이트",
    "병원": "바이오텐",
    "문항": [
@@ -52895,10 +53020,10 @@
    ],
    "각주": 3,
    "문항수": 1,
-   "종류": "고정 페이지",
+   "종류": "글·게시판",
    "소스": 1,
    "인용": 1,
-   "매체종류": "기타",
+   "매체종류": "회사 사이트",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -52969,6 +53094,24 @@
    "문항수": 1,
    "종류": "글·게시판",
    "소스": 3,
+   "인용": 1,
+   "매체종류": "블로그",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://everydayallthings.tistory.com/entry/%EC%B9%98%EC%95%BD-%EC%B6%94%EC%B2%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B87-2080-%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%A9%94%EB%94%94%EC%95%88-%ED%8E%98%EB%A6%AC%EC%98%A4-%EC%95%94%EC%95%A4%ED%95%B4%EB%A8%B8",
+   "제목": "치약 추천 베스트7 / 2080 콜게이트 메디안 페리오 암앤해머",
+   "매체": "블로그",
+   "병원": "메디안",
+   "문항": [
+    "충치 예방에 좋은 치약 추천해줘"
+   ],
+   "각주": 2,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 0,
    "인용": 1,
    "매체종류": "블로그",
    "과업": "못 건드림",
@@ -53246,9 +53389,9 @@
    "우리것": false
   },
   {
-   "url": "https://westboroughdentalcare.com/4-dentist-recommended-whitening-teeth-toothpastes-for-you/",
-   "제목": "4 Dentist-Recommended Whitening Teeth Toothpastes for You – Westborough Dental Care",
-   "매체": "일반사이트",
+   "url": "https://adanews.ada.org/ada-news/2025/october/ada-seal-products-on-display-at-smilecon/",
+   "제목": "ADA Seal products on display at SmileCon | American Dental Association",
+   "매체": "언론",
    "병원": "센소다인",
    "문항": [
     "치아 미백에 좋은 치약 추천해줘"
@@ -53256,10 +53399,10 @@
    "각주": 2,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
+   "소스": 7,
    "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "못 건드림",
+   "매체종류": "경제언론",
+   "과업": "기고",
    "소속": "남",
    "우리것": false
   },
@@ -53318,8 +53461,8 @@
    "우리것": false
   },
   {
-   "url": "https://mydentaladvocate.com/product-reviews/top-6-best-dry-mouth-products/",
-   "제목": "Best Dry Mouth Products in 2026: A Dentist's Honest Recommendations",
+   "url": "https://www.dentalroundup.com/best/best-toothpaste/",
+   "제목": "Best Toothpaste of 2026: Top Picks for Every Need",
    "매체": "일반사이트",
    "병원": "바이오텐",
    "문항": [
@@ -53327,10 +53470,10 @@
    ],
    "각주": 2,
    "문항수": 1,
-   "종류": "글·게시판",
+   "종류": "고정 페이지",
    "소스": 1,
    "인용": 1,
-   "매체종류": "회사 사이트",
+   "매체종류": "기타",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -53372,20 +53515,20 @@
    "우리것": false
   },
   {
-   "url": "https://revitin.com/blogs/natural-oral-care/best-natural-toothpaste",
-   "제목": "Revitin |\n      Best Natural Toothpaste of 2026, Ranked by a Dentist",
-   "매체": "일반사이트",
-   "병원": "벨레다",
+   "url": "https://www.healthline.com/health/best-charcoal-toothpastes",
+   "제목": "best charcoal toothpastes",
+   "매체": "언론",
+   "병원": "닥터브로너스",
    "문항": [
     "천연 성분 치약 추천해줘"
    ],
    "각주": 2,
    "문항수": 1,
-   "종류": "글·게시판",
+   "종류": "고정 페이지",
    "소스": 2,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "못 건드림",
+   "인용": 2,
+   "매체종류": "잡지",
+   "과업": "협찬",
    "소속": "남",
    "우리것": false
   },
@@ -53404,24 +53547,6 @@
    "인용": 2,
    "매체종류": "기타",
    "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
-   "url": "https://www.healthline.com/health/best-charcoal-toothpastes",
-   "제목": "best charcoal toothpastes",
-   "매체": "언론",
-   "병원": "닥터브로너스",
-   "문항": [
-    "천연 성분 치약 추천해줘"
-   ],
-   "각주": 2,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
-   "인용": 2,
-   "매체종류": "잡지",
-   "과업": "협찬",
    "소속": "남",
    "우리것": false
   },
@@ -53678,20 +53803,20 @@
    "우리것": false
   },
   {
-   "url": "https://www.medicaldaily.co.kr/post/120277",
-   "제목": "2026 어린이 치약 가성비 추천: 현명한 선택 : 라이프 : 의약일보",
-   "매체": "언론",
-   "병원": "페리오",
+   "url": "https://www.threads.com/@seoultodaydent/post/DGfXJ9CBL-q/%EC%B9%98%EA%B3%BC%EC%9D%98%EC%82%AC%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EC%B9%98%EC%95%BD-%ED%83%913-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EA%B0%9C%EC%84%A0-%EC%B9%98%EC%95%BD-%ED%83%9131%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8-%EC%B9%98%EC%95%BD2%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EC%B9%98%EC%95%BD3%EB%8D%B4%ED%8B%B0%EC%8A%A4%ED%85%8C-%EC%B9%98%EC%95%BD",
+   "제목": "치과의사가 추천하는 시린이 치약 탑3 시린이 개선 치약 탑3 1.센소다인 치약 2.콜게이트 치약 3.덴티스테 치약",
+   "매체": "일반사이트",
+   "병원": "덴티스테",
    "문항": [
     "치약 추천해줘"
    ],
    "각주": 1,
    "문항수": 1,
-   "종류": "글·게시판",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "업계지",
-   "과업": "기고",
+   "종류": "고정 페이지",
+   "소스": 1,
+   "인용": 6,
+   "매체종류": "커뮤니티",
+   "과업": "못 건드림",
    "소속": "남",
    "우리것": false
   },
@@ -53714,26 +53839,26 @@
    "우리것": false
   },
   {
-   "url": "https://www.threads.com/@seoultodaydent/post/DGfXJ9CBL-q/%EC%B9%98%EA%B3%BC%EC%9D%98%EC%82%AC%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EC%B9%98%EC%95%BD-%ED%83%913-%EC%8B%9C%EB%A6%B0%EC%9D%B4-%EA%B0%9C%EC%84%A0-%EC%B9%98%EC%95%BD-%ED%83%9131%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8-%EC%B9%98%EC%95%BD2%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EC%B9%98%EC%95%BD3%EB%8D%B4%ED%8B%B0%EC%8A%A4%ED%85%8C-%EC%B9%98%EC%95%BD",
-   "제목": "치과의사가 추천하는 시린이 치약 탑3 시린이 개선 치약 탑3 1.센소다인 치약 2.콜게이트 치약 3.덴티스테 치약",
-   "매체": "일반사이트",
-   "병원": "덴티스테",
+   "url": "https://www.colgate.com/en-us/products/prescription-only-products/colgate-prevident-5000-enamel-protect-prescription-strength",
+   "제목": "Colgate® PreviDent® 5000 ppm Enamel Protect (1.1% Sodium Fluoride, 5% Potassium Nitrate), Mint | Colgate Prevident",
+   "매체": "자사홈페이지",
+   "병원": "콜게이트",
    "문항": [
-    "치약 추천해줘"
+    "고불소 치약 추천해줘"
    ],
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 6,
-   "매체종류": "커뮤니티",
-   "과업": "못 건드림",
-   "소속": "남",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
    "우리것": false
   },
   {
-   "url": "https://www.colgate.com/en-us/products/prescription-only-products/colgate-prevident-5000-enamel-protect-prescription-strength",
-   "제목": "Colgate® PreviDent® 5000 ppm Enamel Protect (1.1% Sodium Fluoride, 5% Potassium Nitrate), Mint | Colgate Prevident",
+   "url": "https://www.colgateprofessional.com/products/prevident",
+   "제목": "Colgate Prevident Dental Products | Colgate® Professional",
    "매체": "자사홈페이지",
    "병원": "콜게이트",
    "문항": [
@@ -53762,24 +53887,6 @@
    "종류": "고정 페이지",
    "소스": 2,
    "인용": 2,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
-   "url": "https://www.colgateprofessional.com/products/prevident",
-   "제목": "Colgate Prevident Dental Products | Colgate® Professional",
-   "매체": "자사홈페이지",
-   "병원": "콜게이트",
-   "문항": [
-    "고불소 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
-   "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
    "소속": "자기",
@@ -53822,8 +53929,8 @@
    "우리것": false
   },
   {
-   "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
-   "제목": "Prescription strength. Patient friendly",
+   "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
+   "제목": "Prescribing Information",
    "매체": "자사홈페이지",
    "병원": "클린프로(3M)",
    "문항": [
@@ -53840,8 +53947,8 @@
    "우리것": false
   },
   {
-   "url": "https://multimedia.3m.com/mws/media/292495O/product-catalog-13-index.pdf",
-   "제목": "Prescribing Information",
+   "url": "https://multimedia.3m.com/mws/media/1683234O/3m-clinpro-5000-anti-cavity-toothpaste-sell-sheet.pdf",
+   "제목": "Prescription strength. Patient friendly",
    "매체": "자사홈페이지",
    "병원": "클린프로(3M)",
    "문항": [
@@ -54056,24 +54163,6 @@
    "우리것": false
   },
   {
-   "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
-   "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
-   "매체": "자사홈페이지",
-   "병원": "콜게이트",
-   "문항": [
-    "안 매운 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 2,
-   "인용": 1,
-   "매체종류": "회사 사이트",
-   "과업": "고침",
-   "소속": "자기",
-   "우리것": false
-  },
-  {
    "url": "https://www.colgate.com/en-us/products/toothpaste/kd-cavity-protection",
    "제목": "Colgate® Kids Toothpaste with Fluoride, Anticavity & Cavity Protection, For Ages 2+, Mild Bubble Fruit Flavor | Colgate Kids",
    "매체": "자사홈페이지",
@@ -54092,10 +54181,10 @@
    "우리것": false
   },
   {
-   "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
-   "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
+   "url": "https://www.colgate.com/en-us/oral-health/tooth-sensitivity/should-you-avoid-mint-free-toothpaste-with-sensitive-teeth",
+   "제목": "Non-Mint Toothpaste And Sensitive Teeth | Colgate",
    "매체": "자사홈페이지",
-   "병원": "hello",
+   "병원": "콜게이트",
    "문항": [
     "안 매운 치약 추천해줘"
    ],
@@ -54121,6 +54210,24 @@
    "문항수": 1,
    "종류": "글·게시판",
    "소스": 3,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
+   "우리것": false
+  },
+  {
+   "url": "https://www.hello-products.com/products/kids-unicorn-sparkle-fluoride-toothpaste",
+   "제목": "Kids Unicorn Sparkle Fluoride Toothpaste | hello products",
+   "매체": "자사홈페이지",
+   "병원": "hello",
+   "문항": [
+    "안 매운 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 2,
    "인용": 1,
    "매체종류": "회사 사이트",
    "과업": "고침",
@@ -54272,21 +54379,21 @@
    "우리것": false
   },
   {
-   "url": "https://www.cnn.com/cnn-underscored/health-fitness/best-whitening-toothpaste",
-   "제목": "The 13 best whitening toothpastes to brighten any smile, recommended by dentists",
-   "매체": "일반사이트",
-   "병원": "유시몰",
+   "url": "https://www.colgatepalmolive.com/en-us/news/how-optic-white-learned-to-add-shine",
+   "제목": "How Optic White Pro Series Removes Stains and Adds Shine | Colgate-Palmolive",
+   "매체": "자사홈페이지",
+   "병원": "콜게이트",
    "문항": [
     "치아 미백에 좋은 치약 추천해줘"
    ],
    "각주": 1,
    "문항수": 1,
    "종류": "고정 페이지",
-   "소스": 1,
-   "인용": 2,
-   "매체종류": "기타",
-   "과업": "못 건드림",
-   "소속": "남",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "고침",
+   "소속": "자기",
    "우리것": false
   },
   {
@@ -54344,6 +54451,24 @@
    "우리것": false
   },
   {
+   "url": "https://revitin.com/blogs/natural-oral-care/best-natural-toothpaste",
+   "제목": "Revitin |\n      Best Natural Toothpaste of 2026, Ranked by a Dentist",
+   "매체": "일반사이트",
+   "병원": "벨레다",
+   "문항": [
+    "천연 성분 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
    "url": "https://www.greenorganic.co.kr/shop/list.php?ca_id=2070",
    "제목": "유기농 치약 리스트 > 그린오가닉",
    "매체": "일반사이트",
@@ -54357,6 +54482,24 @@
    "소스": 0,
    "인용": 1,
    "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://htbotanicals.com/blogs/the-root/best-natural-toothpaste-2026-a-complete-buyers-guide",
+   "제목": "Best Natural Toothpaste 2026: Fluoride-Free Top Picks",
+   "매체": "일반사이트",
+   "병원": "닥터브로너스",
+   "문항": [
+    "천연 성분 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "글·게시판",
+   "소스": 2,
+   "인용": 1,
+   "매체종류": "회사 사이트",
    "과업": "못 건드림",
    "소속": "남",
    "우리것": false
@@ -54416,24 +54559,6 @@
    "우리것": false
   },
   {
-   "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
-   "제목": "",
-   "매체": "블로그",
-   "병원": "오스템(뷰센)",
-   "문항": [
-    "커피 착색에 좋은 치약 추천해줘"
-   ],
-   "각주": 1,
-   "문항수": 1,
-   "종류": "고정 페이지",
-   "소스": 0,
-   "인용": 2,
-   "매체종류": "블로그",
-   "과업": "못 건드림",
-   "소속": "남",
-   "우리것": false
-  },
-  {
    "url": "https://lt3-storyofsonehenge.tistory.com/2",
    "제목": "미백 치약 추천 TOP 5",
    "매체": "블로그",
@@ -54446,6 +54571,24 @@
    "종류": "고정 페이지",
    "소스": 0,
    "인용": 1,
+   "매체종류": "블로그",
+   "과업": "못 건드림",
+   "소속": "남",
+   "우리것": false
+  },
+  {
+   "url": "https://choisense.com/post/%EB%AF%B8%EB%B0%B1-%EC%B9%98%EC%95%BD",
+   "제목": "",
+   "매체": "블로그",
+   "병원": "오스템(뷰센)",
+   "문항": [
+    "커피 착색에 좋은 치약 추천해줘"
+   ],
+   "각주": 1,
+   "문항수": 1,
+   "종류": "고정 페이지",
+   "소스": 0,
+   "인용": 2,
    "매체종류": "블로그",
    "과업": "못 건드림",
    "소속": "남",
@@ -55463,6 +55606,91 @@
    "업체수": 10,
    "우리있나": false,
    "남단독합": 2
+  },
+  {
+   "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+   "도메인": "koreahealthlog.com",
+   "매체종류": "기타",
+   "과업": "못 건드림",
+   "소속": "남",
+   "제목": "시판되는 치약 완전 분석, 어떤 치약을 고를까? < News < 기사본문 - 코리아헬스로그",
+   "업체": [
+    {
+     "name": "2080(애경)",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "LG생활건강",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "메디안",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "센소다인",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "시린메드(부광)",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "죽염",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "콜게이트",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "클라이덴",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    },
+    {
+     "name": "페리오",
+     "우리": false,
+     "단독": 0,
+     "같이": 0,
+     "인용": 0,
+     "소스": 1
+    }
+   ],
+   "업체수": 9,
+   "우리있나": false,
+   "남단독합": 0
   },
   {
    "url": "https://esocialtimes.com/news/articleView.html?idxno=30545",
@@ -60599,6 +60827,23 @@
       "url": "https://alivingtime.com/구취제거치약추천",
       "제목": "상쾌한 구취제거 치약 추천 TOP 8! 입냄새 걱정 끝!",
       "업체수": 6,
+      "소속": "남",
+      "우리있나": false
+     }
+    ],
+    "업체수": 9
+   },
+   {
+    "과업": "못 건드림",
+    "매체종류": "기타",
+    "도메인": "koreahealthlog.com",
+    "장": 1,
+    "우리있나": false,
+    "쪽": [
+     {
+      "url": "https://koreahealthlog.com/news/articleView.html?idxno=5458",
+      "제목": "시판되는 치약 완전 분석, 어떤 치약을 고를까? < News < 기사본문 - 코리아헬스로그",
+      "업체수": 9,
       "소속": "남",
       "우리있나": false
      }
